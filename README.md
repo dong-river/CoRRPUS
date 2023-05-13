@@ -8,12 +8,14 @@ Yijiang River Dong, Lara J. Martin, and Chris Callison-Burch. Findings of ACL 20
 ### Experiments on bAbI
 
 To reproduce our experiments on bAbI. You should run the following command where -t controls the model (world tracker) used.
-Other world trackers include GPT3, Codex_raw, Codex_comment, Codex_command, Codex_symbolic, GPT_comment, GPT_command, GPT_symbolic.
 ```
 python babi_experiment_new.py --track -t Codex_comment
 ```
+Other world trackers include GPT3, Codex_raw, Codex_comment, Codex_command, Codex_symbolic, GPT_comment, GPT_command, GPT_symbolic. You can also pass in "all" to 
+run all the experiments
+```
+python babi_experiment_new.py --track -t all
+```
 Then it will output the accuracy to `babi_all_results.txt`.
-
-Or alternatively, you can run our slurm file `babi_experiment.slurm` to conduct all the experiments.
 
 ### Experiments on Re^3
