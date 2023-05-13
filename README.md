@@ -29,9 +29,9 @@ python babi_experiment.py --track --check -t all
 ```
 Then the code will be generated in `./babi/codex/Codex_comment_task_2` and the result after executing the code is shown in `./babi/codex/results_task_2.json`. The final accuracy will in shown in `babi_all_results.txt`.
 
-### Experiments on `Re^3`
+### Experiments on $Re^3$
 
-Similarly, to reproduce our experiments on `Re^3`, you should run the following command where -t controls the model (world tracker) used.
+Similarly, to reproduce our experiments on $Re^3$, you should run the following command where -t controls the model (world tracker) used.
 
 ```
 python re3_experiments.py --track --check -t Codex_comment
