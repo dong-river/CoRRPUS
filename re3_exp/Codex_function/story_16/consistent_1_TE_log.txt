@@ -1,0 +1,68 @@
+premise: Jennifer Ann Smith has shoulder length brown hair.
+ hypo:Jennifer Ann Smith has tired, shoulder length brown hair, with some gray at the temples.
+ contradition: 0.0003501851945485594
+
+premise: Jennifer Ann Smith has shoulder length brown hair.
+ hypo:Clara Smith is the mother of Jennifer Ann Smith.
+ contradition: 0.014348927665940052
+
+premise: Jennifer Ann Smith has shoulder length brown hair.
+ hypo:Robert Smith is the boyfriend of Jennifer Ann Smith.
+ contradition: 0.17216899176377307
+
+premise: Jennifer Ann Smith is a female.
+ hypo:Jennifer Ann Smith has tired, shoulder length brown hair, with some gray at the temples.
+ contradition: 0.0007814403501228256
+
+premise: Jennifer Ann Smith is a female.
+ hypo:Clara Smith is the mother of Jennifer Ann Smith.
+ contradition: 0.007271547395910943
+
+premise: Jennifer Ann Smith is a female.
+ hypo:Robert Smith is the boyfriend of Jennifer Ann Smith.
+ contradition: 0.057771444678814336
+
+premise: Clara Smith is the mother of Jennifer Ann Smith.
+ hypo:Jennifer Ann Smith has tired, shoulder length brown hair, with some gray at the temples.
+ contradition: 0.0038617202569982217
+
+premise: Clara Smith is the mother of Jennifer Ann Smith.
+ hypo:Clara Smith is the mother of Jennifer Ann Smith.
+ contradition: 0.00045514639077661346
+
+premise: Robert Smith is the father of Jennifer Ann Smith.
+ hypo:Jennifer Ann Smith has tired, shoulder length brown hair, with some gray at the temples.
+ contradition: 0.0052145879601814766
+
+premise: Robert Smith is the father of Jennifer Ann Smith.
+ hypo:Robert Smith is the boyfriend of Jennifer Ann Smith.
+ contradition: 0.9995643606924682
+
+premise: Clara Smith is heavyset and has graying hair.
+ hypo:Jennifer Ann Smith is the daughter of Clara Smith.
+ contradition: 0.05375945852858292
+
+premise: Clara Smith is a female.
+ hypo:Jennifer Ann Smith is the daughter of Clara Smith.
+ contradition: 0.003639778944187637
+
+premise: Jennifer Ann Smith is the daughter of Clara Smith.
+ hypo:Jennifer Ann Smith is the daughter of Clara Smith.
+ contradition: 0.0007673413487128699
+
+premise: Robert Smith is tall, has a mustache, and has thinning gray hair.
+ hypo:Jennifer Ann Smith is the girlfriend of Robert Smith.
+ contradition: 0.39796878279599607
+
+premise: Robert Smith is male.
+ hypo:Jennifer Ann Smith is the girlfriend of Robert Smith.
+ contradition: 0.03357755990845392
+
+premise: Jennifer Ann Smith is the daughter of Robert Smith.
+ hypo:Jennifer Ann Smith is the girlfriend of Robert Smith.
+ contradition: 0.9992071720354644
+
+
+MAX_PROB is 0.9995643606924682
+CONTRADICTORY_PREMISE: Robert Smith is the father of Jennifer Ann Smith.
+ CONTRADICTORY_HYPO: Robert Smith is the boyfriend of Jennifer Ann Smith.

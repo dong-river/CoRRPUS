@@ -1,0 +1,96 @@
+premise: Landon Shaw is a mechanic.
+ hypo:Landon Shaw is handsome.
+ contradition: 0.001187037292512198
+
+premise: Landon Shaw is a mechanic.
+ hypo:Landon Shaw is a mechanic.
+ contradition: 0.0005367064088618014
+
+premise: Landon Shaw is a mechanic.
+ hypo:Maggie Shaw is the sister of Landon Shaw.
+ contradition: 0.037096775907349736
+
+premise: Landon Shaw is male.
+ hypo:Landon Shaw is handsome.
+ contradition: 0.0001606278062888062
+
+premise: Landon Shaw is male.
+ hypo:Landon Shaw is a mechanic.
+ contradition: 0.000280836421030973
+
+premise: Landon Shaw is male.
+ hypo:Maggie Shaw is the sister of Landon Shaw.
+ contradition: 0.12334360208699217
+
+premise: Landon Shaw is 27 years old.
+ hypo:Landon Shaw is handsome.
+ contradition: 0.0002573268679085722
+
+premise: Landon Shaw is 27 years old.
+ hypo:Landon Shaw is a mechanic.
+ contradition: 0.00046460384294176577
+
+premise: Landon Shaw is 27 years old.
+ hypo:Maggie Shaw is the sister of Landon Shaw.
+ contradition: 0.03202936097742765
+
+premise: Payton Parskin is the girlfriend of Landon Shaw.
+ hypo:Landon Shaw is handsome.
+ contradition: 0.0003673069347157308
+
+premise: Payton Parskin is the girlfriend of Landon Shaw.
+ hypo:Landon Shaw is a mechanic.
+ contradition: 0.0028258513453380137
+
+premise: Maggie Shaw is the sister of Landon Shaw.
+ hypo:Landon Shaw is handsome.
+ contradition: 0.0007279818011397931
+
+premise: Maggie Shaw is the sister of Landon Shaw.
+ hypo:Landon Shaw is a mechanic.
+ contradition: 0.0011368182333299764
+
+premise: Maggie Shaw is the sister of Landon Shaw.
+ hypo:Maggie Shaw is the sister of Landon Shaw.
+ contradition: 0.00245891006481779
+
+premise: Maggie Shaw is a teacher.
+ hypo:Maggie Shaw is a female.
+ contradition: 0.0005700594212959977
+
+premise: Maggie Shaw is a teacher.
+ hypo:Landon Shaw is the brother of Maggie Shaw.
+ contradition: 0.07732209027744825
+
+premise: Maggie Shaw is a female.
+ hypo:Maggie Shaw is a female.
+ contradition: 0.0006429203660723506
+
+premise: Maggie Shaw is a female.
+ hypo:Landon Shaw is the brother of Maggie Shaw.
+ contradition: 0.29935709910019725
+
+premise: Maggie Shaw is 25 years old.
+ hypo:Maggie Shaw is a female.
+ contradition: 0.00046681229424277895
+
+premise: Maggie Shaw is 25 years old.
+ hypo:Landon Shaw is the brother of Maggie Shaw.
+ contradition: 0.08702166425021687
+
+premise: Landon Shaw is the brother of Maggie Shaw.
+ hypo:Maggie Shaw is a female.
+ contradition: 0.31951611113843115
+
+premise: Landon Shaw is the brother of Maggie Shaw.
+ hypo:Landon Shaw is the brother of Maggie Shaw.
+ contradition: 0.001594936577896641
+
+premise: Payton Parskin is the best friend of Maggie Shaw.
+ hypo:Maggie Shaw is a female.
+ contradition: 0.0020872320164512822
+
+
+MAX_PROB is 0.31951611113843115
+CONTRADICTORY_PREMISE: Landon Shaw is the brother of Maggie Shaw.
+ CONTRADICTORY_HYPO: Maggie Shaw is a female.

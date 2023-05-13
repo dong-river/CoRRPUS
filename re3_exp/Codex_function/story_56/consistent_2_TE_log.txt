@@ -1,0 +1,32 @@
+premise: Karen Smith is a student and employee.
+ hypo:Leah White is the grandmother of Karen Smith.
+ contradition: 0.31331183188771156
+
+premise: Karen Smith is a female.
+ hypo:Leah White is the grandmother of Karen Smith.
+ contradition: 0.03179765203494609
+
+premise: Karen Smith is a young adult.
+ hypo:Leah White is the grandmother of Karen Smith.
+ contradition: 0.04001485859922842
+
+premise: Leah White is the grandmother of Karen Smith.
+ hypo:Leah White is the grandmother of Karen Smith.
+ contradition: 0.0004591253611115851
+
+premise: Leah White has green eyes, is frail, and has short graying hair.
+ hypo:Karen Smith is the granddaughter of Leah White.
+ contradition: 0.0770663410899902
+
+premise: Leah White is old, elderly.
+ hypo:Karen Smith is the granddaughter of Leah White.
+ contradition: 0.010225482491364311
+
+premise: Karen Smith is the granddaughter of Leah White.
+ hypo:Karen Smith is the granddaughter of Leah White.
+ contradition: 0.0014633818362407105
+
+
+MAX_PROB is 0.31331183188771156
+CONTRADICTORY_PREMISE: Karen Smith is a student and employee.
+ CONTRADICTORY_HYPO: Leah White is the grandmother of Karen Smith.

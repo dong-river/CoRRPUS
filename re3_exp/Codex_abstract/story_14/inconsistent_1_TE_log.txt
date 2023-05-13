@@ -1,0 +1,12 @@
+premise: Jimmy Jackson is male.
+ hypo:Jimmy Jackson is male.
+ contradition: 0.0012456884134134179
+
+premise: Jenny Anderson is the best friend of Jimmy Jackson.
+ hypo:Jimmy Jackson is male.
+ contradition: 0.0038091554314576936
+
+
+MAX_PROB is 0.0038091554314576936
+CONTRADICTORY_PREMISE: Jenny Anderson is the best friend of Jimmy Jackson.
+ CONTRADICTORY_HYPO: Jimmy Jackson is male.

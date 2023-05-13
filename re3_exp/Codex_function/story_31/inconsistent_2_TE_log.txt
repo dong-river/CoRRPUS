@@ -1,0 +1,20 @@
+premise: Riley Harper is of average build, average height, with long dark hair and hazel eyes.
+ hypo:Riley Harper is a photographer.
+ contradition: 0.001192402832673237
+
+premise: Riley Harper is a female.
+ hypo:Riley Harper is a photographer.
+ contradition: 0.0006231644487120504
+
+premise: Riley Harper is young.
+ hypo:Riley Harper is a photographer.
+ contradition: 0.0018861713712401886
+
+premise: Jonas Harper is the father of Riley Harper.
+ hypo:Riley Harper is a photographer.
+ contradition: 0.003654395780854925
+
+
+MAX_PROB is 0.003654395780854925
+CONTRADICTORY_PREMISE: Jonas Harper is the father of Riley Harper.
+ CONTRADICTORY_HYPO: Riley Harper is a photographer.

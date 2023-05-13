@@ -1,0 +1,100 @@
+premise: Charles Wilson has brown hair, is of average height, and has brown eyes. He is generally a good guy, but can have a bit of a temper.
+ hypo:Charles Wilson has short black hair.
+ contradition: 0.9994790884479064
+
+premise: Charles Wilson has brown hair, is of average height, and has brown eyes. He is generally a good guy, but can have a bit of a temper.
+ hypo:Charles Wilson is a detective.
+ contradition: 0.0023242790831179273
+
+premise: Charles Wilson has brown hair, is of average height, and has brown eyes. He is generally a good guy, but can have a bit of a temper.
+ hypo:Charles Wilson is in his forties.
+ contradition: 0.0002505086810794035
+
+premise: Charles Wilson is male.
+ hypo:Charles Wilson has short black hair.
+ contradition: 0.0005196718102179985
+
+premise: Charles Wilson is male.
+ hypo:Charles Wilson is a detective.
+ contradition: 0.0005613989234553307
+
+premise: Charles Wilson is male.
+ hypo:Charles Wilson is in his forties.
+ contradition: 0.00011422361179902563
+
+premise: Charles Wilson is male.
+ hypo:Nina Peterson is the wife of Charles Wilson.
+ contradition: 0.03650615645692714
+
+premise: Charles Wilson is in his early twenties.
+ hypo:Charles Wilson has short black hair.
+ contradition: 0.0009465633010989159
+
+premise: Charles Wilson is in his early twenties.
+ hypo:Charles Wilson is a detective.
+ contradition: 0.0013139160975585388
+
+premise: Charles Wilson is in his early twenties.
+ hypo:Charles Wilson is in his forties.
+ contradition: 0.9995275584739887
+
+premise: Charles Wilson is in his early twenties.
+ hypo:Nina Peterson is the wife of Charles Wilson.
+ contradition: 0.0909390441265416
+
+premise: Nina Peterson is a college student.
+ hypo:Charles Wilson is the husband of Nina Peterson.
+ contradition: 0.7483144418338648
+
+premise: Nina Peterson is a college student.
+ hypo:Jeff Foster is the boyfriend of Nina Peterson.
+ contradition: 0.16147810544907729
+
+premise: Nina Peterson is a female.
+ hypo:Charles Wilson is the husband of Nina Peterson.
+ contradition: 0.2776977834245852
+
+premise: Nina Peterson is a female.
+ hypo:Jeff Foster is the boyfriend of Nina Peterson.
+ contradition: 0.14019917874897792
+
+premise: Nina Peterson is in her early twenties.
+ hypo:Charles Wilson is the husband of Nina Peterson.
+ contradition: 0.6830831921785038
+
+premise: Nina Peterson is in her early twenties.
+ hypo:Jeff Foster is the boyfriend of Nina Peterson.
+ contradition: 0.2816374519829964
+
+premise: Jeff Foster is the man of Nina Peterson.
+ hypo:Jeff Foster is the boyfriend of Nina Peterson.
+ contradition: 0.005959913802294856
+
+premise: Jeff Foster has dark eyes, is of average height, and has dark hair.
+ hypo:Jeff Foster is a college student.
+ contradition: 0.0002237908813196035
+
+premise: Jeff Foster is in his early thirties.
+ hypo:Jeff Foster is a college student.
+ contradition: 0.9994813510835698
+
+premise: Jeff Foster is in his early thirties.
+ hypo:Nina Peterson is the girlfriend of Jeff Foster.
+ contradition: 0.23660172333295898
+
+premise: met at bar is the Nina Peterson of Jeff Foster.
+ hypo:Jeff Foster is a college student.
+ contradition: 0.010582127849889078
+
+premise: Nina Peterson is the woman of Jeff Foster.
+ hypo:Jeff Foster is a college student.
+ contradition: 0.8262149979382859
+
+premise: Nina Peterson is the woman of Jeff Foster.
+ hypo:Nina Peterson is the girlfriend of Jeff Foster.
+ contradition: 0.018185449477952607
+
+
+MAX_PROB is 0.9995275584739887
+CONTRADICTORY_PREMISE: Charles Wilson is in his early twenties.
+ CONTRADICTORY_HYPO: Charles Wilson is in his forties.

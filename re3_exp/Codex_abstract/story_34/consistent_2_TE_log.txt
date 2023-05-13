@@ -1,0 +1,12 @@
+premise: Thomas Watkins is a good man, out of his depth.
+ hypo:Thomas Watkins is the sheriff.
+ contradition: 0.16288892124908944
+
+premise: Thomas Watkins is the sheriff.
+ hypo:Thomas Watkins is the sheriff.
+ contradition: 0.0023130768434008525
+
+
+MAX_PROB is 0.16288892124908944
+CONTRADICTORY_PREMISE: Thomas Watkins is a good man, out of his depth.
+ CONTRADICTORY_HYPO: Thomas Watkins is the sheriff.

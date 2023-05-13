@@ -1,0 +1,16 @@
+premise: Charles Wilson has brown eyes and brown hair.
+ hypo:Charles Wilson is twenty three years old.
+ contradition: 0.0004506181499957194
+
+premise: Charles Wilson is male.
+ hypo:Charles Wilson is twenty three years old.
+ contradition: 0.0002996238360402626
+
+premise: Charles Wilson is in his early twenties.
+ hypo:Charles Wilson is twenty three years old.
+ contradition: 0.003007494985172568
+
+
+MAX_PROB is 0.003007494985172568
+CONTRADICTORY_PREMISE: Charles Wilson is in his early twenties.
+ CONTRADICTORY_HYPO: Charles Wilson is twenty three years old.

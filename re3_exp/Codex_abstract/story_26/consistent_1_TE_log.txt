@@ -1,0 +1,80 @@
+premise: Lettie Hanson is a female.
+ hypo:Lettie Hanson is a female.
+ contradition: 0.000673085000711477
+
+premise: Lettie Hanson is a female.
+ hypo:Lettie Hanson is 100 years old.
+ contradition: 0.0006358623371432436
+
+premise: Lettie Hanson is a female.
+ hypo:Karen Hanson is the daughter of Lettie Hanson.
+ contradition: 0.0020265077491512587
+
+premise: Lettie Hanson is middle-aged.
+ hypo:Lettie Hanson is a female.
+ contradition: 0.00041719585702341066
+
+premise: Lettie Hanson is middle-aged.
+ hypo:Lettie Hanson is 100 years old.
+ contradition: 0.9988902024710465
+
+premise: Lettie Hanson is middle-aged.
+ hypo:Karen Hanson is the daughter of Lettie Hanson.
+ contradition: 0.02180722203283572
+
+premise: Bob Hanson is the husband of Lettie Hanson.
+ hypo:Lettie Hanson is a female.
+ contradition: 0.306878644269869
+
+premise: Bob Hanson is the husband of Lettie Hanson.
+ hypo:Lettie Hanson is 100 years old.
+ contradition: 0.006891193898236259
+
+premise: Karen Hanson is the daughter of Lettie Hanson.
+ hypo:Lettie Hanson is a female.
+ contradition: 0.0009091311086634014
+
+premise: Karen Hanson is the daughter of Lettie Hanson.
+ hypo:Lettie Hanson is 100 years old.
+ contradition: 0.010335864428601241
+
+premise: Karen Hanson is the daughter of Lettie Hanson.
+ hypo:Karen Hanson is the daughter of Lettie Hanson.
+ contradition: 0.0012357745745370213
+
+premise: Bob Hanson is male.
+ hypo:Bob Hanson is male.
+ contradition: 0.0010034562568793496
+
+premise: Bob Hanson is male.
+ hypo:Karen Hanson is the wife of Bob Hanson.
+ contradition: 0.026337395171963072
+
+premise: Lettie Hanson is the wife of Bob Hanson.
+ hypo:Bob Hanson is male.
+ contradition: 0.31376210673905036
+
+premise: Karen Hanson is a female.
+ hypo:Karen Hanson is a female.
+ contradition: 0.0007128665676923863
+
+premise: Karen Hanson is a female.
+ hypo:Bob Hanson is the husband of Karen Hanson.
+ contradition: 0.056744642590888426
+
+premise: Karen Hanson is a female.
+ hypo:Lettie Hanson is the mother of Karen Hanson.
+ contradition: 0.018430833067268428
+
+premise: Lettie Hanson is the mother of Karen Hanson.
+ hypo:Karen Hanson is a female.
+ contradition: 0.0029694348774782883
+
+premise: Lettie Hanson is the mother of Karen Hanson.
+ hypo:Lettie Hanson is the mother of Karen Hanson.
+ contradition: 0.0007460325760801606
+
+
+MAX_PROB is 0.9988902024710465
+CONTRADICTORY_PREMISE: Lettie Hanson is middle-aged.
+ CONTRADICTORY_HYPO: Lettie Hanson is 100 years old.

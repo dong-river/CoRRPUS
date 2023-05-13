@@ -1,0 +1,36 @@
+premise: Payton Dupree is a successful businesswoman.
+ hypo:Olivia Dupree is the niece of Payton Dupree.
+ contradition: 0.19169414777256844
+
+premise: Payton Dupree is 36 years old.
+ hypo:Olivia Dupree is the niece of Payton Dupree.
+ contradition: 0.15493968127468546
+
+premise: Olivia Dupree is the goddaughter of Payton Dupree.
+ hypo:Olivia Dupree is the niece of Payton Dupree.
+ contradition: 0.6017573350290709
+
+premise: Olivia Dupree is the daughter of Amanda Dupree.
+ hypo:Olivia Dupree is the daughter of Amanda Dupree.
+ contradition: 0.0010097632909701643
+
+premise: Amanda Dupree is the mother of Olivia Dupree.
+ hypo:Olivia Dupree is 5 years old.
+ contradition: 0.0003484194921783782
+
+premise: Amanda Dupree is the mother of Olivia Dupree.
+ hypo:Amanda Dupree is the mother of Olivia Dupree.
+ contradition: 0.0005393995519164721
+
+premise: Payton Dupree is the godmother of Olivia Dupree.
+ hypo:Olivia Dupree is 5 years old.
+ contradition: 0.00029449682152440226
+
+premise: Payton Dupree is the godmother of Olivia Dupree.
+ hypo:Payton Dupree is the godmother of Olivia Dupree.
+ contradition: 0.00048461333467383016
+
+
+MAX_PROB is 0.6017573350290709
+CONTRADICTORY_PREMISE: Olivia Dupree is the goddaughter of Payton Dupree.
+ CONTRADICTORY_HYPO: Olivia Dupree is the niece of Payton Dupree.

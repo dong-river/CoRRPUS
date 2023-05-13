@@ -1,0 +1,135 @@
+premise: Sherry Hellinger has short brown hair, green eyes, and is of average height and build.
+ hypo:Sherry Hellinger is a female.
+ contradition: 0.0003590002197998048
+
+premise: Sherry Hellinger is a female.
+ hypo:Sherry Hellinger is a female.
+ contradition: 0.0005717796771009722
+
+premise: Sherry Hellinger is a female.
+ hypo:Emily Hellinger is the wife of Sherry Hellinger.
+ contradition: 0.16738962153081946
+
+premise: Sherry Hellinger is middle aged.
+ hypo:Sherry Hellinger is a female.
+ contradition: 0.0003173973732643839
+
+premise: Sherry Hellinger is middle aged.
+ hypo:Emily Hellinger is the wife of Sherry Hellinger.
+ contradition: 0.7594220501267949
+
+premise: Emily Hellinger is the wife of Sherry Hellinger.
+ hypo:Sherry Hellinger is a female.
+ contradition: 0.0025996616384639988
+
+premise: Emily Hellinger is the wife of Sherry Hellinger.
+ hypo:Emily Hellinger is the wife of Sherry Hellinger.
+ contradition: 0.0009251323324133884
+
+premise: John Hellinger is the brother of Sherry Hellinger.
+ hypo:Sherry Hellinger is a female.
+ contradition: 0.7790105839562786
+
+premise: Emily Hellinger has blue eyes, long blond hair, and is tall.
+ hypo:Emily Hellinger has blonde hair.
+ contradition: 0.0001996576130257074
+
+premise: Emily Hellinger has blue eyes, long blond hair, and is tall.
+ hypo:Sherry Hellinger is the wife of Emily Hellinger.
+ contradition: 0.8973928945594516
+
+premise: Emily Hellinger is a female.
+ hypo:Emily Hellinger has blonde hair.
+ contradition: 0.0005144780560750167
+
+premise: Emily Hellinger is a female.
+ hypo:Sherry Hellinger is the wife of Emily Hellinger.
+ contradition: 0.16014526334036377
+
+premise: Emily Hellinger is in her early 40s.
+ hypo:Emily Hellinger has blonde hair.
+ contradition: 0.0007236103951555831
+
+premise: Emily Hellinger is in her early 40s.
+ hypo:Sherry Hellinger is the wife of Emily Hellinger.
+ contradition: 0.7874162962012523
+
+premise: Sherry Hellinger is the wife of Emily Hellinger.
+ hypo:Emily Hellinger has blonde hair.
+ contradition: 0.014813803362202917
+
+premise: Sherry Hellinger is the wife of Emily Hellinger.
+ hypo:Sherry Hellinger is the wife of Emily Hellinger.
+ contradition: 0.00149025555672799
+
+
+MAX_PROB is 0.8973928945594516
+CONTRADICTORY_PREMISE: Emily Hellinger has blue eyes, long blond hair, and is tall.
+ CONTRADICTORY_HYPO: Sherry Hellinger is the wife of Emily Hellinger.premise: Sherry Hellinger is of average height, with green eyes, an average build, and short brown hair.
+ hypo:Sherry Hellinger is a female.
+ contradition: 0.00034956774170181266
+
+premise: Sherry Hellinger is a female.
+ hypo:Sherry Hellinger is a female.
+ contradition: 0.0005717796771009722
+
+premise: Sherry Hellinger is a female.
+ hypo:Emily Hellinger is the wife of Sherry Hellinger.
+ contradition: 0.16738962153081946
+
+premise: Sherry Hellinger is middle aged.
+ hypo:Sherry Hellinger is a female.
+ contradition: 0.0003173973732643839
+
+premise: Sherry Hellinger is middle aged.
+ hypo:Emily Hellinger is the wife of Sherry Hellinger.
+ contradition: 0.7594220501267949
+
+premise: Emily Hellinger is the wife of Sherry Hellinger.
+ hypo:Sherry Hellinger is a female.
+ contradition: 0.0025996616384639988
+
+premise: Emily Hellinger is the wife of Sherry Hellinger.
+ hypo:Emily Hellinger is the wife of Sherry Hellinger.
+ contradition: 0.0009251323324133884
+
+premise: John Hellinger is the brother of Sherry Hellinger.
+ hypo:Sherry Hellinger is a female.
+ contradition: 0.7790105839562786
+
+premise: Emily Hellinger is tall, with long blond hair and blue eyes.
+ hypo:Emily Hellinger has blonde hair.
+ contradition: 0.0001564572516916779
+
+premise: Emily Hellinger is tall, with long blond hair and blue eyes.
+ hypo:Sherry Hellinger is the wife of Emily Hellinger.
+ contradition: 0.8877555372512129
+
+premise: Emily Hellinger is a female.
+ hypo:Emily Hellinger has blonde hair.
+ contradition: 0.0005144780560750167
+
+premise: Emily Hellinger is a female.
+ hypo:Sherry Hellinger is the wife of Emily Hellinger.
+ contradition: 0.16014526334036377
+
+premise: Emily Hellinger is in her early 40s.
+ hypo:Emily Hellinger has blonde hair.
+ contradition: 0.0007236103951555831
+
+premise: Emily Hellinger is in her early 40s.
+ hypo:Sherry Hellinger is the wife of Emily Hellinger.
+ contradition: 0.7874162962012523
+
+premise: Sherry Hellinger is the wife of Emily Hellinger.
+ hypo:Emily Hellinger has blonde hair.
+ contradition: 0.014813803362202917
+
+premise: Sherry Hellinger is the wife of Emily Hellinger.
+ hypo:Sherry Hellinger is the wife of Emily Hellinger.
+ contradition: 0.00149025555672799
+
+
+MAX_PROB is 0.8877555372512129
+CONTRADICTORY_PREMISE: Emily Hellinger is tall, with long blond hair and blue eyes.
+ CONTRADICTORY_HYPO: Sherry Hellinger is the wife of Emily Hellinger.

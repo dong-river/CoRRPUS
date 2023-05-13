@@ -1,0 +1,20 @@
+premise: Olivia Fria Spierings is small, has blue eyes, long dark hair, and is skinny.
+ hypo:Olivia Fria Spierings is 15 years old.
+ contradition: 0.00023124404485101797
+
+premise: Olivia Fria Spierings is a female.
+ hypo:Olivia Fria Spierings is 15 years old.
+ contradition: 0.0002007839972022855
+
+premise: Olivia Fria Spierings is young.
+ hypo:Olivia Fria Spierings is 15 years old.
+ contradition: 0.00024345961005892085
+
+premise: Colonel Damien Riggs is the commanding officer of Olivia Fria Spierings.
+ hypo:Olivia Fria Spierings is 15 years old.
+ contradition: 0.01916343937020586
+
+
+MAX_PROB is 0.01916343937020586
+CONTRADICTORY_PREMISE: Colonel Damien Riggs is the commanding officer of Olivia Fria Spierings.
+ CONTRADICTORY_HYPO: Olivia Fria Spierings is 15 years old.

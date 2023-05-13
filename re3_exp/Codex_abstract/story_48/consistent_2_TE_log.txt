@@ -1,0 +1,168 @@
+premise: Shannon Fitzgerald has brown eyes and brown hair.
+ hypo:Shannon Fitzgerald is male.
+ contradition: 0.0008116864585564369
+
+premise: Shannon Fitzgerald has brown eyes and brown hair.
+ hypo:Olivia Kane is the sister of Shannon Fitzgerald.
+ contradition: 0.4618663236265632
+
+premise: Shannon Fitzgerald is a student.
+ hypo:Shannon Fitzgerald is male.
+ contradition: 0.004092965276307218
+
+premise: Shannon Fitzgerald is a student.
+ hypo:Olivia Kane is the sister of Shannon Fitzgerald.
+ contradition: 0.16778096498348904
+
+premise: Shannon Fitzgerald is a female.
+ hypo:Shannon Fitzgerald is male.
+ contradition: 0.9995983069192275
+
+premise: Shannon Fitzgerald is a female.
+ hypo:Olivia Kane is the sister of Shannon Fitzgerald.
+ contradition: 0.10709407220449313
+
+premise: Shannon Fitzgerald is young.
+ hypo:Shannon Fitzgerald is male.
+ contradition: 0.002722207930421868
+
+premise: Shannon Fitzgerald is young.
+ hypo:Olivia Kane is the sister of Shannon Fitzgerald.
+ contradition: 0.23756895894296925
+
+premise: Olivia Kane is the daughter of Shannon Fitzgerald.
+ hypo:Shannon Fitzgerald is male.
+ contradition: 0.8120376476089847
+
+premise: Olivia Kane is the daughter of Shannon Fitzgerald.
+ hypo:Olivia Kane is the sister of Shannon Fitzgerald.
+ contradition: 0.9794367051698543
+
+premise: Olivia Kane has long blonde hair and blue eyes.
+ hypo:Olivia Kane is a female.
+ contradition: 0.000371318322377101
+
+premise: Olivia Kane has long blonde hair and blue eyes.
+ hypo:Richard Kane is the husband of Olivia Kane.
+ contradition: 0.19261207563401084
+
+premise: Olivia Kane has long blonde hair and blue eyes.
+ hypo:Richard Kane is the father of Olivia Kane.
+ contradition: 0.11163843792975835
+
+premise: Olivia Kane has long blonde hair and blue eyes.
+ hypo:Shannon Fitzgerald is the brother of Olivia Kane.
+ contradition: 0.39360205635613643
+
+premise: Olivia Kane has long blonde hair and blue eyes.
+ hypo:Shannon Fitzgerald is the mother of Olivia Kane.
+ contradition: 0.05494727146704653
+
+premise: Olivia Kane is a female.
+ hypo:Olivia Kane is a female.
+ contradition: 0.0008178571886786916
+
+premise: Olivia Kane is a female.
+ hypo:Richard Kane is the husband of Olivia Kane.
+ contradition: 0.09465349265948192
+
+premise: Olivia Kane is a female.
+ hypo:Richard Kane is the father of Olivia Kane.
+ contradition: 0.24201160534428
+
+premise: Olivia Kane is a female.
+ hypo:Shannon Fitzgerald is the brother of Olivia Kane.
+ contradition: 0.4540463350991622
+
+premise: Olivia Kane is a female.
+ hypo:Shannon Fitzgerald is the mother of Olivia Kane.
+ contradition: 0.031235444658691672
+
+premise: Olivia Kane is in her thirties.
+ hypo:Olivia Kane is a female.
+ contradition: 0.00019416142824271105
+
+premise: Olivia Kane is in her thirties.
+ hypo:Richard Kane is the husband of Olivia Kane.
+ contradition: 0.23668468914354612
+
+premise: Olivia Kane is in her thirties.
+ hypo:Richard Kane is the father of Olivia Kane.
+ contradition: 0.6311749627426007
+
+premise: Olivia Kane is in her thirties.
+ hypo:Shannon Fitzgerald is the brother of Olivia Kane.
+ contradition: 0.6097574678759375
+
+premise: Olivia Kane is in her thirties.
+ hypo:Shannon Fitzgerald is the mother of Olivia Kane.
+ contradition: 0.2781244924510908
+
+premise: Richard Kane is the wife of Olivia Kane.
+ hypo:Olivia Kane is a female.
+ contradition: 0.005395744974378917
+
+premise: Richard Kane is the wife of Olivia Kane.
+ hypo:Richard Kane is the husband of Olivia Kane.
+ contradition: 0.9975291892933019
+
+premise: Richard Kane is the wife of Olivia Kane.
+ hypo:Richard Kane is the father of Olivia Kane.
+ contradition: 0.9994197876012094
+
+premise: Shannon Fitzgerald is the mother of Olivia Kane.
+ hypo:Olivia Kane is a female.
+ contradition: 0.002828423489760831
+
+premise: Shannon Fitzgerald is the mother of Olivia Kane.
+ hypo:Shannon Fitzgerald is the brother of Olivia Kane.
+ contradition: 0.9994115717949354
+
+premise: Shannon Fitzgerald is the mother of Olivia Kane.
+ hypo:Shannon Fitzgerald is the mother of Olivia Kane.
+ contradition: 0.00038024099281641155
+
+premise: Richard Kane has dark hair and blue eyes.
+ hypo:Olivia Kane is the wife of Richard Kane.
+ contradition: 0.7106072829643226
+
+premise: Richard Kane has dark hair and blue eyes.
+ hypo:Olivia Kane is the daughter of Richard Kane.
+ contradition: 0.2760261097699967
+
+premise: Richard Kane is male.
+ hypo:Olivia Kane is the wife of Richard Kane.
+ contradition: 0.11321700366012796
+
+premise: Richard Kane is male.
+ hypo:Olivia Kane is the daughter of Richard Kane.
+ contradition: 0.40495346644241026
+
+premise: Richard Kane is in his forties.
+ hypo:Olivia Kane is the wife of Richard Kane.
+ contradition: 0.2794211483797866
+
+premise: Richard Kane is in his forties.
+ hypo:Olivia Kane is the daughter of Richard Kane.
+ contradition: 0.12454256799808351
+
+premise: Olivia Kane is the brother of Richard Kane.
+ hypo:Olivia Kane is the wife of Richard Kane.
+ contradition: 0.9994956416089612
+
+premise: Olivia Kane is the brother of Richard Kane.
+ hypo:Olivia Kane is the daughter of Richard Kane.
+ contradition: 0.9993043020612083
+
+premise: Olivia Kane is the husband of Richard Kane.
+ hypo:Olivia Kane is the wife of Richard Kane.
+ contradition: 0.9924439881220137
+
+premise: Olivia Kane is the husband of Richard Kane.
+ hypo:Olivia Kane is the daughter of Richard Kane.
+ contradition: 0.9993582316919479
+
+
+MAX_PROB is 0.9995983069192275
+CONTRADICTORY_PREMISE: Shannon Fitzgerald is a female.
+ CONTRADICTORY_HYPO: Shannon Fitzgerald is male.

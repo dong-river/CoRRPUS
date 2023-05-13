@@ -1,0 +1,108 @@
+premise: Charles Wilson is a ladies man.
+ hypo:Charles Wilson has short black hair.
+ contradition: 0.0034325320841066625
+
+premise: Charles Wilson is a ladies man.
+ hypo:Charles Wilson is in his forties.
+ contradition: 0.0001678819845888963
+
+premise: Charles Wilson is a ladies man.
+ hypo:Nina Peterson is the wife of Charles Wilson.
+ contradition: 0.053913755740079165
+
+premise: Charles Wilson is a ladies man.
+ hypo:Jeff Foster is the sergeant of Charles Wilson.
+ contradition: 0.5975425220917271
+
+premise: Charles Wilson is a police detective.
+ hypo:Charles Wilson has short black hair.
+ contradition: 0.0016477347624849503
+
+premise: Charles Wilson is a police detective.
+ hypo:Charles Wilson is in his forties.
+ contradition: 0.00013791866958168538
+
+premise: Charles Wilson is a police detective.
+ hypo:Nina Peterson is the wife of Charles Wilson.
+ contradition: 0.19300120041774121
+
+premise: Charles Wilson is a police detective.
+ hypo:Jeff Foster is the sergeant of Charles Wilson.
+ contradition: 0.06299668121959598
+
+premise: Charles Wilson is in his forties.
+ hypo:Charles Wilson has short black hair.
+ contradition: 0.0007084808531754626
+
+premise: Charles Wilson is in his forties.
+ hypo:Charles Wilson is in his forties.
+ contradition: 0.000716275605359111
+
+premise: Charles Wilson is in his forties.
+ hypo:Nina Peterson is the wife of Charles Wilson.
+ contradition: 0.05235458024574688
+
+premise: Charles Wilson is in his forties.
+ hypo:Jeff Foster is the sergeant of Charles Wilson.
+ contradition: 0.06184870445245846
+
+premise: wife is the wife of Charles Wilson.
+ hypo:Charles Wilson has short black hair.
+ contradition: 0.0061121016953266764
+
+premise: wife is the wife of Charles Wilson.
+ hypo:Charles Wilson is in his forties.
+ contradition: 0.0003386111079658962
+
+premise: two kids is the kids of Charles Wilson.
+ hypo:Charles Wilson has short black hair.
+ contradition: 0.002959402957531884
+
+premise: two kids is the kids of Charles Wilson.
+ hypo:Charles Wilson is in his forties.
+ contradition: 0.0003818364403958923
+
+premise: two kids is the two kids of Charles Wilson.
+ hypo:Charles Wilson has short black hair.
+ contradition: 0.0025144070961654287
+
+premise: two kids is the two kids of Charles Wilson.
+ hypo:Charles Wilson is in his forties.
+ contradition: 0.0002880750877189174
+
+premise: Nina Peterson is 5 foot 4, has long blonde hair, is introverted, is a good person, has blue eyes, is 5_4, and is shy.
+ hypo:Charles Wilson is the husband of Nina Peterson.
+ contradition: 0.4009758322633027
+
+premise: Nina Peterson is a college student.
+ hypo:Charles Wilson is the husband of Nina Peterson.
+ contradition: 0.7483144418338648
+
+premise: Nina Peterson is a female.
+ hypo:Charles Wilson is the husband of Nina Peterson.
+ contradition: 0.2776977834245852
+
+premise: Nina Peterson is in her early twenties.
+ hypo:Charles Wilson is the husband of Nina Peterson.
+ contradition: 0.6830831921785038
+
+premise: Jeff Foster has dark eyes, is of average height, and has dark hair.
+ hypo:Jeff Foster is a college student.
+ contradition: 0.0002237908813196035
+
+premise: Jeff Foster is in his early thirties.
+ hypo:Jeff Foster is a college student.
+ contradition: 0.9994813510835698
+
+premise: brings home is the Nina Peterson of Jeff Foster.
+ hypo:Jeff Foster is a college student.
+ contradition: 0.035725166972012765
+
+premise: Nina Peterson is the meets of Jeff Foster.
+ hypo:Jeff Foster is a college student.
+ contradition: 0.013511147051264159
+
+
+MAX_PROB is 0.9994813510835698
+CONTRADICTORY_PREMISE: Jeff Foster is in his early thirties.
+ CONTRADICTORY_HYPO: Jeff Foster is a college student.

@@ -1,0 +1,44 @@
+premise: Valerie Russo is a female.
+ hypo:Carl Russo is the husband of Valerie Russo.
+ contradition: 0.07312819956068402
+
+premise: Valerie Russo is young.
+ hypo:Carl Russo is the husband of Valerie Russo.
+ contradition: 0.14735376499576075
+
+premise: Carl Russo is the father of Valerie Russo.
+ hypo:Carl Russo is the husband of Valerie Russo.
+ contradition: 0.9718738907970185
+
+premise: Carl Russo is tall, with an average build, and salt and pepper hair.
+ hypo:John Davis is the friend of Carl Russo.
+ contradition: 0.13036215819759767
+
+premise: Carl Russo is tall, with an average build, and salt and pepper hair.
+ hypo:John Davis is the coworker of Carl Russo.
+ contradition: 0.23570939247036068
+
+premise: Carl Russo is tall, with an average build, and salt and pepper hair.
+ hypo:Valerie Russo is the wife of Carl Russo.
+ contradition: 0.35819462301871724
+
+premise: Carl Russo is a successful businessman.
+ hypo:John Davis is the friend of Carl Russo.
+ contradition: 0.07287480167147022
+
+premise: Carl Russo is a successful businessman.
+ hypo:John Davis is the coworker of Carl Russo.
+ contradition: 0.24495775852406632
+
+premise: Carl Russo is a successful businessman.
+ hypo:Valerie Russo is the wife of Carl Russo.
+ contradition: 0.05387599094614092
+
+premise: Valerie Russo is the daughter of Carl Russo.
+ hypo:Valerie Russo is the wife of Carl Russo.
+ contradition: 0.9993896635216902
+
+
+MAX_PROB is 0.9993896635216902
+CONTRADICTORY_PREMISE: Valerie Russo is the daughter of Carl Russo.
+ CONTRADICTORY_HYPO: Valerie Russo is the wife of Carl Russo.

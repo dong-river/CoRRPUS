@@ -1,0 +1,64 @@
+premise: Olivia Fria Spierings has brown eyes and brown hair.
+ hypo:Olivia Fria Spierings is pretty, with long dark hair, blue eyes, and slender arms. She has tattoos of bird wings on her pretty face.
+ contradition: 0.44921496185423826
+
+premise: Olivia Fria Spierings has brown eyes and brown hair.
+ hypo:Olivia Fria Spierings is an army supply clerk.
+ contradition: 0.000837226562469636
+
+premise: Olivia Fria Spierings has brown eyes and brown hair.
+ hypo:Olivia Fria Spierings is 18 years old.
+ contradition: 0.00022227581666449611
+
+premise: Olivia Fria Spierings is a female.
+ hypo:Olivia Fria Spierings is pretty, with long dark hair, blue eyes, and slender arms. She has tattoos of bird wings on her pretty face.
+ contradition: 0.00026368833975876316
+
+premise: Olivia Fria Spierings is a female.
+ hypo:Olivia Fria Spierings is an army supply clerk.
+ contradition: 0.0007964528730091618
+
+premise: Olivia Fria Spierings is a female.
+ hypo:Olivia Fria Spierings is 18 years old.
+ contradition: 0.00017419147138630382
+
+premise: Olivia Fria Spierings is 15 years old.
+ hypo:Olivia Fria Spierings is pretty, with long dark hair, blue eyes, and slender arms. She has tattoos of bird wings on her pretty face.
+ contradition: 0.00037690612595409886
+
+premise: Olivia Fria Spierings is 15 years old.
+ hypo:Olivia Fria Spierings is an army supply clerk.
+ contradition: 0.0052045198700068
+
+premise: Olivia Fria Spierings is 15 years old.
+ hypo:Olivia Fria Spierings is 18 years old.
+ contradition: 0.9995666237248106
+
+premise: Colonel Damien Riggs is the commanding officer of Olivia Fria Spierings.
+ hypo:Olivia Fria Spierings is an army supply clerk.
+ contradition: 0.9195580922768105
+
+premise: Colonel Damien Riggs is the commanding officer of Olivia Fria Spierings.
+ hypo:Olivia Fria Spierings is 18 years old.
+ contradition: 0.0048748399634458974
+
+premise: Colonel Damien Riggs is tall, muscular, with blue eyes and short graying hair.
+ hypo:Colonel Damien Riggs has half closed eyes.
+ contradition: 0.8721061001639732
+
+premise: Colonel Damien Riggs is male.
+ hypo:Colonel Damien Riggs has half closed eyes.
+ contradition: 0.006355789260452617
+
+premise: Colonel Damien Riggs is 40 years old.
+ hypo:Colonel Damien Riggs has half closed eyes.
+ contradition: 0.07930274947746158
+
+premise: Olivia Fria Spierings is the commanding officer of Colonel Damien Riggs.
+ hypo:Colonel Damien Riggs has half closed eyes.
+ contradition: 0.36175580736728286
+
+
+MAX_PROB is 0.9995666237248106
+CONTRADICTORY_PREMISE: Olivia Fria Spierings is 15 years old.
+ CONTRADICTORY_HYPO: Olivia Fria Spierings is 18 years old.

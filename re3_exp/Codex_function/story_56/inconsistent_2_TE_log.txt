@@ -1,0 +1,192 @@
+premise: Karen Smith is of average height, with an average build. She has shoulder-length brown hair and brown eyes.
+ hypo:Karen Smith has blonde hair.
+ contradition: 0.997881499267591
+
+premise: Karen Smith is of average height, with an average build. She has shoulder-length brown hair and brown eyes.
+ hypo:Karen Smith is an advertising executive and waitress.
+ contradition: 0.001996426729143459
+
+premise: Karen Smith is of average height, with an average build. She has shoulder-length brown hair and brown eyes.
+ hypo:Karen Smith is a female.
+ contradition: 0.00017902245631381983
+
+premise: Karen Smith is of average height, with an average build. She has shoulder-length brown hair and brown eyes.
+ hypo:Karen Smith is young.
+ contradition: 0.004067470224237348
+
+premise: Karen Smith is a female.
+ hypo:Karen Smith has blonde hair.
+ contradition: 0.0005348110813011929
+
+premise: Karen Smith is a female.
+ hypo:Karen Smith is an advertising executive and waitress.
+ contradition: 0.001184897390777255
+
+premise: Karen Smith is a female.
+ hypo:Karen Smith is a female.
+ contradition: 0.0006477592719349257
+
+premise: Karen Smith is a female.
+ hypo:Karen Smith is young.
+ contradition: 0.00025237161669937986
+
+premise: Karen Smith is a female.
+ hypo:Leah White is the best friend of Karen Smith.
+ contradition: 0.015568544700890991
+
+premise: Karen Smith is a female.
+ hypo:Karen Smith is the cat of Karen Smith.
+ contradition: 0.007713992504517814
+
+premise: Karen Smith is a female.
+ hypo:Leah White is the friend of Karen Smith.
+ contradition: 0.022182191852839945
+
+premise: Karen Smith is a female.
+ hypo:cat is the cat of Karen Smith.
+ contradition: 0.36153662805713144
+
+premise: Karen Smith is a female.
+ hypo:Leah White is the waitress of Karen Smith.
+ contradition: 0.16800408490906424
+
+premise: Karen Smith is young.
+ hypo:Karen Smith has blonde hair.
+ contradition: 0.000998535656685019
+
+premise: Karen Smith is young.
+ hypo:Karen Smith is an advertising executive and waitress.
+ contradition: 0.00696591172114204
+
+premise: Karen Smith is young.
+ hypo:Karen Smith is a female.
+ contradition: 0.0005380557852399388
+
+premise: Karen Smith is young.
+ hypo:Karen Smith is young.
+ contradition: 0.0009661351182304654
+
+premise: Karen Smith is young.
+ hypo:Leah White is the best friend of Karen Smith.
+ contradition: 0.023173879926324355
+
+premise: Karen Smith is young.
+ hypo:Karen Smith is the cat of Karen Smith.
+ contradition: 0.07695162550459929
+
+premise: Karen Smith is young.
+ hypo:Leah White is the friend of Karen Smith.
+ contradition: 0.012901183719376633
+
+premise: Karen Smith is young.
+ hypo:cat is the cat of Karen Smith.
+ contradition: 0.6688464556283401
+
+premise: Karen Smith is young.
+ hypo:Leah White is the waitress of Karen Smith.
+ contradition: 0.07809507448182354
+
+premise: Janice Smith is the mother of Karen Smith.
+ hypo:Karen Smith has blonde hair.
+ contradition: 0.0024733965948891554
+
+premise: Janice Smith is the mother of Karen Smith.
+ hypo:Karen Smith is an advertising executive and waitress.
+ contradition: 0.003833921565697227
+
+premise: Janice Smith is the mother of Karen Smith.
+ hypo:Karen Smith is a female.
+ contradition: 0.001733833467935863
+
+premise: Janice Smith is the mother of Karen Smith.
+ hypo:Karen Smith is young.
+ contradition: 0.00952174461706712
+
+premise: Leah White is the grandmother of Karen Smith.
+ hypo:Karen Smith has blonde hair.
+ contradition: 0.0022784867228689202
+
+premise: Leah White is the grandmother of Karen Smith.
+ hypo:Karen Smith is an advertising executive and waitress.
+ contradition: 0.006584402142381921
+
+premise: Leah White is the grandmother of Karen Smith.
+ hypo:Karen Smith is a female.
+ contradition: 0.001968875331270633
+
+premise: Leah White is the grandmother of Karen Smith.
+ hypo:Karen Smith is young.
+ contradition: 0.017007806211486558
+
+premise: Leah White is the grandmother of Karen Smith.
+ hypo:Leah White is the best friend of Karen Smith.
+ contradition: 0.9676106929433362
+
+premise: Leah White is the grandmother of Karen Smith.
+ hypo:Leah White is the friend of Karen Smith.
+ contradition: 0.9789492161231094
+
+premise: Leah White is the grandmother of Karen Smith.
+ hypo:Leah White is the waitress of Karen Smith.
+ contradition: 0.9964171730714885
+
+premise: Leah White has green eyes, is frail, and has short graying hair.
+ hypo:Leah White is wearing a black leather jacket, has blonde hair, and is wearing a long black leather jacket.
+ contradition: 0.9786472508109584
+
+premise: Leah White has green eyes, is frail, and has short graying hair.
+ hypo:Leah White is an advertising waitress.
+ contradition: 0.002917958219574943
+
+premise: Leah White has green eyes, is frail, and has short graying hair.
+ hypo:Leah White is a female.
+ contradition: 0.0002684837556604216
+
+premise: Leah White has green eyes, is frail, and has short graying hair.
+ hypo:Leah White is young.
+ contradition: 0.9977414475203381
+
+premise: Leah White has green eyes, is frail, and has short graying hair.
+ hypo:Karen Smith is the best friend of Leah White.
+ contradition: 0.10612902697540962
+
+premise: Leah White has green eyes, is frail, and has short graying hair.
+ hypo:Karen Smith is the friend of Leah White.
+ contradition: 0.13487253640876068
+
+premise: Leah White has green eyes, is frail, and has short graying hair.
+ hypo:Karen Smith is the waitress of Leah White.
+ contradition: 0.372451131353779
+
+premise: Karen Smith is the granddaughter of Leah White.
+ hypo:Leah White is wearing a black leather jacket, has blonde hair, and is wearing a long black leather jacket.
+ contradition: 0.3665505516250467
+
+premise: Karen Smith is the granddaughter of Leah White.
+ hypo:Leah White is an advertising waitress.
+ contradition: 0.02379789880765822
+
+premise: Karen Smith is the granddaughter of Leah White.
+ hypo:Leah White is a female.
+ contradition: 0.0034353976075076603
+
+premise: Karen Smith is the granddaughter of Leah White.
+ hypo:Leah White is young.
+ contradition: 0.27635357576368175
+
+premise: Karen Smith is the granddaughter of Leah White.
+ hypo:Karen Smith is the best friend of Leah White.
+ contradition: 0.7243086318096084
+
+premise: Karen Smith is the granddaughter of Leah White.
+ hypo:Karen Smith is the friend of Leah White.
+ contradition: 0.8559078242662599
+
+premise: Karen Smith is the granddaughter of Leah White.
+ hypo:Karen Smith is the waitress of Leah White.
+ contradition: 0.8589106057199519
+
+
+MAX_PROB is 0.997881499267591
+CONTRADICTORY_PREMISE: Karen Smith is of average height, with an average build. She has shoulder-length brown hair and brown eyes.
+ CONTRADICTORY_HYPO: Karen Smith has blonde hair.

@@ -1,0 +1,28 @@
+premise: Jennie Mayfield is a female.
+ hypo:Alex Preston is the boyfriend of Jennie Mayfield.
+ contradition: 0.16985549369845776
+
+premise: Jennie Mayfield is in her early twenties.
+ hypo:Alex Preston is the boyfriend of Jennie Mayfield.
+ contradition: 0.4202371736150946
+
+premise: Alex Preston is the boyfriend of Jennie Mayfield.
+ hypo:Alex Preston is the boyfriend of Jennie Mayfield.
+ contradition: 0.0008035891673686832
+
+premise: Alex Preston is male.
+ hypo:Jennie Mayfield is the girlfriend of Alex Preston.
+ contradition: 0.0882571781244965
+
+premise: Alex Preston is in his early twenties.
+ hypo:Jennie Mayfield is the girlfriend of Alex Preston.
+ contradition: 0.1361592203968892
+
+premise: Jennie Mayfield is the girlfriend of Alex Preston.
+ hypo:Jennie Mayfield is the girlfriend of Alex Preston.
+ contradition: 0.0010045765372049184
+
+
+MAX_PROB is 0.4202371736150946
+CONTRADICTORY_PREMISE: Jennie Mayfield is in her early twenties.
+ CONTRADICTORY_HYPO: Alex Preston is the boyfriend of Jennie Mayfield.

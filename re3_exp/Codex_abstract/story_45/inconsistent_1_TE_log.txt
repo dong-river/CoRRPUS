@@ -1,0 +1,44 @@
+premise: Nina Harman has small, brown eyes and long dark hair.
+ hypo:Nina Harman is a student.
+ contradition: 0.00030917678399130973
+
+premise: Nina Harman has small, brown eyes and long dark hair.
+ hypo:Karen Hartman is the friend of Nina Harman.
+ contradition: 0.02698669639266458
+
+premise: Nina Harman is a pre-teen.
+ hypo:Nina Harman is a student.
+ contradition: 0.005346124764243932
+
+premise: Nina Harman is a pre-teen.
+ hypo:Karen Hartman is the friend of Nina Harman.
+ contradition: 0.02851950461798811
+
+premise: Jake Ryan is the crush of Nina Harman.
+ hypo:Nina Harman is a student.
+ contradition: 0.02222305780229876
+
+premise: Karen Hartman is the mother of Nina Harman.
+ hypo:Nina Harman is a student.
+ contradition: 0.4037197228407576
+
+premise: Karen Hartman is the mother of Nina Harman.
+ hypo:Karen Hartman is the friend of Nina Harman.
+ contradition: 0.995477480291891
+
+premise: Nina Harman is the daughter of Karen Hartman.
+ hypo:Karen Hartman is a female.
+ contradition: 0.0009247808126478043
+
+premise: Nina Harman is the daughter of Karen Hartman.
+ hypo:Karen Hartman is young.
+ contradition: 0.17198027315158715
+
+premise: Nina Harman is the daughter of Karen Hartman.
+ hypo:Nina Harman is the friend of Karen Hartman.
+ contradition: 0.9841174170591682
+
+
+MAX_PROB is 0.995477480291891
+CONTRADICTORY_PREMISE: Karen Hartman is the mother of Nina Harman.
+ CONTRADICTORY_HYPO: Karen Hartman is the friend of Nina Harman.

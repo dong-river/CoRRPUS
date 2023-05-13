@@ -1,0 +1,48 @@
+premise: Karen Fletcher is middle-aged.
+ hypo:Julia Fletcher is the mother-in-law of Karen Fletcher.
+ contradition: 0.1331990854301834
+
+premise: Karen Fletcher is middle-aged.
+ hypo:Kate Fletcher is the daughter of Karen Fletcher.
+ contradition: 0.5888851605699106
+
+premise: Kate Fletcher is the daughter of Karen Fletcher.
+ hypo:Kate Fletcher is the daughter of Karen Fletcher.
+ contradition: 0.0006802573864677259
+
+premise: Julia Fletcher is the sister of Karen Fletcher.
+ hypo:Julia Fletcher is the mother-in-law of Karen Fletcher.
+ contradition: 0.9843062185086665
+
+premise: Kate Fletcher has brown eyes, is tall, slender, and has dark hair.
+ hypo:Julia Fletcher is the mother-in-law of Kate Fletcher.
+ contradition: 0.28866060936387505
+
+premise: Kate Fletcher has brown eyes, is tall, slender, and has dark hair.
+ hypo:Karen Fletcher is the mother of Kate Fletcher.
+ contradition: 0.13640312125284618
+
+premise: Kate Fletcher is a teenager.
+ hypo:Julia Fletcher is the mother-in-law of Kate Fletcher.
+ contradition: 0.4405417450943932
+
+premise: Kate Fletcher is a teenager.
+ hypo:Karen Fletcher is the mother of Kate Fletcher.
+ contradition: 0.031398221783082006
+
+premise: Karen Fletcher is the mother of Kate Fletcher.
+ hypo:Karen Fletcher is the mother of Kate Fletcher.
+ contradition: 0.0006224715879718947
+
+premise: Julia Fletcher is shorter than Karen, has light brown hair, and green eyes.
+ hypo:Kate Fletcher is the daughter-in-law of Julia Fletcher.
+ contradition: 0.28061477515497074
+
+premise: Julia Fletcher is younger.
+ hypo:Kate Fletcher is the daughter-in-law of Julia Fletcher.
+ contradition: 0.1264522936505444
+
+
+MAX_PROB is 0.9843062185086665
+CONTRADICTORY_PREMISE: Julia Fletcher is the sister of Karen Fletcher.
+ CONTRADICTORY_HYPO: Julia Fletcher is the mother-in-law of Karen Fletcher.

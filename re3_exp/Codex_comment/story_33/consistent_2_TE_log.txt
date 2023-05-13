@@ -1,0 +1,96 @@
+premise: Charles Wilson is a police detective.
+ hypo:Charles Wilson has short black hair.
+ contradition: 0.001647737905292594
+
+premise: Charles Wilson is a police detective.
+ hypo:Charles Wilson is in his forties.
+ contradition: 0.0001379195902912091
+
+premise: Charles Wilson is a police detective.
+ hypo:Nina Peterson is the wife of Charles Wilson.
+ contradition: 0.1930018216222125
+
+premise: Charles Wilson is a police detective.
+ hypo:Nina Peterson is the girlfriend of Charles Wilson.
+ contradition: 0.5912268869125279
+
+premise: Charles Wilson is a police detective.
+ hypo:Jeff Foster is the sergeant of Charles Wilson.
+ contradition: 0.06299611047817089
+
+premise: Charles Wilson is in his forties.
+ hypo:Charles Wilson has short black hair.
+ contradition: 0.0007084828801583422
+
+premise: Charles Wilson is in his forties.
+ hypo:Charles Wilson is in his forties.
+ contradition: 0.000716275605359111
+
+premise: Charles Wilson is in his forties.
+ hypo:Nina Peterson is the wife of Charles Wilson.
+ contradition: 0.05235453031655216
+
+premise: Charles Wilson is in his forties.
+ hypo:Nina Peterson is the girlfriend of Charles Wilson.
+ contradition: 0.04770838659163707
+
+premise: Charles Wilson is in his forties.
+ hypo:Jeff Foster is the sergeant of Charles Wilson.
+ contradition: 0.061848542247988574
+
+premise: wife is the wife of Charles Wilson.
+ hypo:Charles Wilson has short black hair.
+ contradition: 0.0061121016953266764
+
+premise: wife is the wife of Charles Wilson.
+ hypo:Charles Wilson is in his forties.
+ contradition: 0.00033860981626949224
+
+premise: kids is the kids of Charles Wilson.
+ hypo:Charles Wilson has short black hair.
+ contradition: 0.00238019438534986
+
+premise: kids is the kids of Charles Wilson.
+ hypo:Charles Wilson is in his forties.
+ contradition: 0.00022982948939110614
+
+premise: Nina Peterson has long blonde hair, is 5'4, and has blue eyes.
+ hypo:Nina Peterson is twenty years old.
+ contradition: 0.00026503260761193815
+
+premise: Nina Peterson has long blonde hair, is 5'4, and has blue eyes.
+ hypo:Charles Wilson is the husband of Nina Peterson.
+ contradition: 0.6635862331798591
+
+premise: Nina Peterson has long blonde hair, is 5'4, and has blue eyes.
+ hypo:Charles Wilson is the boyfriend of Nina Peterson.
+ contradition: 0.5175596831684921
+
+premise: Nina Peterson is a college student.
+ hypo:Nina Peterson is twenty years old.
+ contradition: 0.00025026416310851
+
+premise: Nina Peterson is a college student.
+ hypo:Charles Wilson is the husband of Nina Peterson.
+ contradition: 0.7483145979444388
+
+premise: Nina Peterson is a college student.
+ hypo:Charles Wilson is the boyfriend of Nina Peterson.
+ contradition: 0.3262787428881835
+
+premise: Nina Peterson is in her early twenties.
+ hypo:Nina Peterson is twenty years old.
+ contradition: 0.0007552640128863634
+
+premise: Nina Peterson is in her early twenties.
+ hypo:Charles Wilson is the husband of Nina Peterson.
+ contradition: 0.683082194663422
+
+premise: Nina Peterson is in her early twenties.
+ hypo:Charles Wilson is the boyfriend of Nina Peterson.
+ contradition: 0.47412671102873394
+
+
+MAX_PROB is 0.7483145979444388
+CONTRADICTORY_PREMISE: Nina Peterson is a college student.
+ CONTRADICTORY_HYPO: Charles Wilson is the husband of Nina Peterson.

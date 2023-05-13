@@ -1,0 +1,52 @@
+premise: Harold Martinez is a gas station clerk.
+ hypo:Harold Martinez has dark eyes, is hispanic, has dark brown hair, and is of medium build.
+ contradition: 0.0010358846677138885
+
+premise: Harold Martinez is a gas station clerk.
+ hypo:Harold Martinez is a gas station clerk.
+ contradition: 0.001110869424774686
+
+premise: Harold Martinez is a gas station clerk.
+ hypo:David Garcia is the customer of Harold Martinez.
+ contradition: 0.011578324015755672
+
+premise: Harold Martinez is male.
+ hypo:Harold Martinez has dark eyes, is hispanic, has dark brown hair, and is of medium build.
+ contradition: 0.0005492920540264829
+
+premise: Harold Martinez is male.
+ hypo:Harold Martinez is a gas station clerk.
+ contradition: 0.0010853234892675902
+
+premise: Harold Martinez is male.
+ hypo:David Garcia is the customer of Harold Martinez.
+ contradition: 0.006420050127220235
+
+premise: Harold Martinez is middle-aged.
+ hypo:Harold Martinez has dark eyes, is hispanic, has dark brown hair, and is of medium build.
+ contradition: 0.0006564870703711965
+
+premise: Harold Martinez is middle-aged.
+ hypo:Harold Martinez is a gas station clerk.
+ contradition: 0.0010579191175147452
+
+premise: Harold Martinez is middle-aged.
+ hypo:David Garcia is the customer of Harold Martinez.
+ contradition: 0.011571154489746781
+
+premise: David Garcia is a customer.
+ hypo:David Garcia is disheveled, has a monotone voice, messy hair, is unshaven, has dirty clothes, and has bags under his eyes.
+ contradition: 0.017843459035447626
+
+premise: David Garcia is male.
+ hypo:David Garcia is disheveled, has a monotone voice, messy hair, is unshaven, has dirty clothes, and has bags under his eyes.
+ contradition: 0.00044209462032150247
+
+premise: David Garcia is young.
+ hypo:David Garcia is disheveled, has a monotone voice, messy hair, is unshaven, has dirty clothes, and has bags under his eyes.
+ contradition: 0.054807824114247235
+
+
+MAX_PROB is 0.054807824114247235
+CONTRADICTORY_PREMISE: David Garcia is young.
+ CONTRADICTORY_HYPO: David Garcia is disheveled, has a monotone voice, messy hair, is unshaven, has dirty clothes, and has bags under his eyes.

@@ -1,0 +1,52 @@
+premise: Shannon Burke has hazel eyes and shoulder-length brown hair.
+ hypo:Maxine Carter is the mother of Shannon Burke.
+ contradition: 0.06648927791848057
+
+premise: Shannon Burke has hazel eyes and shoulder-length brown hair.
+ hypo:Charles Burke is the boyfriend of Shannon Burke.
+ contradition: 0.5059944433029825
+
+premise: Shannon Burke is a female.
+ hypo:Maxine Carter is the mother of Shannon Burke.
+ contradition: 0.024906066246039832
+
+premise: Shannon Burke is a female.
+ hypo:Charles Burke is the boyfriend of Shannon Burke.
+ contradition: 0.21344616103660213
+
+premise: Shannon Burke is young.
+ hypo:Maxine Carter is the mother of Shannon Burke.
+ contradition: 0.008474373422106241
+
+premise: Shannon Burke is young.
+ hypo:Charles Burke is the boyfriend of Shannon Burke.
+ contradition: 0.14327391681422888
+
+premise: Charles Burke is the father of Shannon Burke.
+ hypo:Charles Burke is the boyfriend of Shannon Burke.
+ contradition: 0.9994164536030691
+
+premise: Maxine Carter is the mother of Shannon Burke.
+ hypo:Maxine Carter is the mother of Shannon Burke.
+ contradition: 0.0005050277986953422
+
+premise: Charles Burke is a journalist.
+ hypo:Shannon Burke is the girlfriend of Charles Burke.
+ contradition: 0.5303100534351765
+
+premise: Shannon Burke is the daughter of Charles Burke.
+ hypo:Shannon Burke is the girlfriend of Charles Burke.
+ contradition: 0.9988219327553449
+
+premise: Maxine Carter is a secretary.
+ hypo:Shannon Burke is the daughter of Maxine Carter.
+ contradition: 0.06656333342067985
+
+premise: Shannon Burke is the daughter of Maxine Carter.
+ hypo:Shannon Burke is the daughter of Maxine Carter.
+ contradition: 0.0008490940835307614
+
+
+MAX_PROB is 0.9994164536030691
+CONTRADICTORY_PREMISE: Charles Burke is the father of Shannon Burke.
+ CONTRADICTORY_HYPO: Charles Burke is the boyfriend of Shannon Burke.

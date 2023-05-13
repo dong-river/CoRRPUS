@@ -1,0 +1,60 @@
+premise: Shannon Kincaid is of average height, with an average build. She has blue eyes and long brown hair.
+ hypo:Shannon Kincaid is a female.
+ contradition: 0.0002986000554794782
+
+premise: Shannon Kincaid is a female.
+ hypo:Shannon Kincaid is a female.
+ contradition: 0.0006259036182292078
+
+premise: Shannon Kincaid is a female.
+ hypo:Mark Woodbury is the date of Shannon Kincaid.
+ contradition: 0.7247326633077613
+
+premise: Shannon Kincaid is in her early twenties.
+ hypo:Shannon Kincaid is a female.
+ contradition: 0.00015247610035589167
+
+premise: Shannon Kincaid is in her early twenties.
+ hypo:Mark Woodbury is the date of Shannon Kincaid.
+ contradition: 0.9547527987480584
+
+premise: Jack Kincaid is the father of Shannon Kincaid.
+ hypo:Shannon Kincaid is a female.
+ contradition: 0.22643238817509484
+
+premise: Mark Woodbury is the boyfriend of Shannon Kincaid.
+ hypo:Shannon Kincaid is a female.
+ contradition: 0.007335532783612307
+
+premise: Mark Woodbury is the boyfriend of Shannon Kincaid.
+ hypo:Mark Woodbury is the date of Shannon Kincaid.
+ contradition: 0.5029069309558077
+
+premise: Mark Woodbury is a student.
+ hypo:Mark Woodbury is male.
+ contradition: 0.0012042916265971736
+
+premise: Mark Woodbury is a student.
+ hypo:Shannon Kincaid is the date of Mark Woodbury.
+ contradition: 0.21094653724221993
+
+premise: Mark Woodbury is male.
+ hypo:Mark Woodbury is male.
+ contradition: 0.000798102437042238
+
+premise: Mark Woodbury is male.
+ hypo:Shannon Kincaid is the date of Mark Woodbury.
+ contradition: 0.11459169708530033
+
+premise: Shannon Kincaid is the girlfriend of Mark Woodbury.
+ hypo:Mark Woodbury is male.
+ contradition: 0.004920503550128766
+
+premise: Shannon Kincaid is the girlfriend of Mark Woodbury.
+ hypo:Shannon Kincaid is the date of Mark Woodbury.
+ contradition: 0.487893399357477
+
+
+MAX_PROB is 0.9547527987480584
+CONTRADICTORY_PREMISE: Shannon Kincaid is in her early twenties.
+ CONTRADICTORY_HYPO: Mark Woodbury is the date of Shannon Kincaid.

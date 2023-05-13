@@ -1,0 +1,40 @@
+premise: Jennifer Ann Smith has shoulder length brown hair.
+ hypo:Jennifer Ann Smith is a receptionist.
+ contradition: 0.0005997084689119347
+
+premise: Jennifer Ann Smith has shoulder length brown hair.
+ hypo:Jennifer Ann Smith is a female.
+ contradition: 0.00018999407225725096
+
+premise: Jennifer Ann Smith has shoulder length brown hair.
+ hypo:Jennifer Ann Smith is 27 years old.
+ contradition: 0.00026212730907915134
+
+premise: Clara Smith is the mother of Jennifer Ann Smith.
+ hypo:Jennifer Ann Smith is a receptionist.
+ contradition: 0.0018902833912760064
+
+premise: Clara Smith is the mother of Jennifer Ann Smith.
+ hypo:Jennifer Ann Smith is a female.
+ contradition: 0.001058756339709514
+
+premise: Clara Smith is the mother of Jennifer Ann Smith.
+ hypo:Jennifer Ann Smith is 27 years old.
+ contradition: 0.0003172732930976181
+
+premise: Robert Smith is the father of Jennifer Ann Smith.
+ hypo:Jennifer Ann Smith is a receptionist.
+ contradition: 0.008700861221778053
+
+premise: Robert Smith is the father of Jennifer Ann Smith.
+ hypo:Jennifer Ann Smith is a female.
+ contradition: 0.011681621285763782
+
+premise: Robert Smith is the father of Jennifer Ann Smith.
+ hypo:Jennifer Ann Smith is 27 years old.
+ contradition: 0.0009162064636262754
+
+
+MAX_PROB is 0.011681621285763782
+CONTRADICTORY_PREMISE: Robert Smith is the father of Jennifer Ann Smith.
+ CONTRADICTORY_HYPO: Jennifer Ann Smith is a female.

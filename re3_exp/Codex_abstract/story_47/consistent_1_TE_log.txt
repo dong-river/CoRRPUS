@@ -1,0 +1,20 @@
+premise: Maxine Carter has a sharp wit and no-nonsense attitude.
+ hypo:Shannon Burke is the hire of Maxine Carter.
+ contradition: 0.8736304129054211
+
+premise: Maxine Carter is a reporter.
+ hypo:Shannon Burke is the hire of Maxine Carter.
+ contradition: 0.5440502707865613
+
+premise: Maxine Carter is a female.
+ hypo:Shannon Burke is the hire of Maxine Carter.
+ contradition: 0.19136780619221092
+
+premise: Maxine Carter is in her late forties.
+ hypo:Shannon Burke is the hire of Maxine Carter.
+ contradition: 0.6799336433424775
+
+
+MAX_PROB is 0.8736304129054211
+CONTRADICTORY_PREMISE: Maxine Carter has a sharp wit and no-nonsense attitude.
+ CONTRADICTORY_HYPO: Shannon Burke is the hire of Maxine Carter.

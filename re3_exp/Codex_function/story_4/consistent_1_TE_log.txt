@@ -1,0 +1,175 @@
+premise: Shannon Kincaid is of average height, with blue eyes, long brown hair, and an average build.
+ hypo:Shannon Kincaid is an investigative reporter.
+ contradition: 0.0005289825109569601
+
+premise: Shannon Kincaid is of average height, with blue eyes, long brown hair, and an average build.
+ hypo:Shannon Kincaid is a female.
+ contradition: 0.00047317717213930636
+
+premise: Shannon Kincaid is of average height, with blue eyes, long brown hair, and an average build.
+ hypo:Shannon Kincaid is young.
+ contradition: 0.003398148562446909
+
+premise: Shannon Kincaid is a journalist.
+ hypo:Shannon Kincaid is an investigative reporter.
+ contradition: 0.00010066259216721047
+
+premise: Shannon Kincaid is a journalist.
+ hypo:Shannon Kincaid is a female.
+ contradition: 0.0017521763267552355
+
+premise: Shannon Kincaid is a journalist.
+ hypo:Shannon Kincaid is young.
+ contradition: 0.012123887134538505
+
+premise: Shannon Kincaid is a female.
+ hypo:Shannon Kincaid is an investigative reporter.
+ contradition: 0.00020057290300400741
+
+premise: Shannon Kincaid is a female.
+ hypo:Shannon Kincaid is a female.
+ contradition: 0.0006259036182292078
+
+premise: Shannon Kincaid is a female.
+ hypo:Shannon Kincaid is young.
+ contradition: 0.00022181291382614173
+
+premise: Shannon Kincaid is young.
+ hypo:Shannon Kincaid is an investigative reporter.
+ contradition: 0.00139631410514683
+
+premise: Shannon Kincaid is young.
+ hypo:Shannon Kincaid is a female.
+ contradition: 0.0007814720234473474
+
+premise: Shannon Kincaid is young.
+ hypo:Shannon Kincaid is young.
+ contradition: 0.0011625940322731458
+
+premise: Jack Kincaid is the father of Shannon Kincaid.
+ hypo:Shannon Kincaid is an investigative reporter.
+ contradition: 0.0012600723347648238
+
+premise: Jack Kincaid is the father of Shannon Kincaid.
+ hypo:Shannon Kincaid is a female.
+ contradition: 0.22643238817509484
+
+premise: Jack Kincaid is the father of Shannon Kincaid.
+ hypo:Shannon Kincaid is young.
+ contradition: 0.004268204456208322
+
+premise: Mark Woodbury is the boss of Shannon Kincaid.
+ hypo:Shannon Kincaid is an investigative reporter.
+ contradition: 0.0015030012335240854
+
+premise: Mark Woodbury is the boss of Shannon Kincaid.
+ hypo:Shannon Kincaid is a female.
+ contradition: 0.009869235723270824
+
+premise: Mark Woodbury is the boss of Shannon Kincaid.
+ hypo:Shannon Kincaid is young.
+ contradition: 0.016555292773875935
+
+premise: Mark Woodbury has a mustache and graying hair.
+ hypo:Mark Woodbury has a mustache, graying hair, and glasses. He appears to be middle aged.
+ contradition: 4.220300935605718e-05
+
+premise: Mark Woodbury is middle-aged.
+ hypo:Mark Woodbury has a mustache, graying hair, and glasses. He appears to be middle aged.
+ contradition: 2.7241139605469436e-05
+
+premise: Shannon Kincaid is the employee of Mark Woodbury.
+ hypo:Mark Woodbury has a mustache, graying hair, and glasses. He appears to be middle aged.
+ contradition: 0.00036044260131939574
+
+
+MAX_PROB is 0.22643238817509484
+CONTRADICTORY_PREMISE: Jack Kincaid is the father of Shannon Kincaid.
+ CONTRADICTORY_HYPO: Shannon Kincaid is a female.premise: Shannon Kincaid has long brown hair, is of average height, has blue eyes, and has an average build.
+ hypo:Shannon Kincaid is an investigative reporter.
+ contradition: 0.0005901364230971769
+
+premise: Shannon Kincaid has long brown hair, is of average height, has blue eyes, and has an average build.
+ hypo:Shannon Kincaid is a female.
+ contradition: 0.0005438051187489867
+
+premise: Shannon Kincaid has long brown hair, is of average height, has blue eyes, and has an average build.
+ hypo:Shannon Kincaid is young.
+ contradition: 0.0035812807949654225
+
+premise: Shannon Kincaid is a journalist.
+ hypo:Shannon Kincaid is an investigative reporter.
+ contradition: 0.00010066259216721047
+
+premise: Shannon Kincaid is a journalist.
+ hypo:Shannon Kincaid is a female.
+ contradition: 0.0017521763267552355
+
+premise: Shannon Kincaid is a journalist.
+ hypo:Shannon Kincaid is young.
+ contradition: 0.012123887134538505
+
+premise: Shannon Kincaid is a female.
+ hypo:Shannon Kincaid is an investigative reporter.
+ contradition: 0.00020057290300400741
+
+premise: Shannon Kincaid is a female.
+ hypo:Shannon Kincaid is a female.
+ contradition: 0.0006259036182292078
+
+premise: Shannon Kincaid is a female.
+ hypo:Shannon Kincaid is young.
+ contradition: 0.00022181291382614173
+
+premise: Shannon Kincaid is young.
+ hypo:Shannon Kincaid is an investigative reporter.
+ contradition: 0.00139631410514683
+
+premise: Shannon Kincaid is young.
+ hypo:Shannon Kincaid is a female.
+ contradition: 0.0007814720234473474
+
+premise: Shannon Kincaid is young.
+ hypo:Shannon Kincaid is young.
+ contradition: 0.0011625940322731458
+
+premise: Jack Kincaid is the father of Shannon Kincaid.
+ hypo:Shannon Kincaid is an investigative reporter.
+ contradition: 0.0012600723347648238
+
+premise: Jack Kincaid is the father of Shannon Kincaid.
+ hypo:Shannon Kincaid is a female.
+ contradition: 0.22643238817509484
+
+premise: Jack Kincaid is the father of Shannon Kincaid.
+ hypo:Shannon Kincaid is young.
+ contradition: 0.004268204456208322
+
+premise: Mark Woodbury is the boss of Shannon Kincaid.
+ hypo:Shannon Kincaid is an investigative reporter.
+ contradition: 0.0015030012335240854
+
+premise: Mark Woodbury is the boss of Shannon Kincaid.
+ hypo:Shannon Kincaid is a female.
+ contradition: 0.009869235723270824
+
+premise: Mark Woodbury is the boss of Shannon Kincaid.
+ hypo:Shannon Kincaid is young.
+ contradition: 0.016555292773875935
+
+premise: Mark Woodbury has a mustache and graying hair.
+ hypo:Mark Woodbury wears glasses, has a mustache, and his hair is graying. He appears to be middle aged.
+ contradition: 5.659377350656831e-05
+
+premise: Mark Woodbury is middle-aged.
+ hypo:Mark Woodbury wears glasses, has a mustache, and his hair is graying. He appears to be middle aged.
+ contradition: 3.1072997253056864e-05
+
+premise: Shannon Kincaid is the employee of Mark Woodbury.
+ hypo:Mark Woodbury wears glasses, has a mustache, and his hair is graying. He appears to be middle aged.
+ contradition: 0.00046902788845146014
+
+
+MAX_PROB is 0.22643238817509484
+CONTRADICTORY_PREMISE: Jack Kincaid is the father of Shannon Kincaid.
+ CONTRADICTORY_HYPO: Shannon Kincaid is a female.

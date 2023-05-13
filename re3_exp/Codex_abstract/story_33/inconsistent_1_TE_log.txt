@@ -1,0 +1,52 @@
+premise: Charles Wilson is of average height, with brown eyes and brown hair.
+ hypo:Charles Wilson has short black hair.
+ contradition: 0.9945046575681838
+
+premise: Charles Wilson is of average height, with brown eyes and brown hair.
+ hypo:Charles Wilson is in his forties.
+ contradition: 0.00018442607852110505
+
+premise: Charles Wilson is in his early twenties.
+ hypo:Charles Wilson has short black hair.
+ contradition: 0.0009465633010989159
+
+premise: Charles Wilson is in his early twenties.
+ hypo:Charles Wilson is in his forties.
+ contradition: 0.9995275584739887
+
+premise: Charles Wilson is in his early twenties.
+ hypo:Nina Peterson is the wife of Charles Wilson.
+ contradition: 0.0909390441265416
+
+premise: Charles Wilson is in his early twenties.
+ hypo:Jeff Foster is the sergeant of Charles Wilson.
+ contradition: 0.09272098314004229
+
+premise: Nina Peterson is 5'4, has long blonde hair, and blue eyes.
+ hypo:Nina Peterson is a college student.
+ contradition: 0.00016379371899586235
+
+premise: Nina Peterson is 5'4, has long blonde hair, and blue eyes.
+ hypo:Charles Wilson is the husband of Nina Peterson.
+ contradition: 0.642303084904541
+
+premise: Nina Peterson is a college student.
+ hypo:Nina Peterson is a college student.
+ contradition: 0.0008866388353831511
+
+premise: Nina Peterson is a college student.
+ hypo:Charles Wilson is the husband of Nina Peterson.
+ contradition: 0.7483144418338648
+
+premise: Nina Peterson is in her early twenties.
+ hypo:Nina Peterson is a college student.
+ contradition: 0.00010063840324308898
+
+premise: Nina Peterson is in her early twenties.
+ hypo:Charles Wilson is the husband of Nina Peterson.
+ contradition: 0.6830831921785038
+
+
+MAX_PROB is 0.9995275584739887
+CONTRADICTORY_PREMISE: Charles Wilson is in his early twenties.
+ CONTRADICTORY_HYPO: Charles Wilson is in his forties.

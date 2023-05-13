@@ -1,0 +1,87 @@
+premise: Emily Hellinger is the wife of Sherry Hellinger.
+ hypo:Emily Hellinger is the wife of Sherry Hellinger.
+ contradition: 0.0009251323324133884
+
+premise: Emily Hellinger has short brown hair, hazel eyes, and is tall.
+ hypo:Emily Hellinger has blue eyes, short hair, blonde hair, and an oval face.
+ contradition: 0.9993229922770887
+
+premise: Emily Hellinger has short brown hair, hazel eyes, and is tall.
+ hypo:Emily Hellinger is 44 years old.
+ contradition: 0.00021059267194680482
+
+premise: Emily Hellinger has short brown hair, hazel eyes, and is tall.
+ hypo:Sherry Hellinger is the wife of Emily Hellinger.
+ contradition: 0.8939611671008352
+
+premise: Emily Hellinger is in her early 40s.
+ hypo:Emily Hellinger has blue eyes, short hair, blonde hair, and an oval face.
+ contradition: 0.000663706618785234
+
+premise: Emily Hellinger is in her early 40s.
+ hypo:Emily Hellinger is 44 years old.
+ contradition: 0.0028559690309629304
+
+premise: Emily Hellinger is in her early 40s.
+ hypo:Sherry Hellinger is the wife of Emily Hellinger.
+ contradition: 0.7874162962012523
+
+premise: Sherry Hellinger is the wife of Emily Hellinger.
+ hypo:Emily Hellinger has blue eyes, short hair, blonde hair, and an oval face.
+ contradition: 0.008680667132470144
+
+premise: Sherry Hellinger is the wife of Emily Hellinger.
+ hypo:Emily Hellinger is 44 years old.
+ contradition: 0.00215171110635367
+
+premise: Sherry Hellinger is the wife of Emily Hellinger.
+ hypo:Sherry Hellinger is the wife of Emily Hellinger.
+ contradition: 0.00149025555672799
+
+
+MAX_PROB is 0.9993229922770887
+CONTRADICTORY_PREMISE: Emily Hellinger has short brown hair, hazel eyes, and is tall.
+ CONTRADICTORY_HYPO: Emily Hellinger has blue eyes, short hair, blonde hair, and an oval face.premise: Emily Hellinger is the wife of Sherry Hellinger.
+ hypo:Emily Hellinger is the wife of Sherry Hellinger.
+ contradition: 0.0009251323324133884
+
+premise: Emily Hellinger is tall, with hazel eyes and short brown hair.
+ hypo:Emily Hellinger has an oval face, blue eyes, and blonde hair. She keeps her hair short.
+ contradition: 0.9963301884069147
+
+premise: Emily Hellinger is tall, with hazel eyes and short brown hair.
+ hypo:Emily Hellinger is 44 years old.
+ contradition: 0.00023270658426119775
+
+premise: Emily Hellinger is tall, with hazel eyes and short brown hair.
+ hypo:Sherry Hellinger is the wife of Emily Hellinger.
+ contradition: 0.913492998521698
+
+premise: Emily Hellinger is in her early 40s.
+ hypo:Emily Hellinger has an oval face, blue eyes, and blonde hair. She keeps her hair short.
+ contradition: 0.0007567708907389776
+
+premise: Emily Hellinger is in her early 40s.
+ hypo:Emily Hellinger is 44 years old.
+ contradition: 0.0028559690309629304
+
+premise: Emily Hellinger is in her early 40s.
+ hypo:Sherry Hellinger is the wife of Emily Hellinger.
+ contradition: 0.7874162962012523
+
+premise: Sherry Hellinger is the wife of Emily Hellinger.
+ hypo:Emily Hellinger has an oval face, blue eyes, and blonde hair. She keeps her hair short.
+ contradition: 0.010314014765424196
+
+premise: Sherry Hellinger is the wife of Emily Hellinger.
+ hypo:Emily Hellinger is 44 years old.
+ contradition: 0.00215171110635367
+
+premise: Sherry Hellinger is the wife of Emily Hellinger.
+ hypo:Sherry Hellinger is the wife of Emily Hellinger.
+ contradition: 0.00149025555672799
+
+
+MAX_PROB is 0.9963301884069147
+CONTRADICTORY_PREMISE: Emily Hellinger is tall, with hazel eyes and short brown hair.
+ CONTRADICTORY_HYPO: Emily Hellinger has an oval face, blue eyes, and blonde hair. She keeps her hair short.

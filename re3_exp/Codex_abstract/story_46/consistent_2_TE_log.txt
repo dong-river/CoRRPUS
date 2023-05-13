@@ -1,0 +1,52 @@
+premise: Tina Sanchez is short and thin, with brown eyes and long black hair.
+ hypo:Tina Sanchez is wearing a new dress and has long black hair.
+ contradition: 0.00046984760995985906
+
+premise: Tina Sanchez is short and thin, with brown eyes and long black hair.
+ hypo:Tina Sanchez is a model.
+ contradition: 0.000721333242727107
+
+premise: Tina Sanchez is short and thin, with brown eyes and long black hair.
+ hypo:Jessica Campbell is the stylist of Tina Sanchez.
+ contradition: 0.002736496589528574
+
+premise: Tina Sanchez is a model.
+ hypo:Tina Sanchez is wearing a new dress and has long black hair.
+ contradition: 0.004311681355403359
+
+premise: Tina Sanchez is a model.
+ hypo:Tina Sanchez is a model.
+ contradition: 0.000508011619797619
+
+premise: Tina Sanchez is a model.
+ hypo:Jessica Campbell is the stylist of Tina Sanchez.
+ contradition: 0.025530012393346655
+
+premise: Tina Sanchez is a female.
+ hypo:Tina Sanchez is wearing a new dress and has long black hair.
+ contradition: 0.0006683232705507573
+
+premise: Tina Sanchez is a female.
+ hypo:Tina Sanchez is a model.
+ contradition: 0.00038180385057598394
+
+premise: Tina Sanchez is a female.
+ hypo:Jessica Campbell is the stylist of Tina Sanchez.
+ contradition: 0.006358935881305017
+
+premise: Tina Sanchez is 22 years old.
+ hypo:Tina Sanchez is wearing a new dress and has long black hair.
+ contradition: 0.0012526515516525247
+
+premise: Tina Sanchez is 22 years old.
+ hypo:Tina Sanchez is a model.
+ contradition: 0.0007883154429961652
+
+premise: Tina Sanchez is 22 years old.
+ hypo:Jessica Campbell is the stylist of Tina Sanchez.
+ contradition: 0.006484617477236093
+
+
+MAX_PROB is 0.025530012393346655
+CONTRADICTORY_PREMISE: Tina Sanchez is a model.
+ CONTRADICTORY_HYPO: Jessica Campbell is the stylist of Tina Sanchez.

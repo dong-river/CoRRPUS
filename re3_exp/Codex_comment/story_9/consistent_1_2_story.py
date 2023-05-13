@@ -1,0 +1,65 @@
+## Beth Christensen walked into the living room, where her daughter Julie was sitting with her boyfriend Tommy.
+## She could tell that the two were happy and carefree, and she instantly knew that something was up.
+## "Julie," Beth said sternly.
+## "What's going on?"
+## "What do you mean?"
+## Julie asked nervously.
+## "You look too happy for something not to be going on," Beth replied, glaring at Tommy.
+## "Is this about what I think it is?"
+## Julie turned to Tommy for help, but he remained silent and looked away from her.
+## "I'm pregnant," she said in a low voice after several moments of silence.
+## She started to tear up as she finished speaking.
+## "I'm sorry."
+## Beth was shocked by what she had just heard.
+## She went to her daughter and pulled her into a hug while scolding Tommy at the same time.
+## "Tommy Foster!
+## What did you do?
+## When did this happen?
+## Why didn't you stop this from happening?
+## You're the one who is supposed to be responsible!
+## Now I have to deal with you and your father's mistakes."
+## Create a world model state to track each character's appearance, personality, and relations with other characters.
+
+class character:
+    def __init__(self, name):
+        self.name = name
+        self.appearance = []
+        self.occupation = []
+        self.gender = []
+        self.age = []
+        self.relations = {}
+
+class World:
+    def __init__(self):
+        self.Julie_Christensen = character('Julie Christensen')
+        self.Tommy_Foster = character('Tommy Foster')
+        self.Beth_Christensen = character('Beth Christensen')
+
+    def story(self):
+        ## Beth Christensen walked into the living room, where her daughter Julie was sitting with her boyfriend Tommy.
+        self.Beth_Christensen.relations['daughter'] = 'Julie_Christensen'
+        self.Julie_Christensen.relations['mother'] = 'Beth_Christensen'
+        self.Tommy_Foster.relations['girlfriend'] = 'Julie_Christensen'
+        self.Julie_Christensen.relations['boyfriend'] = 'Tommy_Foster'
+        ## She could tell that the two were happy and carefree, and she instantly knew that something was up.
+        self.Julie_Christensen.appearance.append('happy')
+        self.Julie_Christensen.appearance.append('carefree')
+        ## "Julie," Beth said sternly.
+        ## "What's going on?"
+        ## "What do you mean?"
+        ## Julie asked nervously.
+        ## "You look too happy for something not to be going on," Beth replied, glaring at Tommy.
+        ## "Is this about what I think it is?"
+        ## Julie turned to Tommy for help, but he remained silent and looked away from her.
+        ## "I'm pregnant," she said in a low voice after several moments of silence.
+        ## She started to tear up as she finished speaking.
+        ## "I'm sorry."
+        ## Beth was shocked by what she had just heard.
+        ## She went to her daughter and pulled her into a hug while scolding Tommy at the same time.
+        ## "Tommy Foster!
+        ## What did you do?
+        ## When did this happen?
+        ## Why didn't you stop this from happening?
+        ## You're the one who is supposed to be responsible!
+        ## Now I have to deal with you and your father's mistakes."
+

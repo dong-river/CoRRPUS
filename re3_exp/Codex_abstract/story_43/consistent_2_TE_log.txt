@@ -1,0 +1,24 @@
+premise: Shannon Mulaney has wavy brown/blonde ombre/roots, somewhat muscular, pale skin, blue eyes.
+ hypo:Shannon Mulaney is a student and softball player.
+ contradition: 0.0005248551746577647
+
+premise: Shannon Mulaney has wavy brown/blonde ombre/roots, somewhat muscular, pale skin, blue eyes.
+ hypo:Shannon Mulaney is a female.
+ contradition: 0.0007935108605910444
+
+premise: Shannon Mulaney is 18 years old.
+ hypo:Shannon Mulaney is a student and softball player.
+ contradition: 0.00021451842100808473
+
+premise: Shannon Mulaney is 18 years old.
+ hypo:Shannon Mulaney is a female.
+ contradition: 0.0022477125676491298
+
+premise: Olivia Kendall is the best friend of Shannon Mulaney.
+ hypo:Shannon Mulaney is a female.
+ contradition: 0.004693704365114501
+
+
+MAX_PROB is 0.004693704365114501
+CONTRADICTORY_PREMISE: Olivia Kendall is the best friend of Shannon Mulaney.
+ CONTRADICTORY_HYPO: Shannon Mulaney is a female.

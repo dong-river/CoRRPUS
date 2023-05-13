@@ -1,0 +1,4 @@
+
+MAX_PROB is 0
+CONTRADICTORY_PREMISE: Emily Hellinger is tall, with hazel eyes and short brown hair.
+ CONTRADICTORY_HYPO: Emily Hellinger has an oval face, blue eyes, and blonde hair. She keeps her hair short.

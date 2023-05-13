@@ -1,0 +1,54 @@
+premise: Jane Doe has long dark hair, is of average height, and has a brown eyes.
+ hypo:Jane Doe has a frown.
+ contradition: 0.008520276609379375
+
+premise: Jane Doe is female.
+ hypo:Jane Doe has a frown.
+ contradition: 0.003308203572905262
+
+premise: Jane Doe is female.
+ hypo:Jessica Brown is the best friend of Jane Doe.
+ contradition: 0.03145194172835034
+
+premise: Jane Doe is young.
+ hypo:Jane Doe has a frown.
+ contradition: 0.008910186788051574
+
+premise: Jane Doe is young.
+ hypo:Jessica Brown is the best friend of Jane Doe.
+ contradition: 0.029492186834222552
+
+premise: Jessica Brown is the sister of Jane Doe.
+ hypo:Jane Doe has a frown.
+ contradition: 0.163105185608865
+
+premise: Jessica Brown is the sister of Jane Doe.
+ hypo:Jessica Brown is the best friend of Jane Doe.
+ contradition: 0.7590257219968397
+
+premise: Mister Snuggles is the friend of Jane Doe.
+ hypo:Jane Doe has a frown.
+ contradition: 0.7352950697602921
+
+premise: 
+This is not a complete sentence, so it is difficult to say what it is trying to communicate.
+ hypo:Jane Doe is the apartment of Jessica Brown.
+ contradition: 0.28104894822502147
+
+premise: 
+This is not a complete sentence, so it is difficult to say what it is trying to communicate.
+ hypo:Jane Doe is the best friend of Jessica Brown.
+ contradition: 0.25312772532895206
+
+premise: Jane Doe is the sister of Jessica Brown.
+ hypo:Jane Doe is the apartment of Jessica Brown.
+ contradition: 0.3179697454589137
+
+premise: Jane Doe is the sister of Jessica Brown.
+ hypo:Jane Doe is the best friend of Jessica Brown.
+ contradition: 0.8548237818986977
+
+
+MAX_PROB is 0.8548237818986977
+CONTRADICTORY_PREMISE: Jane Doe is the sister of Jessica Brown.
+ CONTRADICTORY_HYPO: Jane Doe is the best friend of Jessica Brown.

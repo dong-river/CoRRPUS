@@ -1,0 +1,28 @@
+premise: Shannon Mulaney has long curly red hair and is petite.
+ hypo:Shannon Mulaney is a softball scholarship athlete.
+ contradition: 0.0007822448775065028
+
+premise: Shannon Mulaney has long curly red hair and is petite.
+ hypo:Olivia Kendall is the mother of Shannon Mulaney.
+ contradition: 0.6956608754251583
+
+premise: Shannon Mulaney is a student.
+ hypo:Shannon Mulaney is a softball scholarship athlete.
+ contradition: 0.08418975054253193
+
+premise: Shannon Mulaney is a student.
+ hypo:Olivia Kendall is the mother of Shannon Mulaney.
+ contradition: 0.78901961989482
+
+premise: Shannon Mulaney is 20 years old.
+ hypo:Shannon Mulaney is a softball scholarship athlete.
+ contradition: 0.0007609528214124051
+
+premise: Shannon Mulaney is 20 years old.
+ hypo:Olivia Kendall is the mother of Shannon Mulaney.
+ contradition: 0.35987362912598686
+
+
+MAX_PROB is 0.78901961989482
+CONTRADICTORY_PREMISE: Shannon Mulaney is a student.
+ CONTRADICTORY_HYPO: Olivia Kendall is the mother of Shannon Mulaney.

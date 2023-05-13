@@ -1,0 +1,40 @@
+premise: Emma Saunders is a high school girl.
+ hypo:Olivia Saunders is the mother of Emma Saunders.
+ contradition: 0.03846131234794522
+
+premise: Emma Saunders is a female.
+ hypo:Olivia Saunders is the mother of Emma Saunders.
+ contradition: 0.005286564839797381
+
+premise: Emma Saunders is a teenager.
+ hypo:Olivia Saunders is the mother of Emma Saunders.
+ contradition: 0.02832777150986147
+
+premise: Olivia Saunders is the mother of Emma Saunders.
+ hypo:Olivia Saunders is the mother of Emma Saunders.
+ contradition: 0.0005483687670012012
+
+premise: Olivia Saunders is the daughter of Emma Saunders.
+ hypo:Olivia Saunders is the mother of Emma Saunders.
+ contradition: 0.9982854963284482
+
+premise: Olivia Saunders has green eyes, is tall, and has blonde hair.
+ hypo:Emma Saunders is the daughter of Olivia Saunders.
+ contradition: 0.039372804687351694
+
+premise: Olivia Saunders is a female.
+ hypo:Emma Saunders is the daughter of Olivia Saunders.
+ contradition: 0.0030310960687143897
+
+premise: Emma Saunders is the daughter of Olivia Saunders.
+ hypo:Emma Saunders is the daughter of Olivia Saunders.
+ contradition: 0.0011675066589884435
+
+premise: Emma Saunders is the mother of Olivia Saunders.
+ hypo:Emma Saunders is the daughter of Olivia Saunders.
+ contradition: 0.9987572397659586
+
+
+MAX_PROB is 0.9987572397659586
+CONTRADICTORY_PREMISE: Emma Saunders is the mother of Olivia Saunders.
+ CONTRADICTORY_HYPO: Emma Saunders is the daughter of Olivia Saunders.

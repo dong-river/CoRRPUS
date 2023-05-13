@@ -1,0 +1,124 @@
+premise: Payton Dupree is fiercely independent.
+ hypo:Olivia Dupree is the niece of Payton Dupree.
+ contradition: 0.604436380563831
+
+premise: Payton Dupree is a businesswoman.
+ hypo:Olivia Dupree is the niece of Payton Dupree.
+ contradition: 0.27663908332270676
+
+premise: Payton Dupree is a female.
+ hypo:Olivia Dupree is the niece of Payton Dupree.
+ contradition: 0.04900883457338914
+
+premise: Payton Dupree is thirty-six years old.
+ hypo:Olivia Dupree is the niece of Payton Dupree.
+ contradition: 0.09857807036723401
+
+premise: Amanda Dupree is a stay-at-home mom.
+ hypo:Olivia Dupree is the daughter of Amanda Dupree.
+ contradition: 0.0024836858581035915
+
+premise: Amanda Dupree is a stay-at-home mom.
+ hypo:Olivia Dupree is the guardian of Amanda Dupree.
+ contradition: 0.16528754631887474
+
+premise: Olivia Dupree is the daughter of Amanda Dupree.
+ hypo:Olivia Dupree is the daughter of Amanda Dupree.
+ contradition: 0.0010097632909701643
+
+premise: Olivia Dupree is the daughter of Amanda Dupree.
+ hypo:Olivia Dupree is the guardian of Amanda Dupree.
+ contradition: 0.46934512035858367
+
+premise: Olivia Dupree is shy and introverted.
+ hypo:Olivia Dupree has tears on her cheeks.
+ contradition: 0.025406887613902036
+
+premise: Olivia Dupree is shy and introverted.
+ hypo:Olivia Dupree is four years old.
+ contradition: 0.0007162841440806093
+
+premise: Olivia Dupree is shy and introverted.
+ hypo:Amanda Dupree is the guardian of Olivia Dupree.
+ contradition: 0.009528725649316757
+
+premise: Olivia Dupree is shy and introverted.
+ hypo:Amanda Dupree is the mother of Olivia Dupree.
+ contradition: 0.014915359613302743
+
+premise: Olivia Dupree is shy and introverted.
+ hypo:Payton Dupree is the aunt of Olivia Dupree.
+ contradition: 0.03568192404326773
+
+premise: Olivia Dupree is a female.
+ hypo:Olivia Dupree has tears on her cheeks.
+ contradition: 0.007477356707603105
+
+premise: Olivia Dupree is a female.
+ hypo:Olivia Dupree is four years old.
+ contradition: 0.0004780162084264279
+
+premise: Olivia Dupree is a female.
+ hypo:Amanda Dupree is the guardian of Olivia Dupree.
+ contradition: 0.007790841333585704
+
+premise: Olivia Dupree is a female.
+ hypo:Amanda Dupree is the mother of Olivia Dupree.
+ contradition: 0.0021262870065509886
+
+premise: Olivia Dupree is a female.
+ hypo:Payton Dupree is the aunt of Olivia Dupree.
+ contradition: 0.019443707170112613
+
+premise: Olivia Dupree is 4 years old.
+ hypo:Olivia Dupree has tears on her cheeks.
+ contradition: 0.003945270381932102
+
+premise: Olivia Dupree is 4 years old.
+ hypo:Olivia Dupree is four years old.
+ contradition: 0.000867197461497881
+
+premise: Olivia Dupree is 4 years old.
+ hypo:Amanda Dupree is the guardian of Olivia Dupree.
+ contradition: 0.0027015001231833306
+
+premise: Olivia Dupree is 4 years old.
+ hypo:Amanda Dupree is the mother of Olivia Dupree.
+ contradition: 0.0009198923985637133
+
+premise: Olivia Dupree is 4 years old.
+ hypo:Payton Dupree is the aunt of Olivia Dupree.
+ contradition: 0.005466391955893505
+
+premise: Amanda Dupree is the mother of Olivia Dupree.
+ hypo:Olivia Dupree has tears on her cheeks.
+ contradition: 0.019105524621181688
+
+premise: Amanda Dupree is the mother of Olivia Dupree.
+ hypo:Olivia Dupree is four years old.
+ contradition: 0.00029644449704042107
+
+premise: Amanda Dupree is the mother of Olivia Dupree.
+ hypo:Amanda Dupree is the guardian of Olivia Dupree.
+ contradition: 0.11285415210865371
+
+premise: Amanda Dupree is the mother of Olivia Dupree.
+ hypo:Amanda Dupree is the mother of Olivia Dupree.
+ contradition: 0.0005393995519164721
+
+premise: Payton Dupree is the aunt of Olivia Dupree.
+ hypo:Olivia Dupree has tears on her cheeks.
+ contradition: 0.02772926768303824
+
+premise: Payton Dupree is the aunt of Olivia Dupree.
+ hypo:Olivia Dupree is four years old.
+ contradition: 0.000421596859411217
+
+premise: Payton Dupree is the aunt of Olivia Dupree.
+ hypo:Payton Dupree is the aunt of Olivia Dupree.
+ contradition: 0.0006894598791276249
+
+
+MAX_PROB is 0.604436380563831
+CONTRADICTORY_PREMISE: Payton Dupree is fiercely independent.
+ CONTRADICTORY_HYPO: Olivia Dupree is the niece of Payton Dupree.

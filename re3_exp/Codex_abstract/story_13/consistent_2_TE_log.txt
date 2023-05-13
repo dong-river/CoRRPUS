@@ -1,0 +1,60 @@
+premise: Emily Hellinger has hazel eyes and short brown hair.
+ hypo:Emily Hellinger has hazel eyes and long brown hair.
+ contradition: 0.9915088413246028
+
+premise: Emily Hellinger has hazel eyes and short brown hair.
+ hypo:Emily Hellinger is a female.
+ contradition: 0.00027918479008183245
+
+premise: Emily Hellinger has hazel eyes and short brown hair.
+ hypo:John Hellinger is the husband of Emily Hellinger.
+ contradition: 0.4742128840689301
+
+premise: Emily Hellinger is a female.
+ hypo:Emily Hellinger has hazel eyes and long brown hair.
+ contradition: 0.0003302582973529061
+
+premise: Emily Hellinger is a female.
+ hypo:Emily Hellinger is a female.
+ contradition: 0.0006797998515130832
+
+premise: Emily Hellinger is a female.
+ hypo:John Hellinger is the husband of Emily Hellinger.
+ contradition: 0.07654547781546106
+
+premise: Emily Hellinger is in her early 40s.
+ hypo:Emily Hellinger has hazel eyes and long brown hair.
+ contradition: 0.0004015607188987593
+
+premise: Emily Hellinger is in her early 40s.
+ hypo:Emily Hellinger is a female.
+ contradition: 0.00013932128168910203
+
+premise: Emily Hellinger is in her early 40s.
+ hypo:John Hellinger is the husband of Emily Hellinger.
+ contradition: 0.1818589014330528
+
+premise: Sherry Hellinger is the husband of Emily Hellinger.
+ hypo:Emily Hellinger has hazel eyes and long brown hair.
+ contradition: 0.006449207849046034
+
+premise: Sherry Hellinger is the husband of Emily Hellinger.
+ hypo:Emily Hellinger is a female.
+ contradition: 0.3753073335039625
+
+premise: John Hellinger has short brown hair and blue eyes.
+ hypo:Emily Hellinger is the wife of John Hellinger.
+ contradition: 0.35683448011575886
+
+premise: John Hellinger is male.
+ hypo:Emily Hellinger is the wife of John Hellinger.
+ contradition: 0.08091661417745284
+
+premise: John Hellinger is in his early 40s.
+ hypo:Emily Hellinger is the wife of John Hellinger.
+ contradition: 0.1210574261567562
+
+
+MAX_PROB is 0.9915088413246028
+CONTRADICTORY_PREMISE: Emily Hellinger has hazel eyes and short brown hair.
+ CONTRADICTORY_HYPO: Emily Hellinger has hazel eyes and long brown hair.

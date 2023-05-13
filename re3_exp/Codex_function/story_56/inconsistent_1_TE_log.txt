@@ -1,0 +1,180 @@
+premise: Karen Smith is of average height, with brown hair and brown eyes. She has an average build.
+ hypo:Karen Smith is a female.
+ contradition: 7.776339988995026e-05
+
+premise: Karen Smith is of average height, with brown hair and brown eyes. She has an average build.
+ hypo:Karen Smith is young.
+ contradition: 0.001300661624383131
+
+premise: Karen Smith is a female.
+ hypo:Karen Smith is a female.
+ contradition: 0.0006477592719349257
+
+premise: Karen Smith is a female.
+ hypo:Karen Smith is young.
+ contradition: 0.00025237161669937986
+
+premise: Karen Smith is a female.
+ hypo:Leah White is the grandmother of Karen Smith.
+ contradition: 0.03179765203494609
+
+premise: Karen Smith is a female.
+ hypo:Janice Smith is the dad of Karen Smith.
+ contradition: 0.7597175301499897
+
+premise: Karen Smith is a female.
+ hypo:Leah White is the mom of Karen Smith.
+ contradition: 0.015344566418068485
+
+premise: Karen Smith is a female.
+ hypo:Janice Smith is the mom of Karen Smith.
+ contradition: 0.01320892772497914
+
+premise: Karen Smith is a female.
+ hypo:unknown is the dad of Karen Smith.
+ contradition: 0.541562754045449
+
+premise: Karen Smith is in her early twenties.
+ hypo:Karen Smith is a female.
+ contradition: 0.0001342269637199376
+
+premise: Karen Smith is in her early twenties.
+ hypo:Karen Smith is young.
+ contradition: 0.0002131744617621644
+
+premise: Karen Smith is in her early twenties.
+ hypo:Leah White is the grandmother of Karen Smith.
+ contradition: 0.08764720064500302
+
+premise: Karen Smith is in her early twenties.
+ hypo:Janice Smith is the dad of Karen Smith.
+ contradition: 0.7539595330514075
+
+premise: Karen Smith is in her early twenties.
+ hypo:Leah White is the mom of Karen Smith.
+ contradition: 0.022805433191411137
+
+premise: Karen Smith is in her early twenties.
+ hypo:Janice Smith is the mom of Karen Smith.
+ contradition: 0.016520831130380453
+
+premise: Karen Smith is in her early twenties.
+ hypo:unknown is the dad of Karen Smith.
+ contradition: 0.6299428390177698
+
+premise: Janice Smith is the mother of Karen Smith.
+ hypo:Karen Smith is a female.
+ contradition: 0.001733833467935863
+
+premise: Janice Smith is the mother of Karen Smith.
+ hypo:Karen Smith is young.
+ contradition: 0.00952174461706712
+
+premise: Janice Smith is the mother of Karen Smith.
+ hypo:Janice Smith is the dad of Karen Smith.
+ contradition: 0.9994984997385584
+
+premise: Janice Smith is the mother of Karen Smith.
+ hypo:Janice Smith is the mom of Karen Smith.
+ contradition: 0.0004283414234688072
+
+premise: Leah White is the best friend of Karen Smith.
+ hypo:Karen Smith is a female.
+ contradition: 0.0012486863212863883
+
+premise: Leah White is the best friend of Karen Smith.
+ hypo:Karen Smith is young.
+ contradition: 0.019334412676930885
+
+premise: Leah White is the best friend of Karen Smith.
+ hypo:Leah White is the grandmother of Karen Smith.
+ contradition: 0.998377100256514
+
+premise: Leah White is the best friend of Karen Smith.
+ hypo:Leah White is the mom of Karen Smith.
+ contradition: 0.999029387296371
+
+premise: Janice Smith has blue eyes and short graying hair.
+ hypo:Janice Smith is a female.
+ contradition: 0.0002282798566960188
+
+premise: Janice Smith has blue eyes and short graying hair.
+ hypo:Janice Smith is middle-aged.
+ contradition: 0.001456189950605432
+
+premise: Janice Smith has blue eyes and short graying hair.
+ hypo:Karen Smith is the daughter of Janice Smith.
+ contradition: 0.035305530083460226
+
+premise: Janice Smith is in her early fifties.
+ hypo:Janice Smith is a female.
+ contradition: 0.00011019559955949028
+
+premise: Janice Smith is in her early fifties.
+ hypo:Janice Smith is middle-aged.
+ contradition: 0.0003981195424968101
+
+premise: Janice Smith is in her early fifties.
+ hypo:Karen Smith is the daughter of Janice Smith.
+ contradition: 0.013678960681735703
+
+premise: Karen Smith is the daughter of Janice Smith.
+ hypo:Janice Smith is a female.
+ contradition: 0.0014151939348224264
+
+premise: Karen Smith is the daughter of Janice Smith.
+ hypo:Janice Smith is middle-aged.
+ contradition: 0.0054757654209160725
+
+premise: Karen Smith is the daughter of Janice Smith.
+ hypo:Karen Smith is the daughter of Janice Smith.
+ contradition: 0.000806489706483171
+
+premise: Leah White has blue eyes and blond hair.
+ hypo:Leah White is a female.
+ contradition: 0.00031464397568722804
+
+premise: Leah White has blue eyes and blond hair.
+ hypo:Leah White is old.
+ contradition: 0.0014732855060937001
+
+premise: Leah White has blue eyes and blond hair.
+ hypo:Karen Smith is the granddaughter of Leah White.
+ contradition: 0.041639494747758785
+
+premise: Leah White has blue eyes and blond hair.
+ hypo:Janice Smith is the daughter of Leah White.
+ contradition: 0.09267315721816877
+
+premise: Leah White is in her early twenties.
+ hypo:Leah White is a female.
+ contradition: 0.00012991535019795956
+
+premise: Leah White is in her early twenties.
+ hypo:Leah White is old.
+ contradition: 0.9992377612133292
+
+premise: Leah White is in her early twenties.
+ hypo:Karen Smith is the granddaughter of Leah White.
+ contradition: 0.10144226432869595
+
+premise: Leah White is in her early twenties.
+ hypo:Janice Smith is the daughter of Leah White.
+ contradition: 0.3401909292373454
+
+premise: Karen Smith is the best friend of Leah White.
+ hypo:Leah White is a female.
+ contradition: 0.002464666731384183
+
+premise: Karen Smith is the best friend of Leah White.
+ hypo:Leah White is old.
+ contradition: 0.02306147486842108
+
+premise: Karen Smith is the best friend of Leah White.
+ hypo:Karen Smith is the granddaughter of Leah White.
+ contradition: 0.9949708274083118
+
+
+MAX_PROB is 0.9994984997385584
+CONTRADICTORY_PREMISE: Janice Smith is the mother of Karen Smith.
+ CONTRADICTORY_HYPO: Janice Smith is the dad of Karen Smith.

@@ -1,0 +1,20 @@
+premise: John Doe is clean-shaven, with dark hair and dark eyes.
+ hypo:John Doe is a construction worker.
+ contradition: 0.0005508351095272204
+
+premise: John Doe is a salesperson.
+ hypo:John Doe is a construction worker.
+ contradition: 0.9997938104494132
+
+premise: John Doe is male.
+ hypo:John Doe is a construction worker.
+ contradition: 0.0004506443650785575
+
+premise: John Doe is in his early 30s.
+ hypo:John Doe is a construction worker.
+ contradition: 0.0003240299382384514
+
+
+MAX_PROB is 0.9997938104494132
+CONTRADICTORY_PREMISE: John Doe is a salesperson.
+ CONTRADICTORY_HYPO: John Doe is a construction worker.

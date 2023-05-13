@@ -1,0 +1,231 @@
+premise: Sarah Mason is a beautiful woman with long blond hair and blue eyes.
+ hypo:Sarah Mason is a female.
+ contradition: 0.00013703513452643088
+
+premise: Sarah Mason is a beautiful woman with long blond hair and blue eyes.
+ hypo:Rachel Stephenson is the mother of Sarah Mason.
+ contradition: 0.20767267312994053
+
+premise: Sarah Mason is a female.
+ hypo:Sarah Mason is a female.
+ contradition: 0.000624904893097644
+
+premise: Sarah Mason is a female.
+ hypo:Rachel Stephenson is the mother of Sarah Mason.
+ contradition: 0.03817322417822373
+
+premise: John Mason is the wife of Sarah Mason.
+ hypo:Sarah Mason is a female.
+ contradition: 0.0024056999479486114
+
+premise: Rachel Stephenson is the best friend of Sarah Mason.
+ hypo:Sarah Mason is a female.
+ contradition: 0.0012435204547494205
+
+premise: Rachel Stephenson is the best friend of Sarah Mason.
+ hypo:Rachel Stephenson is the mother of Sarah Mason.
+ contradition: 0.9995823459351593
+
+premise: John Mason is the mother of Sarah Mason.
+ hypo:Sarah Mason is a female.
+ contradition: 0.0031619253343454436
+
+premise: John Mason is the husband of Sarah Mason.
+ hypo:Sarah Mason is a female.
+ contradition: 0.07301382752042264
+
+premise: Rachel Stephenson is a female.
+ hypo:Rachel Stephenson is a housewife.
+ contradition: 0.00013464671952389504
+
+premise: Rachel Stephenson is a female.
+ hypo:John Mason is the husband of Rachel Stephenson.
+ contradition: 0.1168486676966279
+
+premise: Rachel Stephenson is a female.
+ hypo:Sarah Mason is the son of Rachel Stephenson.
+ contradition: 0.8081549453987039
+
+premise: Sarah Mason is the best friend of Rachel Stephenson.
+ hypo:Rachel Stephenson is a housewife.
+ contradition: 0.0070132954174002785
+
+premise: Sarah Mason is the best friend of Rachel Stephenson.
+ hypo:Sarah Mason is the son of Rachel Stephenson.
+ contradition: 0.9995950908465472
+
+premise: John Mason is the wife of Rachel Stephenson.
+ hypo:Rachel Stephenson is a housewife.
+ contradition: 0.052452570549283345
+
+premise: John Mason is the wife of Rachel Stephenson.
+ hypo:John Mason is the husband of Rachel Stephenson.
+ contradition: 0.9976576724082136
+
+premise: John Mason is the mother of Rachel Stephenson.
+ hypo:Rachel Stephenson is a housewife.
+ contradition: 0.015710609700008944
+
+premise: John Mason is the mother of Rachel Stephenson.
+ hypo:John Mason is the husband of Rachel Stephenson.
+ contradition: 0.9993559696258544
+
+premise: John Mason has a wandering eye.
+ hypo:John Mason is male.
+ contradition: 0.0006886476629769509
+
+premise: John Mason has a wandering eye.
+ hypo:Rachel Stephenson is the wife of John Mason.
+ contradition: 0.9276745020968903
+
+premise: John Mason is a successful businessman.
+ hypo:John Mason is male.
+ contradition: 0.0006960194041492809
+
+premise: John Mason is a successful businessman.
+ hypo:Rachel Stephenson is the wife of John Mason.
+ contradition: 0.22250828816563964
+
+premise: John Mason is male.
+ hypo:John Mason is male.
+ contradition: 0.0008535842878188923
+
+premise: John Mason is male.
+ hypo:Rachel Stephenson is the wife of John Mason.
+ contradition: 0.12676498873593725
+
+premise: Rachel Stephenson is the husband of John Mason.
+ hypo:John Mason is male.
+ contradition: 0.001492475019220316
+
+premise: Rachel Stephenson is the husband of John Mason.
+ hypo:Rachel Stephenson is the wife of John Mason.
+ contradition: 0.9927362019358141
+
+premise: Sarah Mason is the father of John Mason.
+ hypo:John Mason is male.
+ contradition: 0.001147336271193966
+
+premise: Sarah Mason is the wife of John Mason.
+ hypo:John Mason is male.
+ contradition: 0.06804137952527615
+
+
+MAX_PROB is 0.9995950908465472
+CONTRADICTORY_PREMISE: Sarah Mason is the best friend of Rachel Stephenson.
+ CONTRADICTORY_HYPO: Sarah Mason is the son of Rachel Stephenson.premise: Sarah Mason is a beautiful woman with long blond hair and blue eyes.
+ hypo:Sarah Mason is a female.
+ contradition: 0.00013703539590045663
+
+premise: Sarah Mason is a beautiful woman with long blond hair and blue eyes.
+ hypo:Rachel Stephenson is the mother of Sarah Mason.
+ contradition: 0.20767160860266054
+
+premise: Sarah Mason is a female.
+ hypo:Sarah Mason is a female.
+ contradition: 0.000624904893097644
+
+premise: Sarah Mason is a female.
+ hypo:Rachel Stephenson is the mother of Sarah Mason.
+ contradition: 0.03817320597581633
+
+premise: John Mason is the wife of Sarah Mason.
+ hypo:Sarah Mason is a female.
+ contradition: 0.002405697653695452
+
+premise: Rachel Stephenson is the best friend of Sarah Mason.
+ hypo:Sarah Mason is a female.
+ contradition: 0.0012435228265787216
+
+premise: Rachel Stephenson is the best friend of Sarah Mason.
+ hypo:Rachel Stephenson is the mother of Sarah Mason.
+ contradition: 0.9995823459351593
+
+premise: John Mason is the mother of Sarah Mason.
+ hypo:Sarah Mason is a female.
+ contradition: 0.0031619298575191516
+
+premise: John Mason is the husband of Sarah Mason.
+ hypo:Sarah Mason is a female.
+ contradition: 0.07301417567831296
+
+premise: Rachel Stephenson is a female.
+ hypo:Rachel Stephenson is a housewife.
+ contradition: 0.00013464671952389504
+
+premise: Rachel Stephenson is a female.
+ hypo:John Mason is the husband of Rachel Stephenson.
+ contradition: 0.11684799908510107
+
+premise: Rachel Stephenson is a female.
+ hypo:Sarah Mason is the son of Rachel Stephenson.
+ contradition: 0.8081541746824563
+
+premise: Sarah Mason is the best friend of Rachel Stephenson.
+ hypo:Rachel Stephenson is a housewife.
+ contradition: 0.007013302105803181
+
+premise: Sarah Mason is the best friend of Rachel Stephenson.
+ hypo:Sarah Mason is the son of Rachel Stephenson.
+ contradition: 0.9995950908465472
+
+premise: John Mason is the wife of Rachel Stephenson.
+ hypo:Rachel Stephenson is a housewife.
+ contradition: 0.05245283316895494
+
+premise: John Mason is the wife of Rachel Stephenson.
+ hypo:John Mason is the husband of Rachel Stephenson.
+ contradition: 0.9976576724082136
+
+premise: John Mason is the mother of Rachel Stephenson.
+ hypo:Rachel Stephenson is a housewife.
+ contradition: 0.015710677122775962
+
+premise: John Mason is the mother of Rachel Stephenson.
+ hypo:John Mason is the husband of Rachel Stephenson.
+ contradition: 0.9993559696258544
+
+premise: John Mason has a wandering eye.
+ hypo:John Mason is male.
+ contradition: 0.0006886493048428812
+
+premise: John Mason has a wandering eye.
+ hypo:Rachel Stephenson is the wife of John Mason.
+ contradition: 0.9276742947455041
+
+premise: John Mason is a successful businessman.
+ hypo:John Mason is male.
+ contradition: 0.0006960200679254269
+
+premise: John Mason is a successful businessman.
+ hypo:Rachel Stephenson is the wife of John Mason.
+ contradition: 0.22250879214225447
+
+premise: John Mason is male.
+ hypo:John Mason is male.
+ contradition: 0.0008535834737778684
+
+premise: John Mason is male.
+ hypo:Rachel Stephenson is the wife of John Mason.
+ contradition: 0.1267660465498481
+
+premise: Rachel Stephenson is the husband of John Mason.
+ hypo:John Mason is male.
+ contradition: 0.0014924764425560883
+
+premise: Rachel Stephenson is the husband of John Mason.
+ hypo:Rachel Stephenson is the wife of John Mason.
+ contradition: 0.9927362019358141
+
+premise: Sarah Mason is the father of John Mason.
+ hypo:John Mason is male.
+ contradition: 0.0011473340828257847
+
+premise: Sarah Mason is the wife of John Mason.
+ hypo:John Mason is male.
+ contradition: 0.06804134708062584
+
+
+MAX_PROB is 0.9995950908465472
+CONTRADICTORY_PREMISE: Sarah Mason is the best friend of Rachel Stephenson.
+ CONTRADICTORY_HYPO: Sarah Mason is the son of Rachel Stephenson.

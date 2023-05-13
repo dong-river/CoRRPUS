@@ -1,0 +1,60 @@
+premise: Payton Dupree is a female.
+ hypo:Olivia Dupree is the godmother of Payton Dupree.
+ contradition: 0.005627945657063896
+
+premise: Payton Dupree is 36 years old.
+ hypo:Olivia Dupree is the godmother of Payton Dupree.
+ contradition: 0.010718145354302402
+
+premise: Amanda Dupree is a stay-at-home mom.
+ hypo:Olivia Dupree is the mother of Amanda Dupree.
+ contradition: 0.9269105333741726
+
+premise: Olivia Dupree is the daughter of Amanda Dupree.
+ hypo:Olivia Dupree is the mother of Amanda Dupree.
+ contradition: 0.9990113029714662
+
+premise: Olivia Dupree is precocious and energetic.
+ hypo:Olivia Dupree is 5 years old.
+ contradition: 0.00021576197522852223
+
+premise: Olivia Dupree is precocious and energetic.
+ hypo:Payton Dupree is the godmother of Olivia Dupree.
+ contradition: 0.008486063708737895
+
+premise: Olivia Dupree is precocious and energetic.
+ hypo:Amanda Dupree is the daughter of Olivia Dupree.
+ contradition: 0.440601355545716
+
+premise: Olivia Dupree is 4 years old.
+ hypo:Olivia Dupree is 5 years old.
+ contradition: 0.998434019570043
+
+premise: Olivia Dupree is 4 years old.
+ hypo:Payton Dupree is the godmother of Olivia Dupree.
+ contradition: 0.0025015810455092874
+
+premise: Olivia Dupree is 4 years old.
+ hypo:Amanda Dupree is the daughter of Olivia Dupree.
+ contradition: 0.4569880205747283
+
+premise: Amanda Dupree is the mother of Olivia Dupree.
+ hypo:Olivia Dupree is 5 years old.
+ contradition: 0.0003484194921783782
+
+premise: Amanda Dupree is the mother of Olivia Dupree.
+ hypo:Amanda Dupree is the daughter of Olivia Dupree.
+ contradition: 0.998378644906451
+
+premise: Payton Dupree is the godmother of Olivia Dupree.
+ hypo:Olivia Dupree is 5 years old.
+ contradition: 0.00029449682152440226
+
+premise: Payton Dupree is the godmother of Olivia Dupree.
+ hypo:Payton Dupree is the godmother of Olivia Dupree.
+ contradition: 0.00048461333467383016
+
+
+MAX_PROB is 0.9990113029714662
+CONTRADICTORY_PREMISE: Olivia Dupree is the daughter of Amanda Dupree.
+ CONTRADICTORY_HYPO: Olivia Dupree is the mother of Amanda Dupree.

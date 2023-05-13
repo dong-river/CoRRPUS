@@ -1,0 +1,36 @@
+premise: John Doe has brown eyes and brown hair.
+ hypo:John Doe is a construction worker.
+ contradition: 0.0005716210192638166
+
+premise: John Doe has brown eyes and brown hair.
+ hypo:John Doe is male.
+ contradition: 0.0003574115569338776
+
+premise: John Doe is a construction worker.
+ hypo:John Doe is a construction worker.
+ contradition: 0.0006565293317843487
+
+premise: John Doe is a construction worker.
+ hypo:John Doe is male.
+ contradition: 0.0015988436094247528
+
+premise: John Doe is male.
+ hypo:John Doe is a construction worker.
+ contradition: 0.0004506443650785575
+
+premise: John Doe is male.
+ hypo:John Doe is male.
+ contradition: 0.0009401608938363067
+
+premise: John Doe is in his 30s.
+ hypo:John Doe is a construction worker.
+ contradition: 0.0003424326904263086
+
+premise: John Doe is in his 30s.
+ hypo:John Doe is male.
+ contradition: 0.0002072581483277377
+
+
+MAX_PROB is 0.0015988436094247528
+CONTRADICTORY_PREMISE: John Doe is a construction worker.
+ CONTRADICTORY_HYPO: John Doe is male.

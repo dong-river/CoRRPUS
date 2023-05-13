@@ -1,0 +1,111 @@
+premise: Sarah Mason has beautiful blue eyes and long blond hair.
+ hypo:Sarah Mason is a female.
+ contradition: 0.00017918420982037162
+
+premise: Sarah Mason has beautiful blue eyes and long blond hair.
+ hypo:Rachel Stephenson is the mother of Sarah Mason.
+ contradition: 0.050226327162481245
+
+premise: John Mason is the wife of Sarah Mason.
+ hypo:Sarah Mason is a female.
+ contradition: 0.0024056999479486114
+
+premise: Rachel Stephenson is the best friend of Sarah Mason.
+ hypo:Sarah Mason is a female.
+ contradition: 0.0012435204547494205
+
+premise: Rachel Stephenson is the best friend of Sarah Mason.
+ hypo:Rachel Stephenson is the mother of Sarah Mason.
+ contradition: 0.9995823459351593
+
+premise: John Mason is the husband of Sarah Mason.
+ hypo:Sarah Mason is a female.
+ contradition: 0.07301382752042264
+
+premise: Sarah Mason is the best friend of Rachel Stephenson.
+ hypo:Rachel Stephenson is a female.
+ contradition: 0.0013045306168405753
+
+premise: Sarah Mason is the best friend of Rachel Stephenson.
+ hypo:Sarah Mason is the daughter of Rachel Stephenson.
+ contradition: 0.9975657260535923
+
+premise: John Mason has a wandering eye.
+ hypo:John Mason is male.
+ contradition: 0.0006886476629769509
+
+premise: John Mason has a wandering eye.
+ hypo:Rachel Stephenson is the wife of John Mason.
+ contradition: 0.9276745020968903
+
+premise: John Mason is a successful businessman.
+ hypo:John Mason is male.
+ contradition: 0.0006960194041492809
+
+premise: John Mason is a successful businessman.
+ hypo:Rachel Stephenson is the wife of John Mason.
+ contradition: 0.22250828816563964
+
+premise: Sarah Mason is the wife of John Mason.
+ hypo:John Mason is male.
+ contradition: 0.06804137952527615
+
+
+MAX_PROB is 0.9995823459351593
+CONTRADICTORY_PREMISE: Rachel Stephenson is the best friend of Sarah Mason.
+ CONTRADICTORY_HYPO: Rachel Stephenson is the mother of Sarah Mason.premise: Sarah Mason has blue eyes and beautiful, long blond hair.
+ hypo:Sarah Mason is a female.
+ contradition: 0.00016635707028221045
+
+premise: Sarah Mason has blue eyes and beautiful, long blond hair.
+ hypo:Rachel Stephenson is the mother of Sarah Mason.
+ contradition: 0.0412254799409767
+
+premise: John Mason is the wife of Sarah Mason.
+ hypo:Sarah Mason is a female.
+ contradition: 0.002405697653695452
+
+premise: Rachel Stephenson is the best friend of Sarah Mason.
+ hypo:Sarah Mason is a female.
+ contradition: 0.0012435228265787216
+
+premise: Rachel Stephenson is the best friend of Sarah Mason.
+ hypo:Rachel Stephenson is the mother of Sarah Mason.
+ contradition: 0.9995823459351593
+
+premise: John Mason is the husband of Sarah Mason.
+ hypo:Sarah Mason is a female.
+ contradition: 0.07301417567831296
+
+premise: Sarah Mason is the best friend of Rachel Stephenson.
+ hypo:Rachel Stephenson is a female.
+ contradition: 0.0013045293727438243
+
+premise: Sarah Mason is the best friend of Rachel Stephenson.
+ hypo:Sarah Mason is the daughter of Rachel Stephenson.
+ contradition: 0.9975657260535923
+
+premise: John Mason has a wandering eye.
+ hypo:John Mason is male.
+ contradition: 0.0006886493048428812
+
+premise: John Mason has a wandering eye.
+ hypo:Rachel Stephenson is the wife of John Mason.
+ contradition: 0.9276742947455041
+
+premise: John Mason is a successful businessman.
+ hypo:John Mason is male.
+ contradition: 0.0006960200679254269
+
+premise: John Mason is a successful businessman.
+ hypo:Rachel Stephenson is the wife of John Mason.
+ contradition: 0.22250879214225447
+
+premise: Sarah Mason is the wife of John Mason.
+ hypo:John Mason is male.
+ contradition: 0.06804134708062584
+
+
+MAX_PROB is 0.9995823459351593
+CONTRADICTORY_PREMISE: Rachel Stephenson is the best friend of Sarah Mason.
+ CONTRADICTORY_HYPO: Rachel Stephenson is the mother of Sarah Mason.

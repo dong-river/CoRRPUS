@@ -1,0 +1,155 @@
+## Beth Christensen sat down in a chair across from Julie and took her hand.
+## "You have to listen to me," she said.
+## "You're having the baby."
+## "Beth, no, no, no!
+## You don't understand," Julie protested.
+## "It's impossible."
+## "Why?"
+## Beth replied.
+## "Is it because you're still a virgin?"
+## Julie looked at her friend with tears in her eyes and nodded.
+## "How can I be pregnant?
+## How can that happen?"
+## "Because you had sex," Beth replied.
+## "You know how it happens, right?
+## The same way every time."
+## She paused for a moment, and then asked softly, "Does he know?
+## Has he spoken to you yet?"
+## She then held up a hand to stop Julie from responding before continuing.
+## "Listen, my advice is that you talk to him about this.
+## Tell him what's going on and see what he says about it."
+## Create a world model state to track each character's appearance, personality, and relations with other characters.
+
+class character:
+    def __init__(self, name):
+        self.name = name
+        self.appearance = []
+        self.occupation = []
+        self.gender = []
+        self.age = []
+        self.relations = {}
+
+class World:
+    def __init__(self):
+        self.Julie_Christensen = character('Julie Christensen')
+        self.Tommy_Foster = character('Tommy Foster')
+        self.Beth_Christensen = character('Beth Christensen')
+
+    def story(self):
+        ## Beth Christensen sat down in a chair across from Julie and took her hand.
+        ## "You have to listen to me," she said.
+        ## "You're having the baby."
+        ## "Beth, no, no, no!
+        ## You don't understand," Julie protested.
+        ## "It's impossible."
+        ## "Why?"
+        ## Beth replied.
+        ## "Is it because you're still a virgin?"
+        ## Julie looked at her friend with tears in her eyes and nodded.
+        ## "How can I be pregnant?
+        ## How can that happen?"
+        ## "Because you had sex," Beth replied.
+        ## "You know how it happens, right?
+        ## The same way every time."
+        ## She paused for a moment, and then asked softly, "Does he know?
+        ## Has he spoken to you yet?"
+        ## She then held up a hand to stop Julie from responding before continuing.
+        ## "Listen, my advice is that you talk to him about this.
+        ## Tell him what's going on and see what he says about it."
+        ## Beth Christensen is Julie's friend.
+        self.Julie_Christensen.relations['friend'] = 'Beth_Christensen'
+        self.Beth_Christensen.relations['friend'] = 'Julie_Christensen'
+        ## Tommy Foster is Julie's boyfriend.
+        self.Julie_Christensen.relations['boyfriend'] = 'Tommy_Foster'
+        self.Tommy_Foster.relations['girlfriend'] = 'Julie_Christensen'
+        ## Tommy Foster is Julie's baby's father.
+        self.Julie_Christensen.relations['baby'] = 'Tommy_Foster'
+        self.Tommy_Foster.relations['father'] = 'Julie_Christensen'
+
+## The story is set in the present day and takes place in the United States.
+## The story is about a man named John Smith who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## The story is about a man named John Smith who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph Smith.
+## John Smith is a man who has a wife named Jane Smith and two children named James Smith and Joseph

@@ -1,0 +1,76 @@
+premise: Shannon Mulaney is an only child of her parents. She has long curly red hair and is petite. She is from a small town in upstate New York.
+ hypo:Shannon Mulaney is 20 years old.
+ contradition: 0.000321466007274752
+
+premise: Shannon Mulaney is a student.
+ hypo:Shannon Mulaney is 20 years old.
+ contradition: 0.00041896094637806024
+
+premise: Shannon Mulaney is a student.
+ hypo:Olivia Kendall is the mother of Shannon Mulaney.
+ contradition: 0.78901961989482
+
+premise: Shannon Mulaney is a student.
+ hypo:Jess Abernathy is the friend of Shannon Mulaney.
+ contradition: 0.14027962499027227
+
+premise: Shannon Mulaney is 20 years old.
+ hypo:Shannon Mulaney is 20 years old.
+ contradition: 0.001556407580090558
+
+premise: Shannon Mulaney is 20 years old.
+ hypo:Olivia Kendall is the mother of Shannon Mulaney.
+ contradition: 0.35987362912598686
+
+premise: Shannon Mulaney is 20 years old.
+ hypo:Jess Abernathy is the friend of Shannon Mulaney.
+ contradition: 0.34304427986784314
+
+premise: Jess Abernathy is the RA of Shannon Mulaney.
+ hypo:Shannon Mulaney is 20 years old.
+ contradition: 0.0035989424173656394
+
+premise: Jess Abernathy is the RA of Shannon Mulaney.
+ hypo:Jess Abernathy is the friend of Shannon Mulaney.
+ contradition: 0.028345181573068673
+
+premise: Olivia Kendall is the best friend of Shannon Mulaney.
+ hypo:Shannon Mulaney is 20 years old.
+ contradition: 0.005621779409853695
+
+premise: Olivia Kendall is the best friend of Shannon Mulaney.
+ hypo:Olivia Kendall is the mother of Shannon Mulaney.
+ contradition: 0.9995696013608177
+
+premise: Jess Abernathy has straight blond hair and is tall.
+ hypo:Jess Abernathy is an RA.
+ contradition: 0.0003104508120201919
+
+premise: Jess Abernathy has straight blond hair and is tall.
+ hypo:Shannon Mulaney is the friend of Jess Abernathy.
+ contradition: 0.12081922902053503
+
+premise: Jess Abernathy is a student.
+ hypo:Jess Abernathy is an RA.
+ contradition: 0.9924559646235165
+
+premise: Jess Abernathy is a student.
+ hypo:Shannon Mulaney is the friend of Jess Abernathy.
+ contradition: 0.06685880305968929
+
+premise: Jess Abernathy is 21 years old.
+ hypo:Jess Abernathy is an RA.
+ contradition: 0.00118255889356864
+
+premise: Jess Abernathy is 21 years old.
+ hypo:Shannon Mulaney is the friend of Jess Abernathy.
+ contradition: 0.10479407477459737
+
+premise: Shannon Mulaney is the best friend of Olivia Kendall.
+ hypo:Shannon Mulaney is the daughter of Olivia Kendall.
+ contradition: 0.998738214116369
+
+
+MAX_PROB is 0.9995696013608177
+CONTRADICTORY_PREMISE: Olivia Kendall is the best friend of Shannon Mulaney.
+ CONTRADICTORY_HYPO: Olivia Kendall is the mother of Shannon Mulaney.

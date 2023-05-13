@@ -1,0 +1,132 @@
+premise: Shannon Mulaney has wavy brown/blonde ombre/roots, is athletic build, has blue eyes, is 5'10, and has pale skin.
+ hypo:Shannon Mulaney is 20 years old.
+ contradition: 0.0003639457759334177
+
+premise: Shannon Mulaney has wavy brown/blonde ombre/roots, is athletic build, has blue eyes, is 5'10, and has pale skin.
+ hypo:Olivia Kendall is the mother of Shannon Mulaney.
+ contradition: 0.9360701935167026
+
+premise: Shannon Mulaney has wavy brown/blonde ombre/roots, is athletic build, has blue eyes, is 5'10, and has pale skin.
+ hypo:Jess Abernathy is the friend of Shannon Mulaney.
+ contradition: 0.8657293997636624
+
+premise: Shannon Mulaney has wavy brown/blonde ombre/roots, is athletic build, has blue eyes, is 5'10, and has pale skin.
+ hypo:Olivia Kendall is the parent of Shannon Mulaney.
+ contradition: 0.7982300844047998
+
+premise: Shannon Mulaney is a student.
+ hypo:Shannon Mulaney is 20 years old.
+ contradition: 0.00041896094637806024
+
+premise: Shannon Mulaney is a student.
+ hypo:Olivia Kendall is the mother of Shannon Mulaney.
+ contradition: 0.78901961989482
+
+premise: Shannon Mulaney is a student.
+ hypo:Jess Abernathy is the friend of Shannon Mulaney.
+ contradition: 0.14027962499027227
+
+premise: Shannon Mulaney is a student.
+ hypo:Olivia Kendall is the parent of Shannon Mulaney.
+ contradition: 0.9459581082623694
+
+premise: Shannon Mulaney is a female.
+ hypo:Shannon Mulaney is 20 years old.
+ contradition: 0.0003352617769800819
+
+premise: Shannon Mulaney is a female.
+ hypo:Olivia Kendall is the mother of Shannon Mulaney.
+ contradition: 0.043833861730243236
+
+premise: Shannon Mulaney is a female.
+ hypo:Jess Abernathy is the friend of Shannon Mulaney.
+ contradition: 0.19891715394765172
+
+premise: Shannon Mulaney is a female.
+ hypo:Olivia Kendall is the parent of Shannon Mulaney.
+ contradition: 0.00561195796999714
+
+premise: Shannon Mulaney is 18 years old.
+ hypo:Shannon Mulaney is 20 years old.
+ contradition: 0.9990652009721888
+
+premise: Shannon Mulaney is 18 years old.
+ hypo:Olivia Kendall is the mother of Shannon Mulaney.
+ contradition: 0.28660222072350594
+
+premise: Shannon Mulaney is 18 years old.
+ hypo:Jess Abernathy is the friend of Shannon Mulaney.
+ contradition: 0.31474867195719153
+
+premise: Shannon Mulaney is 18 years old.
+ hypo:Olivia Kendall is the parent of Shannon Mulaney.
+ contradition: 0.1472205524774074
+
+premise: Olivia Kendall is the best friend of Shannon Mulaney.
+ hypo:Shannon Mulaney is 20 years old.
+ contradition: 0.005621779409853695
+
+premise: Olivia Kendall is the best friend of Shannon Mulaney.
+ hypo:Olivia Kendall is the mother of Shannon Mulaney.
+ contradition: 0.9995696013608177
+
+premise: Olivia Kendall is the best friend of Shannon Mulaney.
+ hypo:Olivia Kendall is the parent of Shannon Mulaney.
+ contradition: 0.9993622795971656
+
+premise: Jess Abernathy is the RA of Shannon Mulaney.
+ hypo:Shannon Mulaney is 20 years old.
+ contradition: 0.0035989424173656394
+
+premise: Jess Abernathy is the RA of Shannon Mulaney.
+ hypo:Jess Abernathy is the friend of Shannon Mulaney.
+ contradition: 0.028345181573068673
+
+premise: Jess Abernathy has straight blond hair and is tall.
+ hypo:Jess Abernathy is an RA.
+ contradition: 0.0003104508120201919
+
+premise: Jess Abernathy has straight blond hair and is tall.
+ hypo:Shannon Mulaney is the friend of Jess Abernathy.
+ contradition: 0.12081922902053503
+
+premise: Jess Abernathy is a student.
+ hypo:Jess Abernathy is an RA.
+ contradition: 0.9924559646235165
+
+premise: Jess Abernathy is a student.
+ hypo:Shannon Mulaney is the friend of Jess Abernathy.
+ contradition: 0.06685880305968929
+
+premise: Jess Abernathy is 21 years old.
+ hypo:Jess Abernathy is an RA.
+ contradition: 0.00118255889356864
+
+premise: Jess Abernathy is 21 years old.
+ hypo:Shannon Mulaney is the friend of Jess Abernathy.
+ contradition: 0.10479407477459737
+
+premise: Shannon Mulaney is the student of Jess Abernathy.
+ hypo:Jess Abernathy is an RA.
+ contradition: 0.0833560040794971
+
+premise: Shannon Mulaney is the student of Jess Abernathy.
+ hypo:Shannon Mulaney is the friend of Jess Abernathy.
+ contradition: 0.7306267739296127
+
+premise: Shannon Mulaney is the best friend of Olivia Kendall.
+ hypo:Shannon Mulaney is the daughter of Olivia Kendall.
+ contradition: 0.998738214116369
+
+premise: Shannon Mulaney is the best friend of Olivia Kendall.
+ hypo:Shannon Mulaney is the husband of Olivia Kendall.
+ contradition: 0.9994384820713412
+
+premise: Shannon Mulaney is the best friend of Olivia Kendall.
+ hypo:Shannon Mulaney is the child of Olivia Kendall.
+ contradition: 0.9994628931712466
+
+
+MAX_PROB is 0.9995696013608177
+CONTRADICTORY_PREMISE: Olivia Kendall is the best friend of Shannon Mulaney.
+ CONTRADICTORY_HYPO: Olivia Kendall is the mother of Shannon Mulaney.

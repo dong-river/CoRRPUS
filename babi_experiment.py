@@ -5,17 +5,16 @@ import numpy as np
 import pandas as pd
 
 from utils.other_utils import dump_to_json, get_gpt3_response, get_codex_response, text_to_code
-from utils.world_tracker_utils import create_code_prompt
 from utils.babi_prompts import *
 from utils.babi_utils import *
 
 def get_args_parser():
     parser = argparse.ArgumentParser('babi', add_help=False)
 
-    parser.add_argument('-i', '--input_dir', default='/home1/r/riverd/world_model/babi/tasks', type=str)
-    parser.add_argument('-o', '--output_dir', default='/home1/r/riverd/world_model/babi/codex', type=str)
+    parser.add_argument('-i', '--input_dir', default='./babi/tasks', type=str)
+    parser.add_argument('-o', '--output_dir', default='./babi/codex', type=str)
     parser.add_argument('--task', default='2', type=str, help="otherwise pass in something like 1,2,3")    ## do one task in each run
-    parser.add_argument('-t', '--world_tracker_mode', default='all', type=str)  ## Choices are GPT3, COT, SI, Codex
+    parser.add_argument('-t', '--world_tracker_mode', default='all', type=str)  ## Choices are GPT3, Codex_raw, Codex_comment, Codex_command, Codex_symbolic, GPT_comment, GPT_command, GPT_symbolic, all
     parser.add_argument('--track', action='store_true')
     parser.add_argument('--check', action='store_true')
     parser.add_argument('-m', '--max_response_per_file', default = 200, type = int)
@@ -35,14 +34,10 @@ def codex_helper(example, prompt, idx, args, method, question, depth = 0, max_re
 def gpt_helper(example, prompt, idx, args, method, question, depth = 0, max_recursion = 5):
     code = get_gpt3_response(example + prompt, max_tokens = 2000)
     res = extract_ans(idx, prompt + code, method, args.task, question)
-    print(res)
     ## bad generation, regenerate
     if (res == 'failed' or 'there' in res or res == '' or res == ' ') and depth < max_recursion:
         print(f'bad generation in {method}, regenerate: {res}')
         res = gpt_helper(example, prompt, idx, args, method, question, depth = depth + 1, max_recursion = max_recursion)
-    if res == '':
-        with open(f'./tmp.txt', 'w') as f:
-            f.write(f"{method} {idx}")
     print("res: ", res)
     return res
 
@@ -53,7 +48,7 @@ if __name__ == '__main__':
     if not os.path.exists(args.output_dir):
         os.mkdir(args.output_dir)
     if args.world_tracker_mode == 'all':
-        args.world_tracker_mode  = ["Codex_comment", "Codex_command", "Codex_symbolic", "Codex_parsed", 'GPT3', 'COT', 'SI', 'verbnet']
+        args.world_tracker_mode  = ['GPT3', 'Codex_raw', 'Codex_comment', 'Codex_command', 'Codex_symbolic', 'GPT_comment', 'GPT_command', 'GPT_symbolic']
 
     ## Get responses
     if args.track:
@@ -121,14 +116,20 @@ if __name__ == '__main__':
             if 'test' in filename and task_num in args.task:
                 output_json_path = os.path.join(args.output_dir, f"results_task_{args.task}.json")
                 print("Start loading json")
+                # df = pd.read_json(output_json_path, lines=True).replace('', np.nan)
                 df = pd.read_json(output_json_path, lines=True).replace('', np.nan)
                 print("json loaded")
                 for mode in df.columns.values.tolist():
                     if mode == 'story' or mode == 'question':
                         continue
-                    mode_df = df[df[mode].notna()]
+                    # mode_df = df[df[mode].notna()]
+                    # df[mode + '_acc'] = mode_df[['ans', mode]].apply(lambda x: check_ans(*x), axis=1)
+                    # acc = df[mode + '_acc'].dropna().mean()
+                    
+                    mode_df = df[df[mode]]
                     df[mode + '_acc'] = mode_df[['ans', mode]].apply(lambda x: check_ans(*x), axis=1)
-                    acc = df[mode + '_acc'].dropna().mean()
+                    acc = df[mode + '_acc'].mean()
+                    
                     print(f"task: {args.task} mode: {mode} acc is {acc}")
                     with open("./babi_all_results.txt", 'a') as f:
                         f.write(f"task: {args.task} mode: {mode} acc is {acc}")

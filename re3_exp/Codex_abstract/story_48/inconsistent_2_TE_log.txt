@@ -1,0 +1,120 @@
+premise: Shannon Fitzgerald is of average height, with brown eyes, shoulder-length brown hair, and an average build.
+ hypo:Shannon Fitzgerald is an infant.
+ contradition: 0.9917208892147547
+
+premise: Shannon Fitzgerald is a student.
+ hypo:Shannon Fitzgerald is an infant.
+ contradition: 0.9986098092381293
+
+premise: Shannon Fitzgerald is a female.
+ hypo:Shannon Fitzgerald is an infant.
+ contradition: 0.5373242264274255
+
+premise: Shannon Fitzgerald is young.
+ hypo:Shannon Fitzgerald is an infant.
+ contradition: 0.003299461737926721
+
+premise: Olivia Kane is beautiful, with long blonde hair and blue eyes.
+ hypo:Olivia Kane is beautiful and stylish.
+ contradition: 4.031254500584422e-05
+
+premise: Olivia Kane is beautiful, with long blonde hair and blue eyes.
+ hypo:Olivia Kane is a female.
+ contradition: 0.0003527518738734866
+
+premise: Olivia Kane is beautiful, with long blonde hair and blue eyes.
+ hypo:Richard Kane is the husband of Olivia Kane.
+ contradition: 0.1277445988192633
+
+premise: Olivia Kane is a female.
+ hypo:Olivia Kane is beautiful and stylish.
+ contradition: 0.00011076962367799523
+
+premise: Olivia Kane is a female.
+ hypo:Olivia Kane is a female.
+ contradition: 0.0008178571886786916
+
+premise: Olivia Kane is a female.
+ hypo:Richard Kane is the husband of Olivia Kane.
+ contradition: 0.09465349265948192
+
+premise: Olivia Kane is thirty years old.
+ hypo:Olivia Kane is beautiful and stylish.
+ contradition: 0.0001498475684846936
+
+premise: Olivia Kane is thirty years old.
+ hypo:Olivia Kane is a female.
+ contradition: 0.0005867233937416224
+
+premise: Olivia Kane is thirty years old.
+ hypo:Richard Kane is the husband of Olivia Kane.
+ contradition: 0.092753861192114
+
+premise: Richard Kane is the husband of Olivia Kane.
+ hypo:Olivia Kane is beautiful and stylish.
+ contradition: 0.000657623125932437
+
+premise: Richard Kane is the husband of Olivia Kane.
+ hypo:Olivia Kane is a female.
+ contradition: 0.09350387431013088
+
+premise: Richard Kane is the husband of Olivia Kane.
+ hypo:Richard Kane is the husband of Olivia Kane.
+ contradition: 0.0008372764665487313
+
+premise: Richard Kane is the brother of Olivia Kane.
+ hypo:Olivia Kane is beautiful and stylish.
+ contradition: 0.001718033010538149
+
+premise: Richard Kane is the brother of Olivia Kane.
+ hypo:Olivia Kane is a female.
+ contradition: 0.3232219665215581
+
+premise: Richard Kane is the brother of Olivia Kane.
+ hypo:Richard Kane is the husband of Olivia Kane.
+ contradition: 0.981483390983167
+
+premise: Richard Kane is tall, with dark hair and blue eyes.
+ hypo:Richard Kane is a businessman.
+ contradition: 0.00019272009667986454
+
+premise: Richard Kane is tall, with dark hair and blue eyes.
+ hypo:Olivia Kane is the wife of Richard Kane.
+ contradition: 0.6961574877548206
+
+premise: Richard Kane is male.
+ hypo:Richard Kane is a businessman.
+ contradition: 0.00012810811604592462
+
+premise: Richard Kane is male.
+ hypo:Olivia Kane is the wife of Richard Kane.
+ contradition: 0.11321700366012796
+
+premise: Richard Kane is forty years old.
+ hypo:Richard Kane is a businessman.
+ contradition: 0.0002937142802466396
+
+premise: Richard Kane is forty years old.
+ hypo:Olivia Kane is the wife of Richard Kane.
+ contradition: 0.3286150776861089
+
+premise: Olivia Kane is the wife of Richard Kane.
+ hypo:Richard Kane is a businessman.
+ contradition: 0.0007210601913762757
+
+premise: Olivia Kane is the wife of Richard Kane.
+ hypo:Olivia Kane is the wife of Richard Kane.
+ contradition: 0.0006806808236594283
+
+premise: Olivia Kane is the sister of Richard Kane.
+ hypo:Richard Kane is a businessman.
+ contradition: 0.0011589105605695265
+
+premise: Olivia Kane is the sister of Richard Kane.
+ hypo:Olivia Kane is the wife of Richard Kane.
+ contradition: 0.9985289786733016
+
+
+MAX_PROB is 0.9986098092381293
+CONTRADICTORY_PREMISE: Shannon Fitzgerald is a student.
+ CONTRADICTORY_HYPO: Shannon Fitzgerald is an infant.

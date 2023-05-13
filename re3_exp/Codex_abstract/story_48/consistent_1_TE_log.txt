@@ -1,0 +1,76 @@
+premise: Shannon Fitzgerald has brown eyes and brown hair.
+ hypo:Shannon Fitzgerald is an infant.
+ contradition: 0.8663679843400182
+
+premise: Shannon Fitzgerald is a student.
+ hypo:Shannon Fitzgerald is an infant.
+ contradition: 0.9986098092381293
+
+premise: Shannon Fitzgerald is a female.
+ hypo:Shannon Fitzgerald is an infant.
+ contradition: 0.5373242264274255
+
+premise: Shannon Fitzgerald is young.
+ hypo:Shannon Fitzgerald is an infant.
+ contradition: 0.003299461737926721
+
+premise: Olivia Kane has long blonde hair and blue eyes.
+ hypo:Olivia Kane is beautiful and stylish.
+ contradition: 9.052132683859906e-05
+
+premise: Olivia Kane has long blonde hair and blue eyes.
+ hypo:Richard Kane is the husband of Olivia Kane.
+ contradition: 0.19261207563401084
+
+premise: Olivia Kane is a female.
+ hypo:Olivia Kane is beautiful and stylish.
+ contradition: 0.00011076962367799523
+
+premise: Olivia Kane is a female.
+ hypo:Richard Kane is the husband of Olivia Kane.
+ contradition: 0.09465349265948192
+
+premise: Olivia Kane is in her thirties.
+ hypo:Olivia Kane is beautiful and stylish.
+ contradition: 0.00012500260992658247
+
+premise: Olivia Kane is in her thirties.
+ hypo:Richard Kane is the husband of Olivia Kane.
+ contradition: 0.23668468914354612
+
+premise: Richard Kane is the wife of Olivia Kane.
+ hypo:Olivia Kane is beautiful and stylish.
+ contradition: 0.0005594646805600393
+
+premise: Richard Kane is the wife of Olivia Kane.
+ hypo:Richard Kane is the husband of Olivia Kane.
+ contradition: 0.9975291892933019
+
+premise: Richard Kane is male.
+ hypo:Richard Kane is a businessman.
+ contradition: 0.00012810811604592462
+
+premise: Richard Kane is male.
+ hypo:Olivia Kane is the wife of Richard Kane.
+ contradition: 0.11321700366012796
+
+premise: Richard Kane is in his forties.
+ hypo:Richard Kane is a businessman.
+ contradition: 0.00016721248425880395
+
+premise: Richard Kane is in his forties.
+ hypo:Olivia Kane is the wife of Richard Kane.
+ contradition: 0.2794211483797866
+
+premise: Olivia Kane is the husband of Richard Kane.
+ hypo:Richard Kane is a businessman.
+ contradition: 0.0005289282824555485
+
+premise: Olivia Kane is the husband of Richard Kane.
+ hypo:Olivia Kane is the wife of Richard Kane.
+ contradition: 0.9924439881220137
+
+
+MAX_PROB is 0.9986098092381293
+CONTRADICTORY_PREMISE: Shannon Fitzgerald is a student.
+ CONTRADICTORY_HYPO: Shannon Fitzgerald is an infant.

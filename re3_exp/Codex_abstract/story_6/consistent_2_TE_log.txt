@@ -1,0 +1,88 @@
+premise: Shannon Riley is of average height, average build, blue eyes, and long brown hair.
+ hypo:Shannon Riley is a journalist.
+ contradition: 0.000525763189580408
+
+premise: Shannon Riley is a female.
+ hypo:Shannon Riley is a journalist.
+ contradition: 0.00023973609776218517
+
+premise: Shannon Riley is a female.
+ hypo:Jillian Riley is the sister of Shannon Riley.
+ contradition: 0.015697550125028655
+
+premise: Shannon Riley is a female.
+ hypo:Robert Riley is the employer of Shannon Riley.
+ contradition: 0.043266120387442854
+
+premise: Shannon Riley is in her early twenties.
+ hypo:Shannon Riley is a journalist.
+ contradition: 0.00040000681687618936
+
+premise: Shannon Riley is in her early twenties.
+ hypo:Jillian Riley is the sister of Shannon Riley.
+ contradition: 0.22549320880345905
+
+premise: Shannon Riley is in her early twenties.
+ hypo:Robert Riley is the employer of Shannon Riley.
+ contradition: 0.09291337555325654
+
+premise: Robert Riley is the father of Shannon Riley.
+ hypo:Shannon Riley is a journalist.
+ contradition: 0.0021670976128266863
+
+premise: Robert Riley is the father of Shannon Riley.
+ hypo:Robert Riley is the employer of Shannon Riley.
+ contradition: 0.5434180021150049
+
+premise: Jillian Riley is the sister of Shannon Riley.
+ hypo:Shannon Riley is a journalist.
+ contradition: 0.003955521447426708
+
+premise: Jillian Riley is the sister of Shannon Riley.
+ hypo:Jillian Riley is the sister of Shannon Riley.
+ contradition: 0.0020179546428582195
+
+premise: Robert Riley is a journalist.
+ hypo:Shannon Riley is the employee of Robert Riley.
+ contradition: 0.8471895236689948
+
+premise: Robert Riley is male.
+ hypo:Shannon Riley is the employee of Robert Riley.
+ contradition: 0.10658515710792095
+
+premise: Shannon Riley is the daughter of Robert Riley.
+ hypo:Shannon Riley is the employee of Robert Riley.
+ contradition: 0.6670612946098181
+
+premise: Jillian Riley is a corporate lawyer.
+ hypo:Shannon Riley is the sister of Jillian Riley.
+ contradition: 0.04061243444581058
+
+premise: Jillian Riley is a corporate lawyer.
+ hypo:Robert Riley is the father of Jillian Riley.
+ contradition: 0.23396443227289046
+
+premise: Jillian Riley is a corporate lawyer.
+ hypo:Robert Riley is the grandfather of Jillian Riley.
+ contradition: 0.13125103876591313
+
+premise: Jillian Riley is a female.
+ hypo:Shannon Riley is the sister of Jillian Riley.
+ contradition: 0.021560843887351654
+
+premise: Jillian Riley is a female.
+ hypo:Robert Riley is the father of Jillian Riley.
+ contradition: 0.12487900085320988
+
+premise: Jillian Riley is a female.
+ hypo:Robert Riley is the grandfather of Jillian Riley.
+ contradition: 0.05820385762759131
+
+premise: Shannon Riley is the sister of Jillian Riley.
+ hypo:Shannon Riley is the sister of Jillian Riley.
+ contradition: 0.001562343477829975
+
+
+MAX_PROB is 0.8471895236689948
+CONTRADICTORY_PREMISE: Robert Riley is a journalist.
+ CONTRADICTORY_HYPO: Shannon Riley is the employee of Robert Riley.

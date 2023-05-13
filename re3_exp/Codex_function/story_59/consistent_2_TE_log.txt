@@ -1,0 +1,136 @@
+premise: Payton Parskin has blue eyes and long blonde hair.
+ hypo:Landon Shaw is the fiancé of Payton Parskin.
+ contradition: 0.056473104870483765
+
+premise: Payton Parskin is a female.
+ hypo:Landon Shaw is the fiancé of Payton Parskin.
+ contradition: 0.042455739266315115
+
+premise: Payton Parskin is 29 years old.
+ hypo:Landon Shaw is the fiancé of Payton Parskin.
+ contradition: 0.08100223886812347
+
+premise: Landon Shaw is the fiancé of Payton Parskin.
+ hypo:Landon Shaw is the fiancé of Payton Parskin.
+ contradition: 0.0010790877293416212
+
+premise: Landon Shaw is a doctor.
+ hypo:Landon Shaw has short and spiky hair.
+ contradition: 0.018485741791677807
+
+premise: Landon Shaw is a doctor.
+ hypo:Landon Shaw is a doctor.
+ contradition: 0.0006968954753562368
+
+premise: Landon Shaw is a doctor.
+ hypo:Landon Shaw is 30 years old.
+ contradition: 0.00041108796540346754
+
+premise: Landon Shaw is a doctor.
+ hypo:Payton Parskin is the fiancé of Landon Shaw.
+ contradition: 0.11793756024072234
+
+premise: Landon Shaw is male.
+ hypo:Landon Shaw has short and spiky hair.
+ contradition: 0.001023974921009939
+
+premise: Landon Shaw is male.
+ hypo:Landon Shaw is a doctor.
+ contradition: 0.00025214980696758614
+
+premise: Landon Shaw is male.
+ hypo:Landon Shaw is 30 years old.
+ contradition: 0.00018033245010065099
+
+premise: Landon Shaw is male.
+ hypo:Payton Parskin is the fiancé of Landon Shaw.
+ contradition: 0.06400625100087268
+
+premise: Landon Shaw is 30 years old.
+ hypo:Landon Shaw has short and spiky hair.
+ contradition: 0.0025937133422752495
+
+premise: Landon Shaw is 30 years old.
+ hypo:Landon Shaw is a doctor.
+ contradition: 0.000499354254082315
+
+premise: Landon Shaw is 30 years old.
+ hypo:Landon Shaw is 30 years old.
+ contradition: 0.001441081023464133
+
+premise: Landon Shaw is 30 years old.
+ hypo:Payton Parskin is the fiancé of Landon Shaw.
+ contradition: 0.06994256248193749
+
+premise: Payton Parskin is the fiancée of Landon Shaw.
+ hypo:Landon Shaw has short and spiky hair.
+ contradition: 0.07775786401500843
+
+premise: Payton Parskin is the fiancée of Landon Shaw.
+ hypo:Landon Shaw is a doctor.
+ contradition: 0.0008120550064366402
+
+premise: Payton Parskin is the fiancée of Landon Shaw.
+ hypo:Landon Shaw is 30 years old.
+ contradition: 0.001641807120939446
+
+premise: Payton Parskin is the fiancée of Landon Shaw.
+ hypo:Payton Parskin is the fiancé of Landon Shaw.
+ contradition: 0.0016738033228886318
+
+premise: Maggie Shaw is the sister of Landon Shaw.
+ hypo:Landon Shaw has short and spiky hair.
+ contradition: 0.043437323282421114
+
+premise: Maggie Shaw is the sister of Landon Shaw.
+ hypo:Landon Shaw is a doctor.
+ contradition: 0.0008486063437392307
+
+premise: Maggie Shaw is the sister of Landon Shaw.
+ hypo:Landon Shaw is 30 years old.
+ contradition: 0.0017795815449557746
+
+premise: Maggie Shaw is a teacher.
+ hypo:Maggie Shaw is a pretty brunette.
+ contradition: 0.0002277362434003637
+
+premise: Maggie Shaw is a teacher.
+ hypo:Maggie Shaw is a female.
+ contradition: 0.0005700594212959977
+
+premise: Maggie Shaw is a female.
+ hypo:Maggie Shaw is a pretty brunette.
+ contradition: 0.0001285027318544715
+
+premise: Maggie Shaw is a female.
+ hypo:Maggie Shaw is a female.
+ contradition: 0.0006429203660723506
+
+premise: Maggie Shaw is 25 years old.
+ hypo:Maggie Shaw is a pretty brunette.
+ contradition: 0.0002566487245793532
+
+premise: Maggie Shaw is 25 years old.
+ hypo:Maggie Shaw is a female.
+ contradition: 0.00046681229424277895
+
+premise: Landon Shaw is the brother of Maggie Shaw.
+ hypo:Maggie Shaw is a pretty brunette.
+ contradition: 0.000987232303850251
+
+premise: Landon Shaw is the brother of Maggie Shaw.
+ hypo:Maggie Shaw is a female.
+ contradition: 0.31951611113843115
+
+premise: Payton Parskin is the best friend of Maggie Shaw.
+ hypo:Maggie Shaw is a pretty brunette.
+ contradition: 0.0009252823313129172
+
+premise: Payton Parskin is the best friend of Maggie Shaw.
+ hypo:Maggie Shaw is a female.
+ contradition: 0.0020872320164512822
+
+
+MAX_PROB is 0.31951611113843115
+CONTRADICTORY_PREMISE: Landon Shaw is the brother of Maggie Shaw.
+ CONTRADICTORY_HYPO: Maggie Shaw is a female.

@@ -1,0 +1,36 @@
+premise: Emma Saunders is a female.
+ hypo:Olivia Saunders is the sister of Emma Saunders.
+ contradition: 0.019653101221205848
+
+premise: Emma Saunders is a teenager.
+ hypo:Olivia Saunders is the sister of Emma Saunders.
+ contradition: 0.07227610960600074
+
+premise: Olivia Saunders is the mother of Emma Saunders.
+ hypo:Olivia Saunders is the sister of Emma Saunders.
+ contradition: 0.9979003738387864
+
+premise: Olivia Saunders is the daughter of Emma Saunders.
+ hypo:Olivia Saunders is the sister of Emma Saunders.
+ contradition: 0.9362477961089132
+
+premise: Olivia Saunders has green eyes, is tall, and has blonde hair.
+ hypo:Emma Saunders is the sister of Olivia Saunders.
+ contradition: 0.13106857289229443
+
+premise: Olivia Saunders is a female.
+ hypo:Emma Saunders is the sister of Olivia Saunders.
+ contradition: 0.01859269007791567
+
+premise: Emma Saunders is the daughter of Olivia Saunders.
+ hypo:Emma Saunders is the sister of Olivia Saunders.
+ contradition: 0.9602054137875953
+
+premise: Emma Saunders is the mother of Olivia Saunders.
+ hypo:Emma Saunders is the sister of Olivia Saunders.
+ contradition: 0.9970800556073558
+
+
+MAX_PROB is 0.9979003738387864
+CONTRADICTORY_PREMISE: Olivia Saunders is the mother of Emma Saunders.
+ CONTRADICTORY_HYPO: Olivia Saunders is the sister of Emma Saunders.

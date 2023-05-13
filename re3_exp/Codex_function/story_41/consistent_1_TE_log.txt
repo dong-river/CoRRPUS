@@ -1,0 +1,12 @@
+premise: Jennie Mayfield is a female.
+ hypo:Jennie Mayfield is athletic, has brown eyes, takes care of herself, and has long dark hair.
+ contradition: 0.0002496322467397238
+
+premise: Jennie Mayfield is young.
+ hypo:Jennie Mayfield is athletic, has brown eyes, takes care of herself, and has long dark hair.
+ contradition: 0.0005491943654866446
+
+
+MAX_PROB is 0.0005491943654866446
+CONTRADICTORY_PREMISE: Jennie Mayfield is young.
+ CONTRADICTORY_HYPO: Jennie Mayfield is athletic, has brown eyes, takes care of herself, and has long dark hair.

@@ -1,0 +1,32 @@
+premise: Will Trenton looks tough.
+ hypo:Thomas Watkins is the partner of Will Trenton.
+ contradition: 0.09079582025201191
+
+premise: Thomas Watkins is a good-looking person.
+ hypo:Thomas Watkins has brown eyes and brown hair.
+ contradition: 0.00023565250485712856
+
+premise: Thomas Watkins is a good-looking person.
+ hypo:Thomas Watkins is a construction worker.
+ contradition: 0.0021334683414112976
+
+premise: Thomas Watkins is a good-looking person.
+ hypo:Will Trenton is the partner of Thomas Watkins.
+ contradition: 0.04007264763778139
+
+premise: Thomas Watkins is the sheriff.
+ hypo:Thomas Watkins has brown eyes and brown hair.
+ contradition: 0.0006164408673063027
+
+premise: Thomas Watkins is the sheriff.
+ hypo:Thomas Watkins is a construction worker.
+ contradition: 0.9998188347068572
+
+premise: Thomas Watkins is the sheriff.
+ hypo:Will Trenton is the partner of Thomas Watkins.
+ contradition: 0.027084950263011366
+
+
+MAX_PROB is 0.9998188347068572
+CONTRADICTORY_PREMISE: Thomas Watkins is the sheriff.
+ CONTRADICTORY_HYPO: Thomas Watkins is a construction worker.

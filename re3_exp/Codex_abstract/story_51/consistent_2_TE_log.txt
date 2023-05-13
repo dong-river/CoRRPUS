@@ -1,0 +1,20 @@
+premise: John Doe has brown eyes and brown hair.
+ hypo:John Doe is driving a truck and has boxes in the back.
+ contradition: 0.013137820702679683
+
+premise: John Doe is a construction worker.
+ hypo:John Doe is driving a truck and has boxes in the back.
+ contradition: 0.9954093219139056
+
+premise: John Doe is male.
+ hypo:John Doe is driving a truck and has boxes in the back.
+ contradition: 0.006863699260115755
+
+premise: John Doe is in his early 30s.
+ hypo:John Doe is driving a truck and has boxes in the back.
+ contradition: 0.006459176188867756
+
+
+MAX_PROB is 0.9954093219139056
+CONTRADICTORY_PREMISE: John Doe is a construction worker.
+ CONTRADICTORY_HYPO: John Doe is driving a truck and has boxes in the back.

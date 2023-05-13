@@ -1,0 +1,16 @@
+premise: Will Trenton is a mercenary.
+ hypo:Thomas Watkins is the partner of Will Trenton.
+ contradition: 0.010574249007744134
+
+premise: Thomas Watkins is the sheriff.
+ hypo:Thomas Watkins is a construction worker and mercenary.
+ contradition: 0.999726132076118
+
+premise: Thomas Watkins is the sheriff.
+ hypo:Will Trenton is the partner of Thomas Watkins.
+ contradition: 0.027084950263011366
+
+
+MAX_PROB is 0.999726132076118
+CONTRADICTORY_PREMISE: Thomas Watkins is the sheriff.
+ CONTRADICTORY_HYPO: Thomas Watkins is a construction worker and mercenary.

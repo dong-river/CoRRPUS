@@ -1,0 +1,12 @@
+premise: Thomas Watkins has a no-nonsense appearance.
+ hypo:Thomas Watkins is the sheriff.
+ contradition: 0.0024951622360972364
+
+premise: Will Trenton is the leader of Thomas Watkins.
+ hypo:Thomas Watkins is the sheriff.
+ contradition: 0.07049951568822821
+
+
+MAX_PROB is 0.07049951568822821
+CONTRADICTORY_PREMISE: Will Trenton is the leader of Thomas Watkins.
+ CONTRADICTORY_HYPO: Thomas Watkins is the sheriff.

@@ -1,0 +1,40 @@
+premise: Jane Doe is of average height, with brown eyes, an average build, and long dark hair.
+ hypo:Jane Doe has a frown.
+ contradition: 0.004078552200002092
+
+premise: Jane Doe is female.
+ hypo:Jane Doe has a frown.
+ contradition: 0.003308203572905262
+
+premise: Jane Doe is female.
+ hypo:Jessica Brown is the best friend of Jane Doe.
+ contradition: 0.03145194172835034
+
+premise: Jane Doe is female.
+ hypo:Jessica Brown is the couch of Jane Doe.
+ contradition: 0.09108019208508533
+
+premise: Jane Doe is young.
+ hypo:Jane Doe has a frown.
+ contradition: 0.008910186788051574
+
+premise: Jane Doe is young.
+ hypo:Jessica Brown is the best friend of Jane Doe.
+ contradition: 0.029492186834222552
+
+premise: Jane Doe is young.
+ hypo:Jessica Brown is the couch of Jane Doe.
+ contradition: 0.1365954723461926
+
+premise: Jessica Brown has green eyes, is slender, has brown hair, and is tall.
+ hypo:Jane Doe is the best friend of Jessica Brown.
+ contradition: 0.5090097633562418
+
+premise: Jessica Brown has green eyes, is slender, has brown hair, and is tall.
+ hypo:Jane Doe is the apartment of Jessica Brown.
+ contradition: 0.4847194014714652
+
+
+MAX_PROB is 0.5090097633562418
+CONTRADICTORY_PREMISE: Jessica Brown has green eyes, is slender, has brown hair, and is tall.
+ CONTRADICTORY_HYPO: Jane Doe is the best friend of Jessica Brown.

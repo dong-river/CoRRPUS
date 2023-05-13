@@ -1,0 +1,48 @@
+premise: Riley Harper has hazel eyes and long, dark hair.
+ hypo:Jonas Harper is the father of Riley Harper.
+ contradition: 0.03854460082414621
+
+premise: Riley Harper is a female.
+ hypo:Jonas Harper is the father of Riley Harper.
+ contradition: 0.12314678846963302
+
+premise: Riley Harper is in her early twenties.
+ hypo:Jonas Harper is the father of Riley Harper.
+ contradition: 0.5374745182182986
+
+premise: Jonas Harper is the father of Riley Harper.
+ hypo:Jonas Harper is the father of Riley Harper.
+ contradition: 0.000720898610185714
+
+premise: Chase Elliott is handsome, tall, and has dark hair and blue eyes.
+ hypo:Chase Elliott is a glance.
+ contradition: 0.17729518522965634
+
+premise: Chase Elliott is the chief of police.
+ hypo:Chase Elliott is a glance.
+ contradition: 0.9611168870122861
+
+premise: Chase Elliott is male.
+ hypo:Chase Elliott is a glance.
+ contradition: 0.050370663928952175
+
+premise: Chase Elliott is in his early thirties.
+ hypo:Chase Elliott is a glance.
+ contradition: 0.36284331749199566
+
+premise: Jonas Harper died suddenly in a car accident.
+ hypo:Riley Harper is the daughter of Jonas Harper.
+ contradition: 0.0932711573181866
+
+premise: Jonas Harper is a successful businessman.
+ hypo:Riley Harper is the daughter of Jonas Harper.
+ contradition: 0.011312032528923894
+
+premise: Riley Harper is the daughter of Jonas Harper.
+ hypo:Riley Harper is the daughter of Jonas Harper.
+ contradition: 0.0008586745465387656
+
+
+MAX_PROB is 0.9611168870122861
+CONTRADICTORY_PREMISE: Chase Elliott is the chief of police.
+ CONTRADICTORY_HYPO: Chase Elliott is a glance.

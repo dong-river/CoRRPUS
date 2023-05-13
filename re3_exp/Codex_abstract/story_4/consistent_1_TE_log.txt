@@ -1,0 +1,60 @@
+premise: Shannon Kincaid is of average height, with an average build. She has blue eyes and long brown hair.
+ hypo:Shannon Kincaid is an investigative reporter.
+ contradition: 0.0004715349713592749
+
+premise: Shannon Kincaid is a female.
+ hypo:Shannon Kincaid is an investigative reporter.
+ contradition: 0.00020057290300400741
+
+premise: Shannon Kincaid is a female.
+ hypo:Mark Woodbury is the boss of Shannon Kincaid.
+ contradition: 0.06572494878342736
+
+premise: Shannon Kincaid is in her early twenties.
+ hypo:Shannon Kincaid is an investigative reporter.
+ contradition: 0.0004012292140567529
+
+premise: Shannon Kincaid is in her early twenties.
+ hypo:Mark Woodbury is the boss of Shannon Kincaid.
+ contradition: 0.27931121503281026
+
+premise: Jack Kincaid is the father of Shannon Kincaid.
+ hypo:Shannon Kincaid is an investigative reporter.
+ contradition: 0.0012600723347648238
+
+premise: Mark Woodbury is the boss of Shannon Kincaid.
+ hypo:Shannon Kincaid is an investigative reporter.
+ contradition: 0.0015030012335240854
+
+premise: Mark Woodbury is the boss of Shannon Kincaid.
+ hypo:Mark Woodbury is the boss of Shannon Kincaid.
+ contradition: 0.001113119764019539
+
+premise: Mark Woodbury has graying hair and a mustache.
+ hypo:Mark Woodbury has graying hair and a mustache, and he appears to be middle-aged.
+ contradition: 0.00011243440173087098
+
+premise: Mark Woodbury has graying hair and a mustache.
+ hypo:Shannon Kincaid is the employee of Mark Woodbury.
+ contradition: 0.7593658329764061
+
+premise: Mark Woodbury is middle-aged.
+ hypo:Mark Woodbury has graying hair and a mustache, and he appears to be middle-aged.
+ contradition: 2.9821912821266648e-05
+
+premise: Mark Woodbury is middle-aged.
+ hypo:Shannon Kincaid is the employee of Mark Woodbury.
+ contradition: 0.3185655622829558
+
+premise: Shannon Kincaid is the employee of Mark Woodbury.
+ hypo:Mark Woodbury has graying hair and a mustache, and he appears to be middle-aged.
+ contradition: 0.0005300386776447446
+
+premise: Shannon Kincaid is the employee of Mark Woodbury.
+ hypo:Shannon Kincaid is the employee of Mark Woodbury.
+ contradition: 0.0008650692500298065
+
+
+MAX_PROB is 0.7593658329764061
+CONTRADICTORY_PREMISE: Mark Woodbury has graying hair and a mustache.
+ CONTRADICTORY_HYPO: Shannon Kincaid is the employee of Mark Woodbury.

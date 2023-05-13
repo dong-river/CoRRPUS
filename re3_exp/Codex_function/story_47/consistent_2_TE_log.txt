@@ -1,0 +1,32 @@
+premise: Shannon Burke has hazel eyes, shoulder length brown hair, average build, and average height.
+ hypo:Charles Burke is the boyfriend of Shannon Burke.
+ contradition: 0.3742219670840867
+
+premise: Shannon Burke is a journalist.
+ hypo:Charles Burke is the boyfriend of Shannon Burke.
+ contradition: 0.6708016429520965
+
+premise: Shannon Burke is a female.
+ hypo:Charles Burke is the boyfriend of Shannon Burke.
+ contradition: 0.21344616103660213
+
+premise: Shannon Burke is in her early twenties.
+ hypo:Charles Burke is the boyfriend of Shannon Burke.
+ contradition: 0.38116496544013423
+
+premise: Charles Burke is the father of Shannon Burke.
+ hypo:Charles Burke is the boyfriend of Shannon Burke.
+ contradition: 0.9994164536030691
+
+premise: Charles Burke is a journalist.
+ hypo:Shannon Burke is the girlfriend of Charles Burke.
+ contradition: 0.5303100534351765
+
+premise: Shannon Burke is the daughter of Charles Burke.
+ hypo:Shannon Burke is the girlfriend of Charles Burke.
+ contradition: 0.9988219327553449
+
+
+MAX_PROB is 0.9994164536030691
+CONTRADICTORY_PREMISE: Charles Burke is the father of Shannon Burke.
+ CONTRADICTORY_HYPO: Charles Burke is the boyfriend of Shannon Burke.

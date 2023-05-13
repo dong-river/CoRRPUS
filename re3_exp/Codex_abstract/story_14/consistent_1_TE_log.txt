@@ -1,0 +1,32 @@
+premise: Jenny Anderson has blue eyes and blonde hair.
+ hypo:Jimmy Jackson is the best friend of Jenny Anderson.
+ contradition: 0.07732094731447627
+
+premise: Jenny Anderson is a female.
+ hypo:Jimmy Jackson is the best friend of Jenny Anderson.
+ contradition: 0.0608042954953647
+
+premise: Jenny Anderson is young.
+ hypo:Jimmy Jackson is the best friend of Jenny Anderson.
+ contradition: 0.054799278829358505
+
+premise: Jimmy Jackson is the best friend of Jenny Anderson.
+ hypo:Jimmy Jackson is the best friend of Jenny Anderson.
+ contradition: 0.0016617425214275597
+
+premise: Jimmy Jackson has brown eyes and dark hair.
+ hypo:Jenny Anderson is the best friend of Jimmy Jackson.
+ contradition: 0.027607322474758503
+
+premise: Jimmy Jackson is male.
+ hypo:Jenny Anderson is the best friend of Jimmy Jackson.
+ contradition: 0.02810378497508579
+
+premise: Jenny Anderson is the best friend of Jimmy Jackson.
+ hypo:Jenny Anderson is the best friend of Jimmy Jackson.
+ contradition: 0.00149558824891393
+
+
+MAX_PROB is 0.07732094731447627
+CONTRADICTORY_PREMISE: Jenny Anderson has blue eyes and blonde hair.
+ CONTRADICTORY_HYPO: Jimmy Jackson is the best friend of Jenny Anderson.

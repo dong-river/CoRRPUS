@@ -1,0 +1,119 @@
+premise: Valerie Russo has brown eyes, is of average height, has dark hair, and has an average build.
+ hypo:Valerie Russo is a doctor.
+ contradition: 0.0004441954406921512
+
+premise: Valerie Russo is a female.
+ hypo:Valerie Russo is a doctor.
+ contradition: 0.00022351637362305084
+
+premise: Valerie Russo is a female.
+ hypo:Carl Russo is the husband of Valerie Russo.
+ contradition: 0.07312819956068402
+
+premise: Valerie Russo is a high school senior.
+ hypo:Valerie Russo is a doctor.
+ contradition: 0.9963135034265298
+
+premise: Valerie Russo is a high school senior.
+ hypo:Carl Russo is the husband of Valerie Russo.
+ contradition: 0.3547171629261233
+
+premise: Antoinette Russo is the mother of Valerie Russo.
+ hypo:Valerie Russo is a doctor.
+ contradition: 0.0005682600639053446
+
+premise: Carl Russo is the father of Valerie Russo.
+ hypo:Valerie Russo is a doctor.
+ contradition: 0.0011599239404699374
+
+premise: Carl Russo is the father of Valerie Russo.
+ hypo:Carl Russo is the husband of Valerie Russo.
+ contradition: 0.9718738907970185
+
+premise: Carl Russo is tall, with an average build, and salt and pepper hair.
+ hypo:Carl Russo is a businessman.
+ contradition: 0.00020108312404689007
+
+premise: Carl Russo is tall, with an average build, and salt and pepper hair.
+ hypo:Valerie Russo is the wife of Carl Russo.
+ contradition: 0.35819462301871724
+
+premise: Carl Russo is a successful businessman.
+ hypo:Carl Russo is a businessman.
+ contradition: 0.00017389901033223272
+
+premise: Carl Russo is a successful businessman.
+ hypo:Valerie Russo is the wife of Carl Russo.
+ contradition: 0.05387599094614092
+
+premise: Valerie Russo is the daughter of Carl Russo.
+ hypo:Carl Russo is a businessman.
+ contradition: 0.0010741152982896413
+
+premise: Valerie Russo is the daughter of Carl Russo.
+ hypo:Valerie Russo is the wife of Carl Russo.
+ contradition: 0.9993896635216902
+
+
+MAX_PROB is 0.9993896635216902
+CONTRADICTORY_PREMISE: Valerie Russo is the daughter of Carl Russo.
+ CONTRADICTORY_HYPO: Valerie Russo is the wife of Carl Russo.premise: Valerie Russo has brown eyes, an average build, dark hair, and is of average height.
+ hypo:Valerie Russo is a doctor.
+ contradition: 0.00040135665407628517
+
+premise: Valerie Russo is a female.
+ hypo:Valerie Russo is a doctor.
+ contradition: 0.00022351637362305084
+
+premise: Valerie Russo is a female.
+ hypo:Carl Russo is the husband of Valerie Russo.
+ contradition: 0.07312819956068402
+
+premise: Valerie Russo is a high school senior.
+ hypo:Valerie Russo is a doctor.
+ contradition: 0.9963135034265298
+
+premise: Valerie Russo is a high school senior.
+ hypo:Carl Russo is the husband of Valerie Russo.
+ contradition: 0.3547171629261233
+
+premise: Antoinette Russo is the mother of Valerie Russo.
+ hypo:Valerie Russo is a doctor.
+ contradition: 0.0005682600639053446
+
+premise: Carl Russo is the father of Valerie Russo.
+ hypo:Valerie Russo is a doctor.
+ contradition: 0.0011599239404699374
+
+premise: Carl Russo is the father of Valerie Russo.
+ hypo:Carl Russo is the husband of Valerie Russo.
+ contradition: 0.9718738907970185
+
+premise: Carl Russo is tall, with salt and pepper hair, and an average build.
+ hypo:Carl Russo is a businessman.
+ contradition: 0.0001999645966173114
+
+premise: Carl Russo is tall, with salt and pepper hair, and an average build.
+ hypo:Valerie Russo is the wife of Carl Russo.
+ contradition: 0.3165102019983674
+
+premise: Carl Russo is a successful businessman.
+ hypo:Carl Russo is a businessman.
+ contradition: 0.00017389901033223272
+
+premise: Carl Russo is a successful businessman.
+ hypo:Valerie Russo is the wife of Carl Russo.
+ contradition: 0.05387599094614092
+
+premise: Valerie Russo is the daughter of Carl Russo.
+ hypo:Carl Russo is a businessman.
+ contradition: 0.0010741152982896413
+
+premise: Valerie Russo is the daughter of Carl Russo.
+ hypo:Valerie Russo is the wife of Carl Russo.
+ contradition: 0.9993896635216902
+
+
+MAX_PROB is 0.9993896635216902
+CONTRADICTORY_PREMISE: Valerie Russo is the daughter of Carl Russo.
+ CONTRADICTORY_HYPO: Valerie Russo is the wife of Carl Russo.

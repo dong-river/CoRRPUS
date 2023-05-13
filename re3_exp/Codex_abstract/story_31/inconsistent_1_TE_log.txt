@@ -1,0 +1,53 @@
+premise: Riley Harper is a female.
+ hypo:Jonas Harper is the father of Riley Harper.
+ contradition: 0.12314678846963302
+
+premise: Riley Harper is in her early twenties.
+ hypo:Jonas Harper is the father of Riley Harper.
+ contradition: 0.5374745182182986
+
+premise: Jonas Harper is the father of Riley Harper.
+ hypo:Jonas Harper is the father of Riley Harper.
+ contradition: 0.000720898610185714
+
+premise: Chase Elliott is handsome, tall, and has dark hair and blue eyes.
+ hypo:
+Chase Elliott is a gas station attendant.
+ contradition: 0.031705492913449485
+
+premise: Chase Elliott is the chief of police.
+ hypo:
+Chase Elliott is a gas station attendant.
+ contradition: 0.9997926188503564
+
+premise: Chase Elliott is male.
+ hypo:
+Chase Elliott is a gas station attendant.
+ contradition: 0.02244256623468597
+
+premise: Chase Elliott is in his early thirties.
+ hypo:
+Chase Elliott is a gas station attendant.
+ contradition: 0.023350685120848567
+
+premise: Jonas Harper is a successful businessman.
+ hypo:Jonas Harper is a businessman.
+ contradition: 0.0002533523643287445
+
+premise: Jonas Harper is a successful businessman.
+ hypo:Riley Harper is the daughter of Jonas Harper.
+ contradition: 0.011312032528923894
+
+premise: Riley Harper is the daughter of Jonas Harper.
+ hypo:Jonas Harper is a businessman.
+ contradition: 0.0007951941440150694
+
+premise: Riley Harper is the daughter of Jonas Harper.
+ hypo:Riley Harper is the daughter of Jonas Harper.
+ contradition: 0.0008586745465387656
+
+
+MAX_PROB is 0.9997926188503564
+CONTRADICTORY_PREMISE: Chase Elliott is the chief of police.
+ CONTRADICTORY_HYPO: 
+Chase Elliott is a gas station attendant.

@@ -1,0 +1,28 @@
+premise: Julie Christensen is pretty and blonde.
+ hypo:Beth Christensen is the friend of Julie Christensen.
+ contradition: 0.04631772427317737
+
+premise: Julie Christensen is a student.
+ hypo:Beth Christensen is the friend of Julie Christensen.
+ contradition: 0.11063112371572675
+
+premise: Julie Christensen is a female.
+ hypo:Beth Christensen is the friend of Julie Christensen.
+ contradition: 0.06247887324878536
+
+premise: Julie Christensen is in her early twenties.
+ hypo:Beth Christensen is the friend of Julie Christensen.
+ contradition: 0.1352900209835332
+
+premise: Beth Christensen is the best friend of Julie Christensen.
+ hypo:Beth Christensen is the friend of Julie Christensen.
+ contradition: 0.0007749403533949743
+
+premise: Julie Christensen is the best friend of Beth Christensen.
+ hypo:Julie Christensen is the friend of Beth Christensen.
+ contradition: 0.0007430400946946326
+
+
+MAX_PROB is 0.1352900209835332
+CONTRADICTORY_PREMISE: Julie Christensen is in her early twenties.
+ CONTRADICTORY_HYPO: Beth Christensen is the friend of Julie Christensen.

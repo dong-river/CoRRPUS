@@ -1,0 +1,80 @@
+premise: Olivia Fria Spierings is small, skinny, has blue eyes, and long dark hair.
+ hypo:Olivia Fria Spierings is short and skinny, with a pretty face and blue eyes. She has long, dark hair.
+ contradition: 8.654574692840668e-05
+
+premise: Olivia Fria Spierings is small, skinny, has blue eyes, and long dark hair.
+ hypo:Olivia Fria Spierings is an army supply clerk.
+ contradition: 0.0006964865271264931
+
+premise: Olivia Fria Spierings is small, skinny, has blue eyes, and long dark hair.
+ hypo:Olivia Fria Spierings is 18 years old.
+ contradition: 0.00026144623883098605
+
+premise: Olivia Fria Spierings is small, skinny, has blue eyes, and long dark hair.
+ hypo:Colonel Damien Riggs is the aide of Olivia Fria Spierings.
+ contradition: 0.17128017667635645
+
+premise: Olivia Fria Spierings is a female.
+ hypo:Olivia Fria Spierings is short and skinny, with a pretty face and blue eyes. She has long, dark hair.
+ contradition: 0.0009427875809767073
+
+premise: Olivia Fria Spierings is a female.
+ hypo:Olivia Fria Spierings is an army supply clerk.
+ contradition: 0.0007964528730091618
+
+premise: Olivia Fria Spierings is a female.
+ hypo:Olivia Fria Spierings is 18 years old.
+ contradition: 0.00017419147138630382
+
+premise: Olivia Fria Spierings is a female.
+ hypo:Colonel Damien Riggs is the aide of Olivia Fria Spierings.
+ contradition: 0.11481994340695374
+
+premise: Olivia Fria Spierings is young.
+ hypo:Olivia Fria Spierings is short and skinny, with a pretty face and blue eyes. She has long, dark hair.
+ contradition: 0.001578251089911831
+
+premise: Olivia Fria Spierings is young.
+ hypo:Olivia Fria Spierings is an army supply clerk.
+ contradition: 0.007746008633515065
+
+premise: Olivia Fria Spierings is young.
+ hypo:Olivia Fria Spierings is 18 years old.
+ contradition: 0.00042783722515184463
+
+premise: Olivia Fria Spierings is young.
+ hypo:Colonel Damien Riggs is the aide of Olivia Fria Spierings.
+ contradition: 0.08994965074694433
+
+premise: Colonel Damien Riggs is the commanding officer of Olivia Fria Spierings.
+ hypo:Olivia Fria Spierings is short and skinny, with a pretty face and blue eyes. She has long, dark hair.
+ contradition: 0.002802964758946787
+
+premise: Colonel Damien Riggs is the commanding officer of Olivia Fria Spierings.
+ hypo:Olivia Fria Spierings is an army supply clerk.
+ contradition: 0.9195580922768105
+
+premise: Colonel Damien Riggs is the commanding officer of Olivia Fria Spierings.
+ hypo:Olivia Fria Spierings is 18 years old.
+ contradition: 0.0048748399634458974
+
+premise: Colonel Damien Riggs is short, with graying hair. He is tall and muscular, with blue eyes.
+ hypo:Olivia Fria Spierings is the aide of Colonel Damien Riggs.
+ contradition: 0.9260158345552493
+
+premise: Colonel Damien Riggs is male.
+ hypo:Olivia Fria Spierings is the aide of Colonel Damien Riggs.
+ contradition: 0.5960452038896262
+
+premise: Colonel Damien Riggs is in his early 40s.
+ hypo:Olivia Fria Spierings is the aide of Colonel Damien Riggs.
+ contradition: 0.33175441577917225
+
+premise: Olivia Fria Spierings is the unit of Colonel Damien Riggs.
+ hypo:Olivia Fria Spierings is the aide of Colonel Damien Riggs.
+ contradition: 0.023937343729988354
+
+
+MAX_PROB is 0.9260158345552493
+CONTRADICTORY_PREMISE: Colonel Damien Riggs is short, with graying hair. He is tall and muscular, with blue eyes.
+ CONTRADICTORY_HYPO: Olivia Fria Spierings is the aide of Colonel Damien Riggs.

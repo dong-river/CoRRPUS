@@ -1,0 +1,95 @@
+premise: Shannon Riley has blue eyes and long brown hair.
+ hypo:Shannon Riley is a journalist.
+ contradition: 0.0006274712683629133
+
+premise: Shannon Riley has blue eyes and long brown hair.
+ hypo:Robert Riley is the father of Shannon Riley.
+ contradition: 0.025837856790305945
+
+premise: Shannon Riley is a journalist.
+ hypo:Shannon Riley is a journalist.
+ contradition: 0.00036898954749168124
+
+premise: Shannon Riley is a journalist.
+ hypo:Robert Riley is the father of Shannon Riley.
+ contradition: 0.3732622622561309
+
+premise: Shannon Riley is a female.
+ hypo:Shannon Riley is a journalist.
+ contradition: 0.00023973609776218517
+
+premise: Shannon Riley is a female.
+ hypo:Robert Riley is the father of Shannon Riley.
+ contradition: 0.07952450063625176
+
+premise: Shannon Riley is young.
+ hypo:Shannon Riley is a journalist.
+ contradition: 0.002786524051599211
+
+premise: Shannon Riley is young.
+ hypo:Robert Riley is the father of Shannon Riley.
+ contradition: 0.00877540242351909
+
+premise: Robert Riley is the father of Shannon Riley.
+ hypo:Shannon Riley is a journalist.
+ contradition: 0.0021670976128266863
+
+premise: Robert Riley is the father of Shannon Riley.
+ hypo:Robert Riley is the father of Shannon Riley.
+ contradition: 0.0007113656978738104
+
+premise: Jillian Riley is the mother of Shannon Riley.
+ hypo:Shannon Riley is a journalist.
+ contradition: 0.0020043896166100725
+
+
+MAX_PROB is 0.3732622622561309
+CONTRADICTORY_PREMISE: Shannon Riley is a journalist.
+ CONTRADICTORY_HYPO: Robert Riley is the father of Shannon Riley.premise: Shannon Riley has long brown hair and blue eyes.
+ hypo:Shannon Riley is a journalist.
+ contradition: 0.000665196694292912
+
+premise: Shannon Riley has long brown hair and blue eyes.
+ hypo:Robert Riley is the father of Shannon Riley.
+ contradition: 0.028576180960195336
+
+premise: Shannon Riley is a journalist.
+ hypo:Shannon Riley is a journalist.
+ contradition: 0.00036898954749168124
+
+premise: Shannon Riley is a journalist.
+ hypo:Robert Riley is the father of Shannon Riley.
+ contradition: 0.3732622622561309
+
+premise: Shannon Riley is a female.
+ hypo:Shannon Riley is a journalist.
+ contradition: 0.00023973609776218517
+
+premise: Shannon Riley is a female.
+ hypo:Robert Riley is the father of Shannon Riley.
+ contradition: 0.07952450063625176
+
+premise: Shannon Riley is young.
+ hypo:Shannon Riley is a journalist.
+ contradition: 0.002786524051599211
+
+premise: Shannon Riley is young.
+ hypo:Robert Riley is the father of Shannon Riley.
+ contradition: 0.00877540242351909
+
+premise: Robert Riley is the father of Shannon Riley.
+ hypo:Shannon Riley is a journalist.
+ contradition: 0.0021670976128266863
+
+premise: Robert Riley is the father of Shannon Riley.
+ hypo:Robert Riley is the father of Shannon Riley.
+ contradition: 0.0007113656978738104
+
+premise: Jillian Riley is the mother of Shannon Riley.
+ hypo:Shannon Riley is a journalist.
+ contradition: 0.0020043896166100725
+
+
+MAX_PROB is 0.3732622622561309
+CONTRADICTORY_PREMISE: Shannon Riley is a journalist.
+ CONTRADICTORY_HYPO: Robert Riley is the father of Shannon Riley.

@@ -1,0 +1,68 @@
+premise: Payton Dupree is a career woman, businesswoman, and independent.
+ hypo:Olivia Dupree is the niece of Payton Dupree.
+ contradition: 0.2133306221949921
+
+premise: Payton Dupree is thirty-six years old.
+ hypo:Olivia Dupree is the niece of Payton Dupree.
+ contradition: 0.09857807036723401
+
+premise: Olivia Dupree is the niece of Payton Dupree.
+ hypo:Olivia Dupree is the niece of Payton Dupree.
+ contradition: 0.0014120622050637832
+
+premise: Amanda Dupree is a stay at home mom.
+ hypo:Olivia Dupree is the daughter of Amanda Dupree.
+ contradition: 0.0021938192144626547
+
+premise: Amanda Dupree is deceased.
+ hypo:Olivia Dupree is the daughter of Amanda Dupree.
+ contradition: 0.23033852287914566
+
+premise: Olivia Dupree is the daughter of Amanda Dupree.
+ hypo:Olivia Dupree is the daughter of Amanda Dupree.
+ contradition: 0.0010097632909701643
+
+premise: Olivia Dupree is introverted and shy.
+ hypo:Olivia Dupree is four years old.
+ contradition: 0.0008019072319158185
+
+premise: Olivia Dupree is introverted and shy.
+ hypo:Amanda Dupree is the guardian of Olivia Dupree.
+ contradition: 0.010783794622388904
+
+premise: Olivia Dupree is introverted and shy.
+ hypo:Payton Dupree is the aunt of Olivia Dupree.
+ contradition: 0.03909546474814059
+
+premise: Olivia Dupree is four years old.
+ hypo:Olivia Dupree is four years old.
+ contradition: 0.000984507609297289
+
+premise: Olivia Dupree is four years old.
+ hypo:Amanda Dupree is the guardian of Olivia Dupree.
+ contradition: 0.0027693794120412
+
+premise: Olivia Dupree is four years old.
+ hypo:Payton Dupree is the aunt of Olivia Dupree.
+ contradition: 0.0052987696429958745
+
+premise: Amanda Dupree is the mother of Olivia Dupree.
+ hypo:Olivia Dupree is four years old.
+ contradition: 0.00029644449704042107
+
+premise: Amanda Dupree is the mother of Olivia Dupree.
+ hypo:Amanda Dupree is the guardian of Olivia Dupree.
+ contradition: 0.11285415210865371
+
+premise: Payton Dupree is the aunt of Olivia Dupree.
+ hypo:Olivia Dupree is four years old.
+ contradition: 0.000421596859411217
+
+premise: Payton Dupree is the aunt of Olivia Dupree.
+ hypo:Payton Dupree is the aunt of Olivia Dupree.
+ contradition: 0.0006894598791276249
+
+
+MAX_PROB is 0.23033852287914566
+CONTRADICTORY_PREMISE: Amanda Dupree is deceased.
+ CONTRADICTORY_HYPO: Olivia Dupree is the daughter of Amanda Dupree.

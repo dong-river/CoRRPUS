@@ -1,0 +1,12 @@
+premise: Thomas Watkins is a mercenary.
+ hypo:Thomas Watkins is the sheriff.
+ contradition: 0.9995179117261929
+
+premise: Thomas Watkins is male.
+ hypo:Thomas Watkins is the sheriff.
+ contradition: 0.0032595682654795763
+
+
+MAX_PROB is 0.9995179117261929
+CONTRADICTORY_PREMISE: Thomas Watkins is a mercenary.
+ CONTRADICTORY_HYPO: Thomas Watkins is the sheriff.

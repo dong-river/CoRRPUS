@@ -1,0 +1,12 @@
+premise: Thomas Watkins is a good-looking person.
+ hypo:Thomas Watkins is the Sheriff.
+ contradition: 0.03417225084960173
+
+premise: Thomas Watkins is the sheriff.
+ hypo:Thomas Watkins is the Sheriff.
+ contradition: 0.001198806278043403
+
+
+MAX_PROB is 0.03417225084960173
+CONTRADICTORY_PREMISE: Thomas Watkins is a good-looking person.
+ CONTRADICTORY_HYPO: Thomas Watkins is the Sheriff.

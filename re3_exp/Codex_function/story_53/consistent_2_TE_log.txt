@@ -1,0 +1,20 @@
+premise: Jane Doe is female.
+ hypo:Jessica Brown is the sister of Jane Doe.
+ contradition: 0.04228037030189726
+
+premise: Jane Doe is in her early twenties.
+ hypo:Jessica Brown is the sister of Jane Doe.
+ contradition: 0.3497072366421429
+
+premise: Jessica Brown is the sister of Jane Doe.
+ hypo:Jessica Brown is the sister of Jane Doe.
+ contradition: 0.0011155964662502686
+
+premise: Jane Doe is the sister of Jessica Brown.
+ hypo:Jane Doe is the sister of Jessica Brown.
+ contradition: 0.0018336610886008798
+
+
+MAX_PROB is 0.3497072366421429
+CONTRADICTORY_PREMISE: Jane Doe is in her early twenties.
+ CONTRADICTORY_HYPO: Jessica Brown is the sister of Jane Doe.

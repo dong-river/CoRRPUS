@@ -1,0 +1,184 @@
+premise: Nina Harman has small, brown eyes, is delicate, and has long dark hair.
+ hypo:Nina Harman is withdrawn, anxious, and moody. She enjoys ghost stories and movies with special effects.
+ contradition: 0.009437726533618851
+
+premise: Nina Harman has small, brown eyes, is delicate, and has long dark hair.
+ hypo:Karen Hartman is the mother of Nina Harman.
+ contradition: 0.027961320193139974
+
+premise: Nina Harman has small, brown eyes, is delicate, and has long dark hair.
+ hypo:Jake Ryan is the crush of Nina Harman.
+ contradition: 0.08596900181249131
+
+premise: Nina Harman has small, brown eyes, is delicate, and has long dark hair.
+ hypo:Karen Hartman is the mother of Nina Harman.
+ contradition: 0.027961320193139974
+
+premise: Nina Harman has small, brown eyes, is delicate, and has long dark hair.
+ hypo:Jake Ryan is the crush of Nina Harman.
+ contradition: 0.08596900181249131
+
+premise: Nina Harman is a female.
+ hypo:Nina Harman is withdrawn, anxious, and moody. She enjoys ghost stories and movies with special effects.
+ contradition: 0.016220420925204156
+
+premise: Nina Harman is a female.
+ hypo:Karen Hartman is the mother of Nina Harman.
+ contradition: 0.009131734518077613
+
+premise: Nina Harman is a female.
+ hypo:Jake Ryan is the crush of Nina Harman.
+ contradition: 0.14159559301455432
+
+premise: Nina Harman is a female.
+ hypo:Karen Hartman is the mother of Nina Harman.
+ contradition: 0.009131734518077613
+
+premise: Nina Harman is a female.
+ hypo:Jake Ryan is the crush of Nina Harman.
+ contradition: 0.14159559301455432
+
+premise: Nina Harman is a pre-teen.
+ hypo:Nina Harman is withdrawn, anxious, and moody. She enjoys ghost stories and movies with special effects.
+ contradition: 0.00882923647912185
+
+premise: Nina Harman is a pre-teen.
+ hypo:Karen Hartman is the mother of Nina Harman.
+ contradition: 0.006489019038032091
+
+premise: Nina Harman is a pre-teen.
+ hypo:Jake Ryan is the crush of Nina Harman.
+ contradition: 0.09322058054868616
+
+premise: Nina Harman is a pre-teen.
+ hypo:Karen Hartman is the mother of Nina Harman.
+ contradition: 0.006489019038032091
+
+premise: Nina Harman is a pre-teen.
+ hypo:Jake Ryan is the crush of Nina Harman.
+ contradition: 0.09322058054868616
+
+premise: Jake Ryan is the crush of Nina Harman.
+ hypo:Nina Harman is withdrawn, anxious, and moody. She enjoys ghost stories and movies with special effects.
+ contradition: 0.10620415324816028
+
+premise: Jake Ryan is the crush of Nina Harman.
+ hypo:Jake Ryan is the crush of Nina Harman.
+ contradition: 0.001262254704602998
+
+premise: Jake Ryan is the crush of Nina Harman.
+ hypo:Jake Ryan is the crush of Nina Harman.
+ contradition: 0.001262254704602998
+
+premise: Karen Hartman is the best friend of Nina Harman.
+ hypo:Nina Harman is withdrawn, anxious, and moody. She enjoys ghost stories and movies with special effects.
+ contradition: 0.06181071599043273
+
+premise: Karen Hartman is the best friend of Nina Harman.
+ hypo:Karen Hartman is the mother of Nina Harman.
+ contradition: 0.9994731342476156
+
+premise: Karen Hartman is the best friend of Nina Harman.
+ hypo:Karen Hartman is the mother of Nina Harman.
+ contradition: 0.9994731342476156
+
+premise: Karen Hartman is the best friend of Nina Harman.
+ hypo:Nina Harman is withdrawn, anxious, and moody. She enjoys ghost stories and movies with special effects.
+ contradition: 0.06181071599043273
+
+premise: Karen Hartman is the best friend of Nina Harman.
+ hypo:Karen Hartman is the mother of Nina Harman.
+ contradition: 0.9994731342476156
+
+premise: Karen Hartman is the best friend of Nina Harman.
+ hypo:Karen Hartman is the mother of Nina Harman.
+ contradition: 0.9994731342476156
+
+premise: Jake Ryan is handsome.
+ hypo:Jake Ryan is cute.
+ contradition: 0.0029091473476534906
+
+premise: Jake Ryan is handsome.
+ hypo:Nina Harman is the crush of Jake Ryan.
+ contradition: 0.024742725390436912
+
+premise: Jake Ryan is handsome.
+ hypo:Nina Harman is the crush of Jake Ryan.
+ contradition: 0.024742725390436912
+
+premise: Jake Ryan is male.
+ hypo:Jake Ryan is cute.
+ contradition: 0.0005875543434635059
+
+premise: Jake Ryan is male.
+ hypo:Nina Harman is the crush of Jake Ryan.
+ contradition: 0.0689705386326465
+
+premise: Jake Ryan is male.
+ hypo:Nina Harman is the crush of Jake Ryan.
+ contradition: 0.0689705386326465
+
+premise: Jake Ryan is a teenager.
+ hypo:Jake Ryan is cute.
+ contradition: 0.0013348885795427723
+
+premise: Jake Ryan is a teenager.
+ hypo:Nina Harman is the crush of Jake Ryan.
+ contradition: 0.0250665825547111
+
+premise: Jake Ryan is a teenager.
+ hypo:Nina Harman is the crush of Jake Ryan.
+ contradition: 0.0250665825547111
+
+premise: Nina Harman is the crush of Jake Ryan.
+ hypo:Jake Ryan is cute.
+ contradition: 0.005167323567560234
+
+premise: Nina Harman is the crush of Jake Ryan.
+ hypo:Nina Harman is the crush of Jake Ryan.
+ contradition: 0.0018296530477283758
+
+premise: Nina Harman is the crush of Jake Ryan.
+ hypo:Nina Harman is the crush of Jake Ryan.
+ contradition: 0.0018296530477283758
+
+premise: Karen Hartman is a woman.
+ hypo:Karen Hartman's windows are in the living room.
+ contradition: 0.00174829637648627
+
+premise: Karen Hartman is a woman.
+ hypo:Nina Harman is the daughter of Karen Hartman.
+ contradition: 0.02133268516201719
+
+premise: Karen Hartman is a woman.
+ hypo:Nina Harman is the daughter of Karen Hartman.
+ contradition: 0.02133268516201719
+
+premise: Nina Harman is the best friend of Karen Hartman.
+ hypo:Karen Hartman's windows are in the living room.
+ contradition: 0.014289926699281745
+
+premise: Nina Harman is the best friend of Karen Hartman.
+ hypo:Nina Harman is the daughter of Karen Hartman.
+ contradition: 0.9972774207220723
+
+premise: Nina Harman is the best friend of Karen Hartman.
+ hypo:Nina Harman is the daughter of Karen Hartman.
+ contradition: 0.9972774207220723
+
+premise: Nina Harman is the best friend of Karen Hartman.
+ hypo:Karen Hartman's windows are in the living room.
+ contradition: 0.014289926699281745
+
+premise: Nina Harman is the best friend of Karen Hartman.
+ hypo:Nina Harman is the daughter of Karen Hartman.
+ contradition: 0.9972774207220723
+
+premise: Nina Harman is the best friend of Karen Hartman.
+ hypo:Nina Harman is the daughter of Karen Hartman.
+ contradition: 0.9972774207220723
+
+
+MAX_PROB is 0.9994731342476156
+CONTRADICTORY_PREMISE: Karen Hartman is the best friend of Nina Harman.
+ CONTRADICTORY_HYPO: Karen Hartman is the mother of Nina Harman.

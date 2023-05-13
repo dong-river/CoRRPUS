@@ -1,0 +1,4 @@
+
+MAX_PROB is 0
+CONTRADICTORY_PREMISE: Charles Wilson is in his early twenties.
+ CONTRADICTORY_HYPO: Charles Wilson is in his forties.

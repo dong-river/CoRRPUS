@@ -1,0 +1,112 @@
+premise: Payton Dupree is a career woman and businesswoman.
+ hypo:Olivia Dupree is the niece of Payton Dupree.
+ contradition: 0.13589989441298592
+
+premise: Payton Dupree is thirty-six years old.
+ hypo:Olivia Dupree is the niece of Payton Dupree.
+ contradition: 0.09857807036723401
+
+premise: Amanda Dupree is a stay-at-home mom.
+ hypo:Olivia Dupree is the guardian of Amanda Dupree.
+ contradition: 0.16528754631887474
+
+premise: Amanda Dupree is a stay-at-home mom.
+ hypo:Olivia Dupree is the daughter of Amanda Dupree.
+ contradition: 0.0024836858581035915
+
+premise: Amanda Dupree is a female.
+ hypo:Olivia Dupree is the guardian of Amanda Dupree.
+ contradition: 0.009959816184744877
+
+premise: Amanda Dupree is a female.
+ hypo:Olivia Dupree is the daughter of Amanda Dupree.
+ contradition: 0.004666026732204986
+
+premise: Amanda Dupree was four years old when she passed away.
+ hypo:Olivia Dupree is the guardian of Amanda Dupree.
+ contradition: 0.11423560591949515
+
+premise: Amanda Dupree was four years old when she passed away.
+ hypo:Olivia Dupree is the daughter of Amanda Dupree.
+ contradition: 0.0751042302797546
+
+premise: Olivia Dupree is the daughter of Amanda Dupree.
+ hypo:Olivia Dupree is the guardian of Amanda Dupree.
+ contradition: 0.46934512035858367
+
+premise: Olivia Dupree is the daughter of Amanda Dupree.
+ hypo:Olivia Dupree is the daughter of Amanda Dupree.
+ contradition: 0.0010097632909701643
+
+premise: Olivia Dupree is precocious and energetic.
+ hypo:Olivia Dupree has tears on her cheeks.
+ contradition: 0.5220450112992915
+
+premise: Olivia Dupree is precocious and energetic.
+ hypo:Olivia Dupree is four years old.
+ contradition: 0.00021945693222937758
+
+premise: Olivia Dupree is precocious and energetic.
+ hypo:Amanda Dupree is the guardian of Olivia Dupree.
+ contradition: 0.01333495997037295
+
+premise: Olivia Dupree is precocious and energetic.
+ hypo:Amanda Dupree is the mother of Olivia Dupree.
+ contradition: 0.005132370145609218
+
+premise: Olivia Dupree is precocious and energetic.
+ hypo:Payton Dupree is the aunt of Olivia Dupree.
+ contradition: 0.029514900242067925
+
+premise: Olivia Dupree is 4 years old.
+ hypo:Olivia Dupree has tears on her cheeks.
+ contradition: 0.003945270381932102
+
+premise: Olivia Dupree is 4 years old.
+ hypo:Olivia Dupree is four years old.
+ contradition: 0.000867197461497881
+
+premise: Olivia Dupree is 4 years old.
+ hypo:Amanda Dupree is the guardian of Olivia Dupree.
+ contradition: 0.0027015001231833306
+
+premise: Olivia Dupree is 4 years old.
+ hypo:Amanda Dupree is the mother of Olivia Dupree.
+ contradition: 0.0009198923985637133
+
+premise: Olivia Dupree is 4 years old.
+ hypo:Payton Dupree is the aunt of Olivia Dupree.
+ contradition: 0.005466391955893505
+
+premise: Amanda Dupree is the mother of Olivia Dupree.
+ hypo:Olivia Dupree has tears on her cheeks.
+ contradition: 0.019105524621181688
+
+premise: Amanda Dupree is the mother of Olivia Dupree.
+ hypo:Olivia Dupree is four years old.
+ contradition: 0.00029644449704042107
+
+premise: Amanda Dupree is the mother of Olivia Dupree.
+ hypo:Amanda Dupree is the guardian of Olivia Dupree.
+ contradition: 0.11285415210865371
+
+premise: Amanda Dupree is the mother of Olivia Dupree.
+ hypo:Amanda Dupree is the mother of Olivia Dupree.
+ contradition: 0.0005393995519164721
+
+premise: Payton Dupree is the godmother of Olivia Dupree.
+ hypo:Olivia Dupree has tears on her cheeks.
+ contradition: 0.010614309305523505
+
+premise: Payton Dupree is the godmother of Olivia Dupree.
+ hypo:Olivia Dupree is four years old.
+ contradition: 0.00027448499115928065
+
+premise: Payton Dupree is the godmother of Olivia Dupree.
+ hypo:Payton Dupree is the aunt of Olivia Dupree.
+ contradition: 0.9342332120963552
+
+
+MAX_PROB is 0.9342332120963552
+CONTRADICTORY_PREMISE: Payton Dupree is the godmother of Olivia Dupree.
+ CONTRADICTORY_HYPO: Payton Dupree is the aunt of Olivia Dupree.

@@ -1,0 +1,56 @@
+premise: Nina Harman has brown eyes, is withdrawn, shy, and has a kind heart. She also has long, dark hair.
+ hypo:Karen Hartman is the mother of Nina Harman.
+ contradition: 0.019708366536095655
+
+premise: Nina Harman has brown eyes, is withdrawn, shy, and has a kind heart. She also has long, dark hair.
+ hypo:Jake Ryan is the crush of Nina Harman.
+ contradition: 0.05325744540591159
+
+premise: Nina Harman is a pre-teen.
+ hypo:Karen Hartman is the mother of Nina Harman.
+ contradition: 0.006489019038032091
+
+premise: Nina Harman is a pre-teen.
+ hypo:Jake Ryan is the crush of Nina Harman.
+ contradition: 0.09322058054868616
+
+premise: Jake Ryan is the crush of Nina Harman.
+ hypo:Jake Ryan is the crush of Nina Harman.
+ contradition: 0.001262254704602998
+
+premise: Karen Hartman is the mother of Nina Harman.
+ hypo:Karen Hartman is the mother of Nina Harman.
+ contradition: 0.0007450062726752223
+
+premise: Jake Ryan is handsome, arrogant, outgoing, and athletic.
+ hypo:Nina Harman is the crush of Jake Ryan.
+ contradition: 0.01068336152748661
+
+premise: Jake Ryan is a teenager.
+ hypo:Nina Harman is the crush of Jake Ryan.
+ contradition: 0.0250665825547111
+
+premise: Nina Harman is the crush of Jake Ryan.
+ hypo:Nina Harman is the crush of Jake Ryan.
+ contradition: 0.0018296530477283758
+
+premise: Karen Hartman is supportive, kind, and loving.
+ hypo:Karen Hartman is a woman.
+ contradition: 0.0030765453699187952
+
+premise: Karen Hartman is supportive, kind, and loving.
+ hypo:Nina Harman is the daughter of Karen Hartman.
+ contradition: 0.009801107629722368
+
+premise: Nina Harman is the daughter of Karen Hartman.
+ hypo:Karen Hartman is a woman.
+ contradition: 0.017574588588611276
+
+premise: Nina Harman is the daughter of Karen Hartman.
+ hypo:Nina Harman is the daughter of Karen Hartman.
+ contradition: 0.001094939488322465
+
+
+MAX_PROB is 0.09322058054868616
+CONTRADICTORY_PREMISE: Nina Harman is a pre-teen.
+ CONTRADICTORY_HYPO: Jake Ryan is the crush of Nina Harman.

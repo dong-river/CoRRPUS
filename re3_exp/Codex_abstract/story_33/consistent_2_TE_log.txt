@@ -1,0 +1,32 @@
+premise: Charles Wilson is a police detective.
+ hypo:Charles Wilson has short black hair.
+ contradition: 0.0016477347624849503
+
+premise: Charles Wilson is a police detective.
+ hypo:Nina Peterson is the wife of Charles Wilson.
+ contradition: 0.19300120041774121
+
+premise: Charles Wilson is in his forties.
+ hypo:Charles Wilson has short black hair.
+ contradition: 0.0007084808531754626
+
+premise: Charles Wilson is in his forties.
+ hypo:Nina Peterson is the wife of Charles Wilson.
+ contradition: 0.05235458024574688
+
+premise: Nina Peterson is 5'4, has long blonde hair, and blue eyes.
+ hypo:Charles Wilson is the husband of Nina Peterson.
+ contradition: 0.642303084904541
+
+premise: Nina Peterson is a college student.
+ hypo:Charles Wilson is the husband of Nina Peterson.
+ contradition: 0.7483144418338648
+
+premise: Nina Peterson is in her early twenties.
+ hypo:Charles Wilson is the husband of Nina Peterson.
+ contradition: 0.6830831921785038
+
+
+MAX_PROB is 0.7483144418338648
+CONTRADICTORY_PREMISE: Nina Peterson is a college student.
+ CONTRADICTORY_HYPO: Charles Wilson is the husband of Nina Peterson.

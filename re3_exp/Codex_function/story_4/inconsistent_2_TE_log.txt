@@ -1,0 +1,39 @@
+premise: Mark Woodbury is a student.
+ hypo:Mark Woodbury has a mustache and graying hair.
+ contradition: 0.00045511014809083994
+
+premise: Mark Woodbury is a student.
+ hypo:Mark Woodbury is middle aged.
+ contradition: 0.9402558260509827
+
+premise: Shannon Kincaid is the girlfriend of Mark Woodbury.
+ hypo:Mark Woodbury has a mustache and graying hair.
+ contradition: 0.0014486154437047766
+
+premise: Shannon Kincaid is the girlfriend of Mark Woodbury.
+ hypo:Mark Woodbury is middle aged.
+ contradition: 0.001056848197192213
+
+
+MAX_PROB is 0.9402558260509827
+CONTRADICTORY_PREMISE: Mark Woodbury is a student.
+ CONTRADICTORY_HYPO: Mark Woodbury is middle aged.premise: Mark Woodbury is a student.
+ hypo:Mark Woodbury has a mustache and graying hair.
+ contradition: 0.00045511014809083994
+
+premise: Mark Woodbury is a student.
+ hypo:Mark Woodbury is middle aged.
+ contradition: 0.9402558260509827
+
+premise: Shannon Kincaid is the girlfriend of Mark Woodbury.
+ hypo:Mark Woodbury has a mustache and graying hair.
+ contradition: 0.0014486154437047766
+
+premise: Shannon Kincaid is the girlfriend of Mark Woodbury.
+ hypo:Mark Woodbury is middle aged.
+ contradition: 0.001056848197192213
+
+
+MAX_PROB is 0.9402558260509827
+CONTRADICTORY_PREMISE: Mark Woodbury is a student.
+ CONTRADICTORY_HYPO: Mark Woodbury is middle aged.

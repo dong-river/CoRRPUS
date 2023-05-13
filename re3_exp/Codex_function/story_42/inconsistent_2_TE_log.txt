@@ -1,0 +1,145 @@
+premise: Valerie Russo has brown eyes, is of average height, has dark hair, and has an average build.
+ hypo:Valerie Russo is in medical school.
+ contradition: 0.0006688205984362501
+
+premise: Valerie Russo is a student.
+ hypo:Valerie Russo is in medical school.
+ contradition: 0.00017749246962923992
+
+premise: Valerie Russo is a student.
+ hypo:Carl Russo is the husband of Valerie Russo.
+ contradition: 0.4474545173308001
+
+premise: Valerie Russo is a female.
+ hypo:Valerie Russo is in medical school.
+ contradition: 0.0009062900140453061
+
+premise: Valerie Russo is a female.
+ hypo:Carl Russo is the husband of Valerie Russo.
+ contradition: 0.07312819956068402
+
+premise: Valerie Russo is a high school senior.
+ hypo:Valerie Russo is in medical school.
+ contradition: 0.9997509146364336
+
+premise: Valerie Russo is a high school senior.
+ hypo:Carl Russo is the husband of Valerie Russo.
+ contradition: 0.3547171629261233
+
+premise: Antoinette Russo is the mother of Valerie Russo.
+ hypo:Valerie Russo is in medical school.
+ contradition: 0.0005649097112759257
+
+premise: Carl Russo is the father of Valerie Russo.
+ hypo:Valerie Russo is in medical school.
+ contradition: 0.000857368582876712
+
+premise: Carl Russo is the father of Valerie Russo.
+ hypo:Carl Russo is the husband of Valerie Russo.
+ contradition: 0.9718738907970185
+
+premise: Carl Russo has brown eyes and large, dark hair.
+ hypo:Carl Russo is a businessman.
+ contradition: 0.00028290411701744017
+
+premise: Carl Russo has brown eyes and large, dark hair.
+ hypo:Valerie Russo is the wife of Carl Russo.
+ contradition: 0.6195370133130846
+
+premise: 
+Carl Russo is a retired police officer and security guard.
+ hypo:Carl Russo is a businessman.
+ contradition: 0.9985197077865892
+
+premise: Carl Russo is male.
+ hypo:Carl Russo is a businessman.
+ contradition: 0.00012983694710691005
+
+premise: Carl Russo is male.
+ hypo:Valerie Russo is the wife of Carl Russo.
+ contradition: 0.0973198593011177
+
+premise: Valerie Russo is the daughter of Carl Russo.
+ hypo:Carl Russo is a businessman.
+ contradition: 0.0010741152982896413
+
+premise: Valerie Russo is the daughter of Carl Russo.
+ hypo:Valerie Russo is the wife of Carl Russo.
+ contradition: 0.9993896635216902
+
+
+MAX_PROB is 0.9997509146364336
+CONTRADICTORY_PREMISE: Valerie Russo is a high school senior.
+ CONTRADICTORY_HYPO: Valerie Russo is in medical school.premise: Valerie Russo has brown eyes, an average build, dark hair, and is of average height.
+ hypo:Valerie Russo is in medical school.
+ contradition: 0.0006318250259365153
+
+premise: Valerie Russo is a student.
+ hypo:Valerie Russo is in medical school.
+ contradition: 0.00017749246962923992
+
+premise: Valerie Russo is a student.
+ hypo:Carl Russo is the husband of Valerie Russo.
+ contradition: 0.4474545173308001
+
+premise: Valerie Russo is a female.
+ hypo:Valerie Russo is in medical school.
+ contradition: 0.0009062900140453061
+
+premise: Valerie Russo is a female.
+ hypo:Carl Russo is the husband of Valerie Russo.
+ contradition: 0.07312819956068402
+
+premise: Valerie Russo is a high school senior.
+ hypo:Valerie Russo is in medical school.
+ contradition: 0.9997509146364336
+
+premise: Valerie Russo is a high school senior.
+ hypo:Carl Russo is the husband of Valerie Russo.
+ contradition: 0.3547171629261233
+
+premise: Antoinette Russo is the mother of Valerie Russo.
+ hypo:Valerie Russo is in medical school.
+ contradition: 0.0005649097112759257
+
+premise: Carl Russo is the father of Valerie Russo.
+ hypo:Valerie Russo is in medical school.
+ contradition: 0.000857368582876712
+
+premise: Carl Russo is the father of Valerie Russo.
+ hypo:Carl Russo is the husband of Valerie Russo.
+ contradition: 0.9718738907970185
+
+premise: Carl Russo has brown eyes and large, dark hair.
+ hypo:Carl Russo is a businessman.
+ contradition: 0.00028290411701744017
+
+premise: Carl Russo has brown eyes and large, dark hair.
+ hypo:Valerie Russo is the wife of Carl Russo.
+ contradition: 0.6195370133130846
+
+premise: 
+Carl Russo is a retired police officer and security guard.
+ hypo:Carl Russo is a businessman.
+ contradition: 0.9985197077865892
+
+premise: Carl Russo is male.
+ hypo:Carl Russo is a businessman.
+ contradition: 0.00012983694710691005
+
+premise: Carl Russo is male.
+ hypo:Valerie Russo is the wife of Carl Russo.
+ contradition: 0.0973198593011177
+
+premise: Valerie Russo is the daughter of Carl Russo.
+ hypo:Carl Russo is a businessman.
+ contradition: 0.0010741152982896413
+
+premise: Valerie Russo is the daughter of Carl Russo.
+ hypo:Valerie Russo is the wife of Carl Russo.
+ contradition: 0.9993896635216902
+
+
+MAX_PROB is 0.9997509146364336
+CONTRADICTORY_PREMISE: Valerie Russo is a high school senior.
+ CONTRADICTORY_HYPO: Valerie Russo is in medical school.

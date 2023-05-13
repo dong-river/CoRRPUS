@@ -1,0 +1,90 @@
+premise: Shannon Riley is of average height, average build, blue eyes, and long brown hair.
+ hypo:Shannon Riley is a writer.
+ contradition: 0.0003800840081435135
+
+premise: Shannon Riley is a journalist.
+ hypo:Shannon Riley is a writer.
+ contradition: 0.0010843452951754611
+
+premise: Shannon Riley is a journalist.
+ hypo:Jillian Riley is the mother of Shannon Riley.
+ contradition: 0.3608967078822049
+
+premise: Shannon Riley is a female.
+ hypo:Shannon Riley is a writer.
+ contradition: 0.00026853112836077244
+
+premise: Shannon Riley is a female.
+ hypo:Jillian Riley is the mother of Shannon Riley.
+ contradition: 0.00285574025232431
+
+premise: Shannon Riley is in her early twenties.
+ hypo:Shannon Riley is a writer.
+ contradition: 0.0003292921596791484
+
+premise: Shannon Riley is in her early twenties.
+ hypo:Jillian Riley is the mother of Shannon Riley.
+ contradition: 0.028714801432195205
+
+premise: Robert Riley is the father of Shannon Riley.
+ hypo:Shannon Riley is a writer.
+ contradition: 0.001027245188795178
+
+premise: Jillian Riley is the older sister of Shannon Riley.
+ hypo:Shannon Riley is a writer.
+ contradition: 0.00261129161387904
+
+premise: Jillian Riley is the older sister of Shannon Riley.
+ hypo:Jillian Riley is the mother of Shannon Riley.
+ contradition: 0.9990364070387735
+
+premise: 
+Robert Riley is a journalist and a successful one at that.
+ hypo:Robert Riley is an artist and writer.
+ contradition: 0.9992978737957048
+
+premise: 
+Robert Riley is a journalist and a successful one at that.
+ hypo:Jillian Riley is the wife of Robert Riley.
+ contradition: 0.049950157919028314
+
+premise: Shannon Riley is the daughter of Robert Riley.
+ hypo:Robert Riley is an artist and writer.
+ contradition: 0.0020310758256534543
+
+premise: Jillian Riley is a corporate lawyer.
+ hypo:Jillian Riley is a writer.
+ contradition: 0.9994633694615238
+
+premise: Jillian Riley is a corporate lawyer.
+ hypo:Robert Riley is the husband of Jillian Riley.
+ contradition: 0.035573095665227164
+
+premise: Jillian Riley is a corporate lawyer.
+ hypo:Shannon Riley is the daughter of Jillian Riley.
+ contradition: 0.011673352420534964
+
+premise: Jillian Riley is a female.
+ hypo:Jillian Riley is a writer.
+ contradition: 0.00020275631741974715
+
+premise: Jillian Riley is a female.
+ hypo:Robert Riley is the husband of Jillian Riley.
+ contradition: 0.04636590786732689
+
+premise: Jillian Riley is a female.
+ hypo:Shannon Riley is the daughter of Jillian Riley.
+ contradition: 0.006003138917830729
+
+premise: Shannon Riley is the younger sister of Jillian Riley.
+ hypo:Jillian Riley is a writer.
+ contradition: 0.001324571763647296
+
+premise: Shannon Riley is the younger sister of Jillian Riley.
+ hypo:Shannon Riley is the daughter of Jillian Riley.
+ contradition: 0.8878831361551037
+
+
+MAX_PROB is 0.9994633694615238
+CONTRADICTORY_PREMISE: Jillian Riley is a corporate lawyer.
+ CONTRADICTORY_HYPO: Jillian Riley is a writer.

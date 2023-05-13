@@ -1,0 +1,28 @@
+premise: Harold Martinez is a gas station attendant.
+ hypo:Harold Martinez is male.
+ contradition: 0.000589132964256888
+
+premise: Harold Martinez is a gas station attendant.
+ hypo:Harold Martinez is 19 years old.
+ contradition: 0.0008286915110625427
+
+premise: Harold Martinez is male.
+ hypo:Harold Martinez is male.
+ contradition: 0.0011294138263923906
+
+premise: Harold Martinez is male.
+ hypo:Harold Martinez is 19 years old.
+ contradition: 0.00022669483489064397
+
+premise: Harold Martinez is young.
+ hypo:Harold Martinez is male.
+ contradition: 0.0009245409561575288
+
+premise: Harold Martinez is young.
+ hypo:Harold Martinez is 19 years old.
+ contradition: 0.00031093526237276086
+
+
+MAX_PROB is 0.0011294138263923906
+CONTRADICTORY_PREMISE: Harold Martinez is male.
+ CONTRADICTORY_HYPO: Harold Martinez is male.

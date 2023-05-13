@@ -1,0 +1,88 @@
+premise: Olivia Kane has beautiful blue eyes and long blonde hair.
+ hypo:Olivia Kane is beautiful.
+ contradition: 0.00023132609712525008
+
+premise: Olivia Kane has beautiful blue eyes and long blonde hair.
+ hypo:Richard Kane is the husband of Olivia Kane.
+ contradition: 0.24251330740116658
+
+premise: Olivia Kane is a female.
+ hypo:Olivia Kane is beautiful.
+ contradition: 9.582180526094158e-05
+
+premise: Olivia Kane is a female.
+ hypo:Richard Kane is the husband of Olivia Kane.
+ contradition: 0.09465349265948192
+
+premise: Olivia Kane is in her thirties.
+ hypo:Olivia Kane is beautiful.
+ contradition: 0.00011755704587371216
+
+premise: Olivia Kane is in her thirties.
+ hypo:Richard Kane is the husband of Olivia Kane.
+ contradition: 0.23668468914354612
+
+premise: Richard Kane is the husband of Olivia Kane.
+ hypo:Olivia Kane is beautiful.
+ contradition: 0.0007897477867332376
+
+premise: Richard Kane is the husband of Olivia Kane.
+ hypo:Richard Kane is the husband of Olivia Kane.
+ contradition: 0.0008372764665487313
+
+premise: Richard Kane is the brother of Olivia Kane.
+ hypo:Olivia Kane is beautiful.
+ contradition: 0.0029045815319681464
+
+premise: Richard Kane is the brother of Olivia Kane.
+ hypo:Richard Kane is the husband of Olivia Kane.
+ contradition: 0.981483390983167
+
+premise: Richard Kane is tall, with blue eyes and dark hair.
+ hypo:Richard Kane is a restaurant owner and businessman.
+ contradition: 0.0004057559598588581
+
+premise: Richard Kane is tall, with blue eyes and dark hair.
+ hypo:Olivia Kane is the wife of Richard Kane.
+ contradition: 0.7104073508050848
+
+premise: Richard Kane is the owner of a large company.
+ hypo:Richard Kane is a restaurant owner and businessman.
+ contradition: 0.942862493880642
+
+premise: Richard Kane is male.
+ hypo:Richard Kane is a restaurant owner and businessman.
+ contradition: 0.0003778789609990981
+
+premise: Richard Kane is male.
+ hypo:Olivia Kane is the wife of Richard Kane.
+ contradition: 0.11321700366012796
+
+premise: Richard Kane is in his forties.
+ hypo:Richard Kane is a restaurant owner and businessman.
+ contradition: 0.00035491689991205274
+
+premise: Richard Kane is in his forties.
+ hypo:Olivia Kane is the wife of Richard Kane.
+ contradition: 0.2794211483797866
+
+premise: Olivia Kane is the wife of Richard Kane.
+ hypo:Richard Kane is a restaurant owner and businessman.
+ contradition: 0.002462482919576228
+
+premise: Olivia Kane is the wife of Richard Kane.
+ hypo:Olivia Kane is the wife of Richard Kane.
+ contradition: 0.0006806808236594283
+
+premise: Olivia Kane is the brother of Richard Kane.
+ hypo:Richard Kane is a restaurant owner and businessman.
+ contradition: 0.0028100427344338267
+
+premise: Olivia Kane is the brother of Richard Kane.
+ hypo:Olivia Kane is the wife of Richard Kane.
+ contradition: 0.9994956416089612
+
+
+MAX_PROB is 0.9994956416089612
+CONTRADICTORY_PREMISE: Olivia Kane is the brother of Richard Kane.
+ CONTRADICTORY_HYPO: Olivia Kane is the wife of Richard Kane.

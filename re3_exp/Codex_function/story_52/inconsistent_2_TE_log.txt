@@ -1,0 +1,16 @@
+premise: Sarah Mason is the best friend of Rachel Stephenson.
+ hypo:Rachel Stephenson is happy.
+ contradition: 0.05052416004537119
+
+premise: Sarah Mason is the best friend of Rachel Stephenson.
+ hypo:Sarah Mason is the best friend of Rachel Stephenson.
+ contradition: 0.00080716028061552
+
+premise: Richard Stephenson is the husband of Rachel Stephenson.
+ hypo:Rachel Stephenson is happy.
+ contradition: 0.006745009446777004
+
+
+MAX_PROB is 0.05052416004537119
+CONTRADICTORY_PREMISE: Sarah Mason is the best friend of Rachel Stephenson.
+ CONTRADICTORY_HYPO: Rachel Stephenson is happy.

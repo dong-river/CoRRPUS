@@ -1,0 +1,140 @@
+premise: Sherry Hellinger is of average height, with short brown hair, green eyes, and an average build.
+ hypo:Sherry Hellinger is sleeping.
+ contradition: 0.2753179853690524
+
+premise: Sherry Hellinger is of average height, with short brown hair, green eyes, and an average build.
+ hypo:Sherry Hellinger is a cook.
+ contradition: 0.00038544497272085854
+
+premise: Sherry Hellinger is of average height, with short brown hair, green eyes, and an average build.
+ hypo:Sherry Hellinger is a female.
+ contradition: 0.0003089345090122766
+
+premise: Sherry Hellinger is a female.
+ hypo:Sherry Hellinger is sleeping.
+ contradition: 0.0677847569871712
+
+premise: Sherry Hellinger is a female.
+ hypo:Sherry Hellinger is a cook.
+ contradition: 0.00022005967775181782
+
+premise: Sherry Hellinger is a female.
+ hypo:Sherry Hellinger is a female.
+ contradition: 0.0005717796771009722
+
+premise: Sherry Hellinger is a female.
+ hypo:Emily Hellinger is the wife of Sherry Hellinger.
+ contradition: 0.16738962153081946
+
+premise: Sherry Hellinger is middle-aged.
+ hypo:Sherry Hellinger is sleeping.
+ contradition: 0.4708658459983162
+
+premise: Sherry Hellinger is middle-aged.
+ hypo:Sherry Hellinger is a cook.
+ contradition: 0.0003935725063861161
+
+premise: Sherry Hellinger is middle-aged.
+ hypo:Sherry Hellinger is a female.
+ contradition: 0.00032352539436211243
+
+premise: Sherry Hellinger is middle-aged.
+ hypo:Emily Hellinger is the wife of Sherry Hellinger.
+ contradition: 0.6958701995778693
+
+premise: Emily Hellinger is the wife of Sherry Hellinger.
+ hypo:Sherry Hellinger is sleeping.
+ contradition: 0.8707899721481556
+
+premise: Emily Hellinger is the wife of Sherry Hellinger.
+ hypo:Sherry Hellinger is a cook.
+ contradition: 0.013206377075715033
+
+premise: Emily Hellinger is the wife of Sherry Hellinger.
+ hypo:Sherry Hellinger is a female.
+ contradition: 0.0025996616384639988
+
+premise: Emily Hellinger is the wife of Sherry Hellinger.
+ hypo:Emily Hellinger is the wife of Sherry Hellinger.
+ contradition: 0.0009251323324133884
+
+premise: John Hellinger is the brother of Sherry Hellinger.
+ hypo:Sherry Hellinger is sleeping.
+ contradition: 0.8123897338565943
+
+premise: John Hellinger is the brother of Sherry Hellinger.
+ hypo:Sherry Hellinger is a cook.
+ contradition: 0.004088342412261526
+
+premise: John Hellinger is the brother of Sherry Hellinger.
+ hypo:Sherry Hellinger is a female.
+ contradition: 0.7790105839562786
+
+premise: Emily Hellinger is tall, with short brown hair and hazel eyes.
+ hypo:Emily Hellinger is wearing dark sunglasses and has blue eyes.
+ contradition: 0.4060355036426754
+
+premise: Emily Hellinger is tall, with short brown hair and hazel eyes.
+ hypo:Emily Hellinger is a female.
+ contradition: 0.00022342111059375232
+
+premise: Emily Hellinger is tall, with short brown hair and hazel eyes.
+ hypo:Emily Hellinger is 44 years old.
+ contradition: 0.00022433534593886267
+
+premise: Emily Hellinger is tall, with short brown hair and hazel eyes.
+ hypo:Sherry Hellinger is the wife of Emily Hellinger.
+ contradition: 0.9027706396159136
+
+premise: Emily Hellinger is a female.
+ hypo:Emily Hellinger is wearing dark sunglasses and has blue eyes.
+ contradition: 0.0007549496778898995
+
+premise: Emily Hellinger is a female.
+ hypo:Emily Hellinger is a female.
+ contradition: 0.0006797998515130832
+
+premise: Emily Hellinger is a female.
+ hypo:Emily Hellinger is 44 years old.
+ contradition: 0.00016185999268156342
+
+premise: Emily Hellinger is a female.
+ hypo:Sherry Hellinger is the wife of Emily Hellinger.
+ contradition: 0.16014526334036377
+
+premise: Emily Hellinger is in her early 40s.
+ hypo:Emily Hellinger is wearing dark sunglasses and has blue eyes.
+ contradition: 0.0012648189492976323
+
+premise: Emily Hellinger is in her early 40s.
+ hypo:Emily Hellinger is a female.
+ contradition: 0.00013932128168910203
+
+premise: Emily Hellinger is in her early 40s.
+ hypo:Emily Hellinger is 44 years old.
+ contradition: 0.0028559690309629304
+
+premise: Emily Hellinger is in her early 40s.
+ hypo:Sherry Hellinger is the wife of Emily Hellinger.
+ contradition: 0.7874162962012523
+
+premise: Sherry Hellinger is the husband of Emily Hellinger.
+ hypo:Emily Hellinger is wearing dark sunglasses and has blue eyes.
+ contradition: 0.14502673788002302
+
+premise: Sherry Hellinger is the husband of Emily Hellinger.
+ hypo:Emily Hellinger is a female.
+ contradition: 0.3753073335039625
+
+premise: Sherry Hellinger is the husband of Emily Hellinger.
+ hypo:Emily Hellinger is 44 years old.
+ contradition: 0.0033538042872371552
+
+premise: Sherry Hellinger is the husband of Emily Hellinger.
+ hypo:Sherry Hellinger is the wife of Emily Hellinger.
+ contradition: 0.9915688475422897
+
+
+MAX_PROB is 0.9915688475422897
+CONTRADICTORY_PREMISE: Sherry Hellinger is the husband of Emily Hellinger.
+ CONTRADICTORY_HYPO: Sherry Hellinger is the wife of Emily Hellinger.

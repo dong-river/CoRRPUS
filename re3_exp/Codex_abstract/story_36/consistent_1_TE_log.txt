@@ -1,0 +1,40 @@
+premise: Karen Fletcher has blue eyes and blonde hair.
+ hypo:Julia Fletcher is the sister of Karen Fletcher.
+ contradition: 0.2589872446029613
+
+premise: Karen Fletcher has blue eyes and blonde hair.
+ hypo:Kate Fletcher is the daughter of Karen Fletcher.
+ contradition: 0.18725860254432264
+
+premise: Kate Fletcher is the daughter of Karen Fletcher.
+ hypo:Kate Fletcher is the daughter of Karen Fletcher.
+ contradition: 0.0006802573864677259
+
+premise: Julia Fletcher is the sister of Karen Fletcher.
+ hypo:Julia Fletcher is the sister of Karen Fletcher.
+ contradition: 0.0017912919954780383
+
+premise: Kate Fletcher has brown eyes and dark hair.
+ hypo:Karen Fletcher is the mother of Kate Fletcher.
+ contradition: 0.033297119615371434
+
+premise: Kate Fletcher is a teenager.
+ hypo:Karen Fletcher is the mother of Kate Fletcher.
+ contradition: 0.031398221783082006
+
+premise: Karen Fletcher is the mother of Kate Fletcher.
+ hypo:Karen Fletcher is the mother of Kate Fletcher.
+ contradition: 0.0006224715879718947
+
+premise: Julia Fletcher has light brown hair and green eyes.
+ hypo:Karen Fletcher is the sister of Julia Fletcher.
+ contradition: 0.20438752780865957
+
+premise: Karen Fletcher is the sister of Julia Fletcher.
+ hypo:Karen Fletcher is the sister of Julia Fletcher.
+ contradition: 0.0027377273522701724
+
+
+MAX_PROB is 0.2589872446029613
+CONTRADICTORY_PREMISE: Karen Fletcher has blue eyes and blonde hair.
+ CONTRADICTORY_HYPO: Julia Fletcher is the sister of Karen Fletcher.

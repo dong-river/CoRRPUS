@@ -1,0 +1,120 @@
+premise: Shannon Burke is of average height, with hazel eyes, shoulder-length brown hair, and an average build.
+ hypo:Shannon Burke has a wild look in her eyes.
+ contradition: 0.8481568549165873
+
+premise: Shannon Burke is of average height, with hazel eyes, shoulder-length brown hair, and an average build.
+ hypo:Shannon Burke is a female.
+ contradition: 0.0008964633676339832
+
+premise: Shannon Burke is a journalist.
+ hypo:Shannon Burke has a wild look in her eyes.
+ contradition: 0.011747400838124748
+
+premise: Shannon Burke is a journalist.
+ hypo:Shannon Burke is a female.
+ contradition: 0.0022033467503186853
+
+premise: Shannon Burke is a journalist.
+ hypo:Charles Burke is the husband of Shannon Burke.
+ contradition: 0.21215800405593446
+
+premise: Shannon Burke is a journalist.
+ hypo:Maxine Carter is the boss of Shannon Burke.
+ contradition: 0.45461550736550055
+
+premise: Shannon Burke is a female.
+ hypo:Shannon Burke has a wild look in her eyes.
+ contradition: 0.001602195526392623
+
+premise: Shannon Burke is a female.
+ hypo:Shannon Burke is a female.
+ contradition: 0.000433345321162928
+
+premise: Shannon Burke is a female.
+ hypo:Charles Burke is the husband of Shannon Burke.
+ contradition: 0.08299524610878285
+
+premise: Shannon Burke is a female.
+ hypo:Maxine Carter is the boss of Shannon Burke.
+ contradition: 0.013918244723706797
+
+premise: Shannon Burke is young.
+ hypo:Shannon Burke has a wild look in her eyes.
+ contradition: 0.0013486603240443656
+
+premise: Shannon Burke is young.
+ hypo:Shannon Burke is a female.
+ contradition: 0.00130726240065726
+
+premise: Shannon Burke is young.
+ hypo:Charles Burke is the husband of Shannon Burke.
+ contradition: 0.05736136012996039
+
+premise: Shannon Burke is young.
+ hypo:Maxine Carter is the boss of Shannon Burke.
+ contradition: 0.017341154701790863
+
+premise: Charles Burke is the father of Shannon Burke.
+ hypo:Shannon Burke has a wild look in her eyes.
+ contradition: 0.018649397080035473
+
+premise: Charles Burke is the father of Shannon Burke.
+ hypo:Shannon Burke is a female.
+ contradition: 0.6318390961125395
+
+premise: Charles Burke is the father of Shannon Burke.
+ hypo:Charles Burke is the husband of Shannon Burke.
+ contradition: 0.9820161722327331
+
+premise: Maxine Carter is the mother of Shannon Burke.
+ hypo:Shannon Burke has a wild look in her eyes.
+ contradition: 0.031120895246318035
+
+premise: Maxine Carter is the mother of Shannon Burke.
+ hypo:Shannon Burke is a female.
+ contradition: 0.004661307808110345
+
+premise: Maxine Carter is the mother of Shannon Burke.
+ hypo:Maxine Carter is the boss of Shannon Burke.
+ contradition: 0.9634480226752601
+
+premise: Charles Burke is a journalist.
+ hypo:Shannon Burke is the wife of Charles Burke.
+ contradition: 0.12948402069465512
+
+premise: Charles Burke is male.
+ hypo:Shannon Burke is the wife of Charles Burke.
+ contradition: 0.04632245092090589
+
+premise: Shannon Burke is the daughter of Charles Burke.
+ hypo:Shannon Burke is the wife of Charles Burke.
+ contradition: 0.9992997784691171
+
+premise: Maxine Carter is a secretary.
+ hypo:Maxine Carter is a female.
+ contradition: 0.0004826291811806448
+
+premise: Maxine Carter is a secretary.
+ hypo:Shannon Burke is the hire of Maxine Carter.
+ contradition: 0.43745254198171335
+
+premise: Maxine Carter is a female.
+ hypo:Maxine Carter is a female.
+ contradition: 0.0005682354063965467
+
+premise: Maxine Carter is a female.
+ hypo:Shannon Burke is the hire of Maxine Carter.
+ contradition: 0.19136780619221092
+
+premise: Shannon Burke is the daughter of Maxine Carter.
+ hypo:Maxine Carter is a female.
+ contradition: 0.0011519229383233662
+
+premise: Shannon Burke is the daughter of Maxine Carter.
+ hypo:Shannon Burke is the hire of Maxine Carter.
+ contradition: 0.7807250431957372
+
+
+MAX_PROB is 0.9992997784691171
+CONTRADICTORY_PREMISE: Shannon Burke is the daughter of Charles Burke.
+ CONTRADICTORY_HYPO: Shannon Burke is the wife of Charles Burke.

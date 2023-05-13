@@ -1,0 +1,455 @@
+premise: Sarah Mason has beautiful blue eyes and long blond hair.
+ hypo:Sarah Mason is a female.
+ contradition: 0.00017918420982037162
+
+premise: Sarah Mason has beautiful blue eyes and long blond hair.
+ hypo:Rachel Stephenson is the best friend of Sarah Mason.
+ contradition: 0.046476839551647754
+
+premise: Sarah Mason has beautiful blue eyes and long blond hair.
+ hypo:John Mason is the husband of Sarah Mason.
+ contradition: 0.08133408646778928
+
+premise: Sarah Mason is a female.
+ hypo:Sarah Mason is a female.
+ contradition: 0.000624904893097644
+
+premise: Sarah Mason is a female.
+ hypo:Rachel Stephenson is the best friend of Sarah Mason.
+ contradition: 0.01740694256807883
+
+premise: Sarah Mason is a female.
+ hypo:John Mason is the husband of Sarah Mason.
+ contradition: 0.016956854852903505
+
+premise: John Mason is the husband of Sarah Mason.
+ hypo:Sarah Mason is a female.
+ contradition: 0.07301382752042264
+
+premise: John Mason is the husband of Sarah Mason.
+ hypo:John Mason is the husband of Sarah Mason.
+ contradition: 0.0006994612667962254
+
+premise: John Mason is the children of Sarah Mason.
+ hypo:Sarah Mason is a female.
+ contradition: 0.001932526400272802
+
+premise: John Mason is the children of Sarah Mason.
+ hypo:John Mason is the husband of Sarah Mason.
+ contradition: 0.9970522055623529
+
+premise: Rachel Stephenson is the best friend of Sarah Mason.
+ hypo:Sarah Mason is a female.
+ contradition: 0.0012435204547494205
+
+premise: Rachel Stephenson is the best friend of Sarah Mason.
+ hypo:Rachel Stephenson is the best friend of Sarah Mason.
+ contradition: 0.0008598320163611902
+
+premise: Rachel Stephenson is the best friend of Sarah Mason.
+ hypo:Sarah Mason is a female.
+ contradition: 0.0012435204547494205
+
+premise: Rachel Stephenson is the best friend of Sarah Mason.
+ hypo:Rachel Stephenson is the best friend of Sarah Mason.
+ contradition: 0.0008598320163611902
+
+premise: John Mason is the wife of Sarah Mason.
+ hypo:Sarah Mason is a female.
+ contradition: 0.0024056999479486114
+
+premise: John Mason is the wife of Sarah Mason.
+ hypo:John Mason is the husband of Sarah Mason.
+ contradition: 0.9949548958351001
+
+premise: Rachel Stephenson is a female.
+ hypo:Rachel Stephenson is a painter.
+ contradition: 0.0001927732199478967
+
+premise: Rachel Stephenson is a female.
+ hypo:Rachel Stephenson is a female.
+ contradition: 0.0006544869968077978
+
+premise: Rachel Stephenson is a female.
+ hypo:Rachel Stephenson is an adult.
+ contradition: 0.00018017739226137248
+
+premise: Rachel Stephenson is a female.
+ hypo:happy is the happiness of Rachel Stephenson.
+ contradition: 0.029747140244921928
+
+premise: Rachel Stephenson is a female.
+ hypo:Sarah Mason is the best friend of Rachel Stephenson.
+ contradition: 0.014070005429377435
+
+premise: Rachel Stephenson is a female.
+ hypo:Mark Stephenson is the husband of Rachel Stephenson.
+ contradition: 0.03923809454588943
+
+premise: Rachel Stephenson is a female.
+ hypo:two is the children of Rachel Stephenson.
+ contradition: 0.005420806357088442
+
+premise: Rachel Stephenson is a female.
+ hypo:Sarah Mason is the best friend of Rachel Stephenson.
+ contradition: 0.014070005429377435
+
+premise: Sarah Mason is the best friend of Rachel Stephenson.
+ hypo:Rachel Stephenson is a painter.
+ contradition: 0.013369098431282261
+
+premise: Sarah Mason is the best friend of Rachel Stephenson.
+ hypo:Rachel Stephenson is a female.
+ contradition: 0.0013045306168405753
+
+premise: Sarah Mason is the best friend of Rachel Stephenson.
+ hypo:Rachel Stephenson is an adult.
+ contradition: 0.04239984061583576
+
+premise: Sarah Mason is the best friend of Rachel Stephenson.
+ hypo:Sarah Mason is the best friend of Rachel Stephenson.
+ contradition: 0.00080716028061552
+
+premise: Sarah Mason is the best friend of Rachel Stephenson.
+ hypo:Sarah Mason is the best friend of Rachel Stephenson.
+ contradition: 0.00080716028061552
+
+premise: John Mason is the husband of Rachel Stephenson.
+ hypo:Rachel Stephenson is a painter.
+ contradition: 0.02021188483460689
+
+premise: John Mason is the husband of Rachel Stephenson.
+ hypo:Rachel Stephenson is a female.
+ contradition: 0.040824661829835344
+
+premise: John Mason is the husband of Rachel Stephenson.
+ hypo:Rachel Stephenson is an adult.
+ contradition: 0.03603502547729577
+
+premise: John Mason is the children of Rachel Stephenson.
+ hypo:Rachel Stephenson is a painter.
+ contradition: 0.010433767046657471
+
+premise: John Mason is the children of Rachel Stephenson.
+ hypo:Rachel Stephenson is a female.
+ contradition: 0.0011322177428788316
+
+premise: John Mason is the children of Rachel Stephenson.
+ hypo:Rachel Stephenson is an adult.
+ contradition: 0.8356208470205506
+
+premise: Sarah Mason is the best friend of Rachel Stephenson.
+ hypo:Rachel Stephenson is a painter.
+ contradition: 0.013369098431282261
+
+premise: Sarah Mason is the best friend of Rachel Stephenson.
+ hypo:Rachel Stephenson is a female.
+ contradition: 0.0013045306168405753
+
+premise: Sarah Mason is the best friend of Rachel Stephenson.
+ hypo:Rachel Stephenson is an adult.
+ contradition: 0.04239984061583576
+
+premise: Sarah Mason is the best friend of Rachel Stephenson.
+ hypo:Sarah Mason is the best friend of Rachel Stephenson.
+ contradition: 0.00080716028061552
+
+premise: Sarah Mason is the best friend of Rachel Stephenson.
+ hypo:Sarah Mason is the best friend of Rachel Stephenson.
+ contradition: 0.00080716028061552
+
+premise: Sarah Mason is the wife of Rachel Stephenson.
+ hypo:Rachel Stephenson is a painter.
+ contradition: 0.008190354265263771
+
+premise: Sarah Mason is the wife of Rachel Stephenson.
+ hypo:Rachel Stephenson is a female.
+ contradition: 0.0005981451470899748
+
+premise: Sarah Mason is the wife of Rachel Stephenson.
+ hypo:Rachel Stephenson is an adult.
+ contradition: 0.03515759198902035
+
+premise: Sarah Mason is the wife of Rachel Stephenson.
+ hypo:Sarah Mason is the best friend of Rachel Stephenson.
+ contradition: 0.9922173126616896
+
+premise: Sarah Mason is the wife of Rachel Stephenson.
+ hypo:Sarah Mason is the best friend of Rachel Stephenson.
+ contradition: 0.9922173126616896
+
+premise: John Mason is a successful businessman.
+ hypo:John Mason is male.
+ contradition: 0.0006960194041492809
+
+premise: John Mason is a successful businessman.
+ hypo:Sarah Mason is the wife of John Mason.
+ contradition: 0.0394895477724366
+
+premise: John Mason is male.
+ hypo:John Mason is male.
+ contradition: 0.0008535842878188923
+
+premise: John Mason is male.
+ hypo:Sarah Mason is the wife of John Mason.
+ contradition: 0.03993954223106751
+
+premise: Sarah Mason is the wife of John Mason.
+ hypo:John Mason is male.
+ contradition: 0.06804137952527615
+
+premise: Sarah Mason is the wife of John Mason.
+ hypo:Sarah Mason is the wife of John Mason.
+ contradition: 0.000317959973535913
+
+premise: Sarah Mason is the children of John Mason.
+ hypo:John Mason is male.
+ contradition: 0.0010483502624872973
+
+premise: Sarah Mason is the children of John Mason.
+ hypo:Sarah Mason is the wife of John Mason.
+ contradition: 0.9987748392272753
+
+premise: Rachel Stephenson is the best friend of John Mason.
+ hypo:John Mason is male.
+ contradition: 0.0028687360604026314
+
+premise: Sarah Mason is the husband of John Mason.
+ hypo:John Mason is male.
+ contradition: 0.005377626285505344
+
+premise: Sarah Mason is the husband of John Mason.
+ hypo:Sarah Mason is the wife of John Mason.
+ contradition: 0.980237172524929
+
+
+MAX_PROB is 0.9987748392272753
+CONTRADICTORY_PREMISE: Sarah Mason is the children of John Mason.
+ CONTRADICTORY_HYPO: Sarah Mason is the wife of John Mason.premise: Sarah Mason has blue eyes and beautiful, long blond hair.
+ hypo:Sarah Mason is a female.
+ contradition: 0.00016635707028221045
+
+premise: Sarah Mason has blue eyes and beautiful, long blond hair.
+ hypo:Rachel Stephenson is the best friend of Sarah Mason.
+ contradition: 0.0293984797550259
+
+premise: Sarah Mason has blue eyes and beautiful, long blond hair.
+ hypo:John Mason is the husband of Sarah Mason.
+ contradition: 0.06719147481592878
+
+premise: Sarah Mason is a female.
+ hypo:Sarah Mason is a female.
+ contradition: 0.000624904893097644
+
+premise: Sarah Mason is a female.
+ hypo:Rachel Stephenson is the best friend of Sarah Mason.
+ contradition: 0.01740693426780378
+
+premise: Sarah Mason is a female.
+ hypo:John Mason is the husband of Sarah Mason.
+ contradition: 0.01695675782527934
+
+premise: John Mason is the husband of Sarah Mason.
+ hypo:Sarah Mason is a female.
+ contradition: 0.07301417567831296
+
+premise: John Mason is the husband of Sarah Mason.
+ hypo:John Mason is the husband of Sarah Mason.
+ contradition: 0.00069945793151295
+
+premise: John Mason is the children of Sarah Mason.
+ hypo:Sarah Mason is a female.
+ contradition: 0.0019325245572728873
+
+premise: John Mason is the children of Sarah Mason.
+ hypo:John Mason is the husband of Sarah Mason.
+ contradition: 0.9970522055623529
+
+premise: Rachel Stephenson is the best friend of Sarah Mason.
+ hypo:Sarah Mason is a female.
+ contradition: 0.0012435228265787216
+
+premise: Rachel Stephenson is the best friend of Sarah Mason.
+ hypo:Rachel Stephenson is the best friend of Sarah Mason.
+ contradition: 0.000859829966364358
+
+premise: Rachel Stephenson is the best friend of Sarah Mason.
+ hypo:Sarah Mason is a female.
+ contradition: 0.0012435228265787216
+
+premise: Rachel Stephenson is the best friend of Sarah Mason.
+ hypo:Rachel Stephenson is the best friend of Sarah Mason.
+ contradition: 0.000859829966364358
+
+premise: John Mason is the wife of Sarah Mason.
+ hypo:Sarah Mason is a female.
+ contradition: 0.002405697653695452
+
+premise: John Mason is the wife of Sarah Mason.
+ hypo:John Mason is the husband of Sarah Mason.
+ contradition: 0.9949548958351001
+
+premise: Rachel Stephenson is a female.
+ hypo:Rachel Stephenson is a painter.
+ contradition: 0.00019277303610511562
+
+premise: Rachel Stephenson is a female.
+ hypo:Rachel Stephenson is a female.
+ contradition: 0.0006544882451438668
+
+premise: Rachel Stephenson is a female.
+ hypo:Rachel Stephenson is an adult.
+ contradition: 0.0001801770486005974
+
+premise: Rachel Stephenson is a female.
+ hypo:happy is the happiness of Rachel Stephenson.
+ contradition: 0.029747161521742265
+
+premise: Rachel Stephenson is a female.
+ hypo:Sarah Mason is the best friend of Rachel Stephenson.
+ contradition: 0.014069985302087615
+
+premise: Rachel Stephenson is a female.
+ hypo:Mark Stephenson is the husband of Rachel Stephenson.
+ contradition: 0.039237907444520555
+
+premise: Rachel Stephenson is a female.
+ hypo:two is the children of Rachel Stephenson.
+ contradition: 0.0054208037722471595
+
+premise: Rachel Stephenson is a female.
+ hypo:Sarah Mason is the best friend of Rachel Stephenson.
+ contradition: 0.014069985302087615
+
+premise: Sarah Mason is the best friend of Rachel Stephenson.
+ hypo:Rachel Stephenson is a painter.
+ contradition: 0.0133691366806344
+
+premise: Sarah Mason is the best friend of Rachel Stephenson.
+ hypo:Rachel Stephenson is a female.
+ contradition: 0.0013045293727438243
+
+premise: Sarah Mason is the best friend of Rachel Stephenson.
+ hypo:Rachel Stephenson is an adult.
+ contradition: 0.04239973952685873
+
+premise: Sarah Mason is the best friend of Rachel Stephenson.
+ hypo:Sarah Mason is the best friend of Rachel Stephenson.
+ contradition: 0.0008071618201530459
+
+premise: Sarah Mason is the best friend of Rachel Stephenson.
+ hypo:Sarah Mason is the best friend of Rachel Stephenson.
+ contradition: 0.0008071618201530459
+
+premise: John Mason is the husband of Rachel Stephenson.
+ hypo:Rachel Stephenson is a painter.
+ contradition: 0.02021185592129439
+
+premise: John Mason is the husband of Rachel Stephenson.
+ hypo:Rachel Stephenson is a female.
+ contradition: 0.04082471049665368
+
+premise: John Mason is the husband of Rachel Stephenson.
+ hypo:Rachel Stephenson is an adult.
+ contradition: 0.03603510280015488
+
+premise: John Mason is the children of Rachel Stephenson.
+ hypo:Rachel Stephenson is a painter.
+ contradition: 0.010433757096246561
+
+premise: John Mason is the children of Rachel Stephenson.
+ hypo:Rachel Stephenson is a female.
+ contradition: 0.0011322177428788316
+
+premise: John Mason is the children of Rachel Stephenson.
+ hypo:Rachel Stephenson is an adult.
+ contradition: 0.8356200999176283
+
+premise: Sarah Mason is the best friend of Rachel Stephenson.
+ hypo:Rachel Stephenson is a painter.
+ contradition: 0.0133691366806344
+
+premise: Sarah Mason is the best friend of Rachel Stephenson.
+ hypo:Rachel Stephenson is a female.
+ contradition: 0.0013045293727438243
+
+premise: Sarah Mason is the best friend of Rachel Stephenson.
+ hypo:Rachel Stephenson is an adult.
+ contradition: 0.04239973952685873
+
+premise: Sarah Mason is the best friend of Rachel Stephenson.
+ hypo:Sarah Mason is the best friend of Rachel Stephenson.
+ contradition: 0.0008071618201530459
+
+premise: Sarah Mason is the best friend of Rachel Stephenson.
+ hypo:Sarah Mason is the best friend of Rachel Stephenson.
+ contradition: 0.0008071618201530459
+
+premise: Sarah Mason is the wife of Rachel Stephenson.
+ hypo:Rachel Stephenson is a painter.
+ contradition: 0.008190330832505777
+
+premise: Sarah Mason is the wife of Rachel Stephenson.
+ hypo:Rachel Stephenson is a female.
+ contradition: 0.000598145717525911
+
+premise: Sarah Mason is the wife of Rachel Stephenson.
+ hypo:Rachel Stephenson is an adult.
+ contradition: 0.03515736566972437
+
+premise: Sarah Mason is the wife of Rachel Stephenson.
+ hypo:Sarah Mason is the best friend of Rachel Stephenson.
+ contradition: 0.9922171953042499
+
+premise: Sarah Mason is the wife of Rachel Stephenson.
+ hypo:Sarah Mason is the best friend of Rachel Stephenson.
+ contradition: 0.9922171953042499
+
+premise: John Mason is a successful businessman.
+ hypo:John Mason is male.
+ contradition: 0.0006960200679254269
+
+premise: John Mason is a successful businessman.
+ hypo:Sarah Mason is the wife of John Mason.
+ contradition: 0.03948944420711185
+
+premise: John Mason is male.
+ hypo:John Mason is male.
+ contradition: 0.0008535834737778684
+
+premise: John Mason is male.
+ hypo:Sarah Mason is the wife of John Mason.
+ contradition: 0.03993956127572986
+
+premise: Sarah Mason is the wife of John Mason.
+ hypo:John Mason is male.
+ contradition: 0.06804134708062584
+
+premise: Sarah Mason is the wife of John Mason.
+ hypo:Sarah Mason is the wife of John Mason.
+ contradition: 0.0003179590638464331
+
+premise: Sarah Mason is the children of John Mason.
+ hypo:John Mason is male.
+ contradition: 0.0010483457634657114
+
+premise: Sarah Mason is the children of John Mason.
+ hypo:Sarah Mason is the wife of John Mason.
+ contradition: 0.9987748392272753
+
+premise: Rachel Stephenson is the best friend of John Mason.
+ hypo:John Mason is male.
+ contradition: 0.0028687387962438374
+
+premise: Sarah Mason is the husband of John Mason.
+ hypo:John Mason is male.
+ contradition: 0.005377616028506982
+
+premise: Sarah Mason is the husband of John Mason.
+ hypo:Sarah Mason is the wife of John Mason.
+ contradition: 0.980237172524929
+
+
+MAX_PROB is 0.9987748392272753
+CONTRADICTORY_PREMISE: Sarah Mason is the children of John Mason.
+ CONTRADICTORY_HYPO: Sarah Mason is the wife of John Mason.

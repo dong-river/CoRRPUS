@@ -1,0 +1,48 @@
+premise: Olivia Kane has blue eyes and long blonde hair.
+ hypo:Richard Kane is the husband of Olivia Kane.
+ contradition: 0.22715210607630834
+
+premise: Olivia Kane is a female.
+ hypo:Richard Kane is the husband of Olivia Kane.
+ contradition: 0.09465349265948192
+
+premise: Richard Kane is the husband of Olivia Kane.
+ hypo:Richard Kane is the husband of Olivia Kane.
+ contradition: 0.0008372764665487313
+
+premise: Richard Kane has an air of authority and a commanding presence.
+ hypo:Richard Kane is a businessman.
+ contradition: 0.00038658397257575216
+
+premise: Richard Kane is a businessman.
+ hypo:Richard Kane is a businessman.
+ contradition: 0.000520513272166072
+
+premise: Richard Kane is a businessman.
+ hypo:Olivia Kane is the wife of Richard Kane.
+ contradition: 0.14388514586440843
+
+premise: Richard Kane is male.
+ hypo:Richard Kane is a businessman.
+ contradition: 0.00012810811604592462
+
+premise: Richard Kane is male.
+ hypo:Olivia Kane is the wife of Richard Kane.
+ contradition: 0.11321700366012796
+
+premise: Olivia Kane is the wife of Richard Kane.
+ hypo:Richard Kane is a businessman.
+ contradition: 0.0007210601913762757
+
+premise: Olivia Kane is the wife of Richard Kane.
+ hypo:Olivia Kane is the wife of Richard Kane.
+ contradition: 0.0006806808236594283
+
+premise: two is the children of Richard Kane.
+ hypo:Richard Kane is a businessman.
+ contradition: 0.0007218459229873977
+
+
+MAX_PROB is 0.22715210607630834
+CONTRADICTORY_PREMISE: Olivia Kane has blue eyes and long blonde hair.
+ CONTRADICTORY_HYPO: Richard Kane is the husband of Olivia Kane.

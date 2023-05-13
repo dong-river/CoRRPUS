@@ -1,0 +1,24 @@
+premise: Jane Doe is female.
+ hypo:Jessica Brown is the sister of Jane Doe.
+ contradition: 0.04228037030189726
+
+premise: Jane Doe is in her early twenties.
+ hypo:Jessica Brown is the sister of Jane Doe.
+ contradition: 0.3497072366421429
+
+premise: Jessica Brown is the best friend of Jane Doe.
+ hypo:Jessica Brown is the sister of Jane Doe.
+ contradition: 0.9972833487225591
+
+premise: Jessica Brown has green eyes, is slender, has brown hair, and is tall.
+ hypo:Jane Doe is the sister of Jessica Brown.
+ contradition: 0.9374289218895399
+
+premise: Jane Doe is the best friend of Jessica Brown.
+ hypo:Jane Doe is the sister of Jessica Brown.
+ contradition: 0.9979092769834135
+
+
+MAX_PROB is 0.9979092769834135
+CONTRADICTORY_PREMISE: Jane Doe is the best friend of Jessica Brown.
+ CONTRADICTORY_HYPO: Jane Doe is the sister of Jessica Brown.

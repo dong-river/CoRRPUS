@@ -1,0 +1,24 @@
+premise: Jenny Anderson has blue eyes and blonde hair.
+ hypo:Jimmy Jackson is the boyfriend of Jenny Anderson.
+ contradition: 0.3468526683893455
+
+premise: Jenny Anderson is a female.
+ hypo:Jimmy Jackson is the boyfriend of Jenny Anderson.
+ contradition: 0.2406770322674409
+
+premise: Jenny Anderson is young.
+ hypo:Jimmy Jackson is the boyfriend of Jenny Anderson.
+ contradition: 0.23215726711839
+
+premise: Jimmy Jackson is the boyfriend of Jenny Anderson.
+ hypo:Jimmy Jackson is the boyfriend of Jenny Anderson.
+ contradition: 0.0006967456216183309
+
+premise: Jenny Anderson is the girlfriend of Jimmy Jackson.
+ hypo:Jenny Anderson is the girlfriend of Jimmy Jackson.
+ contradition: 0.0007089049567068987
+
+
+MAX_PROB is 0.3468526683893455
+CONTRADICTORY_PREMISE: Jenny Anderson has blue eyes and blonde hair.
+ CONTRADICTORY_HYPO: Jimmy Jackson is the boyfriend of Jenny Anderson.

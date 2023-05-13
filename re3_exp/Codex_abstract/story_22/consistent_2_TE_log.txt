@@ -1,0 +1,56 @@
+premise: Harold Martinez is a gas station attendant.
+ hypo:Harold Martinez is a gas station worker.
+ contradition: 0.0001900147293213728
+
+premise: Harold Martinez is a gas station attendant.
+ hypo:Harold Martinez is male.
+ contradition: 0.000589132964256888
+
+premise: Harold Martinez is a gas station attendant.
+ hypo:Harold Martinez is 19 years old.
+ contradition: 0.0008286915110625427
+
+premise: Harold Martinez is male.
+ hypo:Harold Martinez is a gas station worker.
+ contradition: 0.0009123438604924752
+
+premise: Harold Martinez is male.
+ hypo:Harold Martinez is male.
+ contradition: 0.0011294138263923906
+
+premise: Harold Martinez is male.
+ hypo:Harold Martinez is 19 years old.
+ contradition: 0.00022669483489064397
+
+premise: Harold Martinez is young.
+ hypo:Harold Martinez is a gas station worker.
+ contradition: 0.0015082543899585256
+
+premise: Harold Martinez is young.
+ hypo:Harold Martinez is male.
+ contradition: 0.0009245409561575288
+
+premise: Harold Martinez is young.
+ hypo:Harold Martinez is 19 years old.
+ contradition: 0.00031093526237276086
+
+premise: David Garcia is armed, desperate, and dangerous.
+ hypo:David Garcia has a gun and long, greasy hair.
+ contradition: 0.00019598830698035918
+
+premise: David Garcia is a customer.
+ hypo:David Garcia has a gun and long, greasy hair.
+ contradition: 0.5686814936088352
+
+premise: David Garcia is male.
+ hypo:David Garcia has a gun and long, greasy hair.
+ contradition: 0.0021885866233090226
+
+premise: David Garcia is young.
+ hypo:David Garcia has a gun and long, greasy hair.
+ contradition: 0.013223567264598215
+
+
+MAX_PROB is 0.5686814936088352
+CONTRADICTORY_PREMISE: David Garcia is a customer.
+ CONTRADICTORY_HYPO: David Garcia has a gun and long, greasy hair.

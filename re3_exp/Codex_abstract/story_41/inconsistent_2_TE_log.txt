@@ -1,0 +1,24 @@
+premise: Jennie Mayfield has brown eyes and long dark hair.
+ hypo:Jennie Mayfield has brown eyes, is athletic, and has long dark hair.
+ contradition: 8.122129807793645e-05
+
+premise: Jennie Mayfield is a female.
+ hypo:Jennie Mayfield has brown eyes, is athletic, and has long dark hair.
+ contradition: 0.00035265735521571273
+
+premise: Jennie Mayfield is in her early twenties.
+ hypo:Jennie Mayfield has brown eyes, is athletic, and has long dark hair.
+ contradition: 0.0004875069938973907
+
+premise: Aaron Mayfield is the brother of Jennie Mayfield.
+ hypo:Jennie Mayfield has brown eyes, is athletic, and has long dark hair.
+ contradition: 0.004387830922896307
+
+premise: Alex Preston is the boyfriend of Jennie Mayfield.
+ hypo:Jennie Mayfield has brown eyes, is athletic, and has long dark hair.
+ contradition: 0.00389819486636664
+
+
+MAX_PROB is 0.004387830922896307
+CONTRADICTORY_PREMISE: Aaron Mayfield is the brother of Jennie Mayfield.
+ CONTRADICTORY_HYPO: Jennie Mayfield has brown eyes, is athletic, and has long dark hair.

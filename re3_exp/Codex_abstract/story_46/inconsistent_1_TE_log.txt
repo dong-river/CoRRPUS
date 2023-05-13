@@ -1,0 +1,84 @@
+premise: Jessica Campbell is tall, thin, has blue eyes, and long blond hair.
+ hypo:Tina Sanchez is the client of Jessica Campbell.
+ contradition: 0.028054231874876646
+
+premise: Jessica Campbell is a female.
+ hypo:Tina Sanchez is the client of Jessica Campbell.
+ contradition: 0.008319857233629128
+
+premise: Jessica Campbell is 22 years old.
+ hypo:Tina Sanchez is the client of Jessica Campbell.
+ contradition: 0.05933795990994537
+
+premise: Tina Sanchez has curvaceous features, brown eyes, long dark hair, and is short.
+ hypo:
+Tina Sanchez has long black hair and is a beautiful girl. She was in the dressing room on a bright, sunny morning.
+ contradition: 0.0003761585024907923
+
+premise: Tina Sanchez has curvaceous features, brown eyes, long dark hair, and is short.
+ hypo:Tina Sanchez is a stylist and model.
+ contradition: 0.0008444619856242952
+
+premise: Tina Sanchez has curvaceous features, brown eyes, long dark hair, and is short.
+ hypo:Tina Sanchez is a female.
+ contradition: 0.0004013407697040115
+
+premise: Tina Sanchez has curvaceous features, brown eyes, long dark hair, and is short.
+ hypo:Jessica Campbell is the stylist of Tina Sanchez.
+ contradition: 0.0019248802123536515
+
+premise: Tina Sanchez is a stylist.
+ hypo:
+Tina Sanchez has long black hair and is a beautiful girl. She was in the dressing room on a bright, sunny morning.
+ contradition: 0.0011323543416415082
+
+premise: Tina Sanchez is a stylist.
+ hypo:Tina Sanchez is a stylist and model.
+ contradition: 0.0002388643194781807
+
+premise: Tina Sanchez is a stylist.
+ hypo:Tina Sanchez is a female.
+ contradition: 0.0013114198939502485
+
+premise: Tina Sanchez is a stylist.
+ hypo:Jessica Campbell is the stylist of Tina Sanchez.
+ contradition: 0.31026504011181216
+
+premise: Tina Sanchez is a female.
+ hypo:
+Tina Sanchez has long black hair and is a beautiful girl. She was in the dressing room on a bright, sunny morning.
+ contradition: 0.0005564415302942683
+
+premise: Tina Sanchez is a female.
+ hypo:Tina Sanchez is a stylist and model.
+ contradition: 0.00025717696850445
+
+premise: Tina Sanchez is a female.
+ hypo:Tina Sanchez is a female.
+ contradition: 0.0006675025330308575
+
+premise: Tina Sanchez is a female.
+ hypo:Jessica Campbell is the stylist of Tina Sanchez.
+ contradition: 0.006358935881305017
+
+premise: Tina Sanchez is 28 years old.
+ hypo:
+Tina Sanchez has long black hair and is a beautiful girl. She was in the dressing room on a bright, sunny morning.
+ contradition: 0.0005252590161786265
+
+premise: Tina Sanchez is 28 years old.
+ hypo:Tina Sanchez is a stylist and model.
+ contradition: 0.00042443126117880673
+
+premise: Tina Sanchez is 28 years old.
+ hypo:Tina Sanchez is a female.
+ contradition: 0.0005271516603873594
+
+premise: Tina Sanchez is 28 years old.
+ hypo:Jessica Campbell is the stylist of Tina Sanchez.
+ contradition: 0.007087880298686183
+
+
+MAX_PROB is 0.31026504011181216
+CONTRADICTORY_PREMISE: Tina Sanchez is a stylist.
+ CONTRADICTORY_HYPO: Jessica Campbell is the stylist of Tina Sanchez.

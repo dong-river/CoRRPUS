@@ -1,0 +1,32 @@
+premise: Karen Fletcher has blue eyes and blonde hair.
+ hypo:Julia Fletcher is the sister of Karen Fletcher.
+ contradition: 0.2589872446029613
+
+premise: Karen Fletcher is a female.
+ hypo:Julia Fletcher is the sister of Karen Fletcher.
+ contradition: 0.02582151888071644
+
+premise: Julia Fletcher is the mother-in-law of Karen Fletcher.
+ hypo:Julia Fletcher is the sister of Karen Fletcher.
+ contradition: 0.9868205247912
+
+premise: Julia Fletcher is frail, thin, with blue eyes and grey hair.
+ hypo:Karen Fletcher is the sister of Julia Fletcher.
+ contradition: 0.3141981211242046
+
+premise: Julia Fletcher is a female.
+ hypo:Karen Fletcher is the sister of Julia Fletcher.
+ contradition: 0.017498360327882483
+
+premise: Julia Fletcher is in her early 70s or late 60s.
+ hypo:Karen Fletcher is the sister of Julia Fletcher.
+ contradition: 0.12230034149366058
+
+premise: Karen Fletcher is the daughter-in-law of Julia Fletcher.
+ hypo:Karen Fletcher is the sister of Julia Fletcher.
+ contradition: 0.977274880005072
+
+
+MAX_PROB is 0.9868205247912
+CONTRADICTORY_PREMISE: Julia Fletcher is the mother-in-law of Karen Fletcher.
+ CONTRADICTORY_HYPO: Julia Fletcher is the sister of Karen Fletcher.

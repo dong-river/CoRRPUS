@@ -1,0 +1,48 @@
+premise: Lettie Hanson is a female.
+ hypo:Karen Hanson is the aunt of Lettie Hanson.
+ contradition: 0.00826363029527398
+
+premise: Lettie Hanson is a female.
+ hypo:Bob Hanson is the wife of Lettie Hanson.
+ contradition: 0.18027879661625942
+
+premise: Lettie Hanson is middle-aged.
+ hypo:Karen Hanson is the aunt of Lettie Hanson.
+ contradition: 0.01496664830476574
+
+premise: Lettie Hanson is middle-aged.
+ hypo:Bob Hanson is the wife of Lettie Hanson.
+ contradition: 0.3595044043569683
+
+premise: Bob Hanson is the husband of Lettie Hanson.
+ hypo:Bob Hanson is the wife of Lettie Hanson.
+ contradition: 0.9970109666755471
+
+premise: Karen Hanson is the daughter of Lettie Hanson.
+ hypo:Karen Hanson is the aunt of Lettie Hanson.
+ contradition: 0.9982186159529403
+
+premise: Bob Hanson is male.
+ hypo:Lettie Hanson is the husband of Bob Hanson.
+ contradition: 0.05802579874755024
+
+premise: Lettie Hanson is the wife of Bob Hanson.
+ hypo:Lettie Hanson is the husband of Bob Hanson.
+ contradition: 0.9986780499224598
+
+premise: Karen Hanson is a female.
+ hypo:Lettie Hanson is the niece of Karen Hanson.
+ contradition: 0.01385935579867827
+
+premise: Karen Hanson is young.
+ hypo:Lettie Hanson is the niece of Karen Hanson.
+ contradition: 0.05437754637415961
+
+premise: Lettie Hanson is the mother of Karen Hanson.
+ hypo:Lettie Hanson is the niece of Karen Hanson.
+ contradition: 0.9984312862381398
+
+
+MAX_PROB is 0.9986780499224598
+CONTRADICTORY_PREMISE: Lettie Hanson is the wife of Bob Hanson.
+ CONTRADICTORY_HYPO: Lettie Hanson is the husband of Bob Hanson.

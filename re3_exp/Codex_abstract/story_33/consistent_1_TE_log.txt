@@ -1,0 +1,80 @@
+premise: Charles Wilson has brown eyes and brown hair.
+ hypo:Charles Wilson is a student.
+ contradition: 0.00039232348431637556
+
+premise: Charles Wilson has brown eyes and brown hair.
+ hypo:Charles Wilson is twenty-three years old.
+ contradition: 0.0004559425037786029
+
+premise: Charles Wilson has brown eyes and brown hair.
+ hypo:Nina Peterson is the teacher of Charles Wilson.
+ contradition: 0.0023965369841940183
+
+premise: Charles Wilson is male.
+ hypo:Charles Wilson is a student.
+ contradition: 0.0002366066365842274
+
+premise: Charles Wilson is male.
+ hypo:Charles Wilson is twenty-three years old.
+ contradition: 0.0003053941390996539
+
+premise: Charles Wilson is male.
+ hypo:Nina Peterson is the teacher of Charles Wilson.
+ contradition: 0.0052354316443953665
+
+premise: Charles Wilson is in his early twenties.
+ hypo:Charles Wilson is a student.
+ contradition: 0.00019901506899529782
+
+premise: Charles Wilson is in his early twenties.
+ hypo:Charles Wilson is twenty-three years old.
+ contradition: 0.00178016121306811
+
+premise: Charles Wilson is in his early twenties.
+ hypo:Nina Peterson is the teacher of Charles Wilson.
+ contradition: 0.0035329762815727314
+
+premise: Nina Peterson has blue eyes.
+ hypo:Charles Wilson is the student of Nina Peterson.
+ contradition: 0.03530606038958488
+
+premise: Nina Peterson has blue eyes.
+ hypo:Jeff Foster is the husband of Nina Peterson.
+ contradition: 0.24414364055262794
+
+premise: Nina Peterson is a college student.
+ hypo:Charles Wilson is the student of Nina Peterson.
+ contradition: 0.9248226979811631
+
+premise: Nina Peterson is a college student.
+ hypo:Jeff Foster is the husband of Nina Peterson.
+ contradition: 0.46619091033787396
+
+premise: Nina Peterson is a female.
+ hypo:Charles Wilson is the student of Nina Peterson.
+ contradition: 0.041208017648898435
+
+premise: Nina Peterson is a female.
+ hypo:Jeff Foster is the husband of Nina Peterson.
+ contradition: 0.1357104803368119
+
+premise: Nina Peterson is in her early twenties.
+ hypo:Charles Wilson is the student of Nina Peterson.
+ contradition: 0.0939972237055121
+
+premise: Nina Peterson is in her early twenties.
+ hypo:Jeff Foster is the husband of Nina Peterson.
+ contradition: 0.4591844100554028
+
+premise: Jeff Foster has dark hair and dark eyes.
+ hypo:Nina Peterson is the wife of Jeff Foster.
+ contradition: 0.7417041614350305
+
+premise: Jeff Foster is in his early thirties.
+ hypo:Nina Peterson is the wife of Jeff Foster.
+ contradition: 0.30730861001168935
+
+
+MAX_PROB is 0.9248226979811631
+CONTRADICTORY_PREMISE: Nina Peterson is a college student.
+ CONTRADICTORY_HYPO: Charles Wilson is the student of Nina Peterson.

@@ -1,0 +1,68 @@
+premise: Shannon Burke has hazel eyes, shoulder length brown hair, average build, and average height.
+ hypo:Maxine Carter is the mother of Shannon Burke.
+ contradition: 0.06355898568975309
+
+premise: Shannon Burke has hazel eyes, shoulder length brown hair, average build, and average height.
+ hypo:Charles Burke is the boyfriend of Shannon Burke.
+ contradition: 0.3742219670840867
+
+premise: Shannon Burke is a journalist.
+ hypo:Maxine Carter is the mother of Shannon Burke.
+ contradition: 0.6526851543967194
+
+premise: Shannon Burke is a journalist.
+ hypo:Charles Burke is the boyfriend of Shannon Burke.
+ contradition: 0.6708016429520965
+
+premise: Shannon Burke is a female.
+ hypo:Maxine Carter is the mother of Shannon Burke.
+ contradition: 0.024906066246039832
+
+premise: Shannon Burke is a female.
+ hypo:Charles Burke is the boyfriend of Shannon Burke.
+ contradition: 0.21344616103660213
+
+premise: Shannon Burke is young.
+ hypo:Maxine Carter is the mother of Shannon Burke.
+ contradition: 0.008474373422106241
+
+premise: Shannon Burke is young.
+ hypo:Charles Burke is the boyfriend of Shannon Burke.
+ contradition: 0.14327391681422888
+
+premise: Charles Burke is the father of Shannon Burke.
+ hypo:Charles Burke is the boyfriend of Shannon Burke.
+ contradition: 0.9994164536030691
+
+premise: Maxine Carter is the mentor of Shannon Burke.
+ hypo:Maxine Carter is the mother of Shannon Burke.
+ contradition: 0.9872755668194897
+
+premise: Charles Burke is a journalist.
+ hypo:Charles Burke is young.
+ contradition: 0.004508328721529621
+
+premise: Charles Burke is a journalist.
+ hypo:Shannon Burke is the girlfriend of Charles Burke.
+ contradition: 0.5303100534351765
+
+premise: Shannon Burke is the daughter of Charles Burke.
+ hypo:Charles Burke is young.
+ contradition: 0.510485936875742
+
+premise: Shannon Burke is the daughter of Charles Burke.
+ hypo:Shannon Burke is the girlfriend of Charles Burke.
+ contradition: 0.9988219327553449
+
+premise: Maxine Carter is a reporter.
+ hypo:Shannon Burke is the daughter of Maxine Carter.
+ contradition: 0.09975601126387243
+
+premise: Maxine Carter is a female.
+ hypo:Shannon Burke is the daughter of Maxine Carter.
+ contradition: 0.01023913433667428
+
+
+MAX_PROB is 0.9994164536030691
+CONTRADICTORY_PREMISE: Charles Burke is the father of Shannon Burke.
+ CONTRADICTORY_HYPO: Charles Burke is the boyfriend of Shannon Burke.

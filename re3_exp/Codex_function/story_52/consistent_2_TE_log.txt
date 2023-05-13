@@ -1,0 +1,15 @@
+premise: Richard Stephenson is the husband of Rachel Stephenson.
+ hypo:Richard Stephenson is the husband of Rachel Stephenson.
+ contradition: 0.0008077697820173653
+
+
+MAX_PROB is 0.0008077697820173653
+CONTRADICTORY_PREMISE: Richard Stephenson is the husband of Rachel Stephenson.
+ CONTRADICTORY_HYPO: Richard Stephenson is the husband of Rachel Stephenson.premise: Richard Stephenson is the husband of Rachel Stephenson.
+ hypo:Richard Stephenson is the husband of Rachel Stephenson.
+ contradition: 0.0008077697820173653
+
+
+MAX_PROB is 0.0008077697820173653
+CONTRADICTORY_PREMISE: Richard Stephenson is the husband of Rachel Stephenson.
+ CONTRADICTORY_HYPO: Richard Stephenson is the husband of Rachel Stephenson.

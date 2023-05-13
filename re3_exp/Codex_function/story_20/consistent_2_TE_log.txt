@@ -1,0 +1,48 @@
+premise: Olivia Fria Spierings is small, has blue eyes, long dark hair, and is skinny.
+ hypo:Olivia Fria Spierings has long dark hair, blue eyes, slender arms, bird wings, and a pretty face.
+ contradition: 0.0010474618305381126
+
+premise: Olivia Fria Spierings is small, has blue eyes, long dark hair, and is skinny.
+ hypo:Olivia Fria Spierings is a supply clerk.
+ contradition: 0.0005518959574014827
+
+premise: Olivia Fria Spierings is small, has blue eyes, long dark hair, and is skinny.
+ hypo:Colonel Damien Riggs is the aide of Olivia Fria Spierings.
+ contradition: 0.15679572182355206
+
+premise: Olivia Fria Spierings is a female.
+ hypo:Olivia Fria Spierings has long dark hair, blue eyes, slender arms, bird wings, and a pretty face.
+ contradition: 0.0003515116954443097
+
+premise: Olivia Fria Spierings is a female.
+ hypo:Olivia Fria Spierings is a supply clerk.
+ contradition: 0.0005250396563935953
+
+premise: Olivia Fria Spierings is a female.
+ hypo:Colonel Damien Riggs is the aide of Olivia Fria Spierings.
+ contradition: 0.11481994340695374
+
+premise: Olivia Fria Spierings is young.
+ hypo:Olivia Fria Spierings has long dark hair, blue eyes, slender arms, bird wings, and a pretty face.
+ contradition: 0.0007208315818093167
+
+premise: Olivia Fria Spierings is young.
+ hypo:Olivia Fria Spierings is a supply clerk.
+ contradition: 0.0023753598106252068
+
+premise: Olivia Fria Spierings is young.
+ hypo:Colonel Damien Riggs is the aide of Olivia Fria Spierings.
+ contradition: 0.08994965074694433
+
+premise: Colonel Damien Riggs is the commanding officer of Olivia Fria Spierings.
+ hypo:Olivia Fria Spierings has long dark hair, blue eyes, slender arms, bird wings, and a pretty face.
+ contradition: 0.0012757472493556841
+
+premise: Colonel Damien Riggs is the commanding officer of Olivia Fria Spierings.
+ hypo:Olivia Fria Spierings is a supply clerk.
+ contradition: 0.9992887076238598
+
+
+MAX_PROB is 0.9992887076238598
+CONTRADICTORY_PREMISE: Colonel Damien Riggs is the commanding officer of Olivia Fria Spierings.
+ CONTRADICTORY_HYPO: Olivia Fria Spierings is a supply clerk.

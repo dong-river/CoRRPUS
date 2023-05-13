@@ -1,0 +1,24 @@
+premise: Karen Fletcher is middle-aged.
+ hypo:Julia Fletcher is the sister of Karen Fletcher.
+ contradition: 0.17238816480648578
+
+premise: Julia Fletcher is the mother in law of Karen Fletcher.
+ hypo:Julia Fletcher is the sister of Karen Fletcher.
+ contradition: 0.9772538173519736
+
+premise: Julia Fletcher is bedridden and uses a wheelchair to get around.
+ hypo:Karen Fletcher is the sister of Julia Fletcher.
+ contradition: 0.0775123152325698
+
+premise: Julia Fletcher is in her late 60s or early 70s.
+ hypo:Karen Fletcher is the sister of Julia Fletcher.
+ contradition: 0.18996956313343094
+
+premise: Karen Fletcher is the daughter in law of Julia Fletcher.
+ hypo:Karen Fletcher is the sister of Julia Fletcher.
+ contradition: 0.8321490187799134
+
+
+MAX_PROB is 0.9772538173519736
+CONTRADICTORY_PREMISE: Julia Fletcher is the mother in law of Karen Fletcher.
+ CONTRADICTORY_HYPO: Julia Fletcher is the sister of Karen Fletcher.

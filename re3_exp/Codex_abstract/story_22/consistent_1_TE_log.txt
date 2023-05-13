@@ -1,0 +1,60 @@
+premise: Harold Martinez is a gas station clerk.
+ hypo:Harold Martinez has dark brown hair, is of medium build, and has dark eyes.
+ contradition: 0.0009491241451714795
+
+premise: Harold Martinez is a gas station clerk.
+ hypo:Harold Martinez is a clerk.
+ contradition: 0.000336962566792741
+
+premise: Harold Martinez is a gas station clerk.
+ hypo:Harold Martinez is male.
+ contradition: 0.0006868960553137052
+
+premise: Harold Martinez is a gas station clerk.
+ hypo:Harold Martinez is middle-aged.
+ contradition: 0.0005840788164113562
+
+premise: Harold Martinez is male.
+ hypo:Harold Martinez has dark brown hair, is of medium build, and has dark eyes.
+ contradition: 0.00046468271801016907
+
+premise: Harold Martinez is male.
+ hypo:Harold Martinez is a clerk.
+ contradition: 0.0002795247336168099
+
+premise: Harold Martinez is male.
+ hypo:Harold Martinez is male.
+ contradition: 0.0011294138263923906
+
+premise: Harold Martinez is male.
+ hypo:Harold Martinez is middle-aged.
+ contradition: 0.0004708023202951403
+
+premise: Harold Martinez is middle-aged.
+ hypo:Harold Martinez has dark brown hair, is of medium build, and has dark eyes.
+ contradition: 0.0005426767519622046
+
+premise: Harold Martinez is middle-aged.
+ hypo:Harold Martinez is a clerk.
+ contradition: 0.000320380732402038
+
+premise: Harold Martinez is middle-aged.
+ hypo:Harold Martinez is male.
+ contradition: 0.00035530161601998684
+
+premise: Harold Martinez is middle-aged.
+ hypo:Harold Martinez is middle-aged.
+ contradition: 0.0013103335141450474
+
+premise: David Garcia is male.
+ hypo:David Garcia's appearance is unkempt and he looks like he has not taken care of himself.
+ contradition: 0.00020376721976567743
+
+premise: David Garcia is young.
+ hypo:David Garcia's appearance is unkempt and he looks like he has not taken care of himself.
+ contradition: 0.0008552583754045508
+
+
+MAX_PROB is 0.0013103335141450474
+CONTRADICTORY_PREMISE: Harold Martinez is middle-aged.
+ CONTRADICTORY_HYPO: Harold Martinez is middle-aged.

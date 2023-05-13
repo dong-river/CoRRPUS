@@ -1,0 +1,36 @@
+premise: Shannon Mulaney is a student.
+ hypo:Shannon Mulaney is 20 years old.
+ contradition: 0.00041896094637806024
+
+premise: Shannon Mulaney is a student.
+ hypo:Jess Abernathy is the best friend of Shannon Mulaney.
+ contradition: 0.0626449022165584
+
+premise: Shannon Mulaney is 18 years old.
+ hypo:Shannon Mulaney is 20 years old.
+ contradition: 0.9990652009721888
+
+premise: Shannon Mulaney is 18 years old.
+ hypo:Jess Abernathy is the best friend of Shannon Mulaney.
+ contradition: 0.11535637793043166
+
+premise: Jess Abernathy is the ra of Shannon Mulaney.
+ hypo:Shannon Mulaney is 20 years old.
+ contradition: 0.011019240138625685
+
+premise: Jess Abernathy is the ra of Shannon Mulaney.
+ hypo:Jess Abernathy is the best friend of Shannon Mulaney.
+ contradition: 0.0026346299916739126
+
+premise: Jess Abernathy is tall.
+ hypo:Shannon Mulaney is the best friend of Jess Abernathy.
+ contradition: 0.04968450911503045
+
+premise: Jess Abernathy is 21 years old.
+ hypo:Shannon Mulaney is the best friend of Jess Abernathy.
+ contradition: 0.039260843363418556
+
+
+MAX_PROB is 0.9990652009721888
+CONTRADICTORY_PREMISE: Shannon Mulaney is 18 years old.
+ CONTRADICTORY_HYPO: Shannon Mulaney is 20 years old.

@@ -1,0 +1,180 @@
+premise: Jennifer Ann Smith is a receptionist.
+ hypo:Jennifer Ann Smith has shoulder-length brown hair.
+ contradition: 0.001040338266950647
+
+premise: Jennifer Ann Smith is a receptionist.
+ hypo:Jennifer Ann Smith is a worker.
+ contradition: 0.0003219621196571963
+
+premise: Jennifer Ann Smith is a receptionist.
+ hypo:Jennifer Ann Smith is a female.
+ contradition: 0.00022009283896164388
+
+premise: Jennifer Ann Smith is a receptionist.
+ hypo:Jennifer Ann Smith is in her mid-30s.
+ contradition: 0.00017530738304969372
+
+premise: Jennifer Ann Smith is a receptionist.
+ hypo:Clara Smith is the mother of Jennifer Ann Smith.
+ contradition: 0.2655572703197133
+
+premise: Jennifer Ann Smith is a receptionist.
+ hypo:Robert Smith is the boyfriend of Jennifer Ann Smith.
+ contradition: 0.2659176751406122
+
+premise: Jennifer Ann Smith is a female.
+ hypo:Jennifer Ann Smith has shoulder-length brown hair.
+ contradition: 0.0006364001429968324
+
+premise: Jennifer Ann Smith is a female.
+ hypo:Jennifer Ann Smith is a worker.
+ contradition: 8.376685896990344e-05
+
+premise: Jennifer Ann Smith is a female.
+ hypo:Jennifer Ann Smith is a female.
+ contradition: 0.0006773623810518402
+
+premise: Jennifer Ann Smith is a female.
+ hypo:Jennifer Ann Smith is in her mid-30s.
+ contradition: 0.00010665896853391903
+
+premise: Jennifer Ann Smith is a female.
+ hypo:Clara Smith is the mother of Jennifer Ann Smith.
+ contradition: 0.007271547395910943
+
+premise: Jennifer Ann Smith is a female.
+ hypo:Robert Smith is the boyfriend of Jennifer Ann Smith.
+ contradition: 0.057771444678814336
+
+premise: Jennifer Ann Smith is 27 years old.
+ hypo:Jennifer Ann Smith has shoulder-length brown hair.
+ contradition: 0.0010310124947871644
+
+premise: Jennifer Ann Smith is 27 years old.
+ hypo:Jennifer Ann Smith is a worker.
+ contradition: 0.00014113089116610085
+
+premise: Jennifer Ann Smith is 27 years old.
+ hypo:Jennifer Ann Smith is a female.
+ contradition: 0.0002527415725824076
+
+premise: Jennifer Ann Smith is 27 years old.
+ hypo:Jennifer Ann Smith is in her mid-30s.
+ contradition: 0.9982149335624844
+
+premise: Jennifer Ann Smith is 27 years old.
+ hypo:Clara Smith is the mother of Jennifer Ann Smith.
+ contradition: 0.0102351705955155
+
+premise: Jennifer Ann Smith is 27 years old.
+ hypo:Robert Smith is the boyfriend of Jennifer Ann Smith.
+ contradition: 0.060702004711321984
+
+premise: Clara Smith is the mother of Jennifer Ann Smith.
+ hypo:Jennifer Ann Smith has shoulder-length brown hair.
+ contradition: 0.0019939807127726315
+
+premise: Clara Smith is the mother of Jennifer Ann Smith.
+ hypo:Jennifer Ann Smith is a worker.
+ contradition: 0.002894546487023866
+
+premise: Clara Smith is the mother of Jennifer Ann Smith.
+ hypo:Jennifer Ann Smith is a female.
+ contradition: 0.001058756339709514
+
+premise: Clara Smith is the mother of Jennifer Ann Smith.
+ hypo:Jennifer Ann Smith is in her mid-30s.
+ contradition: 0.0002252262568386302
+
+premise: Clara Smith is the mother of Jennifer Ann Smith.
+ hypo:Clara Smith is the mother of Jennifer Ann Smith.
+ contradition: 0.00045514639077661346
+
+premise: Robert Smith is the father of Jennifer Ann Smith.
+ hypo:Jennifer Ann Smith has shoulder-length brown hair.
+ contradition: 0.0024867622401720966
+
+premise: Robert Smith is the father of Jennifer Ann Smith.
+ hypo:Jennifer Ann Smith is a worker.
+ contradition: 0.015048952438887342
+
+premise: Robert Smith is the father of Jennifer Ann Smith.
+ hypo:Jennifer Ann Smith is a female.
+ contradition: 0.011681621285763782
+
+premise: Robert Smith is the father of Jennifer Ann Smith.
+ hypo:Jennifer Ann Smith is in her mid-30s.
+ contradition: 0.00043317653312419763
+
+premise: Robert Smith is the father of Jennifer Ann Smith.
+ hypo:Robert Smith is the boyfriend of Jennifer Ann Smith.
+ contradition: 0.9995643606924682
+
+premise: Clara Smith has graying hair and is heavyset.
+ hypo:Clara Smith is a female.
+ contradition: 0.0003303452374385793
+
+premise: Clara Smith has graying hair and is heavyset.
+ hypo:Jennifer Ann Smith is the daughter of Clara Smith.
+ contradition: 0.055228100503476416
+
+premise: Clara Smith is a female.
+ hypo:Clara Smith is a female.
+ contradition: 0.0006619079728093619
+
+premise: Clara Smith is a female.
+ hypo:Jennifer Ann Smith is the daughter of Clara Smith.
+ contradition: 0.003639778944187637
+
+premise: Clara Smith is in her late 50s.
+ hypo:Clara Smith is a female.
+ contradition: 0.00010841746454099413
+
+premise: Clara Smith is in her late 50s.
+ hypo:Jennifer Ann Smith is the daughter of Clara Smith.
+ contradition: 0.019734335327451214
+
+premise: Jennifer Ann Smith is the daughter of Clara Smith.
+ hypo:Clara Smith is a female.
+ contradition: 0.0006752855059500689
+
+premise: Jennifer Ann Smith is the daughter of Clara Smith.
+ hypo:Jennifer Ann Smith is the daughter of Clara Smith.
+ contradition: 0.0007673413487128699
+
+premise: Robert Smith is tall, has a mustache, and has thinning gray hair.
+ hypo:Robert Smith is male.
+ contradition: 0.00014574854716074823
+
+premise: Robert Smith is tall, has a mustache, and has thinning gray hair.
+ hypo:Jennifer Ann Smith is the girlfriend of Robert Smith.
+ contradition: 0.39796878279599607
+
+premise: Robert Smith is male.
+ hypo:Robert Smith is male.
+ contradition: 0.0009713577346980376
+
+premise: Robert Smith is male.
+ hypo:Jennifer Ann Smith is the girlfriend of Robert Smith.
+ contradition: 0.03357755990845392
+
+premise: Robert Smith is in his early 60s.
+ hypo:Robert Smith is male.
+ contradition: 0.00015294183951768063
+
+premise: Robert Smith is in his early 60s.
+ hypo:Jennifer Ann Smith is the girlfriend of Robert Smith.
+ contradition: 0.2010822324409273
+
+premise: Jennifer Ann Smith is the daughter of Robert Smith.
+ hypo:Robert Smith is male.
+ contradition: 0.4599690248998052
+
+premise: Jennifer Ann Smith is the daughter of Robert Smith.
+ hypo:Jennifer Ann Smith is the girlfriend of Robert Smith.
+ contradition: 0.9992071720354644
+
+
+MAX_PROB is 0.9995643606924682
+CONTRADICTORY_PREMISE: Robert Smith is the father of Jennifer Ann Smith.
+ CONTRADICTORY_HYPO: Robert Smith is the boyfriend of Jennifer Ann Smith.

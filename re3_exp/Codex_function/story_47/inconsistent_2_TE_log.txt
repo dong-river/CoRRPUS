@@ -1,0 +1,36 @@
+premise: Shannon Burke has hazel eyes and brown hair.
+ hypo:Shannon Burke has a surprised look and is smiling broadly.
+ contradition: 0.03166964489232174
+
+premise: Shannon Burke is a journalist.
+ hypo:Shannon Burke has a surprised look and is smiling broadly.
+ contradition: 0.12621395286555817
+
+premise: Shannon Burke is a female.
+ hypo:Shannon Burke has a surprised look and is smiling broadly.
+ contradition: 0.01721847495216349
+
+premise: Shannon Burke is young.
+ hypo:Shannon Burke has a surprised look and is smiling broadly.
+ contradition: 0.04147072055167481
+
+premise: Charles Burke is the father of Shannon Burke.
+ hypo:Shannon Burke has a surprised look and is smiling broadly.
+ contradition: 0.03818286357208956
+
+premise: Maxine Carter is the mother of Shannon Burke.
+ hypo:Shannon Burke has a surprised look and is smiling broadly.
+ contradition: 0.09822290218094706
+
+premise: Maxine Carter is a secretary.
+ hypo:Maxine Carter is smiling.
+ contradition: 0.007879854987422271
+
+premise: Shannon Burke is the daughter of Maxine Carter.
+ hypo:Maxine Carter is smiling.
+ contradition: 0.054426951031301164
+
+
+MAX_PROB is 0.12621395286555817
+CONTRADICTORY_PREMISE: Shannon Burke is a journalist.
+ CONTRADICTORY_HYPO: Shannon Burke has a surprised look and is smiling broadly.

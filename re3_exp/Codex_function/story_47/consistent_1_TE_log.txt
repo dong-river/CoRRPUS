@@ -1,0 +1,56 @@
+premise: Shannon Burke has hazel eyes and brown hair.
+ hypo:Shannon Burke has a surprised look on her face, is laughing, has nervous laughter, has a surprised look, has a wild look in her eyes, is nervous, and is smiling.
+ contradition: 0.022434541582561515
+
+premise: Shannon Burke has hazel eyes and brown hair.
+ hypo:Shannon Burke is a journalist.
+ contradition: 0.0006058224352643456
+
+premise: Shannon Burke is a journalist.
+ hypo:Shannon Burke has a surprised look on her face, is laughing, has nervous laughter, has a surprised look, has a wild look in her eyes, is nervous, and is smiling.
+ contradition: 0.037028594011975134
+
+premise: Shannon Burke is a journalist.
+ hypo:Shannon Burke is a journalist.
+ contradition: 0.0003942319676130934
+
+premise: Shannon Burke is a female.
+ hypo:Shannon Burke has a surprised look on her face, is laughing, has nervous laughter, has a surprised look, has a wild look in her eyes, is nervous, and is smiling.
+ contradition: 0.006030196134384526
+
+premise: Shannon Burke is a female.
+ hypo:Shannon Burke is a journalist.
+ contradition: 0.00018957706312102234
+
+premise: Shannon Burke is young.
+ hypo:Shannon Burke has a surprised look on her face, is laughing, has nervous laughter, has a surprised look, has a wild look in her eyes, is nervous, and is smiling.
+ contradition: 0.015435652558398716
+
+premise: Shannon Burke is young.
+ hypo:Shannon Burke is a journalist.
+ contradition: 0.0016770020945598976
+
+premise: Charles Burke is the father of Shannon Burke.
+ hypo:Shannon Burke has a surprised look on her face, is laughing, has nervous laughter, has a surprised look, has a wild look in her eyes, is nervous, and is smiling.
+ contradition: 0.027475129173129272
+
+premise: Charles Burke is the father of Shannon Burke.
+ hypo:Shannon Burke is a journalist.
+ contradition: 0.001673239936801447
+
+premise: Maxine Carter is a reporter.
+ hypo:Maxine Carter has a smiling, puzzled expression, breaking in.
+ contradition: 0.056250603504435136
+
+premise: Maxine Carter is a female.
+ hypo:Maxine Carter has a smiling, puzzled expression, breaking in.
+ contradition: 0.004527586248314447
+
+premise: Maxine Carter is in middle age.
+ hypo:Maxine Carter has a smiling, puzzled expression, breaking in.
+ contradition: 0.01738749758764004
+
+
+MAX_PROB is 0.056250603504435136
+CONTRADICTORY_PREMISE: Maxine Carter is a reporter.
+ CONTRADICTORY_HYPO: Maxine Carter has a smiling, puzzled expression, breaking in.

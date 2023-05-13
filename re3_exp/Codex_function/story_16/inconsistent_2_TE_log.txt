@@ -1,0 +1,60 @@
+premise: Jennifer Ann Smith is a female.
+ hypo:Jennifer Ann Smith has tired, shoulder length brown hair and narrowed eyes.
+ contradition: 0.0004461292168026406
+
+premise: Jennifer Ann Smith is a female.
+ hypo:Jennifer Ann Smith is in her 30s.
+ contradition: 7.68415983276772e-05
+
+premise: Jennifer Ann Smith is a female.
+ hypo:Clara Smith is the mother of Jennifer Ann Smith.
+ contradition: 0.007271547395910943
+
+premise: Jennifer Ann Smith is a female.
+ hypo:Robert Smith is the boyfriend of Jennifer Ann Smith.
+ contradition: 0.057771444678814336
+
+premise: Jennifer Ann Smith is 27 years old.
+ hypo:Jennifer Ann Smith has tired, shoulder length brown hair and narrowed eyes.
+ contradition: 0.0007340949226710982
+
+premise: Jennifer Ann Smith is 27 years old.
+ hypo:Jennifer Ann Smith is in her 30s.
+ contradition: 0.9958905279295945
+
+premise: Jennifer Ann Smith is 27 years old.
+ hypo:Clara Smith is the mother of Jennifer Ann Smith.
+ contradition: 0.0102351705955155
+
+premise: Jennifer Ann Smith is 27 years old.
+ hypo:Robert Smith is the boyfriend of Jennifer Ann Smith.
+ contradition: 0.060702004711321984
+
+premise: Clara Smith is the mother of Jennifer Ann Smith.
+ hypo:Jennifer Ann Smith has tired, shoulder length brown hair and narrowed eyes.
+ contradition: 0.0030030812441898284
+
+premise: Clara Smith is the mother of Jennifer Ann Smith.
+ hypo:Jennifer Ann Smith is in her 30s.
+ contradition: 0.0001685461284271027
+
+premise: Clara Smith is the mother of Jennifer Ann Smith.
+ hypo:Clara Smith is the mother of Jennifer Ann Smith.
+ contradition: 0.00045514639077661346
+
+premise: Robert Smith is the father of Jennifer Ann Smith.
+ hypo:Jennifer Ann Smith has tired, shoulder length brown hair and narrowed eyes.
+ contradition: 0.002980486958517065
+
+premise: Robert Smith is the father of Jennifer Ann Smith.
+ hypo:Jennifer Ann Smith is in her 30s.
+ contradition: 0.0003587679973770323
+
+premise: Robert Smith is the father of Jennifer Ann Smith.
+ hypo:Robert Smith is the boyfriend of Jennifer Ann Smith.
+ contradition: 0.9995643606924682
+
+
+MAX_PROB is 0.9995643606924682
+CONTRADICTORY_PREMISE: Robert Smith is the father of Jennifer Ann Smith.
+ CONTRADICTORY_HYPO: Robert Smith is the boyfriend of Jennifer Ann Smith.

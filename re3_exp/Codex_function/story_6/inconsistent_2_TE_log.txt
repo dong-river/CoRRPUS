@@ -1,0 +1,127 @@
+premise: Shannon Riley is a journalist.
+ hypo:Jillian Riley is the mother of Shannon Riley.
+ contradition: 0.3608967078822049
+
+premise: Shannon Riley is a female.
+ hypo:Jillian Riley is the mother of Shannon Riley.
+ contradition: 0.00285574025232431
+
+premise: Shannon Riley is young.
+ hypo:Jillian Riley is the mother of Shannon Riley.
+ contradition: 0.0029930170018242566
+
+premise: Jillian Riley is the sister of Shannon Riley.
+ hypo:Jillian Riley is the mother of Shannon Riley.
+ contradition: 0.9994994524696332
+
+premise: Robert Riley is a journalist.
+ hypo:Robert Riley is an artist.
+ contradition: 0.9997135029815358
+
+premise: Robert Riley is a journalist.
+ hypo:Jillian Riley is the wife of Robert Riley.
+ contradition: 0.08887084981818236
+
+premise: Shannon Riley is the daughter of Robert Riley.
+ hypo:Robert Riley is an artist.
+ contradition: 0.0015220907107712431
+
+premise: Jillian Riley is a corporate lawyer.
+ hypo:Jillian Riley is a writer and sales assistant.
+ contradition: 0.9998419534582696
+
+premise: Jillian Riley is a corporate lawyer.
+ hypo:Robert Riley is the husband of Jillian Riley.
+ contradition: 0.035573095665227164
+
+premise: Jillian Riley is a corporate lawyer.
+ hypo:Shannon Riley is the daughter of Jillian Riley.
+ contradition: 0.011673352420534964
+
+premise: Jillian Riley is older.
+ hypo:Jillian Riley is a writer and sales assistant.
+ contradition: 0.0011417221105708667
+
+premise: Jillian Riley is older.
+ hypo:Robert Riley is the husband of Jillian Riley.
+ contradition: 0.08088741132377927
+
+premise: Jillian Riley is older.
+ hypo:Shannon Riley is the daughter of Jillian Riley.
+ contradition: 0.09177119400058414
+
+premise: Shannon Riley is the sister of Jillian Riley.
+ hypo:Jillian Riley is a writer and sales assistant.
+ contradition: 0.0025606845356798513
+
+premise: Shannon Riley is the sister of Jillian Riley.
+ hypo:Shannon Riley is the daughter of Jillian Riley.
+ contradition: 0.943278419437375
+
+
+MAX_PROB is 0.9998419534582696
+CONTRADICTORY_PREMISE: Jillian Riley is a corporate lawyer.
+ CONTRADICTORY_HYPO: Jillian Riley is a writer and sales assistant.premise: Shannon Riley is a journalist.
+ hypo:Jillian Riley is the mother of Shannon Riley.
+ contradition: 0.3608967078822049
+
+premise: Shannon Riley is a female.
+ hypo:Jillian Riley is the mother of Shannon Riley.
+ contradition: 0.00285574025232431
+
+premise: Shannon Riley is young.
+ hypo:Jillian Riley is the mother of Shannon Riley.
+ contradition: 0.0029930170018242566
+
+premise: Jillian Riley is the sister of Shannon Riley.
+ hypo:Jillian Riley is the mother of Shannon Riley.
+ contradition: 0.9994994524696332
+
+premise: Robert Riley is a journalist.
+ hypo:Robert Riley is an artist.
+ contradition: 0.9997135029815358
+
+premise: Robert Riley is a journalist.
+ hypo:Jillian Riley is the wife of Robert Riley.
+ contradition: 0.08887084981818236
+
+premise: Shannon Riley is the daughter of Robert Riley.
+ hypo:Robert Riley is an artist.
+ contradition: 0.0015220907107712431
+
+premise: Jillian Riley is a corporate lawyer.
+ hypo:Jillian Riley is a sales assistant and writer.
+ contradition: 0.9998258655542249
+
+premise: Jillian Riley is a corporate lawyer.
+ hypo:Robert Riley is the husband of Jillian Riley.
+ contradition: 0.035573095665227164
+
+premise: Jillian Riley is a corporate lawyer.
+ hypo:Shannon Riley is the daughter of Jillian Riley.
+ contradition: 0.011673352420534964
+
+premise: Jillian Riley is older.
+ hypo:Jillian Riley is a sales assistant and writer.
+ contradition: 0.000927156718253709
+
+premise: Jillian Riley is older.
+ hypo:Robert Riley is the husband of Jillian Riley.
+ contradition: 0.08088741132377927
+
+premise: Jillian Riley is older.
+ hypo:Shannon Riley is the daughter of Jillian Riley.
+ contradition: 0.09177119400058414
+
+premise: Shannon Riley is the sister of Jillian Riley.
+ hypo:Jillian Riley is a sales assistant and writer.
+ contradition: 0.002746486545132514
+
+premise: Shannon Riley is the sister of Jillian Riley.
+ hypo:Shannon Riley is the daughter of Jillian Riley.
+ contradition: 0.943278419437375
+
+
+MAX_PROB is 0.9998258655542249
+CONTRADICTORY_PREMISE: Jillian Riley is a corporate lawyer.
+ CONTRADICTORY_HYPO: Jillian Riley is a sales assistant and writer.

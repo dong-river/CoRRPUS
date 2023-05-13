@@ -1,0 +1,36 @@
+premise: Emma Saunders has long curly hair and brown eyes.
+ hypo:Olivia Saunders is the sister of Emma Saunders.
+ contradition: 0.2186744542337831
+
+premise: Emma Saunders is a female.
+ hypo:Olivia Saunders is the sister of Emma Saunders.
+ contradition: 0.019653101221205848
+
+premise: Emma Saunders is a teenager.
+ hypo:Olivia Saunders is the sister of Emma Saunders.
+ contradition: 0.07227610960600074
+
+premise: Olivia Saunders is the sister of Emma Saunders.
+ hypo:Olivia Saunders is the sister of Emma Saunders.
+ contradition: 0.0021543536924420073
+
+premise: Olivia Saunders has long curly hair and brown eyes.
+ hypo:Emma Saunders is the sister of Olivia Saunders.
+ contradition: 0.2088740777513917
+
+premise: Olivia Saunders is a female.
+ hypo:Emma Saunders is the sister of Olivia Saunders.
+ contradition: 0.01859269007791567
+
+premise: Olivia Saunders is a teenager.
+ hypo:Emma Saunders is the sister of Olivia Saunders.
+ contradition: 0.062196575943320544
+
+premise: Emma Saunders is the sister of Olivia Saunders.
+ hypo:Emma Saunders is the sister of Olivia Saunders.
+ contradition: 0.0019494376203165959
+
+
+MAX_PROB is 0.2186744542337831
+CONTRADICTORY_PREMISE: Emma Saunders has long curly hair and brown eyes.
+ CONTRADICTORY_HYPO: Olivia Saunders is the sister of Emma Saunders.

@@ -1,0 +1,87 @@
+premise: Emily Hellinger has short brown hair and hazel eyes.
+ hypo:Emily Hellinger has long brown hair and hazel eyes.
+ contradition: 0.9972136390128425
+
+premise: Emily Hellinger has short brown hair and hazel eyes.
+ hypo:John Hellinger is the husband of Emily Hellinger.
+ contradition: 0.39762476665858637
+
+premise: Emily Hellinger is a female.
+ hypo:Emily Hellinger has long brown hair and hazel eyes.
+ contradition: 0.00044363005926299846
+
+premise: Emily Hellinger is a female.
+ hypo:John Hellinger is the husband of Emily Hellinger.
+ contradition: 0.07654547781546106
+
+premise: Emily Hellinger is in her early 40s.
+ hypo:Emily Hellinger has long brown hair and hazel eyes.
+ contradition: 0.00047607745313234907
+
+premise: Emily Hellinger is in her early 40s.
+ hypo:John Hellinger is the husband of Emily Hellinger.
+ contradition: 0.1818589014330528
+
+premise: John Hellinger has short brown hair and blue eyes.
+ hypo:John Hellinger's truck is big and blue.
+ contradition: 0.001540222107027525
+
+premise: John Hellinger is male.
+ hypo:John Hellinger's truck is big and blue.
+ contradition: 0.002020223907518421
+
+premise: John Hellinger is in his early 40s.
+ hypo:John Hellinger's truck is big and blue.
+ contradition: 0.0017091983758352575
+
+premise: Sherry Hellinger is the sister of John Hellinger.
+ hypo:John Hellinger's truck is big and blue.
+ contradition: 0.0035085360110757536
+
+
+MAX_PROB is 0.9972136390128425
+CONTRADICTORY_PREMISE: Emily Hellinger has short brown hair and hazel eyes.
+ CONTRADICTORY_HYPO: Emily Hellinger has long brown hair and hazel eyes.premise: Emily Hellinger has hazel eyes and short brown hair.
+ hypo:Emily Hellinger has long brown hair and hazel eyes.
+ contradition: 0.9396760095322721
+
+premise: Emily Hellinger has hazel eyes and short brown hair.
+ hypo:John Hellinger is the husband of Emily Hellinger.
+ contradition: 0.4742128840689301
+
+premise: Emily Hellinger is a female.
+ hypo:Emily Hellinger has long brown hair and hazel eyes.
+ contradition: 0.00044363005926299846
+
+premise: Emily Hellinger is a female.
+ hypo:John Hellinger is the husband of Emily Hellinger.
+ contradition: 0.07654547781546106
+
+premise: Emily Hellinger is in her early 40s.
+ hypo:Emily Hellinger has long brown hair and hazel eyes.
+ contradition: 0.00047607745313234907
+
+premise: Emily Hellinger is in her early 40s.
+ hypo:John Hellinger is the husband of Emily Hellinger.
+ contradition: 0.1818589014330528
+
+premise: John Hellinger has blue eyes and short brown hair.
+ hypo:John Hellinger's truck is big and blue.
+ contradition: 0.0016653088860493835
+
+premise: John Hellinger is male.
+ hypo:John Hellinger's truck is big and blue.
+ contradition: 0.002020223907518421
+
+premise: John Hellinger is in his early 40s.
+ hypo:John Hellinger's truck is big and blue.
+ contradition: 0.0017091983758352575
+
+premise: Sherry Hellinger is the sister of John Hellinger.
+ hypo:John Hellinger's truck is big and blue.
+ contradition: 0.0035085360110757536
+
+
+MAX_PROB is 0.9396760095322721
+CONTRADICTORY_PREMISE: Emily Hellinger has hazel eyes and short brown hair.
+ CONTRADICTORY_HYPO: Emily Hellinger has long brown hair and hazel eyes.

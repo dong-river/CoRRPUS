@@ -1,0 +1,94 @@
+premise: Valerie Russo is of average height, with brown eyes, dark hair, and an average build.
+ hypo:Valerie Russo has dark brown hair.
+ contradition: 0.0001799301260904272
+
+premise: Valerie Russo is of average height, with brown eyes, dark hair, and an average build.
+ hypo:Valerie Russo is middle-aged.
+ contradition: 0.0006407208306424728
+
+premise: Valerie Russo is a female.
+ hypo:Valerie Russo has dark brown hair.
+ contradition: 0.0006064267817549173
+
+premise: Valerie Russo is a female.
+ hypo:Valerie Russo is middle-aged.
+ contradition: 0.00018528656175682866
+
+premise: Valerie Russo is a high school senior, young.
+ hypo:Valerie Russo has dark brown hair.
+ contradition: 0.001268446435885233
+
+premise: Valerie Russo is a high school senior, young.
+ hypo:Valerie Russo is middle-aged.
+ contradition: 0.9995524502931971
+
+premise: Antoinette Russo is the mother of Valerie Russo.
+ hypo:Valerie Russo has dark brown hair.
+ contradition: 0.0019522050365452734
+
+premise: Antoinette Russo is the mother of Valerie Russo.
+ hypo:Valerie Russo is middle-aged.
+ contradition: 0.0018977505238068973
+
+premise: Carl Russo is the father of Valerie Russo.
+ hypo:Valerie Russo has dark brown hair.
+ contradition: 0.00267712383505259
+
+premise: Carl Russo is the father of Valerie Russo.
+ hypo:Valerie Russo is middle-aged.
+ contradition: 0.0076326698998745906
+
+premise: Carl Russo has brown eyes, dark hair, and is large.
+ hypo:Carl Russo has dark brown hair.
+ contradition: 0.000186435676171032
+
+premise: Carl Russo has brown eyes, dark hair, and is large.
+ hypo:Carl Russo is middle-aged.
+ contradition: 0.0009847371970205265
+
+premise: 
+Carl Russo is a security guard and a retired police officer.
+ hypo:Carl Russo has dark brown hair.
+ contradition: 0.001247208768208868
+
+premise: 
+Carl Russo is a security guard and a retired police officer.
+ hypo:Carl Russo is middle-aged.
+ contradition: 0.005908434579998718
+
+premise: Valerie Russo is the daughter of Carl Russo.
+ hypo:Carl Russo has dark brown hair.
+ contradition: 0.004493365629866656
+
+premise: Valerie Russo is the daughter of Carl Russo.
+ hypo:Carl Russo is middle-aged.
+ contradition: 0.0228622250650261
+
+premise: Antoinette Russo has brown eyes, is petite, and has dark hair.
+ hypo:Antoinette Russo has dark brown hair.
+ contradition: 0.00013457739645174107
+
+premise: Antoinette Russo has brown eyes, is petite, and has dark hair.
+ hypo:Antoinette Russo is old.
+ contradition: 0.0016172845796710647
+
+premise: Antoinette Russo is a successful surgeon who owns her own practice.
+ hypo:Antoinette Russo has dark brown hair.
+ contradition: 0.0020109252731919953
+
+premise: Antoinette Russo is a successful surgeon who owns her own practice.
+ hypo:Antoinette Russo is old.
+ contradition: 0.23777748875093002
+
+premise: Valerie Russo is the daughter of Antoinette Russo.
+ hypo:Antoinette Russo has dark brown hair.
+ contradition: 0.00385897200769051
+
+premise: Valerie Russo is the daughter of Antoinette Russo.
+ hypo:Antoinette Russo is old.
+ contradition: 0.011275600928392878
+
+
+MAX_PROB is 0.9995524502931971
+CONTRADICTORY_PREMISE: Valerie Russo is a high school senior, young.
+ CONTRADICTORY_HYPO: Valerie Russo is middle-aged.

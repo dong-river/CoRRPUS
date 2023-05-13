@@ -1,0 +1,72 @@
+premise: Charles Wilson is a ladies man, police detective, and good cop.
+ hypo:Charles Wilson is a student.
+ contradition: 0.999733876492939
+
+premise: Charles Wilson is a ladies man, police detective, and good cop.
+ hypo:Charles Wilson is twenty-three years old.
+ contradition: 0.0005145440519939322
+
+premise: Charles Wilson is a ladies man, police detective, and good cop.
+ hypo:Nina Peterson is the teacher of Charles Wilson.
+ contradition: 0.21763281430188774
+
+premise: Charles Wilson is in his forties.
+ hypo:Charles Wilson is a student.
+ contradition: 0.0050586244967014094
+
+premise: Charles Wilson is in his forties.
+ hypo:Charles Wilson is twenty-three years old.
+ contradition: 0.9998203838716296
+
+premise: Charles Wilson is in his forties.
+ hypo:Nina Peterson is the teacher of Charles Wilson.
+ contradition: 0.0083004722260455
+
+premise: Nina Peterson is the assigned to investigate of Charles Wilson.
+ hypo:Charles Wilson is a student.
+ contradition: 0.09707192822518575
+
+premise: Nina Peterson is the assigned to investigate of Charles Wilson.
+ hypo:Charles Wilson is twenty-three years old.
+ contradition: 0.0010903576851951258
+
+premise: Nina Peterson is the assigned to investigate of Charles Wilson.
+ hypo:Nina Peterson is the teacher of Charles Wilson.
+ contradition: 0.9952117506893626
+
+premise: Charles Wilson is the wife of Charles Wilson.
+ hypo:Charles Wilson is a student.
+ contradition: 0.9993982362114257
+
+premise: Charles Wilson is the wife of Charles Wilson.
+ hypo:Charles Wilson is twenty-three years old.
+ contradition: 0.004998814870859532
+
+premise: Charles Wilson is the kids of Charles Wilson.
+ hypo:Charles Wilson is a student.
+ contradition: 0.7694025156020615
+
+premise: Charles Wilson is the kids of Charles Wilson.
+ hypo:Charles Wilson is twenty-three years old.
+ contradition: 0.0031820539164804018
+
+premise: Nina Peterson is 5'4, shy, good person, blue eyes, long blonde hair, introverted.
+ hypo:Charles Wilson is the student of Nina Peterson.
+ contradition: 0.08606766756557362
+
+premise: Nina Peterson is a college student.
+ hypo:Charles Wilson is the student of Nina Peterson.
+ contradition: 0.9248226979811631
+
+premise: Nina Peterson is a woman.
+ hypo:Charles Wilson is the student of Nina Peterson.
+ contradition: 0.03642695137889976
+
+premise: Nina Peterson is in her early twenties.
+ hypo:Charles Wilson is the student of Nina Peterson.
+ contradition: 0.0939972237055121
+
+
+MAX_PROB is 0.9998203838716296
+CONTRADICTORY_PREMISE: Charles Wilson is in his forties.
+ CONTRADICTORY_HYPO: Charles Wilson is twenty-three years old.

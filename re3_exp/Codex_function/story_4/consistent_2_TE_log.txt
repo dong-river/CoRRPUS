@@ -1,0 +1,63 @@
+premise: Shannon Kincaid has blue eyes and long brown hair.
+ hypo:Mark Woodbury is the date of Shannon Kincaid.
+ contradition: 0.9465736920538979
+
+premise: Shannon Kincaid is a journalist.
+ hypo:Mark Woodbury is the date of Shannon Kincaid.
+ contradition: 0.9928259675965861
+
+premise: Shannon Kincaid is a female.
+ hypo:Mark Woodbury is the date of Shannon Kincaid.
+ contradition: 0.7247326633077613
+
+premise: Shannon Kincaid is young.
+ hypo:Mark Woodbury is the date of Shannon Kincaid.
+ contradition: 0.22709963373120462
+
+premise: Mark Woodbury is the boyfriend of Shannon Kincaid.
+ hypo:Mark Woodbury is the date of Shannon Kincaid.
+ contradition: 0.5029069309558077
+
+premise: Mark Woodbury is a student.
+ hypo:Shannon Kincaid is the date of Mark Woodbury.
+ contradition: 0.21094653724221993
+
+premise: Shannon Kincaid is the girlfriend of Mark Woodbury.
+ hypo:Shannon Kincaid is the date of Mark Woodbury.
+ contradition: 0.487893399357477
+
+
+MAX_PROB is 0.9928259675965861
+CONTRADICTORY_PREMISE: Shannon Kincaid is a journalist.
+ CONTRADICTORY_HYPO: Mark Woodbury is the date of Shannon Kincaid.premise: Shannon Kincaid has long brown hair and blue eyes.
+ hypo:Mark Woodbury is the date of Shannon Kincaid.
+ contradition: 0.9622254104168265
+
+premise: Shannon Kincaid is a journalist.
+ hypo:Mark Woodbury is the date of Shannon Kincaid.
+ contradition: 0.9928259675965861
+
+premise: Shannon Kincaid is a female.
+ hypo:Mark Woodbury is the date of Shannon Kincaid.
+ contradition: 0.7247326633077613
+
+premise: Shannon Kincaid is young.
+ hypo:Mark Woodbury is the date of Shannon Kincaid.
+ contradition: 0.22709963373120462
+
+premise: Mark Woodbury is the boyfriend of Shannon Kincaid.
+ hypo:Mark Woodbury is the date of Shannon Kincaid.
+ contradition: 0.5029069309558077
+
+premise: Mark Woodbury is a student.
+ hypo:Shannon Kincaid is the date of Mark Woodbury.
+ contradition: 0.21094653724221993
+
+premise: Shannon Kincaid is the girlfriend of Mark Woodbury.
+ hypo:Shannon Kincaid is the date of Mark Woodbury.
+ contradition: 0.487893399357477
+
+
+MAX_PROB is 0.9928259675965861
+CONTRADICTORY_PREMISE: Shannon Kincaid is a journalist.
+ CONTRADICTORY_HYPO: Mark Woodbury is the date of Shannon Kincaid.

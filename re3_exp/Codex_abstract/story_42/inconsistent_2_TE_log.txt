@@ -1,0 +1,53 @@
+premise: Valerie Russo has brown eyes and dark hair.
+ hypo:Valerie Russo is a doctor.
+ contradition: 0.00048223466008833534
+
+premise: Valerie Russo has brown eyes and dark hair.
+ hypo:Carl Russo is the husband of Valerie Russo.
+ contradition: 0.3990543005716616
+
+premise: Valerie Russo is a female.
+ hypo:Valerie Russo is a doctor.
+ contradition: 0.00022351637362305084
+
+premise: Valerie Russo is a female.
+ hypo:Carl Russo is the husband of Valerie Russo.
+ contradition: 0.07312819956068402
+
+premise: Valerie Russo is young.
+ hypo:Valerie Russo is a doctor.
+ contradition: 0.005022813379728683
+
+premise: Valerie Russo is young.
+ hypo:Carl Russo is the husband of Valerie Russo.
+ contradition: 0.14735376499576075
+
+premise: Carl Russo is the father of Valerie Russo.
+ hypo:Valerie Russo is a doctor.
+ contradition: 0.0011599239404699374
+
+premise: Carl Russo is the father of Valerie Russo.
+ hypo:Carl Russo is the husband of Valerie Russo.
+ contradition: 0.9718738907970185
+
+premise: Antoinette Russo is the mother of Valerie Russo.
+ hypo:Valerie Russo is a doctor.
+ contradition: 0.0005682600639053446
+
+premise: Carl Russo has brown eyes and dark hair.
+ hypo:
+Carl Russo is an office worker and a rich businessman.
+ contradition: 0.33282179520512206
+
+premise: Carl Russo has brown eyes and dark hair.
+ hypo:Valerie Russo is the wife of Carl Russo.
+ contradition: 0.5015668921929861
+
+premise: Valerie Russo is the daughter of Carl Russo.
+ hypo:Valerie Russo is the wife of Carl Russo.
+ contradition: 0.9993896635216902
+
+
+MAX_PROB is 0.9993896635216902
+CONTRADICTORY_PREMISE: Valerie Russo is the daughter of Carl Russo.
+ CONTRADICTORY_HYPO: Valerie Russo is the wife of Carl Russo.

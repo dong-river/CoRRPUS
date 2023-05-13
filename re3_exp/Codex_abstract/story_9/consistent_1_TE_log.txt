@@ -1,0 +1,108 @@
+premise: Julie Christensen is pretty and blonde.
+ hypo:Julie Christensen is a female.
+ contradition: 0.00011820864120063716
+
+premise: Julie Christensen is pretty and blonde.
+ hypo:Beth Christensen is the mother of Julie Christensen.
+ contradition: 0.052675179763801594
+
+premise: Julie Christensen is pretty and blonde.
+ hypo:Tommy Foster is the boyfriend of Julie Christensen.
+ contradition: 0.11745827270330196
+
+premise: Julie Christensen is a student.
+ hypo:Julie Christensen is a female.
+ contradition: 0.000319996289798882
+
+premise: Julie Christensen is a student.
+ hypo:Beth Christensen is the mother of Julie Christensen.
+ contradition: 0.20348527093311064
+
+premise: Julie Christensen is a student.
+ hypo:Tommy Foster is the boyfriend of Julie Christensen.
+ contradition: 0.42627176941767825
+
+premise: Julie Christensen is a female.
+ hypo:Julie Christensen is a female.
+ contradition: 0.000581476658024795
+
+premise: Julie Christensen is a female.
+ hypo:Beth Christensen is the mother of Julie Christensen.
+ contradition: 0.005552371846964111
+
+premise: Julie Christensen is a female.
+ hypo:Tommy Foster is the boyfriend of Julie Christensen.
+ contradition: 0.37783733135960773
+
+premise: Julie Christensen is in her early twenties.
+ hypo:Julie Christensen is a female.
+ contradition: 0.000130823951531634
+
+premise: Julie Christensen is in her early twenties.
+ hypo:Beth Christensen is the mother of Julie Christensen.
+ contradition: 0.03722877646274926
+
+premise: Julie Christensen is in her early twenties.
+ hypo:Tommy Foster is the boyfriend of Julie Christensen.
+ contradition: 0.6355347392921246
+
+premise: Tommy Foster is the boyfriend of Julie Christensen.
+ hypo:Julie Christensen is a female.
+ contradition: 0.04486577780681293
+
+premise: Tommy Foster is the boyfriend of Julie Christensen.
+ hypo:Tommy Foster is the boyfriend of Julie Christensen.
+ contradition: 0.000896282567308611
+
+premise: Beth Christensen is the mother of Julie Christensen.
+ hypo:Julie Christensen is a female.
+ contradition: 0.0028711185978596465
+
+premise: Beth Christensen is the mother of Julie Christensen.
+ hypo:Beth Christensen is the mother of Julie Christensen.
+ contradition: 0.0005991039614476907
+
+premise: Tommy Foster is male.
+ hypo:Tommy Foster is male.
+ contradition: 0.0009263581826161745
+
+premise: Tommy Foster is male.
+ hypo:Julie Christensen is the girlfriend of Tommy Foster.
+ contradition: 0.12839148654687751
+
+premise: Tommy Foster is in his early twenties.
+ hypo:Tommy Foster is male.
+ contradition: 0.00028635657922434897
+
+premise: Tommy Foster is in his early twenties.
+ hypo:Julie Christensen is the girlfriend of Tommy Foster.
+ contradition: 0.2509808050686728
+
+premise: Julie Christensen is the girlfriend of Tommy Foster.
+ hypo:Tommy Foster is male.
+ contradition: 0.018695032489027787
+
+premise: Julie Christensen is the girlfriend of Tommy Foster.
+ hypo:Julie Christensen is the girlfriend of Tommy Foster.
+ contradition: 0.0006971680192755697
+
+premise: Beth Christensen is a female.
+ hypo:Beth Christensen is a female.
+ contradition: 0.0006536196671866084
+
+premise: Beth Christensen is a female.
+ hypo:Julie Christensen is the daughter of Beth Christensen.
+ contradition: 0.002579124667114053
+
+premise: Julie Christensen is the daughter of Beth Christensen.
+ hypo:Beth Christensen is a female.
+ contradition: 0.0012289697110108952
+
+premise: Julie Christensen is the daughter of Beth Christensen.
+ hypo:Julie Christensen is the daughter of Beth Christensen.
+ contradition: 0.0008547430475377185
+
+
+MAX_PROB is 0.6355347392921246
+CONTRADICTORY_PREMISE: Julie Christensen is in her early twenties.
+ CONTRADICTORY_HYPO: Tommy Foster is the boyfriend of Julie Christensen.

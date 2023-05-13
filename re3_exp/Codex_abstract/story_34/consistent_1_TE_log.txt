@@ -1,0 +1,36 @@
+premise: Will Trenton looks tough and experienced.
+ hypo:Thomas Watkins is the partner of Will Trenton.
+ contradition: 0.03545052372990821
+
+premise: Will Trenton is a mercenary.
+ hypo:Thomas Watkins is the partner of Will Trenton.
+ contradition: 0.010574249007744134
+
+premise: Thomas Watkins comes across as no-nonsense and determined.
+ hypo:Thomas Watkins is a construction worker and mercenary.
+ contradition: 0.004125981550327316
+
+premise: Thomas Watkins comes across as no-nonsense and determined.
+ hypo:Thomas Watkins is male.
+ contradition: 0.0006707397279256605
+
+premise: Thomas Watkins comes across as no-nonsense and determined.
+ hypo:Will Trenton is the partner of Thomas Watkins.
+ contradition: 0.1932059149278902
+
+premise: Thomas Watkins is a mercenary.
+ hypo:Thomas Watkins is a construction worker and mercenary.
+ contradition: 0.0013368231047863612
+
+premise: Thomas Watkins is a mercenary.
+ hypo:Thomas Watkins is male.
+ contradition: 0.001889391258079802
+
+premise: Thomas Watkins is a mercenary.
+ hypo:Will Trenton is the partner of Thomas Watkins.
+ contradition: 0.026014045848677312
+
+
+MAX_PROB is 0.1932059149278902
+CONTRADICTORY_PREMISE: Thomas Watkins comes across as no-nonsense and determined.
+ CONTRADICTORY_HYPO: Will Trenton is the partner of Thomas Watkins.

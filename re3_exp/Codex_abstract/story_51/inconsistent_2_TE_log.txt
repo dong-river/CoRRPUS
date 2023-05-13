@@ -1,0 +1,32 @@
+premise: John Doe has brown eyes and brown hair.
+ hypo:Mike Benson is the boss of John Doe.
+ contradition: 0.06480350435991207
+
+premise: John Doe is a construction worker.
+ hypo:Mike Benson is the boss of John Doe.
+ contradition: 0.03466990006090397
+
+premise: John Doe is male.
+ hypo:Mike Benson is the boss of John Doe.
+ contradition: 0.03263100059004814
+
+premise: John Doe is in his early 30s.
+ hypo:Mike Benson is the boss of John Doe.
+ contradition: 0.17338189039542262
+
+premise: Mike Benson is a teacher.
+ hypo:John Doe is the employee of Mike Benson.
+ contradition: 0.9951952211488616
+
+premise: Mike Benson is male.
+ hypo:John Doe is the employee of Mike Benson.
+ contradition: 0.8829546755283045
+
+premise: Mike Benson is in his early 30s.
+ hypo:John Doe is the employee of Mike Benson.
+ contradition: 0.9799363577624177
+
+
+MAX_PROB is 0.9951952211488616
+CONTRADICTORY_PREMISE: Mike Benson is a teacher.
+ CONTRADICTORY_HYPO: John Doe is the employee of Mike Benson.

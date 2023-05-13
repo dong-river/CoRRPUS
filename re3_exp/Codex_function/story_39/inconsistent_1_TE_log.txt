@@ -1,0 +1,20 @@
+premise: Nadia Kaminski is a scientist.
+ hypo:Nadia Kaminski is an astrobiologist.
+ contradition: 0.0019070804646700687
+
+premise: Connor Riley is an engineer.
+ hypo:Connor Riley is tapping fingers on thigh nervously.
+ contradition: 0.029566969924314658
+
+premise: Connor Riley is an engineer.
+ hypo:Connor Riley is a pilot.
+ contradition: 0.9996307068365734
+
+premise: Abigail Harper is a doctor.
+ hypo:Abigail Harper is a plant biologist.
+ contradition: 0.9985573868038139
+
+
+MAX_PROB is 0.9996307068365734
+CONTRADICTORY_PREMISE: Connor Riley is an engineer.
+ CONTRADICTORY_HYPO: Connor Riley is a pilot.

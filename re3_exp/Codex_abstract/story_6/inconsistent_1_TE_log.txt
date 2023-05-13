@@ -1,0 +1,60 @@
+premise: Shannon Riley is of average height, average build, blue eyes, and long brown hair.
+ hypo:Shannon Riley is a journalist.
+ contradition: 0.000525763189580408
+
+premise: Shannon Riley is a female.
+ hypo:Shannon Riley is a journalist.
+ contradition: 0.00023973609776218517
+
+premise: Shannon Riley is a female.
+ hypo:Jillian Riley is the sister of Shannon Riley.
+ contradition: 0.015697550125028655
+
+premise: Shannon Riley is a female.
+ hypo:Robert Riley is the father of Shannon Riley.
+ contradition: 0.07952450063625176
+
+premise: Shannon Riley is young.
+ hypo:Shannon Riley is a journalist.
+ contradition: 0.002786524051599211
+
+premise: Shannon Riley is young.
+ hypo:Jillian Riley is the sister of Shannon Riley.
+ contradition: 0.10730326563125588
+
+premise: Shannon Riley is young.
+ hypo:Robert Riley is the father of Shannon Riley.
+ contradition: 0.00877540242351909
+
+premise: Robert Riley is the father of Shannon Riley.
+ hypo:Shannon Riley is a journalist.
+ contradition: 0.0021670976128266863
+
+premise: Robert Riley is the father of Shannon Riley.
+ hypo:Robert Riley is the father of Shannon Riley.
+ contradition: 0.0007113656978738104
+
+premise: Jillian Riley is the mother of Shannon Riley.
+ hypo:Shannon Riley is a journalist.
+ contradition: 0.0020043896166100725
+
+premise: Jillian Riley is the mother of Shannon Riley.
+ hypo:Jillian Riley is the sister of Shannon Riley.
+ contradition: 0.9985929287939034
+
+premise: Jillian Riley is a stay-at-home mom.
+ hypo:Shannon Riley is the sister of Jillian Riley.
+ contradition: 0.19809576048106067
+
+premise: Jillian Riley is a female.
+ hypo:Shannon Riley is the sister of Jillian Riley.
+ contradition: 0.021560843887351654
+
+premise: Shannon Riley is the daughter of Jillian Riley.
+ hypo:Shannon Riley is the sister of Jillian Riley.
+ contradition: 0.963134420216207
+
+
+MAX_PROB is 0.9985929287939034
+CONTRADICTORY_PREMISE: Jillian Riley is the mother of Shannon Riley.
+ CONTRADICTORY_HYPO: Jillian Riley is the sister of Shannon Riley.

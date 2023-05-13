@@ -1,0 +1,44 @@
+premise: Harold Martinez is a gas station attendant.
+ hypo:Harold Martinez has dark brown hair, is of medium build, and has dark eyes.
+ contradition: 0.000999898819715221
+
+premise: Harold Martinez is a gas station attendant.
+ hypo:Harold Martinez is a clerk.
+ contradition: 0.9746675683248577
+
+premise: Harold Martinez is male.
+ hypo:Harold Martinez has dark brown hair, is of medium build, and has dark eyes.
+ contradition: 0.00046468271801016907
+
+premise: Harold Martinez is male.
+ hypo:Harold Martinez is a clerk.
+ contradition: 0.0002795247336168099
+
+premise: Harold Martinez is young.
+ hypo:Harold Martinez has dark brown hair, is of medium build, and has dark eyes.
+ contradition: 0.0007089144216723838
+
+premise: Harold Martinez is young.
+ hypo:Harold Martinez is a clerk.
+ contradition: 0.0008973927349287977
+
+premise: David Garcia is armed, desperate, and dangerous.
+ hypo:David Garcia has dead eyes, is disheveled, has dirty clothes, has messy hair, and is unshaven.
+ contradition: 0.4276504350231222
+
+premise: David Garcia is a customer.
+ hypo:David Garcia has dead eyes, is disheveled, has dirty clothes, has messy hair, and is unshaven.
+ contradition: 0.13757575208907
+
+premise: David Garcia is male.
+ hypo:David Garcia has dead eyes, is disheveled, has dirty clothes, has messy hair, and is unshaven.
+ contradition: 0.0016332663303331404
+
+premise: David Garcia is young.
+ hypo:David Garcia has dead eyes, is disheveled, has dirty clothes, has messy hair, and is unshaven.
+ contradition: 0.9379829965669535
+
+
+MAX_PROB is 0.9746675683248577
+CONTRADICTORY_PREMISE: Harold Martinez is a gas station attendant.
+ CONTRADICTORY_HYPO: Harold Martinez is a clerk.

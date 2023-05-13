@@ -1,0 +1,20 @@
+premise: Tina Sanchez has brown eyes, is short, thin, and has long black hair.
+ hypo:Tina Sanchez is a stylist.
+ contradition: 0.00048542302717922005
+
+premise: Tina Sanchez is a model.
+ hypo:Tina Sanchez is a stylist.
+ contradition: 0.9860151855781009
+
+premise: Tina Sanchez is a female.
+ hypo:Tina Sanchez is a stylist.
+ contradition: 0.00036146135119026896
+
+premise: Tina Sanchez is 22 years old.
+ hypo:Tina Sanchez is a stylist.
+ contradition: 0.000679644275479942
+
+
+MAX_PROB is 0.9860151855781009
+CONTRADICTORY_PREMISE: Tina Sanchez is a model.
+ CONTRADICTORY_HYPO: Tina Sanchez is a stylist.

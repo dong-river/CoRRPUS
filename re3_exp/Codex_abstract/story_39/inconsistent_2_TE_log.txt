@@ -1,0 +1,8 @@
+premise: Connor Riley is a pilot and astronaut.
+ hypo:Connor Riley is an engineer.
+ contradition: 0.999578772669274
+
+
+MAX_PROB is 0.999578772669274
+CONTRADICTORY_PREMISE: Connor Riley is a pilot and astronaut.
+ CONTRADICTORY_HYPO: Connor Riley is an engineer.

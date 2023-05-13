@@ -1,0 +1,175 @@
+premise: Shannon Riley is of average height, with blue eyes and brown hair. She has an average build.
+ hypo:Shannon Riley is a journalist.
+ contradition: 0.00029118576976163715
+
+premise: Shannon Riley is a journalist.
+ hypo:Shannon Riley is a journalist.
+ contradition: 0.00036898954749168124
+
+premise: Shannon Riley is a journalist.
+ hypo:Jillian Riley is the sister of Shannon Riley.
+ contradition: 0.10776246415770648
+
+premise: Shannon Riley is a journalist.
+ hypo:Robert Riley is the father of Shannon Riley.
+ contradition: 0.3732622622561309
+
+premise: Shannon Riley is a female.
+ hypo:Shannon Riley is a journalist.
+ contradition: 0.00023973609776218517
+
+premise: Shannon Riley is a female.
+ hypo:Jillian Riley is the sister of Shannon Riley.
+ contradition: 0.015697550125028655
+
+premise: Shannon Riley is a female.
+ hypo:Robert Riley is the father of Shannon Riley.
+ contradition: 0.07952450063625176
+
+premise: Shannon Riley is young.
+ hypo:Shannon Riley is a journalist.
+ contradition: 0.002786524051599211
+
+premise: Shannon Riley is young.
+ hypo:Jillian Riley is the sister of Shannon Riley.
+ contradition: 0.10730326563125588
+
+premise: Shannon Riley is young.
+ hypo:Robert Riley is the father of Shannon Riley.
+ contradition: 0.00877540242351909
+
+premise: Robert Riley is the father of Shannon Riley.
+ hypo:Shannon Riley is a journalist.
+ contradition: 0.0021670976128266863
+
+premise: Robert Riley is the father of Shannon Riley.
+ hypo:Robert Riley is the father of Shannon Riley.
+ contradition: 0.0007113656978738104
+
+premise: Jillian Riley is the sister of Shannon Riley.
+ hypo:Shannon Riley is a journalist.
+ contradition: 0.003955521447426708
+
+premise: Jillian Riley is the sister of Shannon Riley.
+ hypo:Jillian Riley is the sister of Shannon Riley.
+ contradition: 0.0020179546428582195
+
+premise: Robert Riley is a journalist.
+ hypo:Robert Riley is a journalist.
+ contradition: 0.0006977683238657799
+
+premise: Robert Riley is a journalist.
+ hypo:Shannon Riley is the daughter of Robert Riley.
+ contradition: 0.027303218642771118
+
+premise: Shannon Riley is the daughter of Robert Riley.
+ hypo:Robert Riley is a journalist.
+ contradition: 0.003078853844104194
+
+premise: Shannon Riley is the daughter of Robert Riley.
+ hypo:Shannon Riley is the daughter of Robert Riley.
+ contradition: 0.0006641834088070383
+
+premise: Jillian Riley is a lawyer.
+ hypo:Shannon Riley is the sister of Jillian Riley.
+ contradition: 0.04518211281407889
+
+premise: Jillian Riley is a lawyer.
+ hypo:Robert Riley is the father of Jillian Riley.
+ contradition: 0.23294827103258517
+
+premise: Shannon Riley is the sister of Jillian Riley.
+ hypo:Shannon Riley is the sister of Jillian Riley.
+ contradition: 0.001562343477829975
+
+
+MAX_PROB is 0.3732622622561309
+CONTRADICTORY_PREMISE: Shannon Riley is a journalist.
+ CONTRADICTORY_HYPO: Robert Riley is the father of Shannon Riley.premise: Shannon Riley is of average height, with blue eyes and brown hair. She has an average build.
+ hypo:Shannon Riley is a journalist.
+ contradition: 0.00029118576976163715
+
+premise: Shannon Riley is a journalist.
+ hypo:Shannon Riley is a journalist.
+ contradition: 0.00036898954749168124
+
+premise: Shannon Riley is a journalist.
+ hypo:Jillian Riley is the sister of Shannon Riley.
+ contradition: 0.10776246415770648
+
+premise: Shannon Riley is a journalist.
+ hypo:Robert Riley is the father of Shannon Riley.
+ contradition: 0.3732622622561309
+
+premise: Shannon Riley is a female.
+ hypo:Shannon Riley is a journalist.
+ contradition: 0.00023973609776218517
+
+premise: Shannon Riley is a female.
+ hypo:Jillian Riley is the sister of Shannon Riley.
+ contradition: 0.015697550125028655
+
+premise: Shannon Riley is a female.
+ hypo:Robert Riley is the father of Shannon Riley.
+ contradition: 0.07952450063625176
+
+premise: Shannon Riley is young.
+ hypo:Shannon Riley is a journalist.
+ contradition: 0.002786524051599211
+
+premise: Shannon Riley is young.
+ hypo:Jillian Riley is the sister of Shannon Riley.
+ contradition: 0.10730326563125588
+
+premise: Shannon Riley is young.
+ hypo:Robert Riley is the father of Shannon Riley.
+ contradition: 0.00877540242351909
+
+premise: Robert Riley is the father of Shannon Riley.
+ hypo:Shannon Riley is a journalist.
+ contradition: 0.0021670976128266863
+
+premise: Robert Riley is the father of Shannon Riley.
+ hypo:Robert Riley is the father of Shannon Riley.
+ contradition: 0.0007113656978738104
+
+premise: Jillian Riley is the sister of Shannon Riley.
+ hypo:Shannon Riley is a journalist.
+ contradition: 0.003955521447426708
+
+premise: Jillian Riley is the sister of Shannon Riley.
+ hypo:Jillian Riley is the sister of Shannon Riley.
+ contradition: 0.0020179546428582195
+
+premise: Robert Riley is a journalist.
+ hypo:Robert Riley is a journalist.
+ contradition: 0.0006977683238657799
+
+premise: Robert Riley is a journalist.
+ hypo:Shannon Riley is the daughter of Robert Riley.
+ contradition: 0.027303218642771118
+
+premise: Shannon Riley is the daughter of Robert Riley.
+ hypo:Robert Riley is a journalist.
+ contradition: 0.003078853844104194
+
+premise: Shannon Riley is the daughter of Robert Riley.
+ hypo:Shannon Riley is the daughter of Robert Riley.
+ contradition: 0.0006641834088070383
+
+premise: Jillian Riley is a lawyer.
+ hypo:Shannon Riley is the sister of Jillian Riley.
+ contradition: 0.04518211281407889
+
+premise: Jillian Riley is a lawyer.
+ hypo:Robert Riley is the father of Jillian Riley.
+ contradition: 0.23294827103258517
+
+premise: Shannon Riley is the sister of Jillian Riley.
+ hypo:Shannon Riley is the sister of Jillian Riley.
+ contradition: 0.001562343477829975
+
+
+MAX_PROB is 0.3732622622561309
+CONTRADICTORY_PREMISE: Shannon Riley is a journalist.
+ CONTRADICTORY_HYPO: Robert Riley is the father of Shannon Riley.

@@ -1,0 +1,40 @@
+premise: Shannon Kincaid has long, brown hair and blue eyes.
+ hypo:Mark Woodbury is the date of Shannon Kincaid.
+ contradition: 0.9679116903691011
+
+premise: Shannon Kincaid is a journalist.
+ hypo:Mark Woodbury is the date of Shannon Kincaid.
+ contradition: 0.9928259675965861
+
+premise: Shannon Kincaid is a female.
+ hypo:Mark Woodbury is the date of Shannon Kincaid.
+ contradition: 0.7247326633077613
+
+premise: Shannon Kincaid is young.
+ hypo:Mark Woodbury is the date of Shannon Kincaid.
+ contradition: 0.22709963373120462
+
+premise: Mark Woodbury is the boss of Shannon Kincaid.
+ hypo:Mark Woodbury is the date of Shannon Kincaid.
+ contradition: 0.8609277522937221
+
+premise: Mark Woodbury has graying hair and a mustache.
+ hypo:Shannon Kincaid is the date of Mark Woodbury.
+ contradition: 0.932043012861235
+
+premise: Mark Woodbury is male.
+ hypo:Shannon Kincaid is the date of Mark Woodbury.
+ contradition: 0.11459169708530033
+
+premise: Mark Woodbury is middle-aged.
+ hypo:Shannon Kincaid is the date of Mark Woodbury.
+ contradition: 0.7183712631201074
+
+premise: Shannon Kincaid is the employee of Mark Woodbury.
+ hypo:Shannon Kincaid is the date of Mark Woodbury.
+ contradition: 0.8265381041980975
+
+
+MAX_PROB is 0.9928259675965861
+CONTRADICTORY_PREMISE: Shannon Kincaid is a journalist.
+ CONTRADICTORY_HYPO: Mark Woodbury is the date of Shannon Kincaid.

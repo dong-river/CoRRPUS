@@ -1,0 +1,68 @@
+premise: Shannon Riley is a female.
+ hypo:Jillian Riley is the mother of Shannon Riley.
+ contradition: 0.00285574025232431
+
+premise: Shannon Riley is young.
+ hypo:Jillian Riley is the mother of Shannon Riley.
+ contradition: 0.0029930170018242566
+
+premise: Jillian Riley is the mother of Shannon Riley.
+ hypo:Jillian Riley is the mother of Shannon Riley.
+ contradition: 0.0005958325196708203
+
+premise: Robert Riley is a journalist.
+ hypo:Robert Riley is an artist.
+ contradition: 0.9997135029815358
+
+premise: Robert Riley is a journalist.
+ hypo:Jillian Riley is the wife of Robert Riley.
+ contradition: 0.08887084981818236
+
+premise: Robert Riley is male.
+ hypo:Robert Riley is an artist.
+ contradition: 0.00013889264871547391
+
+premise: Robert Riley is male.
+ hypo:Jillian Riley is the wife of Robert Riley.
+ contradition: 0.015091738453690379
+
+premise: Shannon Riley is the daughter of Robert Riley.
+ hypo:Robert Riley is an artist.
+ contradition: 0.0015220907107712431
+
+premise: Jillian Riley is a stay-at-home mom.
+ hypo:Jillian Riley is a writer.
+ contradition: 0.9939600094900194
+
+premise: Jillian Riley is a stay-at-home mom.
+ hypo:Robert Riley is the husband of Jillian Riley.
+ contradition: 0.07451031313334405
+
+premise: Jillian Riley is a stay-at-home mom.
+ hypo:Shannon Riley is the daughter of Jillian Riley.
+ contradition: 0.006218477133479628
+
+premise: Jillian Riley is a female.
+ hypo:Jillian Riley is a writer.
+ contradition: 0.00020275631741974715
+
+premise: Jillian Riley is a female.
+ hypo:Robert Riley is the husband of Jillian Riley.
+ contradition: 0.04636590786732689
+
+premise: Jillian Riley is a female.
+ hypo:Shannon Riley is the daughter of Jillian Riley.
+ contradition: 0.006003138917830729
+
+premise: Shannon Riley is the daughter of Jillian Riley.
+ hypo:Jillian Riley is a writer.
+ contradition: 0.00167104804838447
+
+premise: Shannon Riley is the daughter of Jillian Riley.
+ hypo:Shannon Riley is the daughter of Jillian Riley.
+ contradition: 0.0006488059697791303
+
+
+MAX_PROB is 0.9997135029815358
+CONTRADICTORY_PREMISE: Robert Riley is a journalist.
+ CONTRADICTORY_HYPO: Robert Riley is an artist.

@@ -1,0 +1,16 @@
+premise: Connor Riley is an astronaut.
+ hypo:Connor Riley is a pilot.
+ contradition: 0.987927733764132
+
+premise: spaceship is the pilot of Connor Riley.
+ hypo:Connor Riley is a pilot.
+ contradition: 0.00030861559712344274
+
+premise: Abigail Harper is a doctor.
+ hypo:Abigail Harper is a plant biologist.
+ contradition: 0.9985573868038139
+
+
+MAX_PROB is 0.9985573868038139
+CONTRADICTORY_PREMISE: Abigail Harper is a doctor.
+ CONTRADICTORY_HYPO: Abigail Harper is a plant biologist.

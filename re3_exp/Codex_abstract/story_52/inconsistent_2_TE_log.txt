@@ -1,0 +1,67 @@
+premise: Sarah Mason has blond hair, blue eyes, and long blond hair.
+ hypo:Rachel Stephenson is the best friend of Sarah Mason.
+ contradition: 0.014054824219779473
+
+premise: Sarah Mason is a female.
+ hypo:Rachel Stephenson is the best friend of Sarah Mason.
+ contradition: 0.01740694256807883
+
+premise: Rachel Stephenson is the best friend of Sarah Mason.
+ hypo:Rachel Stephenson is the best friend of Sarah Mason.
+ contradition: 0.0008598320163611902
+
+premise: Rachel Stephenson is the best friend of Sarah Mason.
+ hypo:Rachel Stephenson is the best friend of Sarah Mason.
+ contradition: 0.0008598320163611902
+
+premise: Rachel Stephenson is a female.
+ hypo:Sarah Mason is the best friend of Rachel Stephenson.
+ contradition: 0.014070005429377435
+
+premise: Rachel Stephenson is a female.
+ hypo:John Mason is the husband of Rachel Stephenson.
+ contradition: 0.1168486676966279
+
+premise: Sarah Mason is the best friend of Rachel Stephenson.
+ hypo:Sarah Mason is the best friend of Rachel Stephenson.
+ contradition: 0.00080716028061552
+
+premise: John Mason is the wife of Rachel Stephenson.
+ hypo:John Mason is the husband of Rachel Stephenson.
+ contradition: 0.9976576724082136
+
+premise: Sarah Mason is the best friend of Rachel Stephenson.
+ hypo:Sarah Mason is the best friend of Rachel Stephenson.
+ contradition: 0.00080716028061552
+
+premise: John Mason has a wandering eye.
+ hypo:Rachel Stephenson is the wife of John Mason.
+ contradition: 0.9276745020968903
+
+premise: John Mason is a businessman.
+ hypo:Rachel Stephenson is the wife of John Mason.
+ contradition: 0.1721046811130521
+
+premise: John Mason is male.
+ hypo:Rachel Stephenson is the wife of John Mason.
+ contradition: 0.12676498873593725
+
+premise: Rachel Stephenson is the husband of John Mason.
+ hypo:Rachel Stephenson is the wife of John Mason.
+ contradition: 0.9927362019358141
+
+
+MAX_PROB is 0.9976576724082136
+CONTRADICTORY_PREMISE: John Mason is the wife of Rachel Stephenson.
+ CONTRADICTORY_HYPO: John Mason is the husband of Rachel Stephenson.premise: Sarah Mason has blue eyes and blond hair. Her hair is long and blond.
+ hypo:Rachel Stephenson is the best friend of Sarah Mason.
+ contradition: 0.11875502965265235
+
+premise: Sarah Mason is a female.
+ hypo:Rachel Stephenson is the best friend of Sarah Mason.
+ contradition: 0.01740693426780378
+
+premise: Rachel Stephenson is the best friend of Sarah Mason.
+ hypo:Rachel Stephenson is the best friend of Sarah Mason.
+ contradition: 0.000859829966364358
+

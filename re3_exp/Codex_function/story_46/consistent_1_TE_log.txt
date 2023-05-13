@@ -1,0 +1,52 @@
+premise: Tina Sanchez has long dark hair, is short, has brown eyes, and is curvaceous.
+ hypo:Tina Sanchez has thick black hair and is wearing a short black dress.
+ contradition: 0.0006560811863497464
+
+premise: Tina Sanchez has long dark hair, is short, has brown eyes, and is curvaceous.
+ hypo:Tina Sanchez is a stylist.
+ contradition: 0.0005080261543345633
+
+premise: Tina Sanchez has long dark hair, is short, has brown eyes, and is curvaceous.
+ hypo:Tina Sanchez is a female.
+ contradition: 0.00024720841836742887
+
+premise: Tina Sanchez is a stylist.
+ hypo:Tina Sanchez has thick black hair and is wearing a short black dress.
+ contradition: 0.002370717050551096
+
+premise: Tina Sanchez is a stylist.
+ hypo:Tina Sanchez is a stylist.
+ contradition: 0.0006699527595692623
+
+premise: Tina Sanchez is a stylist.
+ hypo:Tina Sanchez is a female.
+ contradition: 0.0013114198939502485
+
+premise: Tina Sanchez is a female.
+ hypo:Tina Sanchez has thick black hair and is wearing a short black dress.
+ contradition: 0.00034784844125932687
+
+premise: Tina Sanchez is a female.
+ hypo:Tina Sanchez is a stylist.
+ contradition: 0.00036146135119026896
+
+premise: Tina Sanchez is a female.
+ hypo:Tina Sanchez is a female.
+ contradition: 0.0006675025330308575
+
+premise: Tina Sanchez is 28 years old.
+ hypo:Tina Sanchez has thick black hair and is wearing a short black dress.
+ contradition: 0.0005986519085082486
+
+premise: Tina Sanchez is 28 years old.
+ hypo:Tina Sanchez is a stylist.
+ contradition: 0.0004937854142807204
+
+premise: Tina Sanchez is 28 years old.
+ hypo:Tina Sanchez is a female.
+ contradition: 0.0005271516603873594
+
+
+MAX_PROB is 0.002370717050551096
+CONTRADICTORY_PREMISE: Tina Sanchez is a stylist.
+ CONTRADICTORY_HYPO: Tina Sanchez has thick black hair and is wearing a short black dress.

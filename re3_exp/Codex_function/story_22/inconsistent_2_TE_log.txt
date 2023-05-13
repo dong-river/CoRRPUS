@@ -1,0 +1,116 @@
+premise: Harold Martinez is Hispanic.
+ hypo:Harold Martinez has dark eyes, dark brown hair, and a medium build.
+ contradition: 0.000570084973467011
+
+premise: Harold Martinez is Hispanic.
+ hypo:Harold Martinez is a clerk.
+ contradition: 0.0005106725328341142
+
+premise: Harold Martinez is Hispanic.
+ hypo:Harold Martinez is male.
+ contradition: 0.0005973647302248329
+
+premise: Harold Martinez is Hispanic.
+ hypo:Harold Martinez is middle-aged.
+ contradition: 0.0005390768552662956
+
+premise: Harold Martinez is Hispanic.
+ hypo:David Garcia is the customer of Harold Martinez.
+ contradition: 0.003328539522640262
+
+premise: Harold Martinez is a gas station attendant.
+ hypo:Harold Martinez has dark eyes, dark brown hair, and a medium build.
+ contradition: 0.0010237137302563633
+
+premise: Harold Martinez is a gas station attendant.
+ hypo:Harold Martinez is a clerk.
+ contradition: 0.9746675683248577
+
+premise: Harold Martinez is a gas station attendant.
+ hypo:Harold Martinez is male.
+ contradition: 0.000589132964256888
+
+premise: Harold Martinez is a gas station attendant.
+ hypo:Harold Martinez is middle-aged.
+ contradition: 0.0006567475691823885
+
+premise: Harold Martinez is a gas station attendant.
+ hypo:David Garcia is the customer of Harold Martinez.
+ contradition: 0.010430986276108086
+
+premise: Harold Martinez is male.
+ hypo:Harold Martinez has dark eyes, dark brown hair, and a medium build.
+ contradition: 0.000567290286710599
+
+premise: Harold Martinez is male.
+ hypo:Harold Martinez is a clerk.
+ contradition: 0.0002795247336168099
+
+premise: Harold Martinez is male.
+ hypo:Harold Martinez is male.
+ contradition: 0.0011294138263923906
+
+premise: Harold Martinez is male.
+ hypo:Harold Martinez is middle-aged.
+ contradition: 0.0004708023202951403
+
+premise: Harold Martinez is male.
+ hypo:David Garcia is the customer of Harold Martinez.
+ contradition: 0.006420050127220235
+
+premise: Harold Martinez is young.
+ hypo:Harold Martinez has dark eyes, dark brown hair, and a medium build.
+ contradition: 0.0008715922001607739
+
+premise: Harold Martinez is young.
+ hypo:Harold Martinez is a clerk.
+ contradition: 0.0008973927349287977
+
+premise: Harold Martinez is young.
+ hypo:Harold Martinez is male.
+ contradition: 0.0009245409561575288
+
+premise: Harold Martinez is young.
+ hypo:Harold Martinez is middle-aged.
+ contradition: 0.9991494504956426
+
+premise: Harold Martinez is young.
+ hypo:David Garcia is the customer of Harold Martinez.
+ contradition: 0.006896463333514772
+
+premise: David Garcia is Hispanic.
+ hypo:David Garcia is disheveled, with dead eyes, messy hair, a monotone voice, and unshaven. He is wearing dirty clothes and has bags under his eyes.
+ contradition: 0.0004549022967031121
+
+premise: David Garcia is Hispanic.
+ hypo:Harold Martinez is the clerk of David Garcia.
+ contradition: 0.0051633063917393245
+
+premise: David Garcia is a customer.
+ hypo:David Garcia is disheveled, with dead eyes, messy hair, a monotone voice, and unshaven. He is wearing dirty clothes and has bags under his eyes.
+ contradition: 0.0028536589365748726
+
+premise: David Garcia is a customer.
+ hypo:Harold Martinez is the clerk of David Garcia.
+ contradition: 0.33849466538188294
+
+premise: David Garcia is male.
+ hypo:David Garcia is disheveled, with dead eyes, messy hair, a monotone voice, and unshaven. He is wearing dirty clothes and has bags under his eyes.
+ contradition: 0.0003301487098569117
+
+premise: David Garcia is male.
+ hypo:Harold Martinez is the clerk of David Garcia.
+ contradition: 0.006696401042251828
+
+premise: David Garcia is young.
+ hypo:David Garcia is disheveled, with dead eyes, messy hair, a monotone voice, and unshaven. He is wearing dirty clothes and has bags under his eyes.
+ contradition: 0.8170865819086344
+
+premise: David Garcia is young.
+ hypo:Harold Martinez is the clerk of David Garcia.
+ contradition: 0.004464171489703596
+
+
+MAX_PROB is 0.9991494504956426
+CONTRADICTORY_PREMISE: Harold Martinez is young.
+ CONTRADICTORY_HYPO: Harold Martinez is middle-aged.

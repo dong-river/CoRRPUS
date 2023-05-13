@@ -1,0 +1,112 @@
+premise: Jennifer Ann Smith is a receptionist.
+ hypo:Jennifer Ann Smith is a receptionist.
+ contradition: 0.0003519378603342545
+
+premise: Jennifer Ann Smith is a receptionist.
+ hypo:Jennifer Ann Smith is a female.
+ contradition: 0.00022009283896164388
+
+premise: Jennifer Ann Smith is a receptionist.
+ hypo:Jennifer Ann Smith is 27 years old.
+ contradition: 0.00026328654119034764
+
+premise: Jennifer Ann Smith is a receptionist.
+ hypo:Robert Smith is the family of Jennifer Ann Smith.
+ contradition: 0.5651914282900153
+
+premise: Jennifer Ann Smith is a female.
+ hypo:Jennifer Ann Smith is a receptionist.
+ contradition: 0.0005660716196259957
+
+premise: Jennifer Ann Smith is a female.
+ hypo:Jennifer Ann Smith is a female.
+ contradition: 0.0006773623810518402
+
+premise: Jennifer Ann Smith is a female.
+ hypo:Jennifer Ann Smith is 27 years old.
+ contradition: 0.00014726266451487485
+
+premise: Jennifer Ann Smith is a female.
+ hypo:Robert Smith is the family of Jennifer Ann Smith.
+ contradition: 0.037982259569667075
+
+premise: Jennifer Ann Smith is 27 years old.
+ hypo:Jennifer Ann Smith is a receptionist.
+ contradition: 0.0004127701302934484
+
+premise: Jennifer Ann Smith is 27 years old.
+ hypo:Jennifer Ann Smith is a female.
+ contradition: 0.0002527415725824076
+
+premise: Jennifer Ann Smith is 27 years old.
+ hypo:Jennifer Ann Smith is 27 years old.
+ contradition: 0.0013569720638826278
+
+premise: Jennifer Ann Smith is 27 years old.
+ hypo:Robert Smith is the family of Jennifer Ann Smith.
+ contradition: 0.22016507645579714
+
+premise: Clara Smith is the mother of Jennifer Ann Smith.
+ hypo:Jennifer Ann Smith is a receptionist.
+ contradition: 0.0018902833912760064
+
+premise: Clara Smith is the mother of Jennifer Ann Smith.
+ hypo:Jennifer Ann Smith is a female.
+ contradition: 0.001058756339709514
+
+premise: Clara Smith is the mother of Jennifer Ann Smith.
+ hypo:Jennifer Ann Smith is 27 years old.
+ contradition: 0.0003172732930976181
+
+premise: Robert Smith is the father of Jennifer Ann Smith.
+ hypo:Jennifer Ann Smith is a receptionist.
+ contradition: 0.008700861221778053
+
+premise: Robert Smith is the father of Jennifer Ann Smith.
+ hypo:Jennifer Ann Smith is a female.
+ contradition: 0.011681621285763782
+
+premise: Robert Smith is the father of Jennifer Ann Smith.
+ hypo:Jennifer Ann Smith is 27 years old.
+ contradition: 0.0009162064636262754
+
+premise: Robert Smith is the father of Jennifer Ann Smith.
+ hypo:Robert Smith is the family of Jennifer Ann Smith.
+ contradition: 0.0016598268578424705
+
+premise: Clara Smith has blonde, heavyset, graying hair.
+ hypo:Jennifer Ann Smith is the daughter of Clara Smith.
+ contradition: 0.03633318889994812
+
+premise: Clara Smith is a female.
+ hypo:Jennifer Ann Smith is the daughter of Clara Smith.
+ contradition: 0.003639778944187637
+
+premise: Clara Smith is in her 50s.
+ hypo:Jennifer Ann Smith is the daughter of Clara Smith.
+ contradition: 0.02257470999752396
+
+premise: Jennifer Ann Smith is the daughter of Clara Smith.
+ hypo:Jennifer Ann Smith is the daughter of Clara Smith.
+ contradition: 0.0007673413487128699
+
+premise: Robert Smith is tall, has a mustache, and has thinning gray hair.
+ hypo:Jennifer Ann Smith is the daughter of Robert Smith.
+ contradition: 0.0743601757197581
+
+premise: Robert Smith is male.
+ hypo:Jennifer Ann Smith is the daughter of Robert Smith.
+ contradition: 0.06994157862808172
+
+premise: Robert Smith is in his 60s.
+ hypo:Jennifer Ann Smith is the daughter of Robert Smith.
+ contradition: 0.027779856187651025
+
+premise: Jennifer Ann Smith is the daughter of Robert Smith.
+ hypo:Jennifer Ann Smith is the daughter of Robert Smith.
+ contradition: 0.0009146036391815147
+
+
+MAX_PROB is 0.5651914282900153
+CONTRADICTORY_PREMISE: Jennifer Ann Smith is a receptionist.
+ CONTRADICTORY_HYPO: Robert Smith is the family of Jennifer Ann Smith.

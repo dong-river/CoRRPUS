@@ -1,0 +1,32 @@
+premise: Shannon Kincaid is of average height, with long, brown hair, average build, and blue eyes.
+ hypo:Shannon Kincaid is an investigative reporter.
+ contradition: 0.0005295728259833484
+
+premise: Shannon Kincaid is a female.
+ hypo:Shannon Kincaid is an investigative reporter.
+ contradition: 0.00020057290300400741
+
+premise: Shannon Kincaid is young.
+ hypo:Shannon Kincaid is an investigative reporter.
+ contradition: 0.00139631410514683
+
+premise: Jack Kincaid is the father of Shannon Kincaid.
+ hypo:Shannon Kincaid is an investigative reporter.
+ contradition: 0.0012600723347648238
+
+premise: Mark Woodbury is the boyfriend of Shannon Kincaid.
+ hypo:Shannon Kincaid is an investigative reporter.
+ contradition: 0.002797102073629173
+
+premise: Mark Woodbury is a student.
+ hypo:Mark Woodbury has graying hair and a mustache.
+ contradition: 0.000470996998601208
+
+premise: Shannon Kincaid is the girlfriend of Mark Woodbury.
+ hypo:Mark Woodbury has graying hair and a mustache.
+ contradition: 0.0020215055265825578
+
+
+MAX_PROB is 0.002797102073629173
+CONTRADICTORY_PREMISE: Mark Woodbury is the boyfriend of Shannon Kincaid.
+ CONTRADICTORY_HYPO: Shannon Kincaid is an investigative reporter.

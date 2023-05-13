@@ -1,0 +1,72 @@
+premise: Emma Saunders is a female.
+ hypo:Olivia Saunders is the mother of Emma Saunders.
+ contradition: 0.005286564839797381
+
+premise: Emma Saunders is a teenager.
+ hypo:Olivia Saunders is the mother of Emma Saunders.
+ contradition: 0.02832777150986147
+
+premise: Olivia Saunders is the sister of Emma Saunders.
+ hypo:Olivia Saunders is the mother of Emma Saunders.
+ contradition: 0.9994105001249531
+
+premise: Olivia Saunders has long curly hair and brown eyes.
+ hypo:Olivia Saunders is a mother.
+ contradition: 0.0002815765958157786
+
+premise: Olivia Saunders has long curly hair and brown eyes.
+ hypo:Olivia Saunders is a female.
+ contradition: 0.0004210971865580547
+
+premise: Olivia Saunders has long curly hair and brown eyes.
+ hypo:Emma Saunders is the daughter of Olivia Saunders.
+ contradition: 0.08822435847266417
+
+premise: Olivia Saunders is a female.
+ hypo:Olivia Saunders is a mother.
+ contradition: 0.00015384120052106367
+
+premise: Olivia Saunders is a female.
+ hypo:Olivia Saunders is a female.
+ contradition: 0.0006599108930127706
+
+premise: Olivia Saunders is a female.
+ hypo:Emma Saunders is the daughter of Olivia Saunders.
+ contradition: 0.0030310960687143897
+
+premise: Olivia Saunders is a teenager.
+ hypo:Olivia Saunders is a mother.
+ contradition: 0.9984628974997415
+
+premise: Olivia Saunders is a teenager.
+ hypo:Olivia Saunders is a female.
+ contradition: 0.0008917420739351778
+
+premise: Olivia Saunders is a teenager.
+ hypo:Emma Saunders is the daughter of Olivia Saunders.
+ contradition: 0.3238588565861273
+
+premise: Jackson Cooper is the boyfriend of Olivia Saunders.
+ hypo:Olivia Saunders is a mother.
+ contradition: 0.1669508217922546
+
+premise: Jackson Cooper is the boyfriend of Olivia Saunders.
+ hypo:Olivia Saunders is a female.
+ contradition: 0.008800742235109453
+
+premise: Emma Saunders is the sister of Olivia Saunders.
+ hypo:Olivia Saunders is a mother.
+ contradition: 0.2348922114346858
+
+premise: Emma Saunders is the sister of Olivia Saunders.
+ hypo:Olivia Saunders is a female.
+ contradition: 0.004329875906731896
+
+premise: Emma Saunders is the sister of Olivia Saunders.
+ hypo:Emma Saunders is the daughter of Olivia Saunders.
+ contradition: 0.9289377582838059
+
+
+MAX_PROB is 0.9994105001249531
+CONTRADICTORY_PREMISE: Olivia Saunders is the sister of Emma Saunders.
+ CONTRADICTORY_HYPO: Olivia Saunders is the mother of Emma Saunders.

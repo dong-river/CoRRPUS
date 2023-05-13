@@ -1,0 +1,56 @@
+premise: Payton Dupree is a businesswoman.
+ hypo:Olivia Dupree is the niece of Payton Dupree.
+ contradition: 0.27663908332270676
+
+premise: Payton Dupree is a female.
+ hypo:Olivia Dupree is the niece of Payton Dupree.
+ contradition: 0.04900883457338914
+
+premise: Payton Dupree is 36 years old.
+ hypo:Olivia Dupree is the niece of Payton Dupree.
+ contradition: 0.15493968127468546
+
+premise: Olivia Dupree is the goddaughter of Payton Dupree.
+ hypo:Olivia Dupree is the niece of Payton Dupree.
+ contradition: 0.6017573350290709
+
+premise: Amanda Dupree is a stay-at-home mom.
+ hypo:Olivia Dupree is the daughter of Amanda Dupree.
+ contradition: 0.0024836858581035915
+
+premise: Amanda Dupree was 36 years old when she died.
+ hypo:Olivia Dupree is the daughter of Amanda Dupree.
+ contradition: 0.06792414453327271
+
+premise: Olivia Dupree is the daughter of Amanda Dupree.
+ hypo:Olivia Dupree is the daughter of Amanda Dupree.
+ contradition: 0.0010097632909701643
+
+premise: Olivia Dupree is 4 years old.
+ hypo:Amanda Dupree is the guardian of Olivia Dupree.
+ contradition: 0.0027015001231833306
+
+premise: Olivia Dupree is 4 years old.
+ hypo:Amanda Dupree is the mother of Olivia Dupree.
+ contradition: 0.0009198923985637133
+
+premise: Olivia Dupree is 4 years old.
+ hypo:Payton Dupree is the aunt of Olivia Dupree.
+ contradition: 0.005466391955893505
+
+premise: Amanda Dupree is the mother of Olivia Dupree.
+ hypo:Amanda Dupree is the guardian of Olivia Dupree.
+ contradition: 0.11285415210865371
+
+premise: Amanda Dupree is the mother of Olivia Dupree.
+ hypo:Amanda Dupree is the mother of Olivia Dupree.
+ contradition: 0.0005393995519164721
+
+premise: Payton Dupree is the goddaughter of Olivia Dupree.
+ hypo:Payton Dupree is the aunt of Olivia Dupree.
+ contradition: 0.6296120196281287
+
+
+MAX_PROB is 0.6296120196281287
+CONTRADICTORY_PREMISE: Payton Dupree is the goddaughter of Olivia Dupree.
+ CONTRADICTORY_HYPO: Payton Dupree is the aunt of Olivia Dupree.

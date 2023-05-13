@@ -1,0 +1,52 @@
+premise: Olivia Fria Spierings is of average height, with brown eyes and brown hair.
+ hypo:Olivia Fria Spierings has breasts, black, brown hair and eyes.
+ contradition: 0.030627002565809948
+
+premise: Olivia Fria Spierings is of average height, with brown eyes and brown hair.
+ hypo:Olivia Fria Spierings is 15 years old.
+ contradition: 0.00023252401058036822
+
+premise: Olivia Fria Spierings is a female.
+ hypo:Olivia Fria Spierings has breasts, black, brown hair and eyes.
+ contradition: 0.00033985600510315323
+
+premise: Olivia Fria Spierings is a female.
+ hypo:Olivia Fria Spierings is 15 years old.
+ contradition: 0.0002007839972022855
+
+premise: Olivia Fria Spierings is a female.
+ hypo:Colonel Damien Riggs is the boyfriend of Olivia Fria Spierings.
+ contradition: 0.14862764103110493
+
+premise: Olivia Fria Spierings is 15 years old.
+ hypo:Olivia Fria Spierings has breasts, black, brown hair and eyes.
+ contradition: 0.00152553557076402
+
+premise: Olivia Fria Spierings is 15 years old.
+ hypo:Olivia Fria Spierings is 15 years old.
+ contradition: 0.0020129399378985115
+
+premise: Olivia Fria Spierings is 15 years old.
+ hypo:Colonel Damien Riggs is the boyfriend of Olivia Fria Spierings.
+ contradition: 0.307684118363406
+
+premise: Colonel Damien Riggs is the commanding officer of Olivia Fria Spierings.
+ hypo:Olivia Fria Spierings has breasts, black, brown hair and eyes.
+ contradition: 0.005801857577006975
+
+premise: Colonel Damien Riggs is the commanding officer of Olivia Fria Spierings.
+ hypo:Olivia Fria Spierings is 15 years old.
+ contradition: 0.01916343937020586
+
+premise: Colonel Damien Riggs is tall, with blue eyes, short graying hair, and muscular.
+ hypo:Olivia Fria Spierings is the girlfriend of Colonel Damien Riggs.
+ contradition: 0.3883933105292298
+
+premise: Colonel Damien Riggs is male.
+ hypo:Olivia Fria Spierings is the girlfriend of Colonel Damien Riggs.
+ contradition: 0.15542965741108883
+
+
+MAX_PROB is 0.3883933105292298
+CONTRADICTORY_PREMISE: Colonel Damien Riggs is tall, with blue eyes, short graying hair, and muscular.
+ CONTRADICTORY_HYPO: Olivia Fria Spierings is the girlfriend of Colonel Damien Riggs.

@@ -1,0 +1,132 @@
+premise: Karen Fletcher has blue eyes and blonde hair.
+ hypo:Karen Fletcher is a female.
+ contradition: 0.00028542140774105197
+
+premise: Karen Fletcher has blue eyes and blonde hair.
+ hypo:Julia Fletcher is the mother in law of Karen Fletcher.
+ contradition: 0.05181354122709137
+
+premise: Karen Fletcher has blue eyes and blonde hair.
+ hypo:Julia Fletcher is the daughter in law of Karen Fletcher.
+ contradition: 0.1187181713198773
+
+premise: Karen Fletcher is a female.
+ hypo:Karen Fletcher is a female.
+ contradition: 0.0006474961632962484
+
+premise: Karen Fletcher is a female.
+ hypo:Julia Fletcher is the mother in law of Karen Fletcher.
+ contradition: 0.05542428695469673
+
+premise: Karen Fletcher is a female.
+ hypo:Julia Fletcher is the daughter in law of Karen Fletcher.
+ contradition: 0.045742408609588926
+
+premise: Kate Fletcher is the daughter of Karen Fletcher.
+ hypo:Karen Fletcher is a female.
+ contradition: 0.0017909452422827552
+
+premise: Julia Fletcher is the sister of Karen Fletcher.
+ hypo:Karen Fletcher is a female.
+ contradition: 0.0032277760314146997
+
+premise: Julia Fletcher is the sister of Karen Fletcher.
+ hypo:Julia Fletcher is the mother in law of Karen Fletcher.
+ contradition: 0.9740791557827544
+
+premise: Julia Fletcher is the sister of Karen Fletcher.
+ hypo:Julia Fletcher is the daughter in law of Karen Fletcher.
+ contradition: 0.729575806464913
+
+premise: Kate Fletcher has brown eyes and dark hair.
+ hypo:Kate Fletcher is a female.
+ contradition: 0.0002132281394574995
+
+premise: Kate Fletcher has brown eyes and dark hair.
+ hypo:Karen Fletcher is the mother of Kate Fletcher.
+ contradition: 0.033297119615371434
+
+premise: Kate Fletcher has brown eyes and dark hair.
+ hypo:Julia Fletcher is the mother in law of Kate Fletcher.
+ contradition: 0.05410275786876497
+
+premise: Kate Fletcher is a female.
+ hypo:Kate Fletcher is a female.
+ contradition: 0.0006458809475692085
+
+premise: Kate Fletcher is a female.
+ hypo:Karen Fletcher is the mother of Kate Fletcher.
+ contradition: 0.019579776500258113
+
+premise: Kate Fletcher is a female.
+ hypo:Julia Fletcher is the mother in law of Kate Fletcher.
+ contradition: 0.05170663493616746
+
+premise: Kate Fletcher is a teenager.
+ hypo:Kate Fletcher is a female.
+ contradition: 0.0006567788860934905
+
+premise: Kate Fletcher is a teenager.
+ hypo:Karen Fletcher is the mother of Kate Fletcher.
+ contradition: 0.031398221783082006
+
+premise: Kate Fletcher is a teenager.
+ hypo:Julia Fletcher is the mother in law of Kate Fletcher.
+ contradition: 0.122518409285365
+
+premise: Karen Fletcher is the mother of Kate Fletcher.
+ hypo:Kate Fletcher is a female.
+ contradition: 0.0019961754247632235
+
+premise: Karen Fletcher is the mother of Kate Fletcher.
+ hypo:Karen Fletcher is the mother of Kate Fletcher.
+ contradition: 0.0006224715879718947
+
+premise: Julia Fletcher has light brown hair and green eyes.
+ hypo:Julia Fletcher is a female.
+ contradition: 0.0002578545403318999
+
+premise: Julia Fletcher has light brown hair and green eyes.
+ hypo:Karen Fletcher is the shadow of Julia Fletcher.
+ contradition: 0.2138582546343787
+
+premise: Julia Fletcher has light brown hair and green eyes.
+ hypo:Kate Fletcher is the daughter in law of Julia Fletcher.
+ contradition: 0.1972691516553815
+
+premise: Julia Fletcher has light brown hair and green eyes.
+ hypo:Karen Fletcher is the nurse of Julia Fletcher.
+ contradition: 0.12184628200229726
+
+premise: Julia Fletcher is a female.
+ hypo:Julia Fletcher is a female.
+ contradition: 0.00070684831545739
+
+premise: Julia Fletcher is a female.
+ hypo:Karen Fletcher is the shadow of Julia Fletcher.
+ contradition: 0.2727459231686404
+
+premise: Julia Fletcher is a female.
+ hypo:Kate Fletcher is the daughter in law of Julia Fletcher.
+ contradition: 0.06609110844486327
+
+premise: Julia Fletcher is a female.
+ hypo:Karen Fletcher is the nurse of Julia Fletcher.
+ contradition: 0.05046966971406274
+
+premise: Karen Fletcher is the sister of Julia Fletcher.
+ hypo:Julia Fletcher is a female.
+ contradition: 0.00404064819780926
+
+premise: Karen Fletcher is the sister of Julia Fletcher.
+ hypo:Karen Fletcher is the shadow of Julia Fletcher.
+ contradition: 0.33757070438548364
+
+premise: Karen Fletcher is the sister of Julia Fletcher.
+ hypo:Karen Fletcher is the nurse of Julia Fletcher.
+ contradition: 0.20094911833713555
+
+
+MAX_PROB is 0.9740791557827544
+CONTRADICTORY_PREMISE: Julia Fletcher is the sister of Karen Fletcher.
+ CONTRADICTORY_HYPO: Julia Fletcher is the mother in law of Karen Fletcher.

@@ -1,0 +1,24 @@
+premise: Nina Harman has long dark hair and brown eyes.
+ hypo:Karen Hartman is the friend of Nina Harman.
+ contradition: 0.031685890466506404
+
+premise: Nina Harman is a female.
+ hypo:Karen Hartman is the friend of Nina Harman.
+ contradition: 0.03124437502035418
+
+premise: Nina Harman is a pre-teen.
+ hypo:Karen Hartman is the friend of Nina Harman.
+ contradition: 0.02851950461798811
+
+premise: Karen Hartman is the mother of Nina Harman.
+ hypo:Karen Hartman is the friend of Nina Harman.
+ contradition: 0.995477480291891
+
+premise: Nina Harman is the daughter of Karen Hartman.
+ hypo:Nina Harman is the friend of Karen Hartman.
+ contradition: 0.9841174170591682
+
+
+MAX_PROB is 0.995477480291891
+CONTRADICTORY_PREMISE: Karen Hartman is the mother of Nina Harman.
+ CONTRADICTORY_HYPO: Karen Hartman is the friend of Nina Harman.

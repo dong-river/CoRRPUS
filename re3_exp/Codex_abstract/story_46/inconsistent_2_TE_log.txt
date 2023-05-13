@@ -1,0 +1,88 @@
+premise: Jessica Campbell is tall, thin, has blue eyes, and long blond hair.
+ hypo:Jessica Campbell is a female.
+ contradition: 0.0001116583116477057
+
+premise: Jessica Campbell is tall, thin, has blue eyes, and long blond hair.
+ hypo:Jessica Campbell is young.
+ contradition: 0.0015766511876231367
+
+premise: Jessica Campbell is tall, thin, has blue eyes, and long blond hair.
+ hypo:John Smith is the designer of Jessica Campbell.
+ contradition: 0.00437461301100468
+
+premise: Jessica Campbell is a female.
+ hypo:Jessica Campbell is a female.
+ contradition: 0.0006800284183793012
+
+premise: Jessica Campbell is a female.
+ hypo:Jessica Campbell is young.
+ contradition: 0.0002539748047388979
+
+premise: Jessica Campbell is a female.
+ hypo:John Smith is the designer of Jessica Campbell.
+ contradition: 0.0036514625016537366
+
+premise: Jessica Campbell is 22 years old.
+ hypo:Jessica Campbell is a female.
+ contradition: 0.00023566306767370325
+
+premise: Jessica Campbell is 22 years old.
+ hypo:Jessica Campbell is young.
+ contradition: 0.0013405356417148888
+
+premise: Jessica Campbell is 22 years old.
+ hypo:John Smith is the designer of Jessica Campbell.
+ contradition: 0.014816395993336886
+
+premise: John Smith is handsome, tall, and has short brown hair and blue eyes.
+ hypo:Jessica Campbell is the model of John Smith.
+ contradition: 0.5892160035112337
+
+premise: John Smith is a model.
+ hypo:Jessica Campbell is the model of John Smith.
+ contradition: 0.4264138733898282
+
+premise: John Smith is male.
+ hypo:Jessica Campbell is the model of John Smith.
+ contradition: 0.2278997565390625
+
+premise: John Smith is 26 years old.
+ hypo:Jessica Campbell is the model of John Smith.
+ contradition: 0.43441933453858017
+
+premise: Tina Sanchez has brown eyes, is thin, has long black hair, and is short.
+ hypo:Tina Sanchez has thick black hair, perfectly applied makeup, and is wearing a short black dress.
+ contradition: 0.0050055913261806174
+
+premise: Tina Sanchez has brown eyes, is thin, has long black hair, and is short.
+ hypo:Tina Sanchez is a stylist.
+ contradition: 0.0004992725888033209
+
+premise: Tina Sanchez is a model.
+ hypo:Tina Sanchez has thick black hair, perfectly applied makeup, and is wearing a short black dress.
+ contradition: 0.0008993761478020656
+
+premise: Tina Sanchez is a model.
+ hypo:Tina Sanchez is a stylist.
+ contradition: 0.9860151855781009
+
+premise: Tina Sanchez is a female.
+ hypo:Tina Sanchez has thick black hair, perfectly applied makeup, and is wearing a short black dress.
+ contradition: 0.0003396057208321299
+
+premise: Tina Sanchez is a female.
+ hypo:Tina Sanchez is a stylist.
+ contradition: 0.00036146135119026896
+
+premise: Tina Sanchez is 22 years old.
+ hypo:Tina Sanchez has thick black hair, perfectly applied makeup, and is wearing a short black dress.
+ contradition: 0.0005808115914263225
+
+premise: Tina Sanchez is 22 years old.
+ hypo:Tina Sanchez is a stylist.
+ contradition: 0.000679644275479942
+
+
+MAX_PROB is 0.9860151855781009
+CONTRADICTORY_PREMISE: Tina Sanchez is a model.
+ CONTRADICTORY_HYPO: Tina Sanchez is a stylist.

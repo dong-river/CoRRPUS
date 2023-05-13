@@ -1,0 +1,24 @@
+premise: Riley Harper is a female.
+ hypo:Jonas Harper is the father of Riley Harper.
+ contradition: 0.12314678846963302
+
+premise: Riley Harper is young.
+ hypo:Jonas Harper is the father of Riley Harper.
+ contradition: 0.01289768999069656
+
+premise: Jonas Harper is the father of Riley Harper.
+ hypo:Jonas Harper is the father of Riley Harper.
+ contradition: 0.000720898610185714
+
+premise: Jonas Harper is a businessman.
+ hypo:Riley Harper is the daughter of Jonas Harper.
+ contradition: 0.013323887880632615
+
+premise: Riley Harper is the daughter of Jonas Harper.
+ hypo:Riley Harper is the daughter of Jonas Harper.
+ contradition: 0.0008586745465387656
+
+
+MAX_PROB is 0.12314678846963302
+CONTRADICTORY_PREMISE: Riley Harper is a female.
+ CONTRADICTORY_HYPO: Jonas Harper is the father of Riley Harper.

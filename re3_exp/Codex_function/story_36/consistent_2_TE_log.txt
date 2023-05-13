@@ -1,0 +1,96 @@
+premise: Karen Fletcher has blue eyes and blonde hair.
+ hypo:Karen Fletcher is a female.
+ contradition: 0.00028542140774105197
+
+premise: Karen Fletcher has blue eyes and blonde hair.
+ hypo:Julia Fletcher is the mother in law of Karen Fletcher.
+ contradition: 0.05181354122709137
+
+premise: Karen Fletcher has blue eyes and blonde hair.
+ hypo:Kate Fletcher is the daughter of Karen Fletcher.
+ contradition: 0.18725860254432264
+
+premise: Karen Fletcher is a female.
+ hypo:Karen Fletcher is a female.
+ contradition: 0.0006474961632962484
+
+premise: Karen Fletcher is a female.
+ hypo:Julia Fletcher is the mother in law of Karen Fletcher.
+ contradition: 0.05542428695469673
+
+premise: Karen Fletcher is a female.
+ hypo:Kate Fletcher is the daughter of Karen Fletcher.
+ contradition: 0.021540887404419742
+
+premise: Karen Fletcher is middle-aged.
+ hypo:Karen Fletcher is a female.
+ contradition: 0.00023945070869620295
+
+premise: Karen Fletcher is middle-aged.
+ hypo:Julia Fletcher is the mother in law of Karen Fletcher.
+ contradition: 0.07229980744528053
+
+premise: Karen Fletcher is middle-aged.
+ hypo:Kate Fletcher is the daughter of Karen Fletcher.
+ contradition: 0.5888851605699106
+
+premise: Kate Fletcher is the daughter of Karen Fletcher.
+ hypo:Karen Fletcher is a female.
+ contradition: 0.0017909452422827552
+
+premise: Kate Fletcher is the daughter of Karen Fletcher.
+ hypo:Kate Fletcher is the daughter of Karen Fletcher.
+ contradition: 0.0006802573864677259
+
+premise: Kate Fletcher has brown eyes and dark hair.
+ hypo:Kate Fletcher is a female.
+ contradition: 0.0002132281394574995
+
+premise: Kate Fletcher has brown eyes and dark hair.
+ hypo:Karen Fletcher is the mother of Kate Fletcher.
+ contradition: 0.033297119615371434
+
+premise: Kate Fletcher is a female.
+ hypo:Kate Fletcher is a female.
+ contradition: 0.0006458809475692085
+
+premise: Kate Fletcher is a female.
+ hypo:Karen Fletcher is the mother of Kate Fletcher.
+ contradition: 0.019579776500258113
+
+premise: Kate Fletcher is a teenager.
+ hypo:Kate Fletcher is a female.
+ contradition: 0.0006567788860934905
+
+premise: Kate Fletcher is a teenager.
+ hypo:Karen Fletcher is the mother of Kate Fletcher.
+ contradition: 0.031398221783082006
+
+premise: Karen Fletcher is the mother of Kate Fletcher.
+ hypo:Kate Fletcher is a female.
+ contradition: 0.0019961754247632235
+
+premise: Karen Fletcher is the mother of Kate Fletcher.
+ hypo:Karen Fletcher is the mother of Kate Fletcher.
+ contradition: 0.0006224715879718947
+
+premise: Julia Fletcher has blue eyes and grey hair.
+ hypo:Julia Fletcher is a female.
+ contradition: 0.00032091954447764073
+
+premise: Julia Fletcher has blue eyes and grey hair.
+ hypo:Karen Fletcher is the daughter in law of Julia Fletcher.
+ contradition: 0.1749915565894048
+
+premise: Julia Fletcher is a female.
+ hypo:Julia Fletcher is a female.
+ contradition: 0.00070684831545739
+
+premise: Julia Fletcher is a female.
+ hypo:Karen Fletcher is the daughter in law of Julia Fletcher.
+ contradition: 0.05658419971026005
+
+
+MAX_PROB is 0.5888851605699106
+CONTRADICTORY_PREMISE: Karen Fletcher is middle-aged.
+ CONTRADICTORY_HYPO: Kate Fletcher is the daughter of Karen Fletcher.

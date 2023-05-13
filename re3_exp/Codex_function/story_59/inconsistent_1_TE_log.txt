@@ -1,0 +1,44 @@
+premise: Landon Shaw is handsome.
+ hypo:Landon Shaw is a doctor.
+ contradition: 0.003735937496553527
+
+premise: Landon Shaw is handsome.
+ hypo:Landon Shaw is 30 years old.
+ contradition: 0.00033571562166794097
+
+premise: Landon Shaw is a mechanic.
+ hypo:Landon Shaw is a doctor.
+ contradition: 0.999528749451688
+
+premise: Landon Shaw is a mechanic.
+ hypo:Landon Shaw is 30 years old.
+ contradition: 0.00027190022510824584
+
+premise: Landon Shaw is 27 years old.
+ hypo:Landon Shaw is a doctor.
+ contradition: 0.0005818846647967664
+
+premise: Landon Shaw is 27 years old.
+ hypo:Landon Shaw is 30 years old.
+ contradition: 0.9992016971328307
+
+premise: Payton Parskin is the girlfriend of Landon Shaw.
+ hypo:Landon Shaw is a doctor.
+ contradition: 0.0018563207881576594
+
+premise: Payton Parskin is the girlfriend of Landon Shaw.
+ hypo:Landon Shaw is 30 years old.
+ contradition: 0.001155059743410919
+
+premise: Maggie Shaw is the sister of Landon Shaw.
+ hypo:Landon Shaw is a doctor.
+ contradition: 0.0008486063437392307
+
+premise: Maggie Shaw is the sister of Landon Shaw.
+ hypo:Landon Shaw is 30 years old.
+ contradition: 0.0017795815449557746
+
+
+MAX_PROB is 0.999528749451688
+CONTRADICTORY_PREMISE: Landon Shaw is a mechanic.
+ CONTRADICTORY_HYPO: Landon Shaw is a doctor.

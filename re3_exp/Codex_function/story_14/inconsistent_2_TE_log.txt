@@ -1,0 +1,36 @@
+premise: Jenny Anderson is small with blue eyes and blonde hair.
+ hypo:Jimmy Jackson is the best friend of Jenny Anderson.
+ contradition: 0.0302326533295954
+
+premise: Jenny Anderson is a female.
+ hypo:Jimmy Jackson is the best friend of Jenny Anderson.
+ contradition: 0.0608042954953647
+
+premise: Jimmy Jackson is the boyfriend of Jenny Anderson.
+ hypo:Jimmy Jackson is the best friend of Jenny Anderson.
+ contradition: 0.9962207396970674
+
+premise: Jimmy Jackson is a star quarterback.
+ hypo:Jenny Anderson is the best friend of Jimmy Jackson.
+ contradition: 0.020665904201703222
+
+premise: Jimmy Jackson is a star quarterback.
+ hypo:Jimmy Jackson is the father of Jimmy Jackson.
+ contradition: 0.8227260737301749
+
+premise: Jimmy Jackson is male.
+ hypo:Jenny Anderson is the best friend of Jimmy Jackson.
+ contradition: 0.02810378497508579
+
+premise: Jimmy Jackson is male.
+ hypo:Jimmy Jackson is the father of Jimmy Jackson.
+ contradition: 0.002189457158316918
+
+premise: Jenny Anderson is the girlfriend of Jimmy Jackson.
+ hypo:Jenny Anderson is the best friend of Jimmy Jackson.
+ contradition: 0.7349831315234032
+
+
+MAX_PROB is 0.9962207396970674
+CONTRADICTORY_PREMISE: Jimmy Jackson is the boyfriend of Jenny Anderson.
+ CONTRADICTORY_HYPO: Jimmy Jackson is the best friend of Jenny Anderson.

@@ -1,0 +1,12 @@
+premise: Olivia Fria Spierings is a female.
+ hypo:Olivia Fria Spierings has brown eyes and brown hair.
+ contradition: 0.0002811569242506193
+
+premise: Olivia Fria Spierings is 15 years old, which is young.
+ hypo:Olivia Fria Spierings has brown eyes and brown hair.
+ contradition: 0.0005151197282713642
+
+
+MAX_PROB is 0.0005151197282713642
+CONTRADICTORY_PREMISE: Olivia Fria Spierings is 15 years old, which is young.
+ CONTRADICTORY_HYPO: Olivia Fria Spierings has brown eyes and brown hair.

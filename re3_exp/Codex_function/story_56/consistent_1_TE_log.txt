@@ -1,0 +1,152 @@
+premise: Karen Smith has shoulder length brown hair and brown eyes.
+ hypo:Karen Smith is a waitress, an advertising firm, and an advertising_firm.
+ contradition: 0.02729283781331788
+
+premise: Karen Smith has shoulder length brown hair and brown eyes.
+ hypo:Leah White is the best friend of Karen Smith.
+ contradition: 0.029352997594256348
+
+premise: Karen Smith has shoulder length brown hair and brown eyes.
+ hypo:Coco Bells is the regular haunt of Karen Smith.
+ contradition: 0.0012308798559191182
+
+premise: Karen Smith has shoulder length brown hair and brown eyes.
+ hypo:Leah White is the waitress of Karen Smith.
+ contradition: 0.2645728290238313
+
+premise: Karen Smith has shoulder length brown hair and brown eyes.
+ hypo:Leah White is the advertising firm of Karen Smith.
+ contradition: 0.19553216859472158
+
+premise: Karen Smith is a female.
+ hypo:Karen Smith is a waitress, an advertising firm, and an advertising_firm.
+ contradition: 0.01847835655827434
+
+premise: Karen Smith is a female.
+ hypo:Leah White is the best friend of Karen Smith.
+ contradition: 0.015568544700890991
+
+premise: Karen Smith is a female.
+ hypo:Coco Bells is the regular haunt of Karen Smith.
+ contradition: 0.00280133596847419
+
+premise: Karen Smith is a female.
+ hypo:Leah White is the waitress of Karen Smith.
+ contradition: 0.16800408490906424
+
+premise: Karen Smith is a female.
+ hypo:Leah White is the advertising firm of Karen Smith.
+ contradition: 0.1957092125311388
+
+premise: Karen Smith is young.
+ hypo:Karen Smith is a waitress, an advertising firm, and an advertising_firm.
+ contradition: 0.08086918899336962
+
+premise: Karen Smith is young.
+ hypo:Leah White is the best friend of Karen Smith.
+ contradition: 0.023173879926324355
+
+premise: Karen Smith is young.
+ hypo:Coco Bells is the regular haunt of Karen Smith.
+ contradition: 0.006891962859827513
+
+premise: Karen Smith is young.
+ hypo:Leah White is the waitress of Karen Smith.
+ contradition: 0.07809507448182354
+
+premise: Karen Smith is young.
+ hypo:Leah White is the advertising firm of Karen Smith.
+ contradition: 0.3462690771985019
+
+premise: Janice Smith is the mother of Karen Smith.
+ hypo:Karen Smith is a waitress, an advertising firm, and an advertising_firm.
+ contradition: 0.06190755374864137
+
+premise: Leah White is the best friend of Karen Smith.
+ hypo:Karen Smith is a waitress, an advertising firm, and an advertising_firm.
+ contradition: 0.1481192499165355
+
+premise: Leah White is the best friend of Karen Smith.
+ hypo:Leah White is the best friend of Karen Smith.
+ contradition: 0.0009255223801404187
+
+premise: Leah White is the best friend of Karen Smith.
+ hypo:Leah White is the waitress of Karen Smith.
+ contradition: 0.9875798587204081
+
+premise: Leah White is the best friend of Karen Smith.
+ hypo:Leah White is the advertising firm of Karen Smith.
+ contradition: 0.9808480732464825
+
+premise: Leah White has shoulder length blond hair and blue eyes.
+ hypo:Leah White is wearing a leather jacket.
+ contradition: 0.0007604069271893396
+
+premise: Leah White has shoulder length blond hair and blue eyes.
+ hypo:Leah White is a waitress, an advertising firm, and an advertising_firm.
+ contradition: 0.029979241987341802
+
+premise: Leah White has shoulder length blond hair and blue eyes.
+ hypo:Karen Smith is the best friend of Leah White.
+ contradition: 0.02264582955471702
+
+premise: Leah White has shoulder length blond hair and blue eyes.
+ hypo:Coco Bells is the regular haunt of Leah White.
+ contradition: 0.0014191173511545632
+
+premise: Leah White has shoulder length blond hair and blue eyes.
+ hypo:Karen Smith is the waitress of Leah White.
+ contradition: 0.1556124202991144
+
+premise: Leah White has shoulder length blond hair and blue eyes.
+ hypo:Karen Smith is the advertising firm of Leah White.
+ contradition: 0.3560040854529261
+
+premise: Leah White is young.
+ hypo:Leah White is wearing a leather jacket.
+ contradition: 0.002519195511202827
+
+premise: Leah White is young.
+ hypo:Leah White is a waitress, an advertising firm, and an advertising_firm.
+ contradition: 0.06643098295364307
+
+premise: Leah White is young.
+ hypo:Karen Smith is the best friend of Leah White.
+ contradition: 0.014849766224562659
+
+premise: Leah White is young.
+ hypo:Coco Bells is the regular haunt of Leah White.
+ contradition: 0.00856082593975461
+
+premise: Leah White is young.
+ hypo:Karen Smith is the waitress of Leah White.
+ contradition: 0.0247639477417112
+
+premise: Leah White is young.
+ hypo:Karen Smith is the advertising firm of Leah White.
+ contradition: 0.2175956918144177
+
+premise: Karen Smith is the best friend of Leah White.
+ hypo:Leah White is wearing a leather jacket.
+ contradition: 0.030004283364120577
+
+premise: Karen Smith is the best friend of Leah White.
+ hypo:Leah White is a waitress, an advertising firm, and an advertising_firm.
+ contradition: 0.3539060394337157
+
+premise: Karen Smith is the best friend of Leah White.
+ hypo:Karen Smith is the best friend of Leah White.
+ contradition: 0.0011483466486955692
+
+premise: Karen Smith is the best friend of Leah White.
+ hypo:Karen Smith is the waitress of Leah White.
+ contradition: 0.9850689726898326
+
+premise: Karen Smith is the best friend of Leah White.
+ hypo:Karen Smith is the advertising firm of Leah White.
+ contradition: 0.976995222963342
+
+
+MAX_PROB is 0.9875798587204081
+CONTRADICTORY_PREMISE: Leah White is the best friend of Karen Smith.
+ CONTRADICTORY_HYPO: Leah White is the waitress of Karen Smith.

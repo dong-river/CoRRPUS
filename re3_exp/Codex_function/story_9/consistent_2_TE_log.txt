@@ -1,0 +1,55 @@
+premise: Julie Christensen is pretty and blonde.
+ hypo:Beth Christensen is the friend of Julie Christensen.
+ contradition: 0.04631772427317737
+
+premise: Julie Christensen is a church student.
+ hypo:Beth Christensen is the friend of Julie Christensen.
+ contradition: 0.0996096587849355
+
+premise: Julie Christensen is a female.
+ hypo:Beth Christensen is the friend of Julie Christensen.
+ contradition: 0.06247887324878536
+
+premise: Julie Christensen is young.
+ hypo:Beth Christensen is the friend of Julie Christensen.
+ contradition: 0.03238010567336906
+
+premise: Beth Christensen is the best friend of Julie Christensen.
+ hypo:Beth Christensen is the friend of Julie Christensen.
+ contradition: 0.0007749403533949743
+
+premise: Julie Christensen is the best friend of Beth Christensen.
+ hypo:Julie Christensen is the friend of Beth Christensen.
+ contradition: 0.0007430400946946326
+
+
+MAX_PROB is 0.0996096587849355
+CONTRADICTORY_PREMISE: Julie Christensen is a church student.
+ CONTRADICTORY_HYPO: Beth Christensen is the friend of Julie Christensen.premise: Julie Christensen is blonde and pretty.
+ hypo:Beth Christensen is the friend of Julie Christensen.
+ contradition: 0.07740623660514057
+
+premise: Julie Christensen is a student and church member.
+ hypo:Beth Christensen is the friend of Julie Christensen.
+ contradition: 0.15212324413088732
+
+premise: Julie Christensen is a female.
+ hypo:Beth Christensen is the friend of Julie Christensen.
+ contradition: 0.06247887324878536
+
+premise: Julie Christensen is young.
+ hypo:Beth Christensen is the friend of Julie Christensen.
+ contradition: 0.03238010567336906
+
+premise: Beth Christensen is the best friend of Julie Christensen.
+ hypo:Beth Christensen is the friend of Julie Christensen.
+ contradition: 0.0007749403533949743
+
+premise: Julie Christensen is the best friend of Beth Christensen.
+ hypo:Julie Christensen is the friend of Beth Christensen.
+ contradition: 0.0007430400946946326
+
+
+MAX_PROB is 0.15212324413088732
+CONTRADICTORY_PREMISE: Julie Christensen is a student and church member.
+ CONTRADICTORY_HYPO: Beth Christensen is the friend of Julie Christensen.

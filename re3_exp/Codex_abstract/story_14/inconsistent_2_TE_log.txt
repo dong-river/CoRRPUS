@@ -1,0 +1,44 @@
+premise: Jenny Anderson has blue eyes and blonde hair.
+ hypo:Jimmy Jackson is the best friend of Jenny Anderson.
+ contradition: 0.07732094731447627
+
+premise: Jenny Anderson is a female.
+ hypo:Jimmy Jackson is the best friend of Jenny Anderson.
+ contradition: 0.0608042954953647
+
+premise: Jenny Anderson is young.
+ hypo:Jimmy Jackson is the best friend of Jenny Anderson.
+ contradition: 0.054799278829358505
+
+premise: Jimmy Jackson is the boyfriend of Jenny Anderson.
+ hypo:Jimmy Jackson is the best friend of Jenny Anderson.
+ contradition: 0.9962207396970674
+
+premise: Jimmy Jackson is male.
+ hypo:Jenny Anderson is the best friend of Jimmy Jackson.
+ contradition: 0.02810378497508579
+
+premise: Jimmy Jackson is male.
+ hypo:Principal Stevens is the father of Jimmy Jackson.
+ contradition: 0.04087604733798299
+
+premise: Jenny Anderson is the girlfriend of Jimmy Jackson.
+ hypo:Jenny Anderson is the best friend of Jimmy Jackson.
+ contradition: 0.7349831315234032
+
+premise: Principal Stevens has graying hair and wears glasses.
+ hypo:Jimmy Jackson is the son of Principal Stevens.
+ contradition: 0.6994663368481798
+
+premise: Principal Stevens is male.
+ hypo:Jimmy Jackson is the son of Principal Stevens.
+ contradition: 0.015528886138378313
+
+premise: Principal Stevens is middle-aged.
+ hypo:Jimmy Jackson is the son of Principal Stevens.
+ contradition: 0.4510939548257997
+
+
+MAX_PROB is 0.9962207396970674
+CONTRADICTORY_PREMISE: Jimmy Jackson is the boyfriend of Jenny Anderson.
+ CONTRADICTORY_HYPO: Jimmy Jackson is the best friend of Jenny Anderson.
