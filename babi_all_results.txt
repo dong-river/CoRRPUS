@@ -1,0 +1,15 @@
+task: 1 mode: ans acc is 1.0 with 0 being NA
+task: 1 mode: GPT3 acc is 1.0 with 0 being NA
+task: 1 mode: Codex_comment acc is 1.0 with 0 being NA
+task: 1 mode: Codex_command acc is 1.0 with 0 being NA
+task: 1 mode: Codex_symbolic acc is 1.0 with 0 being NA
+
+task: 3 mode: GPT3 acc is 0.33815028901734107 with 0 being NA
+task: 3 mode: Codex_comment acc is 0.21965317919075145 with 0 being NA
+task: 3 mode: Codex_command acc is 0.4190751445086705 with 0 being NA
+task: 3 mode: Codex_symbolic acc is 0.7167630057803468 with 0 being NA
+
+task: 2 mode: Codex_raw acc is 0.5783365570599613 with 0 being NA
+task: 2 mode: GPT_command acc is 0.9620253164556962 with 0 being NA
+task: 2 mode: GPT_comment acc is 0.6778115501519757 with 0 being NA
+task: 2 mode: GPT_symbolic acc is 0.9880952380952381 with 0 being NA

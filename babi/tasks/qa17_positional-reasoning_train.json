@@ -1,0 +1,1000 @@
+{"story": "The triangle is above the pink rectangle.\nThe blue square is to the left of the triangle.\n", "question": "Is the pink rectangle to the right of the blue square?", "ans": "yes"}
+{"story": "The triangle is above the pink rectangle.\nThe blue square is to the left of the triangle.\n", "question": "Is the blue square below the pink rectangle?", "ans": "no"}
+{"story": "The triangle is above the pink rectangle.\nThe blue square is to the left of the triangle.\n", "question": "Is the blue square to the right of the pink rectangle?", "ans": "no"}
+{"story": "The triangle is above the pink rectangle.\nThe blue square is to the left of the triangle.\n", "question": "Is the blue square below the pink rectangle?", "ans": "no"}
+{"story": "The triangle is above the pink rectangle.\nThe blue square is to the left of the triangle.\n", "question": "Is the blue square below the pink rectangle?", "ans": "no"}
+{"story": "The triangle is above the pink rectangle.\nThe blue square is to the left of the triangle.\n", "question": "Is the pink rectangle to the left of the blue square?", "ans": "no"}
+{"story": "The triangle is above the pink rectangle.\nThe blue square is to the left of the triangle.\n", "question": "Is the blue square to the left of the pink rectangle?", "ans": "yes"}
+{"story": "The triangle is above the pink rectangle.\nThe blue square is to the left of the triangle.\n", "question": "Is the pink rectangle to the right of the blue square?", "ans": "yes"}
+{"story": "The red sphere is to the left of the yellow square.\nThe red sphere is below the pink rectangle.\n", "question": "Is the pink rectangle to the right of the yellow square?", "ans": "no"}
+{"story": "The red sphere is to the left of the yellow square.\nThe red sphere is below the pink rectangle.\n", "question": "Is the yellow square to the right of the pink rectangle?", "ans": "yes"}
+{"story": "The red sphere is to the left of the yellow square.\nThe red sphere is below the pink rectangle.\n", "question": "Is the pink rectangle to the left of the yellow square?", "ans": "yes"}
+{"story": "The red sphere is to the left of the yellow square.\nThe red sphere is below the pink rectangle.\n", "question": "Is the yellow square below the pink rectangle?", "ans": "yes"}
+{"story": "The red sphere is to the left of the yellow square.\nThe red sphere is below the pink rectangle.\n", "question": "Is the yellow square above the pink rectangle?", "ans": "no"}
+{"story": "The red sphere is to the left of the yellow square.\nThe red sphere is below the pink rectangle.\n", "question": "Is the yellow square to the right of the pink rectangle?", "ans": "yes"}
+{"story": "The red sphere is to the left of the yellow square.\nThe red sphere is below the pink rectangle.\n", "question": "Is the yellow square below the pink rectangle?", "ans": "yes"}
+{"story": "The red sphere is to the left of the yellow square.\nThe red sphere is below the pink rectangle.\n", "question": "Is the pink rectangle below the yellow square?", "ans": "no"}
+{"story": "The red sphere is above the pink rectangle.\nThe red sphere is to the right of the red square.\n", "question": "Is the red square above the pink rectangle?", "ans": "yes"}
+{"story": "The red sphere is above the pink rectangle.\nThe red sphere is to the right of the red square.\n", "question": "Is the red square below the pink rectangle?", "ans": "no"}
+{"story": "The red sphere is above the pink rectangle.\nThe red sphere is to the right of the red square.\n", "question": "Is the pink rectangle below the red square?", "ans": "yes"}
+{"story": "The red sphere is above the pink rectangle.\nThe red sphere is to the right of the red square.\n", "question": "Is the pink rectangle above the red square?", "ans": "no"}
+{"story": "The red sphere is above the pink rectangle.\nThe red sphere is to the right of the red square.\n", "question": "Is the pink rectangle to the left of the red square?", "ans": "no"}
+{"story": "The red sphere is above the pink rectangle.\nThe red sphere is to the right of the red square.\n", "question": "Is the pink rectangle to the right of the red square?", "ans": "yes"}
+{"story": "The red sphere is above the pink rectangle.\nThe red sphere is to the right of the red square.\n", "question": "Is the red square below the pink rectangle?", "ans": "no"}
+{"story": "The red sphere is above the pink rectangle.\nThe red sphere is to the right of the red square.\n", "question": "Is the red square below the pink rectangle?", "ans": "no"}
+{"story": "The blue square is to the right of the triangle.\nThe blue square is to the left of the red square.\n", "question": "Is the red square above the triangle?", "ans": "no"}
+{"story": "The blue square is to the right of the triangle.\nThe blue square is to the left of the red square.\n", "question": "Is the red square above the triangle?", "ans": "no"}
+{"story": "The blue square is to the right of the triangle.\nThe blue square is to the left of the red square.\n", "question": "Is the triangle to the right of the red square?", "ans": "no"}
+{"story": "The blue square is to the right of the triangle.\nThe blue square is to the left of the red square.\n", "question": "Is the triangle above the red square?", "ans": "no"}
+{"story": "The blue square is to the right of the triangle.\nThe blue square is to the left of the red square.\n", "question": "Is the red square to the right of the triangle?", "ans": "yes"}
+{"story": "The blue square is to the right of the triangle.\nThe blue square is to the left of the red square.\n", "question": "Is the triangle to the left of the red square?", "ans": "yes"}
+{"story": "The blue square is to the right of the triangle.\nThe blue square is to the left of the red square.\n", "question": "Is the red square to the right of the triangle?", "ans": "yes"}
+{"story": "The blue square is to the right of the triangle.\nThe blue square is to the left of the red square.\n", "question": "Is the red square to the right of the triangle?", "ans": "yes"}
+{"story": "The red sphere is below the yellow square.\nThe red sphere is above the blue square.\n", "question": "Is the blue square below the yellow square?", "ans": "yes"}
+{"story": "The red sphere is below the yellow square.\nThe red sphere is above the blue square.\n", "question": "Is the yellow square above the blue square?", "ans": "yes"}
+{"story": "The red sphere is below the yellow square.\nThe red sphere is above the blue square.\n", "question": "Is the yellow square above the blue square?", "ans": "yes"}
+{"story": "The red sphere is below the yellow square.\nThe red sphere is above the blue square.\n", "question": "Is the yellow square above the blue square?", "ans": "yes"}
+{"story": "The red sphere is below the yellow square.\nThe red sphere is above the blue square.\n", "question": "Is the yellow square below the blue square?", "ans": "no"}
+{"story": "The red sphere is below the yellow square.\nThe red sphere is above the blue square.\n", "question": "Is the blue square to the right of the yellow square?", "ans": "no"}
+{"story": "The red sphere is below the yellow square.\nThe red sphere is above the blue square.\n", "question": "Is the yellow square to the left of the blue square?", "ans": "no"}
+{"story": "The red sphere is below the yellow square.\nThe red sphere is above the blue square.\n", "question": "Is the yellow square above the blue square?", "ans": "yes"}
+{"story": "The red square is to the right of the triangle.\nThe red square is below the blue square.\n", "question": "Is the blue square above the triangle?", "ans": "yes"}
+{"story": "The red square is to the right of the triangle.\nThe red square is below the blue square.\n", "question": "Is the triangle below the blue square?", "ans": "yes"}
+{"story": "The red square is to the right of the triangle.\nThe red square is below the blue square.\n", "question": "Is the triangle to the left of the blue square?", "ans": "yes"}
+{"story": "The red square is to the right of the triangle.\nThe red square is below the blue square.\n", "question": "Is the blue square to the left of the triangle?", "ans": "no"}
+{"story": "The red square is to the right of the triangle.\nThe red square is below the blue square.\n", "question": "Is the blue square above the triangle?", "ans": "yes"}
+{"story": "The red square is to the right of the triangle.\nThe red square is below the blue square.\n", "question": "Is the triangle below the blue square?", "ans": "yes"}
+{"story": "The red square is to the right of the triangle.\nThe red square is below the blue square.\n", "question": "Is the triangle to the right of the blue square?", "ans": "no"}
+{"story": "The red square is to the right of the triangle.\nThe red square is below the blue square.\n", "question": "Is the blue square to the left of the triangle?", "ans": "no"}
+{"story": "The red square is above the pink rectangle.\nThe red square is to the right of the triangle.\n", "question": "Is the pink rectangle above the triangle?", "ans": "no"}
+{"story": "The red square is above the pink rectangle.\nThe red square is to the right of the triangle.\n", "question": "Is the pink rectangle to the right of the triangle?", "ans": "yes"}
+{"story": "The red square is above the pink rectangle.\nThe red square is to the right of the triangle.\n", "question": "Is the pink rectangle above the triangle?", "ans": "no"}
+{"story": "The red square is above the pink rectangle.\nThe red square is to the right of the triangle.\n", "question": "Is the pink rectangle below the triangle?", "ans": "yes"}
+{"story": "The red square is above the pink rectangle.\nThe red square is to the right of the triangle.\n", "question": "Is the pink rectangle below the triangle?", "ans": "yes"}
+{"story": "The red square is above the pink rectangle.\nThe red square is to the right of the triangle.\n", "question": "Is the triangle to the left of the pink rectangle?", "ans": "yes"}
+{"story": "The red square is above the pink rectangle.\nThe red square is to the right of the triangle.\n", "question": "Is the pink rectangle to the left of the triangle?", "ans": "no"}
+{"story": "The red square is above the pink rectangle.\nThe red square is to the right of the triangle.\n", "question": "Is the pink rectangle to the right of the triangle?", "ans": "yes"}
+{"story": "The red sphere is to the right of the red square.\nThe red square is above the blue square.\n", "question": "Is the red sphere to the left of the blue square?", "ans": "no"}
+{"story": "The red sphere is to the right of the red square.\nThe red square is above the blue square.\n", "question": "Is the red sphere to the left of the blue square?", "ans": "no"}
+{"story": "The red sphere is to the right of the red square.\nThe red square is above the blue square.\n", "question": "Is the blue square to the right of the red sphere?", "ans": "no"}
+{"story": "The red sphere is to the right of the red square.\nThe red square is above the blue square.\n", "question": "Is the blue square to the left of the red sphere?", "ans": "yes"}
+{"story": "The red sphere is to the right of the red square.\nThe red square is above the blue square.\n", "question": "Is the blue square above the red sphere?", "ans": "no"}
+{"story": "The red sphere is to the right of the red square.\nThe red square is above the blue square.\n", "question": "Is the blue square below the red sphere?", "ans": "yes"}
+{"story": "The red sphere is to the right of the red square.\nThe red square is above the blue square.\n", "question": "Is the red sphere to the left of the blue square?", "ans": "no"}
+{"story": "The red sphere is to the right of the red square.\nThe red square is above the blue square.\n", "question": "Is the blue square to the right of the red sphere?", "ans": "no"}
+{"story": "The triangle is below the blue square.\nThe red sphere is to the right of the triangle.\n", "question": "Is the blue square above the red sphere?", "ans": "yes"}
+{"story": "The triangle is below the blue square.\nThe red sphere is to the right of the triangle.\n", "question": "Is the blue square above the red sphere?", "ans": "yes"}
+{"story": "The triangle is below the blue square.\nThe red sphere is to the right of the triangle.\n", "question": "Is the red sphere below the blue square?", "ans": "yes"}
+{"story": "The triangle is below the blue square.\nThe red sphere is to the right of the triangle.\n", "question": "Is the blue square below the red sphere?", "ans": "no"}
+{"story": "The triangle is below the blue square.\nThe red sphere is to the right of the triangle.\n", "question": "Is the red sphere to the left of the blue square?", "ans": "no"}
+{"story": "The triangle is below the blue square.\nThe red sphere is to the right of the triangle.\n", "question": "Is the blue square to the right of the red sphere?", "ans": "no"}
+{"story": "The triangle is below the blue square.\nThe red sphere is to the right of the triangle.\n", "question": "Is the red sphere above the blue square?", "ans": "no"}
+{"story": "The triangle is below the blue square.\nThe red sphere is to the right of the triangle.\n", "question": "Is the blue square to the right of the red sphere?", "ans": "no"}
+{"story": "The red sphere is below the triangle.\nThe red sphere is to the left of the pink rectangle.\n", "question": "Is the triangle to the right of the pink rectangle?", "ans": "no"}
+{"story": "The red sphere is below the triangle.\nThe red sphere is to the left of the pink rectangle.\n", "question": "Is the pink rectangle above the triangle?", "ans": "no"}
+{"story": "The red sphere is below the triangle.\nThe red sphere is to the left of the pink rectangle.\n", "question": "Is the pink rectangle to the left of the triangle?", "ans": "no"}
+{"story": "The red sphere is below the triangle.\nThe red sphere is to the left of the pink rectangle.\n", "question": "Is the pink rectangle below the triangle?", "ans": "yes"}
+{"story": "The red sphere is below the triangle.\nThe red sphere is to the left of the pink rectangle.\n", "question": "Is the pink rectangle below the triangle?", "ans": "yes"}
+{"story": "The red sphere is below the triangle.\nThe red sphere is to the left of the pink rectangle.\n", "question": "Is the triangle below the pink rectangle?", "ans": "no"}
+{"story": "The red sphere is below the triangle.\nThe red sphere is to the left of the pink rectangle.\n", "question": "Is the pink rectangle to the left of the triangle?", "ans": "no"}
+{"story": "The red sphere is below the triangle.\nThe red sphere is to the left of the pink rectangle.\n", "question": "Is the triangle to the right of the pink rectangle?", "ans": "no"}
+{"story": "The blue square is to the right of the red sphere.\nThe red sphere is to the right of the triangle.\n", "question": "Is the triangle to the right of the blue square?", "ans": "no"}
+{"story": "The blue square is to the right of the red sphere.\nThe red sphere is to the right of the triangle.\n", "question": "Is the triangle below the blue square?", "ans": "no"}
+{"story": "The blue square is to the right of the red sphere.\nThe red sphere is to the right of the triangle.\n", "question": "Is the blue square above the triangle?", "ans": "no"}
+{"story": "The blue square is to the right of the red sphere.\nThe red sphere is to the right of the triangle.\n", "question": "Is the triangle to the left of the blue square?", "ans": "yes"}
+{"story": "The blue square is to the right of the red sphere.\nThe red sphere is to the right of the triangle.\n", "question": "Is the blue square to the right of the triangle?", "ans": "yes"}
+{"story": "The blue square is to the right of the red sphere.\nThe red sphere is to the right of the triangle.\n", "question": "Is the triangle below the blue square?", "ans": "no"}
+{"story": "The blue square is to the right of the red sphere.\nThe red sphere is to the right of the triangle.\n", "question": "Is the blue square to the right of the triangle?", "ans": "yes"}
+{"story": "The blue square is to the right of the red sphere.\nThe red sphere is to the right of the triangle.\n", "question": "Is the blue square to the left of the triangle?", "ans": "no"}
+{"story": "The blue square is below the red square.\nThe blue square is above the triangle.\n", "question": "Is the triangle above the red square?", "ans": "no"}
+{"story": "The blue square is below the red square.\nThe blue square is above the triangle.\n", "question": "Is the triangle below the red square?", "ans": "yes"}
+{"story": "The blue square is below the red square.\nThe blue square is above the triangle.\n", "question": "Is the triangle to the left of the red square?", "ans": "no"}
+{"story": "The blue square is below the red square.\nThe blue square is above the triangle.\n", "question": "Is the triangle below the red square?", "ans": "yes"}
+{"story": "The blue square is below the red square.\nThe blue square is above the triangle.\n", "question": "Is the red square above the triangle?", "ans": "yes"}
+{"story": "The blue square is below the red square.\nThe blue square is above the triangle.\n", "question": "Is the red square above the triangle?", "ans": "yes"}
+{"story": "The blue square is below the red square.\nThe blue square is above the triangle.\n", "question": "Is the triangle below the red square?", "ans": "yes"}
+{"story": "The blue square is below the red square.\nThe blue square is above the triangle.\n", "question": "Is the triangle below the red square?", "ans": "yes"}
+{"story": "The red square is below the blue square.\nThe blue square is below the pink rectangle.\n", "question": "Is the red square to the left of the pink rectangle?", "ans": "no"}
+{"story": "The red square is below the blue square.\nThe blue square is below the pink rectangle.\n", "question": "Is the pink rectangle to the right of the red square?", "ans": "no"}
+{"story": "The red square is below the blue square.\nThe blue square is below the pink rectangle.\n", "question": "Is the red square below the pink rectangle?", "ans": "yes"}
+{"story": "The red square is below the blue square.\nThe blue square is below the pink rectangle.\n", "question": "Is the red square below the pink rectangle?", "ans": "yes"}
+{"story": "The red square is below the blue square.\nThe blue square is below the pink rectangle.\n", "question": "Is the red square to the right of the pink rectangle?", "ans": "no"}
+{"story": "The red square is below the blue square.\nThe blue square is below the pink rectangle.\n", "question": "Is the red square to the right of the pink rectangle?", "ans": "no"}
+{"story": "The red square is below the blue square.\nThe blue square is below the pink rectangle.\n", "question": "Is the pink rectangle below the red square?", "ans": "no"}
+{"story": "The red square is below the blue square.\nThe blue square is below the pink rectangle.\n", "question": "Is the red square above the pink rectangle?", "ans": "no"}
+{"story": "The blue square is below the pink rectangle.\nThe blue square is above the red square.\n", "question": "Is the red square below the pink rectangle?", "ans": "yes"}
+{"story": "The blue square is below the pink rectangle.\nThe blue square is above the red square.\n", "question": "Is the red square above the pink rectangle?", "ans": "no"}
+{"story": "The blue square is below the pink rectangle.\nThe blue square is above the red square.\n", "question": "Is the pink rectangle above the red square?", "ans": "yes"}
+{"story": "The blue square is below the pink rectangle.\nThe blue square is above the red square.\n", "question": "Is the red square below the pink rectangle?", "ans": "yes"}
+{"story": "The blue square is below the pink rectangle.\nThe blue square is above the red square.\n", "question": "Is the pink rectangle above the red square?", "ans": "yes"}
+{"story": "The blue square is below the pink rectangle.\nThe blue square is above the red square.\n", "question": "Is the red square above the pink rectangle?", "ans": "no"}
+{"story": "The blue square is below the pink rectangle.\nThe blue square is above the red square.\n", "question": "Is the red square above the pink rectangle?", "ans": "no"}
+{"story": "The blue square is below the pink rectangle.\nThe blue square is above the red square.\n", "question": "Is the pink rectangle above the red square?", "ans": "yes"}
+{"story": "The red sphere is to the right of the triangle.\nThe yellow square is to the right of the red sphere.\n", "question": "Is the triangle below the yellow square?", "ans": "no"}
+{"story": "The red sphere is to the right of the triangle.\nThe yellow square is to the right of the red sphere.\n", "question": "Is the yellow square below the triangle?", "ans": "no"}
+{"story": "The red sphere is to the right of the triangle.\nThe yellow square is to the right of the red sphere.\n", "question": "Is the triangle to the left of the yellow square?", "ans": "yes"}
+{"story": "The red sphere is to the right of the triangle.\nThe yellow square is to the right of the red sphere.\n", "question": "Is the yellow square to the left of the triangle?", "ans": "no"}
+{"story": "The red sphere is to the right of the triangle.\nThe yellow square is to the right of the red sphere.\n", "question": "Is the yellow square to the right of the triangle?", "ans": "yes"}
+{"story": "The red sphere is to the right of the triangle.\nThe yellow square is to the right of the red sphere.\n", "question": "Is the yellow square to the right of the triangle?", "ans": "yes"}
+{"story": "The red sphere is to the right of the triangle.\nThe yellow square is to the right of the red sphere.\n", "question": "Is the yellow square to the right of the triangle?", "ans": "yes"}
+{"story": "The red sphere is to the right of the triangle.\nThe yellow square is to the right of the red sphere.\n", "question": "Is the triangle above the yellow square?", "ans": "no"}
+{"story": "The triangle is to the left of the pink rectangle.\nThe blue square is below the triangle.\n", "question": "Is the pink rectangle above the blue square?", "ans": "yes"}
+{"story": "The triangle is to the left of the pink rectangle.\nThe blue square is below the triangle.\n", "question": "Is the blue square to the left of the pink rectangle?", "ans": "yes"}
+{"story": "The triangle is to the left of the pink rectangle.\nThe blue square is below the triangle.\n", "question": "Is the pink rectangle above the blue square?", "ans": "yes"}
+{"story": "The triangle is to the left of the pink rectangle.\nThe blue square is below the triangle.\n", "question": "Is the blue square to the left of the pink rectangle?", "ans": "yes"}
+{"story": "The triangle is to the left of the pink rectangle.\nThe blue square is below the triangle.\n", "question": "Is the blue square to the right of the pink rectangle?", "ans": "no"}
+{"story": "The triangle is to the left of the pink rectangle.\nThe blue square is below the triangle.\n", "question": "Is the blue square to the left of the pink rectangle?", "ans": "yes"}
+{"story": "The triangle is to the left of the pink rectangle.\nThe blue square is below the triangle.\n", "question": "Is the blue square above the pink rectangle?", "ans": "no"}
+{"story": "The triangle is to the left of the pink rectangle.\nThe blue square is below the triangle.\n", "question": "Is the blue square above the pink rectangle?", "ans": "no"}
+{"story": "The triangle is below the red square.\nThe triangle is to the left of the blue square.\n", "question": "Is the red square to the right of the blue square?", "ans": "no"}
+{"story": "The triangle is below the red square.\nThe triangle is to the left of the blue square.\n", "question": "Is the blue square below the red square?", "ans": "yes"}
+{"story": "The triangle is below the red square.\nThe triangle is to the left of the blue square.\n", "question": "Is the red square below the blue square?", "ans": "no"}
+{"story": "The triangle is below the red square.\nThe triangle is to the left of the blue square.\n", "question": "Is the blue square above the red square?", "ans": "no"}
+{"story": "The triangle is below the red square.\nThe triangle is to the left of the blue square.\n", "question": "Is the red square to the right of the blue square?", "ans": "no"}
+{"story": "The triangle is below the red square.\nThe triangle is to the left of the blue square.\n", "question": "Is the red square to the right of the blue square?", "ans": "no"}
+{"story": "The triangle is below the red square.\nThe triangle is to the left of the blue square.\n", "question": "Is the red square to the left of the blue square?", "ans": "yes"}
+{"story": "The triangle is below the red square.\nThe triangle is to the left of the blue square.\n", "question": "Is the red square below the blue square?", "ans": "no"}
+{"story": "The yellow square is to the right of the blue square.\nThe triangle is above the blue square.\n", "question": "Is the yellow square below the triangle?", "ans": "yes"}
+{"story": "The yellow square is to the right of the blue square.\nThe triangle is above the blue square.\n", "question": "Is the triangle below the yellow square?", "ans": "no"}
+{"story": "The yellow square is to the right of the blue square.\nThe triangle is above the blue square.\n", "question": "Is the triangle below the yellow square?", "ans": "no"}
+{"story": "The yellow square is to the right of the blue square.\nThe triangle is above the blue square.\n", "question": "Is the triangle below the yellow square?", "ans": "no"}
+{"story": "The yellow square is to the right of the blue square.\nThe triangle is above the blue square.\n", "question": "Is the yellow square below the triangle?", "ans": "yes"}
+{"story": "The yellow square is to the right of the blue square.\nThe triangle is above the blue square.\n", "question": "Is the yellow square below the triangle?", "ans": "yes"}
+{"story": "The yellow square is to the right of the blue square.\nThe triangle is above the blue square.\n", "question": "Is the triangle above the yellow square?", "ans": "yes"}
+{"story": "The yellow square is to the right of the blue square.\nThe triangle is above the blue square.\n", "question": "Is the yellow square to the right of the triangle?", "ans": "yes"}
+{"story": "The red sphere is to the right of the blue square.\nThe blue square is below the yellow square.\n", "question": "Is the red sphere above the yellow square?", "ans": "no"}
+{"story": "The red sphere is to the right of the blue square.\nThe blue square is below the yellow square.\n", "question": "Is the red sphere above the yellow square?", "ans": "no"}
+{"story": "The red sphere is to the right of the blue square.\nThe blue square is below the yellow square.\n", "question": "Is the yellow square below the red sphere?", "ans": "no"}
+{"story": "The red sphere is to the right of the blue square.\nThe blue square is below the yellow square.\n", "question": "Is the yellow square to the left of the red sphere?", "ans": "yes"}
+{"story": "The red sphere is to the right of the blue square.\nThe blue square is below the yellow square.\n", "question": "Is the red sphere to the right of the yellow square?", "ans": "yes"}
+{"story": "The red sphere is to the right of the blue square.\nThe blue square is below the yellow square.\n", "question": "Is the red sphere below the yellow square?", "ans": "yes"}
+{"story": "The red sphere is to the right of the blue square.\nThe blue square is below the yellow square.\n", "question": "Is the red sphere above the yellow square?", "ans": "no"}
+{"story": "The red sphere is to the right of the blue square.\nThe blue square is below the yellow square.\n", "question": "Is the red sphere below the yellow square?", "ans": "yes"}
+{"story": "The pink rectangle is above the yellow square.\nThe pink rectangle is to the left of the red sphere.\n", "question": "Is the red sphere below the yellow square?", "ans": "no"}
+{"story": "The pink rectangle is above the yellow square.\nThe pink rectangle is to the left of the red sphere.\n", "question": "Is the red sphere to the right of the yellow square?", "ans": "yes"}
+{"story": "The pink rectangle is above the yellow square.\nThe pink rectangle is to the left of the red sphere.\n", "question": "Is the yellow square to the right of the red sphere?", "ans": "no"}
+{"story": "The pink rectangle is above the yellow square.\nThe pink rectangle is to the left of the red sphere.\n", "question": "Is the red sphere to the right of the yellow square?", "ans": "yes"}
+{"story": "The pink rectangle is above the yellow square.\nThe pink rectangle is to the left of the red sphere.\n", "question": "Is the yellow square to the right of the red sphere?", "ans": "no"}
+{"story": "The pink rectangle is above the yellow square.\nThe pink rectangle is to the left of the red sphere.\n", "question": "Is the yellow square below the red sphere?", "ans": "yes"}
+{"story": "The pink rectangle is above the yellow square.\nThe pink rectangle is to the left of the red sphere.\n", "question": "Is the red sphere above the yellow square?", "ans": "yes"}
+{"story": "The pink rectangle is above the yellow square.\nThe pink rectangle is to the left of the red sphere.\n", "question": "Is the yellow square above the red sphere?", "ans": "no"}
+{"story": "The yellow square is above the red sphere.\nThe red sphere is to the right of the blue square.\n", "question": "Is the yellow square above the blue square?", "ans": "yes"}
+{"story": "The yellow square is above the red sphere.\nThe red sphere is to the right of the blue square.\n", "question": "Is the yellow square to the left of the blue square?", "ans": "no"}
+{"story": "The yellow square is above the red sphere.\nThe red sphere is to the right of the blue square.\n", "question": "Is the blue square below the yellow square?", "ans": "yes"}
+{"story": "The yellow square is above the red sphere.\nThe red sphere is to the right of the blue square.\n", "question": "Is the yellow square to the right of the blue square?", "ans": "yes"}
+{"story": "The yellow square is above the red sphere.\nThe red sphere is to the right of the blue square.\n", "question": "Is the blue square below the yellow square?", "ans": "yes"}
+{"story": "The yellow square is above the red sphere.\nThe red sphere is to the right of the blue square.\n", "question": "Is the blue square to the left of the yellow square?", "ans": "yes"}
+{"story": "The yellow square is above the red sphere.\nThe red sphere is to the right of the blue square.\n", "question": "Is the blue square to the right of the yellow square?", "ans": "no"}
+{"story": "The yellow square is above the red sphere.\nThe red sphere is to the right of the blue square.\n", "question": "Is the blue square below the yellow square?", "ans": "yes"}
+{"story": "The yellow square is to the left of the red square.\nThe yellow square is above the pink rectangle.\n", "question": "Is the red square to the left of the pink rectangle?", "ans": "no"}
+{"story": "The yellow square is to the left of the red square.\nThe yellow square is above the pink rectangle.\n", "question": "Is the pink rectangle to the right of the red square?", "ans": "no"}
+{"story": "The yellow square is to the left of the red square.\nThe yellow square is above the pink rectangle.\n", "question": "Is the pink rectangle above the red square?", "ans": "no"}
+{"story": "The yellow square is to the left of the red square.\nThe yellow square is above the pink rectangle.\n", "question": "Is the pink rectangle to the right of the red square?", "ans": "no"}
+{"story": "The yellow square is to the left of the red square.\nThe yellow square is above the pink rectangle.\n", "question": "Is the pink rectangle to the left of the red square?", "ans": "yes"}
+{"story": "The yellow square is to the left of the red square.\nThe yellow square is above the pink rectangle.\n", "question": "Is the red square to the left of the pink rectangle?", "ans": "no"}
+{"story": "The yellow square is to the left of the red square.\nThe yellow square is above the pink rectangle.\n", "question": "Is the red square below the pink rectangle?", "ans": "no"}
+{"story": "The yellow square is to the left of the red square.\nThe yellow square is above the pink rectangle.\n", "question": "Is the pink rectangle below the red square?", "ans": "yes"}
+{"story": "The pink rectangle is below the blue square.\nThe triangle is to the right of the pink rectangle.\n", "question": "Is the blue square below the triangle?", "ans": "no"}
+{"story": "The pink rectangle is below the blue square.\nThe triangle is to the right of the pink rectangle.\n", "question": "Is the blue square below the triangle?", "ans": "no"}
+{"story": "The pink rectangle is below the blue square.\nThe triangle is to the right of the pink rectangle.\n", "question": "Is the blue square to the right of the triangle?", "ans": "no"}
+{"story": "The pink rectangle is below the blue square.\nThe triangle is to the right of the pink rectangle.\n", "question": "Is the triangle above the blue square?", "ans": "no"}
+{"story": "The pink rectangle is below the blue square.\nThe triangle is to the right of the pink rectangle.\n", "question": "Is the triangle to the left of the blue square?", "ans": "no"}
+{"story": "The pink rectangle is below the blue square.\nThe triangle is to the right of the pink rectangle.\n", "question": "Is the blue square below the triangle?", "ans": "no"}
+{"story": "The pink rectangle is below the blue square.\nThe triangle is to the right of the pink rectangle.\n", "question": "Is the blue square below the triangle?", "ans": "no"}
+{"story": "The pink rectangle is below the blue square.\nThe triangle is to the right of the pink rectangle.\n", "question": "Is the triangle to the right of the blue square?", "ans": "yes"}
+{"story": "The triangle is to the right of the yellow square.\nThe pink rectangle is above the triangle.\n", "question": "Is the yellow square to the left of the pink rectangle?", "ans": "yes"}
+{"story": "The triangle is to the right of the yellow square.\nThe pink rectangle is above the triangle.\n", "question": "Is the pink rectangle above the yellow square?", "ans": "yes"}
+{"story": "The triangle is to the right of the yellow square.\nThe pink rectangle is above the triangle.\n", "question": "Is the pink rectangle to the right of the yellow square?", "ans": "yes"}
+{"story": "The triangle is to the right of the yellow square.\nThe pink rectangle is above the triangle.\n", "question": "Is the yellow square above the pink rectangle?", "ans": "no"}
+{"story": "The triangle is to the right of the yellow square.\nThe pink rectangle is above the triangle.\n", "question": "Is the pink rectangle below the yellow square?", "ans": "no"}
+{"story": "The triangle is to the right of the yellow square.\nThe pink rectangle is above the triangle.\n", "question": "Is the pink rectangle to the left of the yellow square?", "ans": "no"}
+{"story": "The triangle is to the right of the yellow square.\nThe pink rectangle is above the triangle.\n", "question": "Is the yellow square below the pink rectangle?", "ans": "yes"}
+{"story": "The triangle is to the right of the yellow square.\nThe pink rectangle is above the triangle.\n", "question": "Is the yellow square above the pink rectangle?", "ans": "no"}
+{"story": "The yellow square is to the right of the blue square.\nThe yellow square is to the left of the pink rectangle.\n", "question": "Is the pink rectangle to the right of the blue square?", "ans": "yes"}
+{"story": "The yellow square is to the right of the blue square.\nThe yellow square is to the left of the pink rectangle.\n", "question": "Is the pink rectangle below the blue square?", "ans": "no"}
+{"story": "The yellow square is to the right of the blue square.\nThe yellow square is to the left of the pink rectangle.\n", "question": "Is the pink rectangle to the right of the blue square?", "ans": "yes"}
+{"story": "The yellow square is to the right of the blue square.\nThe yellow square is to the left of the pink rectangle.\n", "question": "Is the blue square below the pink rectangle?", "ans": "no"}
+{"story": "The yellow square is to the right of the blue square.\nThe yellow square is to the left of the pink rectangle.\n", "question": "Is the pink rectangle below the blue square?", "ans": "no"}
+{"story": "The yellow square is to the right of the blue square.\nThe yellow square is to the left of the pink rectangle.\n", "question": "Is the blue square above the pink rectangle?", "ans": "no"}
+{"story": "The yellow square is to the right of the blue square.\nThe yellow square is to the left of the pink rectangle.\n", "question": "Is the pink rectangle to the right of the blue square?", "ans": "yes"}
+{"story": "The yellow square is to the right of the blue square.\nThe yellow square is to the left of the pink rectangle.\n", "question": "Is the blue square above the pink rectangle?", "ans": "no"}
+{"story": "The yellow square is below the pink rectangle.\nThe red sphere is below the yellow square.\n", "question": "Is the red sphere below the pink rectangle?", "ans": "yes"}
+{"story": "The yellow square is below the pink rectangle.\nThe red sphere is below the yellow square.\n", "question": "Is the pink rectangle below the red sphere?", "ans": "no"}
+{"story": "The yellow square is below the pink rectangle.\nThe red sphere is below the yellow square.\n", "question": "Is the red sphere above the pink rectangle?", "ans": "no"}
+{"story": "The yellow square is below the pink rectangle.\nThe red sphere is below the yellow square.\n", "question": "Is the pink rectangle below the red sphere?", "ans": "no"}
+{"story": "The yellow square is below the pink rectangle.\nThe red sphere is below the yellow square.\n", "question": "Is the pink rectangle above the red sphere?", "ans": "yes"}
+{"story": "The yellow square is below the pink rectangle.\nThe red sphere is below the yellow square.\n", "question": "Is the pink rectangle above the red sphere?", "ans": "yes"}
+{"story": "The yellow square is below the pink rectangle.\nThe red sphere is below the yellow square.\n", "question": "Is the pink rectangle below the red sphere?", "ans": "no"}
+{"story": "The yellow square is below the pink rectangle.\nThe red sphere is below the yellow square.\n", "question": "Is the pink rectangle above the red sphere?", "ans": "yes"}
+{"story": "The pink rectangle is below the blue square.\nThe blue square is to the right of the triangle.\n", "question": "Is the triangle to the left of the pink rectangle?", "ans": "yes"}
+{"story": "The pink rectangle is below the blue square.\nThe blue square is to the right of the triangle.\n", "question": "Is the triangle below the pink rectangle?", "ans": "no"}
+{"story": "The pink rectangle is below the blue square.\nThe blue square is to the right of the triangle.\n", "question": "Is the triangle above the pink rectangle?", "ans": "yes"}
+{"story": "The pink rectangle is below the blue square.\nThe blue square is to the right of the triangle.\n", "question": "Is the pink rectangle below the triangle?", "ans": "yes"}
+{"story": "The pink rectangle is below the blue square.\nThe blue square is to the right of the triangle.\n", "question": "Is the pink rectangle to the left of the triangle?", "ans": "no"}
+{"story": "The pink rectangle is below the blue square.\nThe blue square is to the right of the triangle.\n", "question": "Is the triangle below the pink rectangle?", "ans": "no"}
+{"story": "The pink rectangle is below the blue square.\nThe blue square is to the right of the triangle.\n", "question": "Is the triangle to the left of the pink rectangle?", "ans": "yes"}
+{"story": "The pink rectangle is below the blue square.\nThe blue square is to the right of the triangle.\n", "question": "Is the pink rectangle to the right of the triangle?", "ans": "yes"}
+{"story": "The pink rectangle is below the blue square.\nThe pink rectangle is above the triangle.\n", "question": "Is the blue square to the right of the triangle?", "ans": "no"}
+{"story": "The pink rectangle is below the blue square.\nThe pink rectangle is above the triangle.\n", "question": "Is the triangle to the left of the blue square?", "ans": "no"}
+{"story": "The pink rectangle is below the blue square.\nThe pink rectangle is above the triangle.\n", "question": "Is the triangle below the blue square?", "ans": "yes"}
+{"story": "The pink rectangle is below the blue square.\nThe pink rectangle is above the triangle.\n", "question": "Is the triangle above the blue square?", "ans": "no"}
+{"story": "The pink rectangle is below the blue square.\nThe pink rectangle is above the triangle.\n", "question": "Is the triangle above the blue square?", "ans": "no"}
+{"story": "The pink rectangle is below the blue square.\nThe pink rectangle is above the triangle.\n", "question": "Is the triangle above the blue square?", "ans": "no"}
+{"story": "The pink rectangle is below the blue square.\nThe pink rectangle is above the triangle.\n", "question": "Is the blue square to the right of the triangle?", "ans": "no"}
+{"story": "The pink rectangle is below the blue square.\nThe pink rectangle is above the triangle.\n", "question": "Is the triangle to the left of the blue square?", "ans": "no"}
+{"story": "The blue square is above the pink rectangle.\nThe blue square is to the left of the yellow square.\n", "question": "Is the pink rectangle to the right of the yellow square?", "ans": "no"}
+{"story": "The blue square is above the pink rectangle.\nThe blue square is to the left of the yellow square.\n", "question": "Is the yellow square to the left of the pink rectangle?", "ans": "no"}
+{"story": "The blue square is above the pink rectangle.\nThe blue square is to the left of the yellow square.\n", "question": "Is the pink rectangle to the left of the yellow square?", "ans": "yes"}
+{"story": "The blue square is above the pink rectangle.\nThe blue square is to the left of the yellow square.\n", "question": "Is the yellow square below the pink rectangle?", "ans": "no"}
+{"story": "The blue square is above the pink rectangle.\nThe blue square is to the left of the yellow square.\n", "question": "Is the yellow square below the pink rectangle?", "ans": "no"}
+{"story": "The blue square is above the pink rectangle.\nThe blue square is to the left of the yellow square.\n", "question": "Is the pink rectangle below the yellow square?", "ans": "yes"}
+{"story": "The blue square is above the pink rectangle.\nThe blue square is to the left of the yellow square.\n", "question": "Is the yellow square below the pink rectangle?", "ans": "no"}
+{"story": "The blue square is above the pink rectangle.\nThe blue square is to the left of the yellow square.\n", "question": "Is the pink rectangle above the yellow square?", "ans": "no"}
+{"story": "The pink rectangle is to the left of the triangle.\nThe pink rectangle is to the right of the yellow square.\n", "question": "Is the yellow square to the left of the triangle?", "ans": "yes"}
+{"story": "The pink rectangle is to the left of the triangle.\nThe pink rectangle is to the right of the yellow square.\n", "question": "Is the triangle above the yellow square?", "ans": "no"}
+{"story": "The pink rectangle is to the left of the triangle.\nThe pink rectangle is to the right of the yellow square.\n", "question": "Is the yellow square to the left of the triangle?", "ans": "yes"}
+{"story": "The pink rectangle is to the left of the triangle.\nThe pink rectangle is to the right of the yellow square.\n", "question": "Is the triangle to the right of the yellow square?", "ans": "yes"}
+{"story": "The pink rectangle is to the left of the triangle.\nThe pink rectangle is to the right of the yellow square.\n", "question": "Is the yellow square above the triangle?", "ans": "no"}
+{"story": "The pink rectangle is to the left of the triangle.\nThe pink rectangle is to the right of the yellow square.\n", "question": "Is the triangle above the yellow square?", "ans": "no"}
+{"story": "The pink rectangle is to the left of the triangle.\nThe pink rectangle is to the right of the yellow square.\n", "question": "Is the yellow square to the left of the triangle?", "ans": "yes"}
+{"story": "The pink rectangle is to the left of the triangle.\nThe pink rectangle is to the right of the yellow square.\n", "question": "Is the triangle to the right of the yellow square?", "ans": "yes"}
+{"story": "The pink rectangle is to the left of the blue square.\nThe blue square is to the left of the triangle.\n", "question": "Is the pink rectangle to the right of the triangle?", "ans": "no"}
+{"story": "The pink rectangle is to the left of the blue square.\nThe blue square is to the left of the triangle.\n", "question": "Is the triangle to the right of the pink rectangle?", "ans": "yes"}
+{"story": "The pink rectangle is to the left of the blue square.\nThe blue square is to the left of the triangle.\n", "question": "Is the triangle to the right of the pink rectangle?", "ans": "yes"}
+{"story": "The pink rectangle is to the left of the blue square.\nThe blue square is to the left of the triangle.\n", "question": "Is the triangle to the right of the pink rectangle?", "ans": "yes"}
+{"story": "The pink rectangle is to the left of the blue square.\nThe blue square is to the left of the triangle.\n", "question": "Is the triangle to the right of the pink rectangle?", "ans": "yes"}
+{"story": "The pink rectangle is to the left of the blue square.\nThe blue square is to the left of the triangle.\n", "question": "Is the triangle below the pink rectangle?", "ans": "no"}
+{"story": "The pink rectangle is to the left of the blue square.\nThe blue square is to the left of the triangle.\n", "question": "Is the triangle below the pink rectangle?", "ans": "no"}
+{"story": "The pink rectangle is to the left of the blue square.\nThe blue square is to the left of the triangle.\n", "question": "Is the pink rectangle below the triangle?", "ans": "no"}
+{"story": "The pink rectangle is above the red sphere.\nThe red square is above the pink rectangle.\n", "question": "Is the red square below the red sphere?", "ans": "no"}
+{"story": "The pink rectangle is above the red sphere.\nThe red square is above the pink rectangle.\n", "question": "Is the red sphere below the red square?", "ans": "yes"}
+{"story": "The pink rectangle is above the red sphere.\nThe red square is above the pink rectangle.\n", "question": "Is the red sphere above the red square?", "ans": "no"}
+{"story": "The pink rectangle is above the red sphere.\nThe red square is above the pink rectangle.\n", "question": "Is the red sphere below the red square?", "ans": "yes"}
+{"story": "The pink rectangle is above the red sphere.\nThe red square is above the pink rectangle.\n", "question": "Is the red square to the left of the red sphere?", "ans": "no"}
+{"story": "The pink rectangle is above the red sphere.\nThe red square is above the pink rectangle.\n", "question": "Is the red sphere below the red square?", "ans": "yes"}
+{"story": "The pink rectangle is above the red sphere.\nThe red square is above the pink rectangle.\n", "question": "Is the red sphere to the left of the red square?", "ans": "no"}
+{"story": "The pink rectangle is above the red sphere.\nThe red square is above the pink rectangle.\n", "question": "Is the red sphere to the left of the red square?", "ans": "no"}
+{"story": "The red sphere is to the right of the yellow square.\nThe triangle is above the red sphere.\n", "question": "Is the yellow square to the left of the triangle?", "ans": "yes"}
+{"story": "The red sphere is to the right of the yellow square.\nThe triangle is above the red sphere.\n", "question": "Is the yellow square to the left of the triangle?", "ans": "yes"}
+{"story": "The red sphere is to the right of the yellow square.\nThe triangle is above the red sphere.\n", "question": "Is the yellow square above the triangle?", "ans": "no"}
+{"story": "The red sphere is to the right of the yellow square.\nThe triangle is above the red sphere.\n", "question": "Is the yellow square to the left of the triangle?", "ans": "yes"}
+{"story": "The red sphere is to the right of the yellow square.\nThe triangle is above the red sphere.\n", "question": "Is the triangle to the left of the yellow square?", "ans": "no"}
+{"story": "The red sphere is to the right of the yellow square.\nThe triangle is above the red sphere.\n", "question": "Is the triangle to the left of the yellow square?", "ans": "no"}
+{"story": "The red sphere is to the right of the yellow square.\nThe triangle is above the red sphere.\n", "question": "Is the yellow square above the triangle?", "ans": "no"}
+{"story": "The red sphere is to the right of the yellow square.\nThe triangle is above the red sphere.\n", "question": "Is the triangle to the right of the yellow square?", "ans": "yes"}
+{"story": "The red sphere is to the left of the blue square.\nThe yellow square is below the blue square.\n", "question": "Is the red sphere below the yellow square?", "ans": "no"}
+{"story": "The red sphere is to the left of the blue square.\nThe yellow square is below the blue square.\n", "question": "Is the yellow square below the red sphere?", "ans": "yes"}
+{"story": "The red sphere is to the left of the blue square.\nThe yellow square is below the blue square.\n", "question": "Is the red sphere to the right of the yellow square?", "ans": "no"}
+{"story": "The red sphere is to the left of the blue square.\nThe yellow square is below the blue square.\n", "question": "Is the red sphere above the yellow square?", "ans": "yes"}
+{"story": "The red sphere is to the left of the blue square.\nThe yellow square is below the blue square.\n", "question": "Is the yellow square to the left of the red sphere?", "ans": "no"}
+{"story": "The red sphere is to the left of the blue square.\nThe yellow square is below the blue square.\n", "question": "Is the yellow square to the right of the red sphere?", "ans": "yes"}
+{"story": "The red sphere is to the left of the blue square.\nThe yellow square is below the blue square.\n", "question": "Is the red sphere above the yellow square?", "ans": "yes"}
+{"story": "The red sphere is to the left of the blue square.\nThe yellow square is below the blue square.\n", "question": "Is the red sphere to the left of the yellow square?", "ans": "yes"}
+{"story": "The yellow square is to the right of the pink rectangle.\nThe yellow square is below the triangle.\n", "question": "Is the pink rectangle below the triangle?", "ans": "yes"}
+{"story": "The yellow square is to the right of the pink rectangle.\nThe yellow square is below the triangle.\n", "question": "Is the triangle to the right of the pink rectangle?", "ans": "yes"}
+{"story": "The yellow square is to the right of the pink rectangle.\nThe yellow square is below the triangle.\n", "question": "Is the triangle above the pink rectangle?", "ans": "yes"}
+{"story": "The yellow square is to the right of the pink rectangle.\nThe yellow square is below the triangle.\n", "question": "Is the triangle to the right of the pink rectangle?", "ans": "yes"}
+{"story": "The yellow square is to the right of the pink rectangle.\nThe yellow square is below the triangle.\n", "question": "Is the pink rectangle to the left of the triangle?", "ans": "yes"}
+{"story": "The yellow square is to the right of the pink rectangle.\nThe yellow square is below the triangle.\n", "question": "Is the triangle to the right of the pink rectangle?", "ans": "yes"}
+{"story": "The yellow square is to the right of the pink rectangle.\nThe yellow square is below the triangle.\n", "question": "Is the triangle to the left of the pink rectangle?", "ans": "no"}
+{"story": "The yellow square is to the right of the pink rectangle.\nThe yellow square is below the triangle.\n", "question": "Is the triangle to the left of the pink rectangle?", "ans": "no"}
+{"story": "The triangle is to the right of the pink rectangle.\nThe pink rectangle is above the red sphere.\n", "question": "Is the red sphere below the triangle?", "ans": "yes"}
+{"story": "The triangle is to the right of the pink rectangle.\nThe pink rectangle is above the red sphere.\n", "question": "Is the red sphere above the triangle?", "ans": "no"}
+{"story": "The triangle is to the right of the pink rectangle.\nThe pink rectangle is above the red sphere.\n", "question": "Is the red sphere above the triangle?", "ans": "no"}
+{"story": "The triangle is to the right of the pink rectangle.\nThe pink rectangle is above the red sphere.\n", "question": "Is the triangle above the red sphere?", "ans": "yes"}
+{"story": "The triangle is to the right of the pink rectangle.\nThe pink rectangle is above the red sphere.\n", "question": "Is the red sphere to the left of the triangle?", "ans": "yes"}
+{"story": "The triangle is to the right of the pink rectangle.\nThe pink rectangle is above the red sphere.\n", "question": "Is the red sphere to the right of the triangle?", "ans": "no"}
+{"story": "The triangle is to the right of the pink rectangle.\nThe pink rectangle is above the red sphere.\n", "question": "Is the red sphere to the right of the triangle?", "ans": "no"}
+{"story": "The triangle is to the right of the pink rectangle.\nThe pink rectangle is above the red sphere.\n", "question": "Is the triangle above the red sphere?", "ans": "yes"}
+{"story": "The red square is to the right of the triangle.\nThe yellow square is below the red square.\n", "question": "Is the yellow square to the left of the triangle?", "ans": "no"}
+{"story": "The red square is to the right of the triangle.\nThe yellow square is below the red square.\n", "question": "Is the yellow square to the right of the triangle?", "ans": "yes"}
+{"story": "The red square is to the right of the triangle.\nThe yellow square is below the red square.\n", "question": "Is the yellow square to the right of the triangle?", "ans": "yes"}
+{"story": "The red square is to the right of the triangle.\nThe yellow square is below the red square.\n", "question": "Is the yellow square to the left of the triangle?", "ans": "no"}
+{"story": "The red square is to the right of the triangle.\nThe yellow square is below the red square.\n", "question": "Is the triangle to the right of the yellow square?", "ans": "no"}
+{"story": "The red square is to the right of the triangle.\nThe yellow square is below the red square.\n", "question": "Is the triangle below the yellow square?", "ans": "no"}
+{"story": "The red square is to the right of the triangle.\nThe yellow square is below the red square.\n", "question": "Is the triangle to the right of the yellow square?", "ans": "no"}
+{"story": "The red square is to the right of the triangle.\nThe yellow square is below the red square.\n", "question": "Is the yellow square above the triangle?", "ans": "no"}
+{"story": "The triangle is above the red sphere.\nThe pink rectangle is to the left of the red sphere.\n", "question": "Is the triangle to the left of the pink rectangle?", "ans": "no"}
+{"story": "The triangle is above the red sphere.\nThe pink rectangle is to the left of the red sphere.\n", "question": "Is the pink rectangle below the triangle?", "ans": "yes"}
+{"story": "The triangle is above the red sphere.\nThe pink rectangle is to the left of the red sphere.\n", "question": "Is the triangle above the pink rectangle?", "ans": "yes"}
+{"story": "The triangle is above the red sphere.\nThe pink rectangle is to the left of the red sphere.\n", "question": "Is the pink rectangle to the left of the triangle?", "ans": "yes"}
+{"story": "The triangle is above the red sphere.\nThe pink rectangle is to the left of the red sphere.\n", "question": "Is the pink rectangle above the triangle?", "ans": "no"}
+{"story": "The triangle is above the red sphere.\nThe pink rectangle is to the left of the red sphere.\n", "question": "Is the pink rectangle above the triangle?", "ans": "no"}
+{"story": "The triangle is above the red sphere.\nThe pink rectangle is to the left of the red sphere.\n", "question": "Is the triangle above the pink rectangle?", "ans": "yes"}
+{"story": "The triangle is above the red sphere.\nThe pink rectangle is to the left of the red sphere.\n", "question": "Is the pink rectangle to the right of the triangle?", "ans": "no"}
+{"story": "The yellow square is above the blue square.\nThe blue square is above the red sphere.\n", "question": "Is the yellow square above the red sphere?", "ans": "yes"}
+{"story": "The yellow square is above the blue square.\nThe blue square is above the red sphere.\n", "question": "Is the red sphere below the yellow square?", "ans": "yes"}
+{"story": "The yellow square is above the blue square.\nThe blue square is above the red sphere.\n", "question": "Is the red sphere below the yellow square?", "ans": "yes"}
+{"story": "The yellow square is above the blue square.\nThe blue square is above the red sphere.\n", "question": "Is the yellow square above the red sphere?", "ans": "yes"}
+{"story": "The yellow square is above the blue square.\nThe blue square is above the red sphere.\n", "question": "Is the red sphere above the yellow square?", "ans": "no"}
+{"story": "The yellow square is above the blue square.\nThe blue square is above the red sphere.\n", "question": "Is the red sphere below the yellow square?", "ans": "yes"}
+{"story": "The yellow square is above the blue square.\nThe blue square is above the red sphere.\n", "question": "Is the red sphere to the right of the yellow square?", "ans": "no"}
+{"story": "The yellow square is above the blue square.\nThe blue square is above the red sphere.\n", "question": "Is the red sphere below the yellow square?", "ans": "yes"}
+{"story": "The blue square is above the red square.\nThe pink rectangle is to the left of the red square.\n", "question": "Is the pink rectangle to the right of the blue square?", "ans": "no"}
+{"story": "The blue square is above the red square.\nThe pink rectangle is to the left of the red square.\n", "question": "Is the blue square below the pink rectangle?", "ans": "no"}
+{"story": "The blue square is above the red square.\nThe pink rectangle is to the left of the red square.\n", "question": "Is the pink rectangle to the left of the blue square?", "ans": "yes"}
+{"story": "The blue square is above the red square.\nThe pink rectangle is to the left of the red square.\n", "question": "Is the blue square to the right of the pink rectangle?", "ans": "yes"}
+{"story": "The blue square is above the red square.\nThe pink rectangle is to the left of the red square.\n", "question": "Is the blue square to the left of the pink rectangle?", "ans": "no"}
+{"story": "The blue square is above the red square.\nThe pink rectangle is to the left of the red square.\n", "question": "Is the blue square to the left of the pink rectangle?", "ans": "no"}
+{"story": "The blue square is above the red square.\nThe pink rectangle is to the left of the red square.\n", "question": "Is the blue square below the pink rectangle?", "ans": "no"}
+{"story": "The blue square is above the red square.\nThe pink rectangle is to the left of the red square.\n", "question": "Is the pink rectangle below the blue square?", "ans": "yes"}
+{"story": "The red sphere is below the pink rectangle.\nThe red sphere is to the left of the red square.\n", "question": "Is the red square to the left of the pink rectangle?", "ans": "no"}
+{"story": "The red sphere is below the pink rectangle.\nThe red sphere is to the left of the red square.\n", "question": "Is the pink rectangle above the red square?", "ans": "yes"}
+{"story": "The red sphere is below the pink rectangle.\nThe red sphere is to the left of the red square.\n", "question": "Is the pink rectangle to the left of the red square?", "ans": "yes"}
+{"story": "The red sphere is below the pink rectangle.\nThe red sphere is to the left of the red square.\n", "question": "Is the red square below the pink rectangle?", "ans": "yes"}
+{"story": "The red sphere is below the pink rectangle.\nThe red sphere is to the left of the red square.\n", "question": "Is the pink rectangle to the left of the red square?", "ans": "yes"}
+{"story": "The red sphere is below the pink rectangle.\nThe red sphere is to the left of the red square.\n", "question": "Is the red square to the right of the pink rectangle?", "ans": "yes"}
+{"story": "The red sphere is below the pink rectangle.\nThe red sphere is to the left of the red square.\n", "question": "Is the pink rectangle above the red square?", "ans": "yes"}
+{"story": "The red sphere is below the pink rectangle.\nThe red sphere is to the left of the red square.\n", "question": "Is the red square above the pink rectangle?", "ans": "no"}
+{"story": "The pink rectangle is to the right of the blue square.\nThe red sphere is below the pink rectangle.\n", "question": "Is the red sphere below the blue square?", "ans": "yes"}
+{"story": "The pink rectangle is to the right of the blue square.\nThe red sphere is below the pink rectangle.\n", "question": "Is the blue square to the right of the red sphere?", "ans": "no"}
+{"story": "The pink rectangle is to the right of the blue square.\nThe red sphere is below the pink rectangle.\n", "question": "Is the blue square below the red sphere?", "ans": "no"}
+{"story": "The pink rectangle is to the right of the blue square.\nThe red sphere is below the pink rectangle.\n", "question": "Is the red sphere above the blue square?", "ans": "no"}
+{"story": "The pink rectangle is to the right of the blue square.\nThe red sphere is below the pink rectangle.\n", "question": "Is the blue square below the red sphere?", "ans": "no"}
+{"story": "The pink rectangle is to the right of the blue square.\nThe red sphere is below the pink rectangle.\n", "question": "Is the blue square to the right of the red sphere?", "ans": "no"}
+{"story": "The pink rectangle is to the right of the blue square.\nThe red sphere is below the pink rectangle.\n", "question": "Is the red sphere to the left of the blue square?", "ans": "no"}
+{"story": "The pink rectangle is to the right of the blue square.\nThe red sphere is below the pink rectangle.\n", "question": "Is the blue square above the red sphere?", "ans": "yes"}
+{"story": "The red sphere is above the pink rectangle.\nThe red sphere is to the right of the blue square.\n", "question": "Is the pink rectangle to the left of the blue square?", "ans": "no"}
+{"story": "The red sphere is above the pink rectangle.\nThe red sphere is to the right of the blue square.\n", "question": "Is the pink rectangle below the blue square?", "ans": "yes"}
+{"story": "The red sphere is above the pink rectangle.\nThe red sphere is to the right of the blue square.\n", "question": "Is the blue square above the pink rectangle?", "ans": "yes"}
+{"story": "The red sphere is above the pink rectangle.\nThe red sphere is to the right of the blue square.\n", "question": "Is the blue square to the left of the pink rectangle?", "ans": "yes"}
+{"story": "The red sphere is above the pink rectangle.\nThe red sphere is to the right of the blue square.\n", "question": "Is the pink rectangle to the right of the blue square?", "ans": "yes"}
+{"story": "The red sphere is above the pink rectangle.\nThe red sphere is to the right of the blue square.\n", "question": "Is the pink rectangle below the blue square?", "ans": "yes"}
+{"story": "The red sphere is above the pink rectangle.\nThe red sphere is to the right of the blue square.\n", "question": "Is the blue square above the pink rectangle?", "ans": "yes"}
+{"story": "The red sphere is above the pink rectangle.\nThe red sphere is to the right of the blue square.\n", "question": "Is the blue square above the pink rectangle?", "ans": "yes"}
+{"story": "The red square is above the red sphere.\nThe red square is to the left of the yellow square.\n", "question": "Is the red sphere to the left of the yellow square?", "ans": "yes"}
+{"story": "The red square is above the red sphere.\nThe red square is to the left of the yellow square.\n", "question": "Is the red sphere below the yellow square?", "ans": "yes"}
+{"story": "The red square is above the red sphere.\nThe red square is to the left of the yellow square.\n", "question": "Is the red sphere below the yellow square?", "ans": "yes"}
+{"story": "The red square is above the red sphere.\nThe red square is to the left of the yellow square.\n", "question": "Is the red sphere above the yellow square?", "ans": "no"}
+{"story": "The red square is above the red sphere.\nThe red square is to the left of the yellow square.\n", "question": "Is the red sphere below the yellow square?", "ans": "yes"}
+{"story": "The red square is above the red sphere.\nThe red square is to the left of the yellow square.\n", "question": "Is the yellow square above the red sphere?", "ans": "yes"}
+{"story": "The red square is above the red sphere.\nThe red square is to the left of the yellow square.\n", "question": "Is the yellow square above the red sphere?", "ans": "yes"}
+{"story": "The red square is above the red sphere.\nThe red square is to the left of the yellow square.\n", "question": "Is the red sphere to the left of the yellow square?", "ans": "yes"}
+{"story": "The red sphere is to the right of the blue square.\nThe yellow square is to the right of the red sphere.\n", "question": "Is the yellow square to the left of the blue square?", "ans": "no"}
+{"story": "The red sphere is to the right of the blue square.\nThe yellow square is to the right of the red sphere.\n", "question": "Is the blue square to the left of the yellow square?", "ans": "yes"}
+{"story": "The red sphere is to the right of the blue square.\nThe yellow square is to the right of the red sphere.\n", "question": "Is the blue square to the left of the yellow square?", "ans": "yes"}
+{"story": "The red sphere is to the right of the blue square.\nThe yellow square is to the right of the red sphere.\n", "question": "Is the yellow square below the blue square?", "ans": "no"}
+{"story": "The red sphere is to the right of the blue square.\nThe yellow square is to the right of the red sphere.\n", "question": "Is the blue square to the left of the yellow square?", "ans": "yes"}
+{"story": "The red sphere is to the right of the blue square.\nThe yellow square is to the right of the red sphere.\n", "question": "Is the blue square above the yellow square?", "ans": "no"}
+{"story": "The red sphere is to the right of the blue square.\nThe yellow square is to the right of the red sphere.\n", "question": "Is the yellow square to the right of the blue square?", "ans": "yes"}
+{"story": "The red sphere is to the right of the blue square.\nThe yellow square is to the right of the red sphere.\n", "question": "Is the blue square to the left of the yellow square?", "ans": "yes"}
+{"story": "The yellow square is to the left of the blue square.\nThe yellow square is below the red sphere.\n", "question": "Is the red sphere to the left of the blue square?", "ans": "yes"}
+{"story": "The yellow square is to the left of the blue square.\nThe yellow square is below the red sphere.\n", "question": "Is the red sphere to the right of the blue square?", "ans": "no"}
+{"story": "The yellow square is to the left of the blue square.\nThe yellow square is below the red sphere.\n", "question": "Is the red sphere to the right of the blue square?", "ans": "no"}
+{"story": "The yellow square is to the left of the blue square.\nThe yellow square is below the red sphere.\n", "question": "Is the blue square below the red sphere?", "ans": "yes"}
+{"story": "The yellow square is to the left of the blue square.\nThe yellow square is below the red sphere.\n", "question": "Is the red sphere above the blue square?", "ans": "yes"}
+{"story": "The yellow square is to the left of the blue square.\nThe yellow square is below the red sphere.\n", "question": "Is the blue square to the right of the red sphere?", "ans": "yes"}
+{"story": "The yellow square is to the left of the blue square.\nThe yellow square is below the red sphere.\n", "question": "Is the blue square above the red sphere?", "ans": "no"}
+{"story": "The yellow square is to the left of the blue square.\nThe yellow square is below the red sphere.\n", "question": "Is the blue square to the right of the red sphere?", "ans": "yes"}
+{"story": "The pink rectangle is to the right of the yellow square.\nThe yellow square is above the blue square.\n", "question": "Is the blue square to the left of the pink rectangle?", "ans": "yes"}
+{"story": "The pink rectangle is to the right of the yellow square.\nThe yellow square is above the blue square.\n", "question": "Is the pink rectangle above the blue square?", "ans": "yes"}
+{"story": "The pink rectangle is to the right of the yellow square.\nThe yellow square is above the blue square.\n", "question": "Is the blue square below the pink rectangle?", "ans": "yes"}
+{"story": "The pink rectangle is to the right of the yellow square.\nThe yellow square is above the blue square.\n", "question": "Is the pink rectangle above the blue square?", "ans": "yes"}
+{"story": "The pink rectangle is to the right of the yellow square.\nThe yellow square is above the blue square.\n", "question": "Is the blue square below the pink rectangle?", "ans": "yes"}
+{"story": "The pink rectangle is to the right of the yellow square.\nThe yellow square is above the blue square.\n", "question": "Is the pink rectangle to the left of the blue square?", "ans": "no"}
+{"story": "The pink rectangle is to the right of the yellow square.\nThe yellow square is above the blue square.\n", "question": "Is the blue square below the pink rectangle?", "ans": "yes"}
+{"story": "The pink rectangle is to the right of the yellow square.\nThe yellow square is above the blue square.\n", "question": "Is the blue square below the pink rectangle?", "ans": "yes"}
+{"story": "The triangle is to the left of the pink rectangle.\nThe blue square is to the left of the triangle.\n", "question": "Is the pink rectangle to the right of the blue square?", "ans": "yes"}
+{"story": "The triangle is to the left of the pink rectangle.\nThe blue square is to the left of the triangle.\n", "question": "Is the pink rectangle to the right of the blue square?", "ans": "yes"}
+{"story": "The triangle is to the left of the pink rectangle.\nThe blue square is to the left of the triangle.\n", "question": "Is the pink rectangle to the right of the blue square?", "ans": "yes"}
+{"story": "The triangle is to the left of the pink rectangle.\nThe blue square is to the left of the triangle.\n", "question": "Is the blue square to the left of the pink rectangle?", "ans": "yes"}
+{"story": "The triangle is to the left of the pink rectangle.\nThe blue square is to the left of the triangle.\n", "question": "Is the pink rectangle to the left of the blue square?", "ans": "no"}
+{"story": "The triangle is to the left of the pink rectangle.\nThe blue square is to the left of the triangle.\n", "question": "Is the blue square to the left of the pink rectangle?", "ans": "yes"}
+{"story": "The triangle is to the left of the pink rectangle.\nThe blue square is to the left of the triangle.\n", "question": "Is the blue square below the pink rectangle?", "ans": "no"}
+{"story": "The triangle is to the left of the pink rectangle.\nThe blue square is to the left of the triangle.\n", "question": "Is the pink rectangle to the right of the blue square?", "ans": "yes"}
+{"story": "The red square is to the right of the pink rectangle.\nThe triangle is above the pink rectangle.\n", "question": "Is the triangle above the red square?", "ans": "yes"}
+{"story": "The red square is to the right of the pink rectangle.\nThe triangle is above the pink rectangle.\n", "question": "Is the triangle below the red square?", "ans": "no"}
+{"story": "The red square is to the right of the pink rectangle.\nThe triangle is above the pink rectangle.\n", "question": "Is the triangle to the right of the red square?", "ans": "no"}
+{"story": "The red square is to the right of the pink rectangle.\nThe triangle is above the pink rectangle.\n", "question": "Is the red square above the triangle?", "ans": "no"}
+{"story": "The red square is to the right of the pink rectangle.\nThe triangle is above the pink rectangle.\n", "question": "Is the triangle above the red square?", "ans": "yes"}
+{"story": "The red square is to the right of the pink rectangle.\nThe triangle is above the pink rectangle.\n", "question": "Is the triangle above the red square?", "ans": "yes"}
+{"story": "The red square is to the right of the pink rectangle.\nThe triangle is above the pink rectangle.\n", "question": "Is the triangle above the red square?", "ans": "yes"}
+{"story": "The red square is to the right of the pink rectangle.\nThe triangle is above the pink rectangle.\n", "question": "Is the red square above the triangle?", "ans": "no"}
+{"story": "The red sphere is to the right of the blue square.\nThe triangle is above the red sphere.\n", "question": "Is the blue square above the triangle?", "ans": "no"}
+{"story": "The red sphere is to the right of the blue square.\nThe triangle is above the red sphere.\n", "question": "Is the blue square to the left of the triangle?", "ans": "yes"}
+{"story": "The red sphere is to the right of the blue square.\nThe triangle is above the red sphere.\n", "question": "Is the triangle to the left of the blue square?", "ans": "no"}
+{"story": "The red sphere is to the right of the blue square.\nThe triangle is above the red sphere.\n", "question": "Is the blue square below the triangle?", "ans": "yes"}
+{"story": "The red sphere is to the right of the blue square.\nThe triangle is above the red sphere.\n", "question": "Is the blue square above the triangle?", "ans": "no"}
+{"story": "The red sphere is to the right of the blue square.\nThe triangle is above the red sphere.\n", "question": "Is the blue square to the right of the triangle?", "ans": "no"}
+{"story": "The red sphere is to the right of the blue square.\nThe triangle is above the red sphere.\n", "question": "Is the triangle above the blue square?", "ans": "yes"}
+{"story": "The red sphere is to the right of the blue square.\nThe triangle is above the red sphere.\n", "question": "Is the triangle above the blue square?", "ans": "yes"}
+{"story": "The red square is above the pink rectangle.\nThe pink rectangle is to the right of the yellow square.\n", "question": "Is the yellow square to the left of the red square?", "ans": "yes"}
+{"story": "The red square is above the pink rectangle.\nThe pink rectangle is to the right of the yellow square.\n", "question": "Is the red square below the yellow square?", "ans": "no"}
+{"story": "The red square is above the pink rectangle.\nThe pink rectangle is to the right of the yellow square.\n", "question": "Is the red square to the right of the yellow square?", "ans": "yes"}
+{"story": "The red square is above the pink rectangle.\nThe pink rectangle is to the right of the yellow square.\n", "question": "Is the yellow square to the left of the red square?", "ans": "yes"}
+{"story": "The red square is above the pink rectangle.\nThe pink rectangle is to the right of the yellow square.\n", "question": "Is the yellow square to the left of the red square?", "ans": "yes"}
+{"story": "The red square is above the pink rectangle.\nThe pink rectangle is to the right of the yellow square.\n", "question": "Is the yellow square below the red square?", "ans": "yes"}
+{"story": "The red square is above the pink rectangle.\nThe pink rectangle is to the right of the yellow square.\n", "question": "Is the red square to the right of the yellow square?", "ans": "yes"}
+{"story": "The red square is above the pink rectangle.\nThe pink rectangle is to the right of the yellow square.\n", "question": "Is the yellow square below the red square?", "ans": "yes"}
+{"story": "The red square is below the red sphere.\nThe red square is to the left of the blue square.\n", "question": "Is the red sphere to the right of the blue square?", "ans": "no"}
+{"story": "The red square is below the red sphere.\nThe red square is to the left of the blue square.\n", "question": "Is the red sphere to the left of the blue square?", "ans": "yes"}
+{"story": "The red square is below the red sphere.\nThe red square is to the left of the blue square.\n", "question": "Is the red sphere below the blue square?", "ans": "no"}
+{"story": "The red square is below the red sphere.\nThe red square is to the left of the blue square.\n", "question": "Is the blue square to the left of the red sphere?", "ans": "no"}
+{"story": "The red square is below the red sphere.\nThe red square is to the left of the blue square.\n", "question": "Is the blue square to the left of the red sphere?", "ans": "no"}
+{"story": "The red square is below the red sphere.\nThe red square is to the left of the blue square.\n", "question": "Is the blue square below the red sphere?", "ans": "yes"}
+{"story": "The red square is below the red sphere.\nThe red square is to the left of the blue square.\n", "question": "Is the blue square below the red sphere?", "ans": "yes"}
+{"story": "The red square is below the red sphere.\nThe red square is to the left of the blue square.\n", "question": "Is the red sphere to the left of the blue square?", "ans": "yes"}
+{"story": "The blue square is to the left of the pink rectangle.\nThe blue square is to the right of the red square.\n", "question": "Is the red square to the left of the pink rectangle?", "ans": "yes"}
+{"story": "The blue square is to the left of the pink rectangle.\nThe blue square is to the right of the red square.\n", "question": "Is the red square below the pink rectangle?", "ans": "no"}
+{"story": "The blue square is to the left of the pink rectangle.\nThe blue square is to the right of the red square.\n", "question": "Is the red square below the pink rectangle?", "ans": "no"}
+{"story": "The blue square is to the left of the pink rectangle.\nThe blue square is to the right of the red square.\n", "question": "Is the red square below the pink rectangle?", "ans": "no"}
+{"story": "The blue square is to the left of the pink rectangle.\nThe blue square is to the right of the red square.\n", "question": "Is the red square to the left of the pink rectangle?", "ans": "yes"}
+{"story": "The blue square is to the left of the pink rectangle.\nThe blue square is to the right of the red square.\n", "question": "Is the pink rectangle to the right of the red square?", "ans": "yes"}
+{"story": "The blue square is to the left of the pink rectangle.\nThe blue square is to the right of the red square.\n", "question": "Is the pink rectangle below the red square?", "ans": "no"}
+{"story": "The blue square is to the left of the pink rectangle.\nThe blue square is to the right of the red square.\n", "question": "Is the pink rectangle to the left of the red square?", "ans": "no"}
+{"story": "The red sphere is below the triangle.\nThe red sphere is above the blue square.\n", "question": "Is the blue square below the triangle?", "ans": "yes"}
+{"story": "The red sphere is below the triangle.\nThe red sphere is above the blue square.\n", "question": "Is the blue square below the triangle?", "ans": "yes"}
+{"story": "The red sphere is below the triangle.\nThe red sphere is above the blue square.\n", "question": "Is the triangle above the blue square?", "ans": "yes"}
+{"story": "The red sphere is below the triangle.\nThe red sphere is above the blue square.\n", "question": "Is the blue square to the right of the triangle?", "ans": "no"}
+{"story": "The red sphere is below the triangle.\nThe red sphere is above the blue square.\n", "question": "Is the blue square to the right of the triangle?", "ans": "no"}
+{"story": "The red sphere is below the triangle.\nThe red sphere is above the blue square.\n", "question": "Is the blue square below the triangle?", "ans": "yes"}
+{"story": "The red sphere is below the triangle.\nThe red sphere is above the blue square.\n", "question": "Is the blue square to the left of the triangle?", "ans": "no"}
+{"story": "The red sphere is below the triangle.\nThe red sphere is above the blue square.\n", "question": "Is the blue square below the triangle?", "ans": "yes"}
+{"story": "The red square is above the yellow square.\nThe red square is below the blue square.\n", "question": "Is the yellow square below the blue square?", "ans": "yes"}
+{"story": "The red square is above the yellow square.\nThe red square is below the blue square.\n", "question": "Is the blue square above the yellow square?", "ans": "yes"}
+{"story": "The red square is above the yellow square.\nThe red square is below the blue square.\n", "question": "Is the blue square above the yellow square?", "ans": "yes"}
+{"story": "The red square is above the yellow square.\nThe red square is below the blue square.\n", "question": "Is the yellow square to the right of the blue square?", "ans": "no"}
+{"story": "The red square is above the yellow square.\nThe red square is below the blue square.\n", "question": "Is the blue square above the yellow square?", "ans": "yes"}
+{"story": "The red square is above the yellow square.\nThe red square is below the blue square.\n", "question": "Is the blue square above the yellow square?", "ans": "yes"}
+{"story": "The red square is above the yellow square.\nThe red square is below the blue square.\n", "question": "Is the blue square to the right of the yellow square?", "ans": "no"}
+{"story": "The red square is above the yellow square.\nThe red square is below the blue square.\n", "question": "Is the yellow square below the blue square?", "ans": "yes"}
+{"story": "The yellow square is above the triangle.\nThe yellow square is to the left of the pink rectangle.\n", "question": "Is the triangle above the pink rectangle?", "ans": "no"}
+{"story": "The yellow square is above the triangle.\nThe yellow square is to the left of the pink rectangle.\n", "question": "Is the triangle below the pink rectangle?", "ans": "yes"}
+{"story": "The yellow square is above the triangle.\nThe yellow square is to the left of the pink rectangle.\n", "question": "Is the pink rectangle to the right of the triangle?", "ans": "yes"}
+{"story": "The yellow square is above the triangle.\nThe yellow square is to the left of the pink rectangle.\n", "question": "Is the triangle above the pink rectangle?", "ans": "no"}
+{"story": "The yellow square is above the triangle.\nThe yellow square is to the left of the pink rectangle.\n", "question": "Is the pink rectangle to the left of the triangle?", "ans": "no"}
+{"story": "The yellow square is above the triangle.\nThe yellow square is to the left of the pink rectangle.\n", "question": "Is the triangle to the right of the pink rectangle?", "ans": "no"}
+{"story": "The yellow square is above the triangle.\nThe yellow square is to the left of the pink rectangle.\n", "question": "Is the triangle to the left of the pink rectangle?", "ans": "yes"}
+{"story": "The yellow square is above the triangle.\nThe yellow square is to the left of the pink rectangle.\n", "question": "Is the triangle to the left of the pink rectangle?", "ans": "yes"}
+{"story": "The pink rectangle is below the yellow square.\nThe triangle is to the right of the yellow square.\n", "question": "Is the pink rectangle below the triangle?", "ans": "yes"}
+{"story": "The pink rectangle is below the yellow square.\nThe triangle is to the right of the yellow square.\n", "question": "Is the triangle above the pink rectangle?", "ans": "yes"}
+{"story": "The pink rectangle is below the yellow square.\nThe triangle is to the right of the yellow square.\n", "question": "Is the triangle to the right of the pink rectangle?", "ans": "yes"}
+{"story": "The pink rectangle is below the yellow square.\nThe triangle is to the right of the yellow square.\n", "question": "Is the pink rectangle above the triangle?", "ans": "no"}
+{"story": "The pink rectangle is below the yellow square.\nThe triangle is to the right of the yellow square.\n", "question": "Is the triangle to the left of the pink rectangle?", "ans": "no"}
+{"story": "The pink rectangle is below the yellow square.\nThe triangle is to the right of the yellow square.\n", "question": "Is the pink rectangle above the triangle?", "ans": "no"}
+{"story": "The pink rectangle is below the yellow square.\nThe triangle is to the right of the yellow square.\n", "question": "Is the pink rectangle below the triangle?", "ans": "yes"}
+{"story": "The pink rectangle is below the yellow square.\nThe triangle is to the right of the yellow square.\n", "question": "Is the triangle above the pink rectangle?", "ans": "yes"}
+{"story": "The triangle is to the left of the red sphere.\nThe yellow square is to the left of the triangle.\n", "question": "Is the red sphere to the right of the yellow square?", "ans": "yes"}
+{"story": "The triangle is to the left of the red sphere.\nThe yellow square is to the left of the triangle.\n", "question": "Is the yellow square above the red sphere?", "ans": "no"}
+{"story": "The triangle is to the left of the red sphere.\nThe yellow square is to the left of the triangle.\n", "question": "Is the yellow square below the red sphere?", "ans": "no"}
+{"story": "The triangle is to the left of the red sphere.\nThe yellow square is to the left of the triangle.\n", "question": "Is the yellow square to the left of the red sphere?", "ans": "yes"}
+{"story": "The triangle is to the left of the red sphere.\nThe yellow square is to the left of the triangle.\n", "question": "Is the yellow square to the left of the red sphere?", "ans": "yes"}
+{"story": "The triangle is to the left of the red sphere.\nThe yellow square is to the left of the triangle.\n", "question": "Is the red sphere to the right of the yellow square?", "ans": "yes"}
+{"story": "The triangle is to the left of the red sphere.\nThe yellow square is to the left of the triangle.\n", "question": "Is the yellow square to the left of the red sphere?", "ans": "yes"}
+{"story": "The triangle is to the left of the red sphere.\nThe yellow square is to the left of the triangle.\n", "question": "Is the red sphere above the yellow square?", "ans": "no"}
+{"story": "The red square is below the blue square.\nThe blue square is to the right of the red sphere.\n", "question": "Is the red sphere above the red square?", "ans": "yes"}
+{"story": "The red square is below the blue square.\nThe blue square is to the right of the red sphere.\n", "question": "Is the red square above the red sphere?", "ans": "no"}
+{"story": "The red square is below the blue square.\nThe blue square is to the right of the red sphere.\n", "question": "Is the red sphere above the red square?", "ans": "yes"}
+{"story": "The red square is below the blue square.\nThe blue square is to the right of the red sphere.\n", "question": "Is the red sphere to the right of the red square?", "ans": "no"}
+{"story": "The red square is below the blue square.\nThe blue square is to the right of the red sphere.\n", "question": "Is the red square above the red sphere?", "ans": "no"}
+{"story": "The red square is below the blue square.\nThe blue square is to the right of the red sphere.\n", "question": "Is the red square above the red sphere?", "ans": "no"}
+{"story": "The red square is below the blue square.\nThe blue square is to the right of the red sphere.\n", "question": "Is the red square to the right of the red sphere?", "ans": "yes"}
+{"story": "The red square is below the blue square.\nThe blue square is to the right of the red sphere.\n", "question": "Is the red sphere below the red square?", "ans": "no"}
+{"story": "The blue square is to the right of the triangle.\nThe blue square is above the red sphere.\n", "question": "Is the red sphere below the triangle?", "ans": "yes"}
+{"story": "The blue square is to the right of the triangle.\nThe blue square is above the red sphere.\n", "question": "Is the triangle to the right of the red sphere?", "ans": "no"}
+{"story": "The blue square is to the right of the triangle.\nThe blue square is above the red sphere.\n", "question": "Is the triangle to the right of the red sphere?", "ans": "no"}
+{"story": "The blue square is to the right of the triangle.\nThe blue square is above the red sphere.\n", "question": "Is the red sphere to the right of the triangle?", "ans": "yes"}
+{"story": "The blue square is to the right of the triangle.\nThe blue square is above the red sphere.\n", "question": "Is the triangle to the left of the red sphere?", "ans": "yes"}
+{"story": "The blue square is to the right of the triangle.\nThe blue square is above the red sphere.\n", "question": "Is the triangle below the red sphere?", "ans": "no"}
+{"story": "The blue square is to the right of the triangle.\nThe blue square is above the red sphere.\n", "question": "Is the red sphere below the triangle?", "ans": "yes"}
+{"story": "The blue square is to the right of the triangle.\nThe blue square is above the red sphere.\n", "question": "Is the red sphere to the right of the triangle?", "ans": "yes"}
+{"story": "The yellow square is above the pink rectangle.\nThe red square is to the right of the yellow square.\n", "question": "Is the red square above the pink rectangle?", "ans": "yes"}
+{"story": "The yellow square is above the pink rectangle.\nThe red square is to the right of the yellow square.\n", "question": "Is the red square above the pink rectangle?", "ans": "yes"}
+{"story": "The yellow square is above the pink rectangle.\nThe red square is to the right of the yellow square.\n", "question": "Is the pink rectangle to the right of the red square?", "ans": "no"}
+{"story": "The yellow square is above the pink rectangle.\nThe red square is to the right of the yellow square.\n", "question": "Is the red square below the pink rectangle?", "ans": "no"}
+{"story": "The yellow square is above the pink rectangle.\nThe red square is to the right of the yellow square.\n", "question": "Is the pink rectangle above the red square?", "ans": "no"}
+{"story": "The yellow square is above the pink rectangle.\nThe red square is to the right of the yellow square.\n", "question": "Is the pink rectangle to the left of the red square?", "ans": "yes"}
+{"story": "The yellow square is above the pink rectangle.\nThe red square is to the right of the yellow square.\n", "question": "Is the pink rectangle above the red square?", "ans": "no"}
+{"story": "The yellow square is above the pink rectangle.\nThe red square is to the right of the yellow square.\n", "question": "Is the pink rectangle below the red square?", "ans": "yes"}
+{"story": "The triangle is above the red square.\nThe pink rectangle is above the triangle.\n", "question": "Is the red square above the pink rectangle?", "ans": "no"}
+{"story": "The triangle is above the red square.\nThe pink rectangle is above the triangle.\n", "question": "Is the red square above the pink rectangle?", "ans": "no"}
+{"story": "The triangle is above the red square.\nThe pink rectangle is above the triangle.\n", "question": "Is the pink rectangle above the red square?", "ans": "yes"}
+{"story": "The triangle is above the red square.\nThe pink rectangle is above the triangle.\n", "question": "Is the pink rectangle above the red square?", "ans": "yes"}
+{"story": "The triangle is above the red square.\nThe pink rectangle is above the triangle.\n", "question": "Is the red square below the pink rectangle?", "ans": "yes"}
+{"story": "The triangle is above the red square.\nThe pink rectangle is above the triangle.\n", "question": "Is the pink rectangle above the red square?", "ans": "yes"}
+{"story": "The triangle is above the red square.\nThe pink rectangle is above the triangle.\n", "question": "Is the pink rectangle above the red square?", "ans": "yes"}
+{"story": "The triangle is above the red square.\nThe pink rectangle is above the triangle.\n", "question": "Is the red square above the pink rectangle?", "ans": "no"}
+{"story": "The triangle is above the yellow square.\nThe blue square is to the left of the triangle.\n", "question": "Is the blue square below the yellow square?", "ans": "no"}
+{"story": "The triangle is above the yellow square.\nThe blue square is to the left of the triangle.\n", "question": "Is the blue square below the yellow square?", "ans": "no"}
+{"story": "The triangle is above the yellow square.\nThe blue square is to the left of the triangle.\n", "question": "Is the yellow square above the blue square?", "ans": "no"}
+{"story": "The triangle is above the yellow square.\nThe blue square is to the left of the triangle.\n", "question": "Is the blue square to the left of the yellow square?", "ans": "yes"}
+{"story": "The triangle is above the yellow square.\nThe blue square is to the left of the triangle.\n", "question": "Is the blue square to the left of the yellow square?", "ans": "yes"}
+{"story": "The triangle is above the yellow square.\nThe blue square is to the left of the triangle.\n", "question": "Is the blue square to the left of the yellow square?", "ans": "yes"}
+{"story": "The triangle is above the yellow square.\nThe blue square is to the left of the triangle.\n", "question": "Is the blue square to the left of the yellow square?", "ans": "yes"}
+{"story": "The triangle is above the yellow square.\nThe blue square is to the left of the triangle.\n", "question": "Is the blue square above the yellow square?", "ans": "yes"}
+{"story": "The red square is below the yellow square.\nThe blue square is to the right of the red square.\n", "question": "Is the yellow square below the blue square?", "ans": "no"}
+{"story": "The red square is below the yellow square.\nThe blue square is to the right of the red square.\n", "question": "Is the blue square above the yellow square?", "ans": "no"}
+{"story": "The red square is below the yellow square.\nThe blue square is to the right of the red square.\n", "question": "Is the blue square to the right of the yellow square?", "ans": "yes"}
+{"story": "The red square is below the yellow square.\nThe blue square is to the right of the red square.\n", "question": "Is the yellow square above the blue square?", "ans": "yes"}
+{"story": "The red square is below the yellow square.\nThe blue square is to the right of the red square.\n", "question": "Is the blue square to the right of the yellow square?", "ans": "yes"}
+{"story": "The red square is below the yellow square.\nThe blue square is to the right of the red square.\n", "question": "Is the blue square above the yellow square?", "ans": "no"}
+{"story": "The red square is below the yellow square.\nThe blue square is to the right of the red square.\n", "question": "Is the yellow square to the left of the blue square?", "ans": "yes"}
+{"story": "The red square is below the yellow square.\nThe blue square is to the right of the red square.\n", "question": "Is the yellow square above the blue square?", "ans": "yes"}
+{"story": "The yellow square is above the blue square.\nThe blue square is above the red square.\n", "question": "Is the red square to the right of the yellow square?", "ans": "no"}
+{"story": "The yellow square is above the blue square.\nThe blue square is above the red square.\n", "question": "Is the red square to the left of the yellow square?", "ans": "no"}
+{"story": "The yellow square is above the blue square.\nThe blue square is above the red square.\n", "question": "Is the yellow square below the red square?", "ans": "no"}
+{"story": "The yellow square is above the blue square.\nThe blue square is above the red square.\n", "question": "Is the yellow square to the left of the red square?", "ans": "no"}
+{"story": "The yellow square is above the blue square.\nThe blue square is above the red square.\n", "question": "Is the yellow square above the red square?", "ans": "yes"}
+{"story": "The yellow square is above the blue square.\nThe blue square is above the red square.\n", "question": "Is the red square below the yellow square?", "ans": "yes"}
+{"story": "The yellow square is above the blue square.\nThe blue square is above the red square.\n", "question": "Is the yellow square above the red square?", "ans": "yes"}
+{"story": "The yellow square is above the blue square.\nThe blue square is above the red square.\n", "question": "Is the yellow square to the right of the red square?", "ans": "no"}
+{"story": "The red sphere is to the right of the red square.\nThe pink rectangle is below the red square.\n", "question": "Is the pink rectangle below the red sphere?", "ans": "yes"}
+{"story": "The red sphere is to the right of the red square.\nThe pink rectangle is below the red square.\n", "question": "Is the pink rectangle to the right of the red sphere?", "ans": "no"}
+{"story": "The red sphere is to the right of the red square.\nThe pink rectangle is below the red square.\n", "question": "Is the pink rectangle to the left of the red sphere?", "ans": "yes"}
+{"story": "The red sphere is to the right of the red square.\nThe pink rectangle is below the red square.\n", "question": "Is the red sphere to the left of the pink rectangle?", "ans": "no"}
+{"story": "The red sphere is to the right of the red square.\nThe pink rectangle is below the red square.\n", "question": "Is the pink rectangle to the left of the red sphere?", "ans": "yes"}
+{"story": "The red sphere is to the right of the red square.\nThe pink rectangle is below the red square.\n", "question": "Is the red sphere above the pink rectangle?", "ans": "yes"}
+{"story": "The red sphere is to the right of the red square.\nThe pink rectangle is below the red square.\n", "question": "Is the red sphere to the left of the pink rectangle?", "ans": "no"}
+{"story": "The red sphere is to the right of the red square.\nThe pink rectangle is below the red square.\n", "question": "Is the red sphere above the pink rectangle?", "ans": "yes"}
+{"story": "The yellow square is above the red sphere.\nThe yellow square is to the right of the pink rectangle.\n", "question": "Is the red sphere to the right of the pink rectangle?", "ans": "yes"}
+{"story": "The yellow square is above the red sphere.\nThe yellow square is to the right of the pink rectangle.\n", "question": "Is the pink rectangle to the right of the red sphere?", "ans": "no"}
+{"story": "The yellow square is above the red sphere.\nThe yellow square is to the right of the pink rectangle.\n", "question": "Is the pink rectangle to the left of the red sphere?", "ans": "yes"}
+{"story": "The yellow square is above the red sphere.\nThe yellow square is to the right of the pink rectangle.\n", "question": "Is the red sphere to the left of the pink rectangle?", "ans": "no"}
+{"story": "The yellow square is above the red sphere.\nThe yellow square is to the right of the pink rectangle.\n", "question": "Is the pink rectangle to the right of the red sphere?", "ans": "no"}
+{"story": "The yellow square is above the red sphere.\nThe yellow square is to the right of the pink rectangle.\n", "question": "Is the pink rectangle to the right of the red sphere?", "ans": "no"}
+{"story": "The yellow square is above the red sphere.\nThe yellow square is to the right of the pink rectangle.\n", "question": "Is the pink rectangle below the red sphere?", "ans": "no"}
+{"story": "The yellow square is above the red sphere.\nThe yellow square is to the right of the pink rectangle.\n", "question": "Is the pink rectangle to the right of the red sphere?", "ans": "no"}
+{"story": "The red square is to the left of the red sphere.\nThe red square is above the pink rectangle.\n", "question": "Is the red sphere to the right of the pink rectangle?", "ans": "yes"}
+{"story": "The red square is to the left of the red sphere.\nThe red square is above the pink rectangle.\n", "question": "Is the red sphere below the pink rectangle?", "ans": "no"}
+{"story": "The red square is to the left of the red sphere.\nThe red square is above the pink rectangle.\n", "question": "Is the red sphere to the right of the pink rectangle?", "ans": "yes"}
+{"story": "The red square is to the left of the red sphere.\nThe red square is above the pink rectangle.\n", "question": "Is the pink rectangle to the left of the red sphere?", "ans": "yes"}
+{"story": "The red square is to the left of the red sphere.\nThe red square is above the pink rectangle.\n", "question": "Is the red sphere below the pink rectangle?", "ans": "no"}
+{"story": "The red square is to the left of the red sphere.\nThe red square is above the pink rectangle.\n", "question": "Is the pink rectangle to the left of the red sphere?", "ans": "yes"}
+{"story": "The red square is to the left of the red sphere.\nThe red square is above the pink rectangle.\n", "question": "Is the pink rectangle to the left of the red sphere?", "ans": "yes"}
+{"story": "The red square is to the left of the red sphere.\nThe red square is above the pink rectangle.\n", "question": "Is the red sphere above the pink rectangle?", "ans": "yes"}
+{"story": "The triangle is above the yellow square.\nThe red sphere is above the triangle.\n", "question": "Is the yellow square below the red sphere?", "ans": "yes"}
+{"story": "The triangle is above the yellow square.\nThe red sphere is above the triangle.\n", "question": "Is the yellow square to the right of the red sphere?", "ans": "no"}
+{"story": "The triangle is above the yellow square.\nThe red sphere is above the triangle.\n", "question": "Is the yellow square below the red sphere?", "ans": "yes"}
+{"story": "The triangle is above the yellow square.\nThe red sphere is above the triangle.\n", "question": "Is the yellow square to the right of the red sphere?", "ans": "no"}
+{"story": "The triangle is above the yellow square.\nThe red sphere is above the triangle.\n", "question": "Is the yellow square below the red sphere?", "ans": "yes"}
+{"story": "The triangle is above the yellow square.\nThe red sphere is above the triangle.\n", "question": "Is the yellow square below the red sphere?", "ans": "yes"}
+{"story": "The triangle is above the yellow square.\nThe red sphere is above the triangle.\n", "question": "Is the red sphere below the yellow square?", "ans": "no"}
+{"story": "The triangle is above the yellow square.\nThe red sphere is above the triangle.\n", "question": "Is the yellow square to the right of the red sphere?", "ans": "no"}
+{"story": "The yellow square is to the left of the pink rectangle.\nThe red square is below the yellow square.\n", "question": "Is the red square to the right of the pink rectangle?", "ans": "no"}
+{"story": "The yellow square is to the left of the pink rectangle.\nThe red square is below the yellow square.\n", "question": "Is the red square below the pink rectangle?", "ans": "yes"}
+{"story": "The yellow square is to the left of the pink rectangle.\nThe red square is below the yellow square.\n", "question": "Is the red square below the pink rectangle?", "ans": "yes"}
+{"story": "The yellow square is to the left of the pink rectangle.\nThe red square is below the yellow square.\n", "question": "Is the red square to the right of the pink rectangle?", "ans": "no"}
+{"story": "The yellow square is to the left of the pink rectangle.\nThe red square is below the yellow square.\n", "question": "Is the red square to the left of the pink rectangle?", "ans": "yes"}
+{"story": "The yellow square is to the left of the pink rectangle.\nThe red square is below the yellow square.\n", "question": "Is the red square below the pink rectangle?", "ans": "yes"}
+{"story": "The yellow square is to the left of the pink rectangle.\nThe red square is below the yellow square.\n", "question": "Is the red square below the pink rectangle?", "ans": "yes"}
+{"story": "The yellow square is to the left of the pink rectangle.\nThe red square is below the yellow square.\n", "question": "Is the pink rectangle below the red square?", "ans": "no"}
+{"story": "The yellow square is below the triangle.\nThe yellow square is above the blue square.\n", "question": "Is the blue square below the triangle?", "ans": "yes"}
+{"story": "The yellow square is below the triangle.\nThe yellow square is above the blue square.\n", "question": "Is the blue square above the triangle?", "ans": "no"}
+{"story": "The yellow square is below the triangle.\nThe yellow square is above the blue square.\n", "question": "Is the triangle below the blue square?", "ans": "no"}
+{"story": "The yellow square is below the triangle.\nThe yellow square is above the blue square.\n", "question": "Is the triangle above the blue square?", "ans": "yes"}
+{"story": "The yellow square is below the triangle.\nThe yellow square is above the blue square.\n", "question": "Is the triangle above the blue square?", "ans": "yes"}
+{"story": "The yellow square is below the triangle.\nThe yellow square is above the blue square.\n", "question": "Is the triangle to the right of the blue square?", "ans": "no"}
+{"story": "The yellow square is below the triangle.\nThe yellow square is above the blue square.\n", "question": "Is the blue square below the triangle?", "ans": "yes"}
+{"story": "The yellow square is below the triangle.\nThe yellow square is above the blue square.\n", "question": "Is the triangle above the blue square?", "ans": "yes"}
+{"story": "The yellow square is below the red square.\nThe triangle is above the red square.\n", "question": "Is the triangle to the right of the yellow square?", "ans": "no"}
+{"story": "The yellow square is below the red square.\nThe triangle is above the red square.\n", "question": "Is the yellow square below the triangle?", "ans": "yes"}
+{"story": "The yellow square is below the red square.\nThe triangle is above the red square.\n", "question": "Is the triangle above the yellow square?", "ans": "yes"}
+{"story": "The yellow square is below the red square.\nThe triangle is above the red square.\n", "question": "Is the triangle above the yellow square?", "ans": "yes"}
+{"story": "The yellow square is below the red square.\nThe triangle is above the red square.\n", "question": "Is the triangle above the yellow square?", "ans": "yes"}
+{"story": "The yellow square is below the red square.\nThe triangle is above the red square.\n", "question": "Is the triangle to the left of the yellow square?", "ans": "no"}
+{"story": "The yellow square is below the red square.\nThe triangle is above the red square.\n", "question": "Is the triangle to the left of the yellow square?", "ans": "no"}
+{"story": "The yellow square is below the red square.\nThe triangle is above the red square.\n", "question": "Is the yellow square below the triangle?", "ans": "yes"}
+{"story": "The yellow square is below the pink rectangle.\nThe yellow square is above the blue square.\n", "question": "Is the pink rectangle below the blue square?", "ans": "no"}
+{"story": "The yellow square is below the pink rectangle.\nThe yellow square is above the blue square.\n", "question": "Is the pink rectangle below the blue square?", "ans": "no"}
+{"story": "The yellow square is below the pink rectangle.\nThe yellow square is above the blue square.\n", "question": "Is the pink rectangle above the blue square?", "ans": "yes"}
+{"story": "The yellow square is below the pink rectangle.\nThe yellow square is above the blue square.\n", "question": "Is the blue square above the pink rectangle?", "ans": "no"}
+{"story": "The yellow square is below the pink rectangle.\nThe yellow square is above the blue square.\n", "question": "Is the blue square below the pink rectangle?", "ans": "yes"}
+{"story": "The yellow square is below the pink rectangle.\nThe yellow square is above the blue square.\n", "question": "Is the blue square below the pink rectangle?", "ans": "yes"}
+{"story": "The yellow square is below the pink rectangle.\nThe yellow square is above the blue square.\n", "question": "Is the pink rectangle below the blue square?", "ans": "no"}
+{"story": "The yellow square is below the pink rectangle.\nThe yellow square is above the blue square.\n", "question": "Is the pink rectangle to the left of the blue square?", "ans": "no"}
+{"story": "The triangle is above the yellow square.\nThe pink rectangle is to the right of the triangle.\n", "question": "Is the yellow square below the pink rectangle?", "ans": "yes"}
+{"story": "The triangle is above the yellow square.\nThe pink rectangle is to the right of the triangle.\n", "question": "Is the pink rectangle above the yellow square?", "ans": "yes"}
+{"story": "The triangle is above the yellow square.\nThe pink rectangle is to the right of the triangle.\n", "question": "Is the yellow square to the left of the pink rectangle?", "ans": "yes"}
+{"story": "The triangle is above the yellow square.\nThe pink rectangle is to the right of the triangle.\n", "question": "Is the yellow square below the pink rectangle?", "ans": "yes"}
+{"story": "The triangle is above the yellow square.\nThe pink rectangle is to the right of the triangle.\n", "question": "Is the yellow square above the pink rectangle?", "ans": "no"}
+{"story": "The triangle is above the yellow square.\nThe pink rectangle is to the right of the triangle.\n", "question": "Is the pink rectangle below the yellow square?", "ans": "no"}
+{"story": "The triangle is above the yellow square.\nThe pink rectangle is to the right of the triangle.\n", "question": "Is the yellow square above the pink rectangle?", "ans": "no"}
+{"story": "The triangle is above the yellow square.\nThe pink rectangle is to the right of the triangle.\n", "question": "Is the pink rectangle above the yellow square?", "ans": "yes"}
+{"story": "The red sphere is below the red square.\nThe pink rectangle is to the right of the red sphere.\n", "question": "Is the red square above the pink rectangle?", "ans": "yes"}
+{"story": "The red sphere is below the red square.\nThe pink rectangle is to the right of the red sphere.\n", "question": "Is the red square to the right of the pink rectangle?", "ans": "no"}
+{"story": "The red sphere is below the red square.\nThe pink rectangle is to the right of the red sphere.\n", "question": "Is the red square to the left of the pink rectangle?", "ans": "yes"}
+{"story": "The red sphere is below the red square.\nThe pink rectangle is to the right of the red sphere.\n", "question": "Is the red square above the pink rectangle?", "ans": "yes"}
+{"story": "The red sphere is below the red square.\nThe pink rectangle is to the right of the red sphere.\n", "question": "Is the red square to the right of the pink rectangle?", "ans": "no"}
+{"story": "The red sphere is below the red square.\nThe pink rectangle is to the right of the red sphere.\n", "question": "Is the pink rectangle to the left of the red square?", "ans": "no"}
+{"story": "The red sphere is below the red square.\nThe pink rectangle is to the right of the red sphere.\n", "question": "Is the red square below the pink rectangle?", "ans": "no"}
+{"story": "The red sphere is below the red square.\nThe pink rectangle is to the right of the red sphere.\n", "question": "Is the pink rectangle above the red square?", "ans": "no"}
+{"story": "The red square is below the red sphere.\nThe red square is to the left of the pink rectangle.\n", "question": "Is the red sphere to the right of the pink rectangle?", "ans": "no"}
+{"story": "The red square is below the red sphere.\nThe red square is to the left of the pink rectangle.\n", "question": "Is the pink rectangle above the red sphere?", "ans": "no"}
+{"story": "The red square is below the red sphere.\nThe red square is to the left of the pink rectangle.\n", "question": "Is the red sphere below the pink rectangle?", "ans": "no"}
+{"story": "The red square is below the red sphere.\nThe red square is to the left of the pink rectangle.\n", "question": "Is the red sphere above the pink rectangle?", "ans": "yes"}
+{"story": "The red square is below the red sphere.\nThe red square is to the left of the pink rectangle.\n", "question": "Is the pink rectangle above the red sphere?", "ans": "no"}
+{"story": "The red square is below the red sphere.\nThe red square is to the left of the pink rectangle.\n", "question": "Is the pink rectangle to the left of the red sphere?", "ans": "no"}
+{"story": "The red square is below the red sphere.\nThe red square is to the left of the pink rectangle.\n", "question": "Is the pink rectangle below the red sphere?", "ans": "yes"}
+{"story": "The red square is below the red sphere.\nThe red square is to the left of the pink rectangle.\n", "question": "Is the pink rectangle below the red sphere?", "ans": "yes"}
+{"story": "The red square is to the right of the blue square.\nThe yellow square is to the right of the red square.\n", "question": "Is the blue square to the left of the yellow square?", "ans": "yes"}
+{"story": "The red square is to the right of the blue square.\nThe yellow square is to the right of the red square.\n", "question": "Is the yellow square to the right of the blue square?", "ans": "yes"}
+{"story": "The red square is to the right of the blue square.\nThe yellow square is to the right of the red square.\n", "question": "Is the blue square below the yellow square?", "ans": "no"}
+{"story": "The red square is to the right of the blue square.\nThe yellow square is to the right of the red square.\n", "question": "Is the yellow square to the right of the blue square?", "ans": "yes"}
+{"story": "The red square is to the right of the blue square.\nThe yellow square is to the right of the red square.\n", "question": "Is the blue square to the left of the yellow square?", "ans": "yes"}
+{"story": "The red square is to the right of the blue square.\nThe yellow square is to the right of the red square.\n", "question": "Is the yellow square above the blue square?", "ans": "no"}
+{"story": "The red square is to the right of the blue square.\nThe yellow square is to the right of the red square.\n", "question": "Is the blue square above the yellow square?", "ans": "no"}
+{"story": "The red square is to the right of the blue square.\nThe yellow square is to the right of the red square.\n", "question": "Is the blue square to the left of the yellow square?", "ans": "yes"}
+{"story": "The pink rectangle is to the right of the yellow square.\nThe yellow square is below the red sphere.\n", "question": "Is the pink rectangle above the red sphere?", "ans": "no"}
+{"story": "The pink rectangle is to the right of the yellow square.\nThe yellow square is below the red sphere.\n", "question": "Is the pink rectangle to the left of the red sphere?", "ans": "no"}
+{"story": "The pink rectangle is to the right of the yellow square.\nThe yellow square is below the red sphere.\n", "question": "Is the red sphere to the left of the pink rectangle?", "ans": "yes"}
+{"story": "The pink rectangle is to the right of the yellow square.\nThe yellow square is below the red sphere.\n", "question": "Is the pink rectangle to the right of the red sphere?", "ans": "yes"}
+{"story": "The pink rectangle is to the right of the yellow square.\nThe yellow square is below the red sphere.\n", "question": "Is the pink rectangle to the right of the red sphere?", "ans": "yes"}
+{"story": "The pink rectangle is to the right of the yellow square.\nThe yellow square is below the red sphere.\n", "question": "Is the pink rectangle to the left of the red sphere?", "ans": "no"}
+{"story": "The pink rectangle is to the right of the yellow square.\nThe yellow square is below the red sphere.\n", "question": "Is the red sphere to the right of the pink rectangle?", "ans": "no"}
+{"story": "The pink rectangle is to the right of the yellow square.\nThe yellow square is below the red sphere.\n", "question": "Is the red sphere to the left of the pink rectangle?", "ans": "yes"}
+{"story": "The blue square is above the red square.\nThe blue square is below the pink rectangle.\n", "question": "Is the pink rectangle above the red square?", "ans": "yes"}
+{"story": "The blue square is above the red square.\nThe blue square is below the pink rectangle.\n", "question": "Is the red square below the pink rectangle?", "ans": "yes"}
+{"story": "The blue square is above the red square.\nThe blue square is below the pink rectangle.\n", "question": "Is the red square above the pink rectangle?", "ans": "no"}
+{"story": "The blue square is above the red square.\nThe blue square is below the pink rectangle.\n", "question": "Is the red square to the left of the pink rectangle?", "ans": "no"}
+{"story": "The blue square is above the red square.\nThe blue square is below the pink rectangle.\n", "question": "Is the pink rectangle above the red square?", "ans": "yes"}
+{"story": "The blue square is above the red square.\nThe blue square is below the pink rectangle.\n", "question": "Is the red square below the pink rectangle?", "ans": "yes"}
+{"story": "The blue square is above the red square.\nThe blue square is below the pink rectangle.\n", "question": "Is the pink rectangle above the red square?", "ans": "yes"}
+{"story": "The blue square is above the red square.\nThe blue square is below the pink rectangle.\n", "question": "Is the red square to the right of the pink rectangle?", "ans": "no"}
+{"story": "The red sphere is below the red square.\nThe red sphere is to the right of the triangle.\n", "question": "Is the triangle to the right of the red square?", "ans": "no"}
+{"story": "The red sphere is below the red square.\nThe red sphere is to the right of the triangle.\n", "question": "Is the triangle to the left of the red square?", "ans": "yes"}
+{"story": "The red sphere is below the red square.\nThe red sphere is to the right of the triangle.\n", "question": "Is the triangle to the left of the red square?", "ans": "yes"}
+{"story": "The red sphere is below the red square.\nThe red sphere is to the right of the triangle.\n", "question": "Is the red square above the triangle?", "ans": "yes"}
+{"story": "The red sphere is below the red square.\nThe red sphere is to the right of the triangle.\n", "question": "Is the triangle to the right of the red square?", "ans": "no"}
+{"story": "The red sphere is below the red square.\nThe red sphere is to the right of the triangle.\n", "question": "Is the triangle to the left of the red square?", "ans": "yes"}
+{"story": "The red sphere is below the red square.\nThe red sphere is to the right of the triangle.\n", "question": "Is the red square to the right of the triangle?", "ans": "yes"}
+{"story": "The red sphere is below the red square.\nThe red sphere is to the right of the triangle.\n", "question": "Is the red square below the triangle?", "ans": "no"}
+{"story": "The red sphere is to the left of the red square.\nThe red square is below the blue square.\n", "question": "Is the red sphere to the left of the blue square?", "ans": "yes"}
+{"story": "The red sphere is to the left of the red square.\nThe red square is below the blue square.\n", "question": "Is the red sphere to the left of the blue square?", "ans": "yes"}
+{"story": "The red sphere is to the left of the red square.\nThe red square is below the blue square.\n", "question": "Is the blue square above the red sphere?", "ans": "yes"}
+{"story": "The red sphere is to the left of the red square.\nThe red square is below the blue square.\n", "question": "Is the red sphere to the right of the blue square?", "ans": "no"}
+{"story": "The red sphere is to the left of the red square.\nThe red square is below the blue square.\n", "question": "Is the blue square to the right of the red sphere?", "ans": "yes"}
+{"story": "The red sphere is to the left of the red square.\nThe red square is below the blue square.\n", "question": "Is the blue square to the left of the red sphere?", "ans": "no"}
+{"story": "The red sphere is to the left of the red square.\nThe red square is below the blue square.\n", "question": "Is the red sphere to the left of the blue square?", "ans": "yes"}
+{"story": "The red sphere is to the left of the red square.\nThe red square is below the blue square.\n", "question": "Is the blue square to the left of the red sphere?", "ans": "no"}
+{"story": "The blue square is to the right of the yellow square.\nThe blue square is to the left of the red square.\n", "question": "Is the yellow square to the left of the red square?", "ans": "yes"}
+{"story": "The blue square is to the right of the yellow square.\nThe blue square is to the left of the red square.\n", "question": "Is the red square above the yellow square?", "ans": "no"}
+{"story": "The blue square is to the right of the yellow square.\nThe blue square is to the left of the red square.\n", "question": "Is the yellow square above the red square?", "ans": "no"}
+{"story": "The blue square is to the right of the yellow square.\nThe blue square is to the left of the red square.\n", "question": "Is the yellow square to the left of the red square?", "ans": "yes"}
+{"story": "The blue square is to the right of the yellow square.\nThe blue square is to the left of the red square.\n", "question": "Is the red square to the right of the yellow square?", "ans": "yes"}
+{"story": "The blue square is to the right of the yellow square.\nThe blue square is to the left of the red square.\n", "question": "Is the red square to the right of the yellow square?", "ans": "yes"}
+{"story": "The blue square is to the right of the yellow square.\nThe blue square is to the left of the red square.\n", "question": "Is the yellow square to the left of the red square?", "ans": "yes"}
+{"story": "The blue square is to the right of the yellow square.\nThe blue square is to the left of the red square.\n", "question": "Is the yellow square below the red square?", "ans": "no"}
+{"story": "The pink rectangle is above the blue square.\nThe yellow square is above the pink rectangle.\n", "question": "Is the yellow square to the left of the blue square?", "ans": "no"}
+{"story": "The pink rectangle is above the blue square.\nThe yellow square is above the pink rectangle.\n", "question": "Is the blue square below the yellow square?", "ans": "yes"}
+{"story": "The pink rectangle is above the blue square.\nThe yellow square is above the pink rectangle.\n", "question": "Is the blue square to the right of the yellow square?", "ans": "no"}
+{"story": "The pink rectangle is above the blue square.\nThe yellow square is above the pink rectangle.\n", "question": "Is the yellow square to the right of the blue square?", "ans": "no"}
+{"story": "The pink rectangle is above the blue square.\nThe yellow square is above the pink rectangle.\n", "question": "Is the blue square above the yellow square?", "ans": "no"}
+{"story": "The pink rectangle is above the blue square.\nThe yellow square is above the pink rectangle.\n", "question": "Is the blue square to the left of the yellow square?", "ans": "no"}
+{"story": "The pink rectangle is above the blue square.\nThe yellow square is above the pink rectangle.\n", "question": "Is the yellow square below the blue square?", "ans": "no"}
+{"story": "The pink rectangle is above the blue square.\nThe yellow square is above the pink rectangle.\n", "question": "Is the blue square above the yellow square?", "ans": "no"}
+{"story": "The pink rectangle is below the yellow square.\nThe pink rectangle is to the left of the red sphere.\n", "question": "Is the red sphere to the right of the yellow square?", "ans": "yes"}
+{"story": "The pink rectangle is below the yellow square.\nThe pink rectangle is to the left of the red sphere.\n", "question": "Is the yellow square above the red sphere?", "ans": "yes"}
+{"story": "The pink rectangle is below the yellow square.\nThe pink rectangle is to the left of the red sphere.\n", "question": "Is the yellow square below the red sphere?", "ans": "no"}
+{"story": "The pink rectangle is below the yellow square.\nThe pink rectangle is to the left of the red sphere.\n", "question": "Is the red sphere to the right of the yellow square?", "ans": "yes"}
+{"story": "The pink rectangle is below the yellow square.\nThe pink rectangle is to the left of the red sphere.\n", "question": "Is the yellow square above the red sphere?", "ans": "yes"}
+{"story": "The pink rectangle is below the yellow square.\nThe pink rectangle is to the left of the red sphere.\n", "question": "Is the yellow square below the red sphere?", "ans": "no"}
+{"story": "The pink rectangle is below the yellow square.\nThe pink rectangle is to the left of the red sphere.\n", "question": "Is the red sphere above the yellow square?", "ans": "no"}
+{"story": "The pink rectangle is below the yellow square.\nThe pink rectangle is to the left of the red sphere.\n", "question": "Is the red sphere above the yellow square?", "ans": "no"}
+{"story": "The triangle is above the red sphere.\nThe triangle is to the left of the yellow square.\n", "question": "Is the yellow square to the right of the red sphere?", "ans": "yes"}
+{"story": "The triangle is above the red sphere.\nThe triangle is to the left of the yellow square.\n", "question": "Is the red sphere below the yellow square?", "ans": "yes"}
+{"story": "The triangle is above the red sphere.\nThe triangle is to the left of the yellow square.\n", "question": "Is the yellow square below the red sphere?", "ans": "no"}
+{"story": "The triangle is above the red sphere.\nThe triangle is to the left of the yellow square.\n", "question": "Is the red sphere below the yellow square?", "ans": "yes"}
+{"story": "The triangle is above the red sphere.\nThe triangle is to the left of the yellow square.\n", "question": "Is the yellow square above the red sphere?", "ans": "yes"}
+{"story": "The triangle is above the red sphere.\nThe triangle is to the left of the yellow square.\n", "question": "Is the red sphere below the yellow square?", "ans": "yes"}
+{"story": "The triangle is above the red sphere.\nThe triangle is to the left of the yellow square.\n", "question": "Is the red sphere to the left of the yellow square?", "ans": "yes"}
+{"story": "The triangle is above the red sphere.\nThe triangle is to the left of the yellow square.\n", "question": "Is the yellow square below the red sphere?", "ans": "no"}
+{"story": "The pink rectangle is to the right of the triangle.\nThe triangle is above the blue square.\n", "question": "Is the blue square to the right of the pink rectangle?", "ans": "no"}
+{"story": "The pink rectangle is to the right of the triangle.\nThe triangle is above the blue square.\n", "question": "Is the blue square above the pink rectangle?", "ans": "no"}
+{"story": "The pink rectangle is to the right of the triangle.\nThe triangle is above the blue square.\n", "question": "Is the blue square to the right of the pink rectangle?", "ans": "no"}
+{"story": "The pink rectangle is to the right of the triangle.\nThe triangle is above the blue square.\n", "question": "Is the blue square to the right of the pink rectangle?", "ans": "no"}
+{"story": "The pink rectangle is to the right of the triangle.\nThe triangle is above the blue square.\n", "question": "Is the pink rectangle above the blue square?", "ans": "yes"}
+{"story": "The pink rectangle is to the right of the triangle.\nThe triangle is above the blue square.\n", "question": "Is the pink rectangle to the right of the blue square?", "ans": "yes"}
+{"story": "The pink rectangle is to the right of the triangle.\nThe triangle is above the blue square.\n", "question": "Is the blue square above the pink rectangle?", "ans": "no"}
+{"story": "The pink rectangle is to the right of the triangle.\nThe triangle is above the blue square.\n", "question": "Is the pink rectangle above the blue square?", "ans": "yes"}
+{"story": "The blue square is above the red sphere.\nThe red sphere is to the right of the red square.\n", "question": "Is the red square below the blue square?", "ans": "yes"}
+{"story": "The blue square is above the red sphere.\nThe red sphere is to the right of the red square.\n", "question": "Is the red square below the blue square?", "ans": "yes"}
+{"story": "The blue square is above the red sphere.\nThe red sphere is to the right of the red square.\n", "question": "Is the red square to the right of the blue square?", "ans": "no"}
+{"story": "The blue square is above the red sphere.\nThe red sphere is to the right of the red square.\n", "question": "Is the red square above the blue square?", "ans": "no"}
+{"story": "The blue square is above the red sphere.\nThe red sphere is to the right of the red square.\n", "question": "Is the blue square below the red square?", "ans": "no"}
+{"story": "The blue square is above the red sphere.\nThe red sphere is to the right of the red square.\n", "question": "Is the blue square to the left of the red square?", "ans": "no"}
+{"story": "The blue square is above the red sphere.\nThe red sphere is to the right of the red square.\n", "question": "Is the red square below the blue square?", "ans": "yes"}
+{"story": "The blue square is above the red sphere.\nThe red sphere is to the right of the red square.\n", "question": "Is the blue square to the left of the red square?", "ans": "no"}
+{"story": "The triangle is to the left of the red square.\nThe red sphere is below the triangle.\n", "question": "Is the red sphere below the red square?", "ans": "yes"}
+{"story": "The triangle is to the left of the red square.\nThe red sphere is below the triangle.\n", "question": "Is the red sphere below the red square?", "ans": "yes"}
+{"story": "The triangle is to the left of the red square.\nThe red sphere is below the triangle.\n", "question": "Is the red sphere to the right of the red square?", "ans": "no"}
+{"story": "The triangle is to the left of the red square.\nThe red sphere is below the triangle.\n", "question": "Is the red square to the left of the red sphere?", "ans": "no"}
+{"story": "The triangle is to the left of the red square.\nThe red sphere is below the triangle.\n", "question": "Is the red square to the right of the red sphere?", "ans": "yes"}
+{"story": "The triangle is to the left of the red square.\nThe red sphere is below the triangle.\n", "question": "Is the red sphere below the red square?", "ans": "yes"}
+{"story": "The triangle is to the left of the red square.\nThe red sphere is below the triangle.\n", "question": "Is the red square to the left of the red sphere?", "ans": "no"}
+{"story": "The triangle is to the left of the red square.\nThe red sphere is below the triangle.\n", "question": "Is the red sphere above the red square?", "ans": "no"}
+{"story": "The pink rectangle is below the red square.\nThe red sphere is below the pink rectangle.\n", "question": "Is the red square above the red sphere?", "ans": "yes"}
+{"story": "The pink rectangle is below the red square.\nThe red sphere is below the pink rectangle.\n", "question": "Is the red sphere below the red square?", "ans": "yes"}
+{"story": "The pink rectangle is below the red square.\nThe red sphere is below the pink rectangle.\n", "question": "Is the red square above the red sphere?", "ans": "yes"}
+{"story": "The pink rectangle is below the red square.\nThe red sphere is below the pink rectangle.\n", "question": "Is the red square below the red sphere?", "ans": "no"}
+{"story": "The pink rectangle is below the red square.\nThe red sphere is below the pink rectangle.\n", "question": "Is the red square above the red sphere?", "ans": "yes"}
+{"story": "The pink rectangle is below the red square.\nThe red sphere is below the pink rectangle.\n", "question": "Is the red square below the red sphere?", "ans": "no"}
+{"story": "The pink rectangle is below the red square.\nThe red sphere is below the pink rectangle.\n", "question": "Is the red square to the left of the red sphere?", "ans": "no"}
+{"story": "The pink rectangle is below the red square.\nThe red sphere is below the pink rectangle.\n", "question": "Is the red square above the red sphere?", "ans": "yes"}
+{"story": "The triangle is to the right of the pink rectangle.\nThe pink rectangle is above the red square.\n", "question": "Is the red square above the triangle?", "ans": "no"}
+{"story": "The triangle is to the right of the pink rectangle.\nThe pink rectangle is above the red square.\n", "question": "Is the red square above the triangle?", "ans": "no"}
+{"story": "The triangle is to the right of the pink rectangle.\nThe pink rectangle is above the red square.\n", "question": "Is the red square to the left of the triangle?", "ans": "yes"}
+{"story": "The triangle is to the right of the pink rectangle.\nThe pink rectangle is above the red square.\n", "question": "Is the triangle below the red square?", "ans": "no"}
+{"story": "The triangle is to the right of the pink rectangle.\nThe pink rectangle is above the red square.\n", "question": "Is the red square to the right of the triangle?", "ans": "no"}
+{"story": "The triangle is to the right of the pink rectangle.\nThe pink rectangle is above the red square.\n", "question": "Is the triangle above the red square?", "ans": "yes"}
+{"story": "The triangle is to the right of the pink rectangle.\nThe pink rectangle is above the red square.\n", "question": "Is the red square to the left of the triangle?", "ans": "yes"}
+{"story": "The triangle is to the right of the pink rectangle.\nThe pink rectangle is above the red square.\n", "question": "Is the red square to the left of the triangle?", "ans": "yes"}
+{"story": "The pink rectangle is to the left of the blue square.\nThe pink rectangle is to the right of the yellow square.\n", "question": "Is the yellow square below the blue square?", "ans": "no"}
+{"story": "The pink rectangle is to the left of the blue square.\nThe pink rectangle is to the right of the yellow square.\n", "question": "Is the blue square to the left of the yellow square?", "ans": "no"}
+{"story": "The pink rectangle is to the left of the blue square.\nThe pink rectangle is to the right of the yellow square.\n", "question": "Is the blue square to the right of the yellow square?", "ans": "yes"}
+{"story": "The pink rectangle is to the left of the blue square.\nThe pink rectangle is to the right of the yellow square.\n", "question": "Is the yellow square to the left of the blue square?", "ans": "yes"}
+{"story": "The pink rectangle is to the left of the blue square.\nThe pink rectangle is to the right of the yellow square.\n", "question": "Is the yellow square to the left of the blue square?", "ans": "yes"}
+{"story": "The pink rectangle is to the left of the blue square.\nThe pink rectangle is to the right of the yellow square.\n", "question": "Is the yellow square to the right of the blue square?", "ans": "no"}
+{"story": "The pink rectangle is to the left of the blue square.\nThe pink rectangle is to the right of the yellow square.\n", "question": "Is the yellow square to the left of the blue square?", "ans": "yes"}
+{"story": "The pink rectangle is to the left of the blue square.\nThe pink rectangle is to the right of the yellow square.\n", "question": "Is the yellow square to the left of the blue square?", "ans": "yes"}
+{"story": "The blue square is to the right of the yellow square.\nThe pink rectangle is above the blue square.\n", "question": "Is the pink rectangle above the yellow square?", "ans": "yes"}
+{"story": "The blue square is to the right of the yellow square.\nThe pink rectangle is above the blue square.\n", "question": "Is the yellow square above the pink rectangle?", "ans": "no"}
+{"story": "The blue square is to the right of the yellow square.\nThe pink rectangle is above the blue square.\n", "question": "Is the pink rectangle to the left of the yellow square?", "ans": "no"}
+{"story": "The blue square is to the right of the yellow square.\nThe pink rectangle is above the blue square.\n", "question": "Is the yellow square to the left of the pink rectangle?", "ans": "yes"}
+{"story": "The blue square is to the right of the yellow square.\nThe pink rectangle is above the blue square.\n", "question": "Is the pink rectangle below the yellow square?", "ans": "no"}
+{"story": "The blue square is to the right of the yellow square.\nThe pink rectangle is above the blue square.\n", "question": "Is the yellow square to the right of the pink rectangle?", "ans": "no"}
+{"story": "The blue square is to the right of the yellow square.\nThe pink rectangle is above the blue square.\n", "question": "Is the pink rectangle below the yellow square?", "ans": "no"}
+{"story": "The blue square is to the right of the yellow square.\nThe pink rectangle is above the blue square.\n", "question": "Is the pink rectangle to the left of the yellow square?", "ans": "no"}
+{"story": "The red sphere is to the right of the triangle.\nThe pink rectangle is to the right of the red sphere.\n", "question": "Is the triangle to the left of the pink rectangle?", "ans": "yes"}
+{"story": "The red sphere is to the right of the triangle.\nThe pink rectangle is to the right of the red sphere.\n", "question": "Is the pink rectangle to the right of the triangle?", "ans": "yes"}
+{"story": "The red sphere is to the right of the triangle.\nThe pink rectangle is to the right of the red sphere.\n", "question": "Is the triangle below the pink rectangle?", "ans": "no"}
+{"story": "The red sphere is to the right of the triangle.\nThe pink rectangle is to the right of the red sphere.\n", "question": "Is the pink rectangle to the left of the triangle?", "ans": "no"}
+{"story": "The red sphere is to the right of the triangle.\nThe pink rectangle is to the right of the red sphere.\n", "question": "Is the pink rectangle to the right of the triangle?", "ans": "yes"}
+{"story": "The red sphere is to the right of the triangle.\nThe pink rectangle is to the right of the red sphere.\n", "question": "Is the pink rectangle above the triangle?", "ans": "no"}
+{"story": "The red sphere is to the right of the triangle.\nThe pink rectangle is to the right of the red sphere.\n", "question": "Is the pink rectangle to the left of the triangle?", "ans": "no"}
+{"story": "The red sphere is to the right of the triangle.\nThe pink rectangle is to the right of the red sphere.\n", "question": "Is the triangle to the right of the pink rectangle?", "ans": "no"}
+{"story": "The triangle is above the red sphere.\nThe triangle is to the left of the red square.\n", "question": "Is the red square to the right of the red sphere?", "ans": "yes"}
+{"story": "The triangle is above the red sphere.\nThe triangle is to the left of the red square.\n", "question": "Is the red square above the red sphere?", "ans": "yes"}
+{"story": "The triangle is above the red sphere.\nThe triangle is to the left of the red square.\n", "question": "Is the red square above the red sphere?", "ans": "yes"}
+{"story": "The triangle is above the red sphere.\nThe triangle is to the left of the red square.\n", "question": "Is the red square to the right of the red sphere?", "ans": "yes"}
+{"story": "The triangle is above the red sphere.\nThe triangle is to the left of the red square.\n", "question": "Is the red square above the red sphere?", "ans": "yes"}
+{"story": "The triangle is above the red sphere.\nThe triangle is to the left of the red square.\n", "question": "Is the red square to the left of the red sphere?", "ans": "no"}
+{"story": "The triangle is above the red sphere.\nThe triangle is to the left of the red square.\n", "question": "Is the red square to the left of the red sphere?", "ans": "no"}
+{"story": "The triangle is above the red sphere.\nThe triangle is to the left of the red square.\n", "question": "Is the red sphere to the right of the red square?", "ans": "no"}
+{"story": "The triangle is below the yellow square.\nThe yellow square is below the pink rectangle.\n", "question": "Is the triangle below the pink rectangle?", "ans": "yes"}
+{"story": "The triangle is below the yellow square.\nThe yellow square is below the pink rectangle.\n", "question": "Is the pink rectangle above the triangle?", "ans": "yes"}
+{"story": "The triangle is below the yellow square.\nThe yellow square is below the pink rectangle.\n", "question": "Is the pink rectangle above the triangle?", "ans": "yes"}
+{"story": "The triangle is below the yellow square.\nThe yellow square is below the pink rectangle.\n", "question": "Is the triangle above the pink rectangle?", "ans": "no"}
+{"story": "The triangle is below the yellow square.\nThe yellow square is below the pink rectangle.\n", "question": "Is the pink rectangle to the left of the triangle?", "ans": "no"}
+{"story": "The triangle is below the yellow square.\nThe yellow square is below the pink rectangle.\n", "question": "Is the triangle above the pink rectangle?", "ans": "no"}
+{"story": "The triangle is below the yellow square.\nThe yellow square is below the pink rectangle.\n", "question": "Is the triangle to the left of the pink rectangle?", "ans": "no"}
+{"story": "The triangle is below the yellow square.\nThe yellow square is below the pink rectangle.\n", "question": "Is the pink rectangle to the right of the triangle?", "ans": "no"}
+{"story": "The red square is to the left of the yellow square.\nThe yellow square is to the left of the blue square.\n", "question": "Is the red square below the blue square?", "ans": "no"}
+{"story": "The red square is to the left of the yellow square.\nThe yellow square is to the left of the blue square.\n", "question": "Is the red square to the left of the blue square?", "ans": "yes"}
+{"story": "The red square is to the left of the yellow square.\nThe yellow square is to the left of the blue square.\n", "question": "Is the blue square to the right of the red square?", "ans": "yes"}
+{"story": "The red square is to the left of the yellow square.\nThe yellow square is to the left of the blue square.\n", "question": "Is the blue square to the right of the red square?", "ans": "yes"}
+{"story": "The red square is to the left of the yellow square.\nThe yellow square is to the left of the blue square.\n", "question": "Is the red square below the blue square?", "ans": "no"}
+{"story": "The red square is to the left of the yellow square.\nThe yellow square is to the left of the blue square.\n", "question": "Is the blue square to the left of the red square?", "ans": "no"}
+{"story": "The red square is to the left of the yellow square.\nThe yellow square is to the left of the blue square.\n", "question": "Is the red square to the left of the blue square?", "ans": "yes"}
+{"story": "The red square is to the left of the yellow square.\nThe yellow square is to the left of the blue square.\n", "question": "Is the blue square to the left of the red square?", "ans": "no"}
+{"story": "The red square is to the right of the triangle.\nThe blue square is above the triangle.\n", "question": "Is the red square above the blue square?", "ans": "no"}
+{"story": "The red square is to the right of the triangle.\nThe blue square is above the triangle.\n", "question": "Is the blue square to the right of the red square?", "ans": "no"}
+{"story": "The red square is to the right of the triangle.\nThe blue square is above the triangle.\n", "question": "Is the red square above the blue square?", "ans": "no"}
+{"story": "The red square is to the right of the triangle.\nThe blue square is above the triangle.\n", "question": "Is the red square below the blue square?", "ans": "yes"}
+{"story": "The red square is to the right of the triangle.\nThe blue square is above the triangle.\n", "question": "Is the red square below the blue square?", "ans": "yes"}
+{"story": "The red square is to the right of the triangle.\nThe blue square is above the triangle.\n", "question": "Is the blue square to the right of the red square?", "ans": "no"}
+{"story": "The red square is to the right of the triangle.\nThe blue square is above the triangle.\n", "question": "Is the red square below the blue square?", "ans": "yes"}
+{"story": "The red square is to the right of the triangle.\nThe blue square is above the triangle.\n", "question": "Is the red square above the blue square?", "ans": "no"}
+{"story": "The triangle is above the yellow square.\nThe triangle is below the red sphere.\n", "question": "Is the yellow square to the right of the red sphere?", "ans": "no"}
+{"story": "The triangle is above the yellow square.\nThe triangle is below the red sphere.\n", "question": "Is the red sphere to the right of the yellow square?", "ans": "no"}
+{"story": "The triangle is above the yellow square.\nThe triangle is below the red sphere.\n", "question": "Is the yellow square above the red sphere?", "ans": "no"}
+{"story": "The triangle is above the yellow square.\nThe triangle is below the red sphere.\n", "question": "Is the red sphere to the left of the yellow square?", "ans": "no"}
+{"story": "The triangle is above the yellow square.\nThe triangle is below the red sphere.\n", "question": "Is the red sphere above the yellow square?", "ans": "yes"}
+{"story": "The triangle is above the yellow square.\nThe triangle is below the red sphere.\n", "question": "Is the yellow square to the left of the red sphere?", "ans": "no"}
+{"story": "The triangle is above the yellow square.\nThe triangle is below the red sphere.\n", "question": "Is the yellow square below the red sphere?", "ans": "yes"}
+{"story": "The triangle is above the yellow square.\nThe triangle is below the red sphere.\n", "question": "Is the red sphere above the yellow square?", "ans": "yes"}
+{"story": "The triangle is to the right of the yellow square.\nThe yellow square is above the red square.\n", "question": "Is the red square to the left of the triangle?", "ans": "yes"}
+{"story": "The triangle is to the right of the yellow square.\nThe yellow square is above the red square.\n", "question": "Is the triangle below the red square?", "ans": "no"}
+{"story": "The triangle is to the right of the yellow square.\nThe yellow square is above the red square.\n", "question": "Is the red square to the left of the triangle?", "ans": "yes"}
+{"story": "The triangle is to the right of the yellow square.\nThe yellow square is above the red square.\n", "question": "Is the red square to the right of the triangle?", "ans": "no"}
+{"story": "The triangle is to the right of the yellow square.\nThe yellow square is above the red square.\n", "question": "Is the red square above the triangle?", "ans": "no"}
+{"story": "The triangle is to the right of the yellow square.\nThe yellow square is above the red square.\n", "question": "Is the triangle to the right of the red square?", "ans": "yes"}
+{"story": "The triangle is to the right of the yellow square.\nThe yellow square is above the red square.\n", "question": "Is the triangle to the left of the red square?", "ans": "no"}
+{"story": "The triangle is to the right of the yellow square.\nThe yellow square is above the red square.\n", "question": "Is the red square to the right of the triangle?", "ans": "no"}
+{"story": "The yellow square is above the pink rectangle.\nThe yellow square is below the red square.\n", "question": "Is the red square above the pink rectangle?", "ans": "yes"}
+{"story": "The yellow square is above the pink rectangle.\nThe yellow square is below the red square.\n", "question": "Is the pink rectangle above the red square?", "ans": "no"}
+{"story": "The yellow square is above the pink rectangle.\nThe yellow square is below the red square.\n", "question": "Is the pink rectangle above the red square?", "ans": "no"}
+{"story": "The yellow square is above the pink rectangle.\nThe yellow square is below the red square.\n", "question": "Is the red square above the pink rectangle?", "ans": "yes"}
+{"story": "The yellow square is above the pink rectangle.\nThe yellow square is below the red square.\n", "question": "Is the pink rectangle to the left of the red square?", "ans": "no"}
+{"story": "The yellow square is above the pink rectangle.\nThe yellow square is below the red square.\n", "question": "Is the red square below the pink rectangle?", "ans": "no"}
+{"story": "The yellow square is above the pink rectangle.\nThe yellow square is below the red square.\n", "question": "Is the red square to the right of the pink rectangle?", "ans": "no"}
+{"story": "The yellow square is above the pink rectangle.\nThe yellow square is below the red square.\n", "question": "Is the pink rectangle above the red square?", "ans": "no"}
+{"story": "The pink rectangle is below the red sphere.\nThe pink rectangle is to the left of the yellow square.\n", "question": "Is the red sphere to the right of the yellow square?", "ans": "no"}
+{"story": "The pink rectangle is below the red sphere.\nThe pink rectangle is to the left of the yellow square.\n", "question": "Is the yellow square to the right of the red sphere?", "ans": "yes"}
+{"story": "The pink rectangle is below the red sphere.\nThe pink rectangle is to the left of the yellow square.\n", "question": "Is the yellow square above the red sphere?", "ans": "no"}
+{"story": "The pink rectangle is below the red sphere.\nThe pink rectangle is to the left of the yellow square.\n", "question": "Is the yellow square above the red sphere?", "ans": "no"}
+{"story": "The pink rectangle is below the red sphere.\nThe pink rectangle is to the left of the yellow square.\n", "question": "Is the yellow square above the red sphere?", "ans": "no"}
+{"story": "The pink rectangle is below the red sphere.\nThe pink rectangle is to the left of the yellow square.\n", "question": "Is the yellow square below the red sphere?", "ans": "yes"}
+{"story": "The pink rectangle is below the red sphere.\nThe pink rectangle is to the left of the yellow square.\n", "question": "Is the red sphere above the yellow square?", "ans": "yes"}
+{"story": "The pink rectangle is below the red sphere.\nThe pink rectangle is to the left of the yellow square.\n", "question": "Is the yellow square above the red sphere?", "ans": "no"}
+{"story": "The pink rectangle is to the left of the red square.\nThe red sphere is above the red square.\n", "question": "Is the pink rectangle to the left of the red sphere?", "ans": "yes"}
+{"story": "The pink rectangle is to the left of the red square.\nThe red sphere is above the red square.\n", "question": "Is the pink rectangle to the left of the red sphere?", "ans": "yes"}
+{"story": "The pink rectangle is to the left of the red square.\nThe red sphere is above the red square.\n", "question": "Is the red sphere to the left of the pink rectangle?", "ans": "no"}
+{"story": "The pink rectangle is to the left of the red square.\nThe red sphere is above the red square.\n", "question": "Is the pink rectangle to the left of the red sphere?", "ans": "yes"}
+{"story": "The pink rectangle is to the left of the red square.\nThe red sphere is above the red square.\n", "question": "Is the pink rectangle to the right of the red sphere?", "ans": "no"}
+{"story": "The pink rectangle is to the left of the red square.\nThe red sphere is above the red square.\n", "question": "Is the pink rectangle above the red sphere?", "ans": "no"}
+{"story": "The pink rectangle is to the left of the red square.\nThe red sphere is above the red square.\n", "question": "Is the pink rectangle to the right of the red sphere?", "ans": "no"}
+{"story": "The pink rectangle is to the left of the red square.\nThe red sphere is above the red square.\n", "question": "Is the red sphere above the pink rectangle?", "ans": "yes"}
+{"story": "The red sphere is to the left of the pink rectangle.\nThe red sphere is below the red square.\n", "question": "Is the red square above the pink rectangle?", "ans": "yes"}
+{"story": "The red sphere is to the left of the pink rectangle.\nThe red sphere is below the red square.\n", "question": "Is the pink rectangle below the red square?", "ans": "yes"}
+{"story": "The red sphere is to the left of the pink rectangle.\nThe red sphere is below the red square.\n", "question": "Is the red square above the pink rectangle?", "ans": "yes"}
+{"story": "The red sphere is to the left of the pink rectangle.\nThe red sphere is below the red square.\n", "question": "Is the pink rectangle to the left of the red square?", "ans": "no"}
+{"story": "The red sphere is to the left of the pink rectangle.\nThe red sphere is below the red square.\n", "question": "Is the red square above the pink rectangle?", "ans": "yes"}
+{"story": "The red sphere is to the left of the pink rectangle.\nThe red sphere is below the red square.\n", "question": "Is the red square above the pink rectangle?", "ans": "yes"}
+{"story": "The red sphere is to the left of the pink rectangle.\nThe red sphere is below the red square.\n", "question": "Is the pink rectangle to the right of the red square?", "ans": "yes"}
+{"story": "The red sphere is to the left of the pink rectangle.\nThe red sphere is below the red square.\n", "question": "Is the pink rectangle to the left of the red square?", "ans": "no"}
+{"story": "The blue square is below the red sphere.\nThe blue square is to the left of the pink rectangle.\n", "question": "Is the red sphere to the right of the pink rectangle?", "ans": "no"}
+{"story": "The blue square is below the red sphere.\nThe blue square is to the left of the pink rectangle.\n", "question": "Is the red sphere above the pink rectangle?", "ans": "yes"}
+{"story": "The blue square is below the red sphere.\nThe blue square is to the left of the pink rectangle.\n", "question": "Is the pink rectangle to the left of the red sphere?", "ans": "no"}
+{"story": "The blue square is below the red sphere.\nThe blue square is to the left of the pink rectangle.\n", "question": "Is the pink rectangle to the right of the red sphere?", "ans": "yes"}
+{"story": "The blue square is below the red sphere.\nThe blue square is to the left of the pink rectangle.\n", "question": "Is the red sphere to the left of the pink rectangle?", "ans": "yes"}
+{"story": "The blue square is below the red sphere.\nThe blue square is to the left of the pink rectangle.\n", "question": "Is the pink rectangle above the red sphere?", "ans": "no"}
+{"story": "The blue square is below the red sphere.\nThe blue square is to the left of the pink rectangle.\n", "question": "Is the red sphere to the right of the pink rectangle?", "ans": "no"}
+{"story": "The blue square is below the red sphere.\nThe blue square is to the left of the pink rectangle.\n", "question": "Is the red sphere to the left of the pink rectangle?", "ans": "yes"}
+{"story": "The red square is to the left of the yellow square.\nThe yellow square is to the left of the red sphere.\n", "question": "Is the red sphere above the red square?", "ans": "no"}
+{"story": "The red square is to the left of the yellow square.\nThe yellow square is to the left of the red sphere.\n", "question": "Is the red sphere above the red square?", "ans": "no"}
+{"story": "The red square is to the left of the yellow square.\nThe yellow square is to the left of the red sphere.\n", "question": "Is the red sphere to the right of the red square?", "ans": "yes"}
+{"story": "The red square is to the left of the yellow square.\nThe yellow square is to the left of the red sphere.\n", "question": "Is the red square to the left of the red sphere?", "ans": "yes"}
+{"story": "The red square is to the left of the yellow square.\nThe yellow square is to the left of the red sphere.\n", "question": "Is the red sphere to the right of the red square?", "ans": "yes"}
+{"story": "The red square is to the left of the yellow square.\nThe yellow square is to the left of the red sphere.\n", "question": "Is the red sphere below the red square?", "ans": "no"}
+{"story": "The red square is to the left of the yellow square.\nThe yellow square is to the left of the red sphere.\n", "question": "Is the red square to the left of the red sphere?", "ans": "yes"}
+{"story": "The red square is to the left of the yellow square.\nThe yellow square is to the left of the red sphere.\n", "question": "Is the red square below the red sphere?", "ans": "no"}
+{"story": "The blue square is to the left of the red sphere.\nThe red sphere is above the red square.\n", "question": "Is the blue square to the left of the red square?", "ans": "yes"}
+{"story": "The blue square is to the left of the red sphere.\nThe red sphere is above the red square.\n", "question": "Is the blue square to the right of the red square?", "ans": "no"}
+{"story": "The blue square is to the left of the red sphere.\nThe red sphere is above the red square.\n", "question": "Is the blue square to the right of the red square?", "ans": "no"}
+{"story": "The blue square is to the left of the red sphere.\nThe red sphere is above the red square.\n", "question": "Is the red square to the left of the blue square?", "ans": "no"}
+{"story": "The blue square is to the left of the red sphere.\nThe red sphere is above the red square.\n", "question": "Is the blue square to the left of the red square?", "ans": "yes"}
+{"story": "The blue square is to the left of the red sphere.\nThe red sphere is above the red square.\n", "question": "Is the red square to the left of the blue square?", "ans": "no"}
+{"story": "The blue square is to the left of the red sphere.\nThe red sphere is above the red square.\n", "question": "Is the red square below the blue square?", "ans": "yes"}
+{"story": "The blue square is to the left of the red sphere.\nThe red sphere is above the red square.\n", "question": "Is the blue square below the red square?", "ans": "no"}
+{"story": "The red sphere is above the red square.\nThe red sphere is below the yellow square.\n", "question": "Is the red square to the right of the yellow square?", "ans": "no"}
+{"story": "The red sphere is above the red square.\nThe red sphere is below the yellow square.\n", "question": "Is the red square below the yellow square?", "ans": "yes"}
+{"story": "The red sphere is above the red square.\nThe red sphere is below the yellow square.\n", "question": "Is the yellow square below the red square?", "ans": "no"}
+{"story": "The red sphere is above the red square.\nThe red sphere is below the yellow square.\n", "question": "Is the yellow square to the left of the red square?", "ans": "no"}
+{"story": "The red sphere is above the red square.\nThe red sphere is below the yellow square.\n", "question": "Is the red square above the yellow square?", "ans": "no"}
+{"story": "The red sphere is above the red square.\nThe red sphere is below the yellow square.\n", "question": "Is the red square to the left of the yellow square?", "ans": "no"}
+{"story": "The red sphere is above the red square.\nThe red sphere is below the yellow square.\n", "question": "Is the yellow square above the red square?", "ans": "yes"}
+{"story": "The red sphere is above the red square.\nThe red sphere is below the yellow square.\n", "question": "Is the red square below the yellow square?", "ans": "yes"}
+{"story": "The triangle is to the right of the blue square.\nThe blue square is to the right of the red square.\n", "question": "Is the red square below the triangle?", "ans": "no"}
+{"story": "The triangle is to the right of the blue square.\nThe blue square is to the right of the red square.\n", "question": "Is the red square to the left of the triangle?", "ans": "yes"}
+{"story": "The triangle is to the right of the blue square.\nThe blue square is to the right of the red square.\n", "question": "Is the triangle to the left of the red square?", "ans": "no"}
+{"story": "The triangle is to the right of the blue square.\nThe blue square is to the right of the red square.\n", "question": "Is the red square to the left of the triangle?", "ans": "yes"}
+{"story": "The triangle is to the right of the blue square.\nThe blue square is to the right of the red square.\n", "question": "Is the triangle to the right of the red square?", "ans": "yes"}
+{"story": "The triangle is to the right of the blue square.\nThe blue square is to the right of the red square.\n", "question": "Is the triangle to the left of the red square?", "ans": "no"}
+{"story": "The triangle is to the right of the blue square.\nThe blue square is to the right of the red square.\n", "question": "Is the triangle to the right of the red square?", "ans": "yes"}
+{"story": "The triangle is to the right of the blue square.\nThe blue square is to the right of the red square.\n", "question": "Is the triangle above the red square?", "ans": "no"}
+{"story": "The yellow square is below the triangle.\nThe yellow square is above the red square.\n", "question": "Is the red square above the triangle?", "ans": "no"}
+{"story": "The yellow square is below the triangle.\nThe yellow square is above the red square.\n", "question": "Is the triangle above the red square?", "ans": "yes"}
+{"story": "The yellow square is below the triangle.\nThe yellow square is above the red square.\n", "question": "Is the red square below the triangle?", "ans": "yes"}
+{"story": "The yellow square is below the triangle.\nThe yellow square is above the red square.\n", "question": "Is the red square to the right of the triangle?", "ans": "no"}
+{"story": "The yellow square is below the triangle.\nThe yellow square is above the red square.\n", "question": "Is the triangle below the red square?", "ans": "no"}
+{"story": "The yellow square is below the triangle.\nThe yellow square is above the red square.\n", "question": "Is the triangle to the right of the red square?", "ans": "no"}
+{"story": "The yellow square is below the triangle.\nThe yellow square is above the red square.\n", "question": "Is the red square below the triangle?", "ans": "yes"}
+{"story": "The yellow square is below the triangle.\nThe yellow square is above the red square.\n", "question": "Is the triangle to the right of the red square?", "ans": "no"}
+{"story": "The triangle is above the red sphere.\nThe triangle is below the red square.\n", "question": "Is the red square to the right of the red sphere?", "ans": "no"}
+{"story": "The triangle is above the red sphere.\nThe triangle is below the red square.\n", "question": "Is the red square to the right of the red sphere?", "ans": "no"}
+{"story": "The triangle is above the red sphere.\nThe triangle is below the red square.\n", "question": "Is the red square to the left of the red sphere?", "ans": "no"}
+{"story": "The triangle is above the red sphere.\nThe triangle is below the red square.\n", "question": "Is the red square to the left of the red sphere?", "ans": "no"}
+{"story": "The triangle is above the red sphere.\nThe triangle is below the red square.\n", "question": "Is the red square above the red sphere?", "ans": "yes"}
+{"story": "The triangle is above the red sphere.\nThe triangle is below the red square.\n", "question": "Is the red sphere to the left of the red square?", "ans": "no"}
+{"story": "The triangle is above the red sphere.\nThe triangle is below the red square.\n", "question": "Is the red sphere below the red square?", "ans": "yes"}
+{"story": "The triangle is above the red sphere.\nThe triangle is below the red square.\n", "question": "Is the red square above the red sphere?", "ans": "yes"}
+{"story": "The red square is to the left of the yellow square.\nThe triangle is above the red square.\n", "question": "Is the triangle to the left of the yellow square?", "ans": "yes"}
+{"story": "The red square is to the left of the yellow square.\nThe triangle is above the red square.\n", "question": "Is the triangle below the yellow square?", "ans": "no"}
+{"story": "The red square is to the left of the yellow square.\nThe triangle is above the red square.\n", "question": "Is the triangle to the right of the yellow square?", "ans": "no"}
+{"story": "The red square is to the left of the yellow square.\nThe triangle is above the red square.\n", "question": "Is the yellow square to the left of the triangle?", "ans": "no"}
+{"story": "The red square is to the left of the yellow square.\nThe triangle is above the red square.\n", "question": "Is the yellow square below the triangle?", "ans": "yes"}
+{"story": "The red square is to the left of the yellow square.\nThe triangle is above the red square.\n", "question": "Is the yellow square to the left of the triangle?", "ans": "no"}
+{"story": "The red square is to the left of the yellow square.\nThe triangle is above the red square.\n", "question": "Is the yellow square below the triangle?", "ans": "yes"}
+{"story": "The red square is to the left of the yellow square.\nThe triangle is above the red square.\n", "question": "Is the triangle below the yellow square?", "ans": "no"}
+{"story": "The red sphere is above the yellow square.\nThe blue square is below the yellow square.\n", "question": "Is the blue square above the red sphere?", "ans": "no"}
+{"story": "The red sphere is above the yellow square.\nThe blue square is below the yellow square.\n", "question": "Is the red sphere below the blue square?", "ans": "no"}
+{"story": "The red sphere is above the yellow square.\nThe blue square is below the yellow square.\n", "question": "Is the blue square above the red sphere?", "ans": "no"}
+{"story": "The red sphere is above the yellow square.\nThe blue square is below the yellow square.\n", "question": "Is the red sphere above the blue square?", "ans": "yes"}
+{"story": "The red sphere is above the yellow square.\nThe blue square is below the yellow square.\n", "question": "Is the blue square below the red sphere?", "ans": "yes"}
+{"story": "The red sphere is above the yellow square.\nThe blue square is below the yellow square.\n", "question": "Is the red sphere above the blue square?", "ans": "yes"}
+{"story": "The red sphere is above the yellow square.\nThe blue square is below the yellow square.\n", "question": "Is the red sphere below the blue square?", "ans": "no"}
+{"story": "The red sphere is above the yellow square.\nThe blue square is below the yellow square.\n", "question": "Is the red sphere above the blue square?", "ans": "yes"}
+{"story": "The red square is to the left of the yellow square.\nThe red square is to the right of the red sphere.\n", "question": "Is the red sphere to the left of the yellow square?", "ans": "yes"}
+{"story": "The red square is to the left of the yellow square.\nThe red square is to the right of the red sphere.\n", "question": "Is the red sphere to the right of the yellow square?", "ans": "no"}
+{"story": "The red square is to the left of the yellow square.\nThe red square is to the right of the red sphere.\n", "question": "Is the red sphere to the left of the yellow square?", "ans": "yes"}
+{"story": "The red square is to the left of the yellow square.\nThe red square is to the right of the red sphere.\n", "question": "Is the yellow square to the right of the red sphere?", "ans": "yes"}
+{"story": "The red square is to the left of the yellow square.\nThe red square is to the right of the red sphere.\n", "question": "Is the red sphere below the yellow square?", "ans": "no"}
+{"story": "The red square is to the left of the yellow square.\nThe red square is to the right of the red sphere.\n", "question": "Is the red sphere above the yellow square?", "ans": "no"}
+{"story": "The red square is to the left of the yellow square.\nThe red square is to the right of the red sphere.\n", "question": "Is the red sphere above the yellow square?", "ans": "no"}
+{"story": "The red square is to the left of the yellow square.\nThe red square is to the right of the red sphere.\n", "question": "Is the red sphere to the left of the yellow square?", "ans": "yes"}
+{"story": "The red square is to the left of the yellow square.\nThe red square is above the triangle.\n", "question": "Is the yellow square above the triangle?", "ans": "yes"}
+{"story": "The red square is to the left of the yellow square.\nThe red square is above the triangle.\n", "question": "Is the triangle to the right of the yellow square?", "ans": "no"}
+{"story": "The red square is to the left of the yellow square.\nThe red square is above the triangle.\n", "question": "Is the yellow square to the right of the triangle?", "ans": "yes"}
+{"story": "The red square is to the left of the yellow square.\nThe red square is above the triangle.\n", "question": "Is the triangle below the yellow square?", "ans": "yes"}
+{"story": "The red square is to the left of the yellow square.\nThe red square is above the triangle.\n", "question": "Is the yellow square above the triangle?", "ans": "yes"}
+{"story": "The red square is to the left of the yellow square.\nThe red square is above the triangle.\n", "question": "Is the triangle to the left of the yellow square?", "ans": "yes"}
+{"story": "The red square is to the left of the yellow square.\nThe red square is above the triangle.\n", "question": "Is the triangle to the right of the yellow square?", "ans": "no"}
+{"story": "The red square is to the left of the yellow square.\nThe red square is above the triangle.\n", "question": "Is the triangle to the right of the yellow square?", "ans": "no"}
+{"story": "The pink rectangle is to the right of the red square.\nThe triangle is above the red square.\n", "question": "Is the pink rectangle above the triangle?", "ans": "no"}
+{"story": "The pink rectangle is to the right of the red square.\nThe triangle is above the red square.\n", "question": "Is the pink rectangle below the triangle?", "ans": "yes"}
+{"story": "The pink rectangle is to the right of the red square.\nThe triangle is above the red square.\n", "question": "Is the pink rectangle to the right of the triangle?", "ans": "yes"}
+{"story": "The pink rectangle is to the right of the red square.\nThe triangle is above the red square.\n", "question": "Is the pink rectangle above the triangle?", "ans": "no"}
+{"story": "The pink rectangle is to the right of the red square.\nThe triangle is above the red square.\n", "question": "Is the triangle to the right of the pink rectangle?", "ans": "no"}
+{"story": "The pink rectangle is to the right of the red square.\nThe triangle is above the red square.\n", "question": "Is the pink rectangle to the left of the triangle?", "ans": "no"}
+{"story": "The pink rectangle is to the right of the red square.\nThe triangle is above the red square.\n", "question": "Is the triangle to the right of the pink rectangle?", "ans": "no"}
+{"story": "The pink rectangle is to the right of the red square.\nThe triangle is above the red square.\n", "question": "Is the pink rectangle to the right of the triangle?", "ans": "yes"}
+{"story": "The red square is to the left of the red sphere.\nThe triangle is below the red square.\n", "question": "Is the triangle to the right of the red sphere?", "ans": "no"}
+{"story": "The red square is to the left of the red sphere.\nThe triangle is below the red square.\n", "question": "Is the triangle to the right of the red sphere?", "ans": "no"}
+{"story": "The red square is to the left of the red sphere.\nThe triangle is below the red square.\n", "question": "Is the triangle above the red sphere?", "ans": "no"}
+{"story": "The red square is to the left of the red sphere.\nThe triangle is below the red square.\n", "question": "Is the red sphere to the right of the triangle?", "ans": "yes"}
+{"story": "The red square is to the left of the red sphere.\nThe triangle is below the red square.\n", "question": "Is the red sphere to the left of the triangle?", "ans": "no"}
+{"story": "The red square is to the left of the red sphere.\nThe triangle is below the red square.\n", "question": "Is the red sphere to the right of the triangle?", "ans": "yes"}
+{"story": "The red square is to the left of the red sphere.\nThe triangle is below the red square.\n", "question": "Is the triangle to the right of the red sphere?", "ans": "no"}
+{"story": "The red square is to the left of the red sphere.\nThe triangle is below the red square.\n", "question": "Is the red sphere below the triangle?", "ans": "no"}
+{"story": "The red square is to the right of the yellow square.\nThe triangle is to the left of the yellow square.\n", "question": "Is the triangle below the red square?", "ans": "no"}
+{"story": "The red square is to the right of the yellow square.\nThe triangle is to the left of the yellow square.\n", "question": "Is the red square to the right of the triangle?", "ans": "yes"}
+{"story": "The red square is to the right of the yellow square.\nThe triangle is to the left of the yellow square.\n", "question": "Is the red square to the right of the triangle?", "ans": "yes"}
+{"story": "The red square is to the right of the yellow square.\nThe triangle is to the left of the yellow square.\n", "question": "Is the triangle to the left of the red square?", "ans": "yes"}
+{"story": "The red square is to the right of the yellow square.\nThe triangle is to the left of the yellow square.\n", "question": "Is the triangle to the right of the red square?", "ans": "no"}
+{"story": "The red square is to the right of the yellow square.\nThe triangle is to the left of the yellow square.\n", "question": "Is the red square to the right of the triangle?", "ans": "yes"}
+{"story": "The red square is to the right of the yellow square.\nThe triangle is to the left of the yellow square.\n", "question": "Is the red square to the right of the triangle?", "ans": "yes"}
+{"story": "The red square is to the right of the yellow square.\nThe triangle is to the left of the yellow square.\n", "question": "Is the triangle below the red square?", "ans": "no"}
+{"story": "The yellow square is above the triangle.\nThe triangle is to the left of the red sphere.\n", "question": "Is the red sphere below the yellow square?", "ans": "yes"}
+{"story": "The yellow square is above the triangle.\nThe triangle is to the left of the red sphere.\n", "question": "Is the red sphere to the right of the yellow square?", "ans": "yes"}
+{"story": "The yellow square is above the triangle.\nThe triangle is to the left of the red sphere.\n", "question": "Is the red sphere to the right of the yellow square?", "ans": "yes"}
+{"story": "The yellow square is above the triangle.\nThe triangle is to the left of the red sphere.\n", "question": "Is the red sphere below the yellow square?", "ans": "yes"}
+{"story": "The yellow square is above the triangle.\nThe triangle is to the left of the red sphere.\n", "question": "Is the yellow square to the left of the red sphere?", "ans": "yes"}
+{"story": "The yellow square is above the triangle.\nThe triangle is to the left of the red sphere.\n", "question": "Is the red sphere below the yellow square?", "ans": "yes"}
+{"story": "The yellow square is above the triangle.\nThe triangle is to the left of the red sphere.\n", "question": "Is the red sphere above the yellow square?", "ans": "no"}
+{"story": "The yellow square is above the triangle.\nThe triangle is to the left of the red sphere.\n", "question": "Is the red sphere below the yellow square?", "ans": "yes"}
+{"story": "The blue square is above the pink rectangle.\nThe yellow square is below the pink rectangle.\n", "question": "Is the yellow square below the blue square?", "ans": "yes"}
+{"story": "The blue square is above the pink rectangle.\nThe yellow square is below the pink rectangle.\n", "question": "Is the yellow square to the left of the blue square?", "ans": "no"}
+{"story": "The blue square is above the pink rectangle.\nThe yellow square is below the pink rectangle.\n", "question": "Is the yellow square to the left of the blue square?", "ans": "no"}
+{"story": "The blue square is above the pink rectangle.\nThe yellow square is below the pink rectangle.\n", "question": "Is the blue square to the left of the yellow square?", "ans": "no"}
+{"story": "The blue square is above the pink rectangle.\nThe yellow square is below the pink rectangle.\n", "question": "Is the yellow square above the blue square?", "ans": "no"}
+{"story": "The blue square is above the pink rectangle.\nThe yellow square is below the pink rectangle.\n", "question": "Is the yellow square below the blue square?", "ans": "yes"}
+{"story": "The blue square is above the pink rectangle.\nThe yellow square is below the pink rectangle.\n", "question": "Is the blue square to the right of the yellow square?", "ans": "no"}
+{"story": "The blue square is above the pink rectangle.\nThe yellow square is below the pink rectangle.\n", "question": "Is the blue square to the right of the yellow square?", "ans": "no"}
+{"story": "The yellow square is to the right of the blue square.\nThe yellow square is below the red sphere.\n", "question": "Is the red sphere below the blue square?", "ans": "no"}
+{"story": "The yellow square is to the right of the blue square.\nThe yellow square is below the red sphere.\n", "question": "Is the red sphere below the blue square?", "ans": "no"}
+{"story": "The yellow square is to the right of the blue square.\nThe yellow square is below the red sphere.\n", "question": "Is the red sphere to the left of the blue square?", "ans": "no"}
+{"story": "The yellow square is to the right of the blue square.\nThe yellow square is below the red sphere.\n", "question": "Is the red sphere to the right of the blue square?", "ans": "yes"}
+{"story": "The yellow square is to the right of the blue square.\nThe yellow square is below the red sphere.\n", "question": "Is the red sphere above the blue square?", "ans": "yes"}
+{"story": "The yellow square is to the right of the blue square.\nThe yellow square is below the red sphere.\n", "question": "Is the red sphere above the blue square?", "ans": "yes"}
+{"story": "The yellow square is to the right of the blue square.\nThe yellow square is below the red sphere.\n", "question": "Is the red sphere below the blue square?", "ans": "no"}
+{"story": "The yellow square is to the right of the blue square.\nThe yellow square is below the red sphere.\n", "question": "Is the blue square above the red sphere?", "ans": "no"}
+{"story": "The pink rectangle is to the right of the red sphere.\nThe red square is to the right of the pink rectangle.\n", "question": "Is the red sphere below the red square?", "ans": "no"}
+{"story": "The pink rectangle is to the right of the red sphere.\nThe red square is to the right of the pink rectangle.\n", "question": "Is the red sphere to the right of the red square?", "ans": "no"}
+{"story": "The pink rectangle is to the right of the red sphere.\nThe red square is to the right of the pink rectangle.\n", "question": "Is the red sphere to the left of the red square?", "ans": "yes"}
+{"story": "The pink rectangle is to the right of the red sphere.\nThe red square is to the right of the pink rectangle.\n", "question": "Is the red square to the right of the red sphere?", "ans": "yes"}
+{"story": "The pink rectangle is to the right of the red sphere.\nThe red square is to the right of the pink rectangle.\n", "question": "Is the red sphere to the left of the red square?", "ans": "yes"}
+{"story": "The pink rectangle is to the right of the red sphere.\nThe red square is to the right of the pink rectangle.\n", "question": "Is the red sphere to the left of the red square?", "ans": "yes"}
+{"story": "The pink rectangle is to the right of the red sphere.\nThe red square is to the right of the pink rectangle.\n", "question": "Is the red sphere to the right of the red square?", "ans": "no"}
+{"story": "The pink rectangle is to the right of the red sphere.\nThe red square is to the right of the pink rectangle.\n", "question": "Is the red square above the red sphere?", "ans": "no"}
+{"story": "The triangle is to the left of the yellow square.\nThe triangle is to the right of the pink rectangle.\n", "question": "Is the yellow square above the pink rectangle?", "ans": "no"}
+{"story": "The triangle is to the left of the yellow square.\nThe triangle is to the right of the pink rectangle.\n", "question": "Is the pink rectangle to the left of the yellow square?", "ans": "yes"}
+{"story": "The triangle is to the left of the yellow square.\nThe triangle is to the right of the pink rectangle.\n", "question": "Is the yellow square above the pink rectangle?", "ans": "no"}
+{"story": "The triangle is to the left of the yellow square.\nThe triangle is to the right of the pink rectangle.\n", "question": "Is the yellow square to the right of the pink rectangle?", "ans": "yes"}
+{"story": "The triangle is to the left of the yellow square.\nThe triangle is to the right of the pink rectangle.\n", "question": "Is the pink rectangle to the left of the yellow square?", "ans": "yes"}
+{"story": "The triangle is to the left of the yellow square.\nThe triangle is to the right of the pink rectangle.\n", "question": "Is the yellow square to the right of the pink rectangle?", "ans": "yes"}
+{"story": "The triangle is to the left of the yellow square.\nThe triangle is to the right of the pink rectangle.\n", "question": "Is the pink rectangle to the right of the yellow square?", "ans": "no"}
+{"story": "The triangle is to the left of the yellow square.\nThe triangle is to the right of the pink rectangle.\n", "question": "Is the yellow square to the left of the pink rectangle?", "ans": "no"}
+{"story": "The pink rectangle is below the red sphere.\nThe pink rectangle is to the left of the blue square.\n", "question": "Is the blue square below the red sphere?", "ans": "yes"}
+{"story": "The pink rectangle is below the red sphere.\nThe pink rectangle is to the left of the blue square.\n", "question": "Is the blue square to the left of the red sphere?", "ans": "no"}
+{"story": "The pink rectangle is below the red sphere.\nThe pink rectangle is to the left of the blue square.\n", "question": "Is the red sphere above the blue square?", "ans": "yes"}
+{"story": "The pink rectangle is below the red sphere.\nThe pink rectangle is to the left of the blue square.\n", "question": "Is the red sphere to the left of the blue square?", "ans": "yes"}
+{"story": "The pink rectangle is below the red sphere.\nThe pink rectangle is to the left of the blue square.\n", "question": "Is the red sphere to the right of the blue square?", "ans": "no"}
+{"story": "The pink rectangle is below the red sphere.\nThe pink rectangle is to the left of the blue square.\n", "question": "Is the blue square to the left of the red sphere?", "ans": "no"}
+{"story": "The pink rectangle is below the red sphere.\nThe pink rectangle is to the left of the blue square.\n", "question": "Is the red sphere below the blue square?", "ans": "no"}
+{"story": "The pink rectangle is below the red sphere.\nThe pink rectangle is to the left of the blue square.\n", "question": "Is the red sphere to the left of the blue square?", "ans": "yes"}
+{"story": "The blue square is to the left of the yellow square.\nThe yellow square is above the triangle.\n", "question": "Is the blue square to the right of the triangle?", "ans": "no"}
+{"story": "The blue square is to the left of the yellow square.\nThe yellow square is above the triangle.\n", "question": "Is the blue square to the right of the triangle?", "ans": "no"}
+{"story": "The blue square is to the left of the yellow square.\nThe yellow square is above the triangle.\n", "question": "Is the triangle above the blue square?", "ans": "no"}
+{"story": "The blue square is to the left of the yellow square.\nThe yellow square is above the triangle.\n", "question": "Is the blue square below the triangle?", "ans": "no"}
+{"story": "The blue square is to the left of the yellow square.\nThe yellow square is above the triangle.\n", "question": "Is the blue square to the left of the triangle?", "ans": "yes"}
+{"story": "The blue square is to the left of the yellow square.\nThe yellow square is above the triangle.\n", "question": "Is the blue square to the left of the triangle?", "ans": "yes"}
+{"story": "The blue square is to the left of the yellow square.\nThe yellow square is above the triangle.\n", "question": "Is the triangle above the blue square?", "ans": "no"}
+{"story": "The blue square is to the left of the yellow square.\nThe yellow square is above the triangle.\n", "question": "Is the triangle to the right of the blue square?", "ans": "yes"}
+{"story": "The pink rectangle is to the left of the yellow square.\nThe yellow square is above the blue square.\n", "question": "Is the pink rectangle to the right of the blue square?", "ans": "no"}
+{"story": "The pink rectangle is to the left of the yellow square.\nThe yellow square is above the blue square.\n", "question": "Is the blue square to the left of the pink rectangle?", "ans": "no"}
+{"story": "The pink rectangle is to the left of the yellow square.\nThe yellow square is above the blue square.\n", "question": "Is the pink rectangle above the blue square?", "ans": "yes"}
+{"story": "The pink rectangle is to the left of the yellow square.\nThe yellow square is above the blue square.\n", "question": "Is the pink rectangle to the left of the blue square?", "ans": "yes"}
+{"story": "The pink rectangle is to the left of the yellow square.\nThe yellow square is above the blue square.\n", "question": "Is the blue square below the pink rectangle?", "ans": "yes"}
+{"story": "The pink rectangle is to the left of the yellow square.\nThe yellow square is above the blue square.\n", "question": "Is the pink rectangle to the left of the blue square?", "ans": "yes"}
+{"story": "The pink rectangle is to the left of the yellow square.\nThe yellow square is above the blue square.\n", "question": "Is the pink rectangle to the right of the blue square?", "ans": "no"}
+{"story": "The pink rectangle is to the left of the yellow square.\nThe yellow square is above the blue square.\n", "question": "Is the blue square to the left of the pink rectangle?", "ans": "no"}

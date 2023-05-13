@@ -1,0 +1,1333 @@
+,story,question,ans,GPT3,COT,SI_reason,SI,Codex_1,GPT3_acc,COT_acc,SI_acc,Codex_1_acc
+0,"Mary got the milk there.
+John moved to the bedroom.
+Sandra went back to the kitchen.
+Mary travelled to the hallway.
+",Where is the milk? ,hallway, hallway," at t=0, Mary got the milk there. We know that at t=3, Mary travelled to the hallway. Therefore, the milk is in the hallway."," at t=0, Mary got the milk there. We know that at t=3, Mary travelled to the hallway."," Therefore, the milk is in the hallway.",hallway,True,True,True,True
+1,"Mary got the milk there.
+John moved to the bedroom.
+Sandra went back to the kitchen.
+Mary travelled to the hallway.
+John got the football there.
+John went to the hallway.
+",Where is the football? ,hallway, hallway," at t=4, John got the football there. We know that at t=5, John went to the hallway. Therefore, the football is in the hallway."," at t=4, John got the football there. We know that at t=5, John went to the hallway."," Therefore, the football is in the hallway.
+",hallway,True,True,True,True
+2,"Mary got the milk there.
+John moved to the bedroom.
+Sandra went back to the kitchen.
+Mary travelled to the hallway.
+John got the football there.
+John went to the hallway.
+John put down the football.
+Mary went to the garden.
+",Where is the football? ,hallway, hallway," at t=4, John got the football there. We know that at t=7, Mary went to the garden. Therefore, the football is in the garden."," at t=4, John got the football there. We know that at t=6, John put down the football."," Therefore, the football is in the room.
+",hallway,True,False,False,True
+3,"Mary got the milk there.
+John moved to the bedroom.
+Sandra went back to the kitchen.
+Mary travelled to the hallway.
+John got the football there.
+John went to the hallway.
+John put down the football.
+Mary went to the garden.
+John went to the kitchen.
+Sandra travelled to the hallway.
+",Where is the football? ,hallway, hallway, The football is in the hallway.," at t=4, John got the football there. We know that at t=6, John put down the football."," Therefore, the football is in the room.
+",hallway,True,True,False,True
+4,"Mary got the milk there.
+John moved to the bedroom.
+Sandra went back to the kitchen.
+Mary travelled to the hallway.
+John got the football there.
+John went to the hallway.
+John put down the football.
+Mary went to the garden.
+John went to the kitchen.
+Sandra travelled to the hallway.
+Daniel went to the hallway.
+Mary discarded the milk.
+",Where is the milk? ,garden, in the discard pile, The milk is in the garden., The milk is in the garden.,"
+ 
+At t=0, Mary got the milk there. We know that at t=3, Mary travelled to the garden. Therefore, the milk is in the garden.",garden,False,True,True,True
+5,"Mary journeyed to the bathroom.
+Sandra went to the garden.
+Daniel went back to the garden.
+Daniel went to the office.
+Sandra grabbed the milk there.
+Sandra put down the milk there.
+",Where is the milk? ,garden, office," at t=4, Sandra grabbed the milk there. We know that at t=5, Sandra put down the milk there. Therefore, the milk is in the office."," at t=4, Sandra grabbed the milk there. We know that at t=5, Sandra put down the milk there."," Therefore, the milk is in the kitchen.
+",garden,False,False,False,True
+6,"Mary journeyed to the bathroom.
+Sandra went to the garden.
+Daniel went back to the garden.
+Daniel went to the office.
+Sandra grabbed the milk there.
+Sandra put down the milk there.
+Daniel went to the hallway.
+Sandra got the milk there.
+Daniel went to the garden.
+Daniel journeyed to the kitchen.
+Daniel journeyed to the bedroom.
+Mary journeyed to the garden.
+Daniel took the football there.
+Mary moved to the office.
+Sandra travelled to the bedroom.
+Daniel dropped the football.
+",Where is the football? ,bedroom, bedroom, The football is in the bedroom.," at t=12, Daniel took the football there. We know that at t=15, Daniel dropped the football."," Therefore, the football is in the room.
+",bedroom,True,True,False,True
+7,"Mary journeyed to the bathroom.
+Sandra went to the garden.
+Daniel went back to the garden.
+Daniel went to the office.
+Sandra grabbed the milk there.
+Sandra put down the milk there.
+Daniel went to the hallway.
+Sandra got the milk there.
+Daniel went to the garden.
+Daniel journeyed to the kitchen.
+Daniel journeyed to the bedroom.
+Mary journeyed to the garden.
+Daniel took the football there.
+Mary moved to the office.
+Sandra travelled to the bedroom.
+Daniel dropped the football.
+Sandra left the milk there.
+Daniel grabbed the football there.
+",Where is the milk? ,bedroom, bedroom, The milk is in the bedroom.," at t=4, Sandra grabbed the milk there. We know that at t=16, Sandra left the milk there."," Therefore, the milk is in the hallway.
+",bedroom,True,True,False,True
+8,"Mary journeyed to the bathroom.
+Sandra went to the garden.
+Daniel went back to the garden.
+Daniel went to the office.
+Sandra grabbed the milk there.
+Sandra put down the milk there.
+Daniel went to the hallway.
+Sandra got the milk there.
+Daniel went to the garden.
+Daniel journeyed to the kitchen.
+Daniel journeyed to the bedroom.
+Mary journeyed to the garden.
+Daniel took the football there.
+Mary moved to the office.
+Sandra travelled to the bedroom.
+Daniel dropped the football.
+Sandra left the milk there.
+Daniel grabbed the football there.
+Sandra grabbed the milk there.
+Daniel went to the kitchen.
+",Where is the football? ,kitchen, kitchen, The football is in the kitchen.," at t=12, Daniel took the football there. We know that at t=15, Daniel dropped the football."," Therefore, the football is in the room.
+",kitchen,True,True,False,True
+9,"Mary journeyed to the bathroom.
+Sandra went to the garden.
+Daniel went back to the garden.
+Daniel went to the office.
+Sandra grabbed the milk there.
+Sandra put down the milk there.
+Daniel went to the hallway.
+Sandra got the milk there.
+Daniel went to the garden.
+Daniel journeyed to the kitchen.
+Daniel journeyed to the bedroom.
+Mary journeyed to the garden.
+Daniel took the football there.
+Mary moved to the office.
+Sandra travelled to the bedroom.
+Daniel dropped the football.
+Sandra left the milk there.
+Daniel grabbed the football there.
+Sandra grabbed the milk there.
+Daniel went to the kitchen.
+John travelled to the kitchen.
+Mary moved to the hallway.
+",Where is the football? ,kitchen, garden, The football is in the kitchen.," at t=12, Daniel took the football there. We know that at t=21, Mary moved to the hallway."," Therefore, the football is in the hallway.
+",bedroom,False,True,False,False
+10,"Mary picked up the apple there.
+Mary dropped the apple.
+Daniel went back to the garden.
+Mary journeyed to the office.
+John got the football there.
+Mary went back to the kitchen.
+Daniel picked up the milk there.
+John travelled to the bedroom.
+",Where is the football? ,bedroom, bedroom," at t=4, John got the football there. We know that at t=7, John travelled to the bedroom. Therefore, the football is in the bedroom."," at t=4, John got the football there. We know that at t=7, John travelled to the bedroom."," Therefore, the football is in the bedroom.
+",bedroom,True,True,True,True
+11,"Mary picked up the apple there.
+Mary dropped the apple.
+Daniel went back to the garden.
+Mary journeyed to the office.
+John got the football there.
+Mary went back to the kitchen.
+Daniel picked up the milk there.
+John travelled to the bedroom.
+John moved to the hallway.
+John discarded the football.
+",Where is the football? ,hallway, hallway, The football is in the hallway.," at t=4, John got the football there. We know that at t=9, John discarded the football."," Therefore, the football is in the discard pile.
+",hallway,True,True,False,True
+12,"Mary picked up the apple there.
+Mary dropped the apple.
+Daniel went back to the garden.
+Mary journeyed to the office.
+John got the football there.
+Mary went back to the kitchen.
+Daniel picked up the milk there.
+John travelled to the bedroom.
+John moved to the hallway.
+John discarded the football.
+Daniel dropped the milk.
+John got the football there.
+",Where is the milk? ,garden, kitchen," at t=6, Daniel picked up the milk there. We know that at t=10, Daniel dropped the milk. Therefore, the milk is in the office."," at t=6, Daniel picked up the milk there. We know that at t=10, Daniel dropped the milk."," Therefore, the milk is in the kitchen.
+",garden,False,False,False,True
+13,"Mary picked up the apple there.
+Mary dropped the apple.
+Daniel went back to the garden.
+Mary journeyed to the office.
+John got the football there.
+Mary went back to the kitchen.
+Daniel picked up the milk there.
+John travelled to the bedroom.
+John moved to the hallway.
+John discarded the football.
+Daniel dropped the milk.
+John got the football there.
+Mary journeyed to the garden.
+Daniel travelled to the bathroom.
+",Where is the milk? ,garden, bathroom," at t=6, Daniel picked up the milk there. We know that at t=10, Daniel dropped the milk. Therefore, the milk is in the bathroom."," at t=6, Daniel picked up the milk there. We know that at t=10, Daniel dropped the milk."," Therefore, the milk is in the kitchen.
+",bathroom,False,False,False,False
+14,"Mary picked up the apple there.
+Mary dropped the apple.
+Daniel went back to the garden.
+Mary journeyed to the office.
+John got the football there.
+Mary went back to the kitchen.
+Daniel picked up the milk there.
+John travelled to the bedroom.
+John moved to the hallway.
+John discarded the football.
+Daniel dropped the milk.
+John got the football there.
+Mary journeyed to the garden.
+Daniel travelled to the bathroom.
+Sandra journeyed to the bathroom.
+Mary went to the bathroom.
+Mary took the apple there.
+Mary dropped the apple.
+",Where is the apple? ,bathroom, bathroom, The apple is in the bathroom., The apple was last seen with Mary at t=16 when she took it to the bathroom.,"
+
+",bathroom,True,True,False,True
+15,"Daniel journeyed to the office.
+John took the football there.
+John discarded the football.
+John travelled to the garden.
+Daniel travelled to the garden.
+Sandra went to the garden.
+Daniel travelled to the kitchen.
+Daniel moved to the office.
+Mary grabbed the milk there.
+Daniel journeyed to the bedroom.
+John travelled to the office.
+Daniel travelled to the bathroom.
+John travelled to the kitchen.
+Mary travelled to the garden.
+Mary dropped the milk.
+John went back to the garden.
+",Where is the milk? ,garden, garden, The milk is in the garden.," at t=8, Mary grabbed the milk there. We know that at t=14, Mary dropped the milk."," Therefore, the milk is in the room.
+
+",garden,True,True,False,True
+16,"Daniel journeyed to the office.
+John took the football there.
+John discarded the football.
+John travelled to the garden.
+Daniel travelled to the garden.
+Sandra went to the garden.
+Daniel travelled to the kitchen.
+Daniel moved to the office.
+Mary grabbed the milk there.
+Daniel journeyed to the bedroom.
+John travelled to the office.
+Daniel travelled to the bathroom.
+John travelled to the kitchen.
+Mary travelled to the garden.
+Mary dropped the milk.
+John went back to the garden.
+Sandra got the milk there.
+Sandra put down the milk.
+",Where is the milk? ,garden, office, The milk is in the garden.," at t=8, Mary grabbed the milk there. We know that at t=17, Sandra put down the milk."," Therefore, the milk is in the kitchen.
+",garden,False,True,False,True
+17,"Daniel journeyed to the office.
+John took the football there.
+John discarded the football.
+John travelled to the garden.
+Daniel travelled to the garden.
+Sandra went to the garden.
+Daniel travelled to the kitchen.
+Daniel moved to the office.
+Mary grabbed the milk there.
+Daniel journeyed to the bedroom.
+John travelled to the office.
+Daniel travelled to the bathroom.
+John travelled to the kitchen.
+Mary travelled to the garden.
+Mary dropped the milk.
+John went back to the garden.
+Sandra got the milk there.
+Sandra put down the milk.
+Mary went back to the bathroom.
+Mary travelled to the bedroom.
+",Where is the milk? ,garden, garden, The milk is in the garden.," at t=8, Mary grabbed the milk there. We know that at t=19, Mary travelled to the bedroom."," Therefore, the milk is in the bedroom.
+",garden,True,True,False,True
+18,"Daniel journeyed to the office.
+John took the football there.
+John discarded the football.
+John travelled to the garden.
+Daniel travelled to the garden.
+Sandra went to the garden.
+Daniel travelled to the kitchen.
+Daniel moved to the office.
+Mary grabbed the milk there.
+Daniel journeyed to the bedroom.
+John travelled to the office.
+Daniel travelled to the bathroom.
+John travelled to the kitchen.
+Mary travelled to the garden.
+Mary dropped the milk.
+John went back to the garden.
+Sandra got the milk there.
+Sandra put down the milk.
+Mary went back to the bathroom.
+Mary travelled to the bedroom.
+John got the milk there.
+Daniel went back to the office.
+Daniel moved to the kitchen.
+Daniel grabbed the apple there.
+John left the milk.
+Daniel discarded the apple.
+",Where is the apple? ,kitchen, office, The apple is in the kitchen.," at t=0, Daniel journeyed to the office. We know that at t=25, Daniel discarded the apple."," Therefore, the apple is in the office.
+",kitchen,False,True,False,True
+19,"Daniel journeyed to the office.
+John took the football there.
+John discarded the football.
+John travelled to the garden.
+Daniel travelled to the garden.
+Sandra went to the garden.
+Daniel travelled to the kitchen.
+Daniel moved to the office.
+Mary grabbed the milk there.
+Daniel journeyed to the bedroom.
+John travelled to the office.
+Daniel travelled to the bathroom.
+John travelled to the kitchen.
+Mary travelled to the garden.
+Mary dropped the milk.
+John went back to the garden.
+Sandra got the milk there.
+Sandra put down the milk.
+Mary went back to the bathroom.
+Mary travelled to the bedroom.
+John got the milk there.
+Daniel went back to the office.
+Daniel moved to the kitchen.
+Daniel grabbed the apple there.
+John left the milk.
+Daniel discarded the apple.
+John picked up the milk there.
+Daniel went to the hallway.
+",Where is the apple? ,kitchen, hallway, The apple is in the hallway.," at t=0, Daniel journeyed to the office. We know that at t=25, Daniel discarded the apple."," Therefore, the apple is in the office.
+",kitchen,False,False,False,True
+20,"Mary moved to the kitchen.
+Mary travelled to the office.
+Daniel grabbed the football there.
+Mary moved to the hallway.
+Sandra moved to the bedroom.
+Mary went back to the bedroom.
+John grabbed the milk there.
+John put down the milk.
+Daniel journeyed to the bathroom.
+Sandra journeyed to the bathroom.
+John got the milk there.
+Mary took the apple there.
+Mary left the apple.
+John journeyed to the bedroom.
+",Where is the apple? ,bedroom, bedroom, The apple is in the bedroom.," at t=0, Mary moved to the kitchen. We know that at t=3, Mary moved to the hallway."," Therefore, the milk is in the kitchen.
+
+",bedroom,True,True,False,True
+21,"Mary moved to the kitchen.
+Mary travelled to the office.
+Daniel grabbed the football there.
+Mary moved to the hallway.
+Sandra moved to the bedroom.
+Mary went back to the bedroom.
+John grabbed the milk there.
+John put down the milk.
+Daniel journeyed to the bathroom.
+Sandra journeyed to the bathroom.
+John got the milk there.
+Mary took the apple there.
+Mary left the apple.
+John journeyed to the bedroom.
+Mary travelled to the office.
+Daniel put down the football.
+",Where is the apple? ,bedroom, office, The apple is in the office.," at t=0, Mary moved to the kitchen. We know that at t=3, Mary moved to the hallway."," Therefore, the milk is in the kitchen.
+
+",office,False,False,False,False
+22,"Mary moved to the kitchen.
+Mary travelled to the office.
+Daniel grabbed the football there.
+Mary moved to the hallway.
+Sandra moved to the bedroom.
+Mary went back to the bedroom.
+John grabbed the milk there.
+John put down the milk.
+Daniel journeyed to the bathroom.
+Sandra journeyed to the bathroom.
+John got the milk there.
+Mary took the apple there.
+Mary left the apple.
+John journeyed to the bedroom.
+Mary travelled to the office.
+Daniel put down the football.
+John went back to the kitchen.
+Sandra got the football there.
+John travelled to the hallway.
+Sandra discarded the football there.
+",Where is the football? ,bathroom, hallway, The football is in the hallway.," at t=2, Daniel grabbed the football there. We know that at t=19, Sandra discarded the football there."," Therefore, the football is in the kitchen.
+",bathroom,False,False,False,True
+23,"Mary moved to the kitchen.
+Mary travelled to the office.
+Daniel grabbed the football there.
+Mary moved to the hallway.
+Sandra moved to the bedroom.
+Mary went back to the bedroom.
+John grabbed the milk there.
+John put down the milk.
+Daniel journeyed to the bathroom.
+Sandra journeyed to the bathroom.
+John got the milk there.
+Mary took the apple there.
+Mary left the apple.
+John journeyed to the bedroom.
+Mary travelled to the office.
+Daniel put down the football.
+John went back to the kitchen.
+Sandra got the football there.
+John travelled to the hallway.
+Sandra discarded the football there.
+John left the milk.
+John grabbed the milk there.
+",Where is the football? ,bathroom, hallway, The football is in the hallway.," at t=7, John put down the milk. We know that at t=19, Sandra discarded the football there."," Therefore, the football is in the kitchen.
+",bathroom,False,False,False,True
+24,"Mary moved to the kitchen.
+Mary travelled to the office.
+Daniel grabbed the football there.
+Mary moved to the hallway.
+Sandra moved to the bedroom.
+Mary went back to the bedroom.
+John grabbed the milk there.
+John put down the milk.
+Daniel journeyed to the bathroom.
+Sandra journeyed to the bathroom.
+John got the milk there.
+Mary took the apple there.
+Mary left the apple.
+John journeyed to the bedroom.
+Mary travelled to the office.
+Daniel put down the football.
+John went back to the kitchen.
+Sandra got the football there.
+John travelled to the hallway.
+Sandra discarded the football there.
+John left the milk.
+John grabbed the milk there.
+Mary went to the hallway.
+John moved to the bedroom.
+",Where is the milk? ,bedroom, bedroom, The milk is in the bedroom.," at t=6, John grabbed the milk there. We know that at t=23, John moved to the bedroom."," Therefore, the milk is in the bedroom.
+",bedroom,True,True,True,True
+25,"Daniel moved to the kitchen.
+John grabbed the football there.
+John left the football there.
+Mary journeyed to the hallway.
+John grabbed the milk there.
+John travelled to the kitchen.
+",Where is the milk? ,kitchen, kitchen," at t=4, John grabbed the milk there. We know that at t=5, John travelled to the kitchen. Therefore, the milk is in the kitchen."," at t=4, John grabbed the milk there. We know that at t=5, John travelled to the kitchen."," Therefore, the milk is in the kitchen.
+",kitchen,True,True,True,True
+26,"Daniel moved to the kitchen.
+John grabbed the football there.
+John left the football there.
+Mary journeyed to the hallway.
+John grabbed the milk there.
+John travelled to the kitchen.
+Mary journeyed to the kitchen.
+Sandra went to the office.
+",Where is the milk? ,kitchen, kitchen," At t=4, John grabbed the milk there. We know that at t=5, John travelled to the kitchen. Therefore, the milk is in the kitchen."," at t=4, John grabbed the milk there. We know that at t=5, John travelled to the kitchen."," Therefore, the milk is in the kitchen.
+",kitchen,True,True,True,True
+27,"Daniel moved to the kitchen.
+John grabbed the football there.
+John left the football there.
+Mary journeyed to the hallway.
+John grabbed the milk there.
+John travelled to the kitchen.
+Mary journeyed to the kitchen.
+Sandra went to the office.
+Daniel went to the bathroom.
+Daniel picked up the apple there.
+Sandra travelled to the garden.
+Daniel dropped the apple there.
+",Where is the apple? ,bathroom, garden, The apple is in the garden.," at t=9, Daniel picked up the apple there. We know that at t=11, Daniel dropped the apple there."," Therefore, the apple is in the hallway.
+",bathroom,False,False,False,True
+28,"Daniel moved to the kitchen.
+John grabbed the football there.
+John left the football there.
+Mary journeyed to the hallway.
+John grabbed the milk there.
+John travelled to the kitchen.
+Mary journeyed to the kitchen.
+Sandra went to the office.
+Daniel went to the bathroom.
+Daniel picked up the apple there.
+Sandra travelled to the garden.
+Daniel dropped the apple there.
+Sandra went back to the office.
+Daniel journeyed to the kitchen.
+",Where is the apple? ,bathroom, garden, The apple is in the garden.," at t=9, Daniel picked up the apple there. We know that at t=11, Daniel dropped the apple there."," Therefore, the apple is in the hallway.
+",garden,False,False,False,False
+29,"Daniel moved to the kitchen.
+John grabbed the football there.
+John left the football there.
+Mary journeyed to the hallway.
+John grabbed the milk there.
+John travelled to the kitchen.
+Mary journeyed to the kitchen.
+Sandra went to the office.
+Daniel went to the bathroom.
+Daniel picked up the apple there.
+Sandra travelled to the garden.
+Daniel dropped the apple there.
+Sandra went back to the office.
+Daniel journeyed to the kitchen.
+John put down the milk.
+Daniel moved to the bedroom.
+",Where is the milk? ,kitchen, kitchen, The milk is in the kitchen.," The milk is in the kitchen. At t=4, John grabbed the milk there. We know that at t=14, John put down the milk."," Therefore, the milk is in the living room.
+",kitchen,True,True,False,True
+30,"Daniel journeyed to the office.
+Daniel went back to the bedroom.
+Mary went back to the kitchen.
+Mary got the football there.
+Daniel travelled to the hallway.
+John journeyed to the bedroom.
+Daniel got the apple there.
+Sandra travelled to the garden.
+Daniel travelled to the garden.
+Daniel dropped the apple.
+",Where is the apple? ,garden, garden, The apple is in the garden.," at t=6, Daniel got the apple there. We know that at t=9, Daniel dropped the apple."," Therefore, the apple is in the kitchen.
+
+",garden,True,True,False,True
+31,"Daniel journeyed to the office.
+Daniel went back to the bedroom.
+Mary went back to the kitchen.
+Mary got the football there.
+Daniel travelled to the hallway.
+John journeyed to the bedroom.
+Daniel got the apple there.
+Sandra travelled to the garden.
+Daniel travelled to the garden.
+Daniel dropped the apple.
+Mary left the football.
+Mary journeyed to the bedroom.
+",Where is the apple? ,garden, garden, The apple is in the garden.," at t=6, Daniel got the apple there. We know that at t=9, Daniel dropped the apple."," Therefore, the apple is in the kitchen.
+
+",garden,True,True,False,True
+32,"Daniel journeyed to the office.
+Daniel went back to the bedroom.
+Mary went back to the kitchen.
+Mary got the football there.
+Daniel travelled to the hallway.
+John journeyed to the bedroom.
+Daniel got the apple there.
+Sandra travelled to the garden.
+Daniel travelled to the garden.
+Daniel dropped the apple.
+Mary left the football.
+Mary journeyed to the bedroom.
+John moved to the hallway.
+John went back to the bedroom.
+",Where is the football? ,kitchen, bedroom, The football is in the bedroom.," at t=3, Mary got the football there. We know that at t=10, Mary left the football."," Therefore, the football is in the room.
+
+",kitchen,False,False,False,True
+33,"Daniel journeyed to the office.
+Daniel went back to the bedroom.
+Mary went back to the kitchen.
+Mary got the football there.
+Daniel travelled to the hallway.
+John journeyed to the bedroom.
+Daniel got the apple there.
+Sandra travelled to the garden.
+Daniel travelled to the garden.
+Daniel dropped the apple.
+Mary left the football.
+Mary journeyed to the bedroom.
+John moved to the hallway.
+John went back to the bedroom.
+Sandra got the apple there.
+John went to the kitchen.
+Mary went to the bathroom.
+Mary journeyed to the garden.
+Sandra went back to the kitchen.
+Sandra put down the apple there.
+",Where is the apple? ,kitchen, garden, The apple is in the garden.," at t=9, Daniel dropped the apple. We know that at t=14, Sandra got the apple there."," Therefore, the apple is in the kitchen.
+",kitchen,False,False,True,True
+34,"Daniel journeyed to the office.
+Daniel went back to the bedroom.
+Mary went back to the kitchen.
+Mary got the football there.
+Daniel travelled to the hallway.
+John journeyed to the bedroom.
+Daniel got the apple there.
+Sandra travelled to the garden.
+Daniel travelled to the garden.
+Daniel dropped the apple.
+Mary left the football.
+Mary journeyed to the bedroom.
+John moved to the hallway.
+John went back to the bedroom.
+Sandra got the apple there.
+John went to the kitchen.
+Mary went to the bathroom.
+Mary journeyed to the garden.
+Sandra went back to the kitchen.
+Sandra put down the apple there.
+Mary went back to the bedroom.
+Mary went back to the kitchen.
+",Where is the apple? ,kitchen, garden, The apple is in the garden.," at t=7, Sandra travelled to the garden. We know that at t=19, Sandra put down the apple there."," Therefore, the apple is in the garden.
+",kitchen,False,False,False,True
+35,"John went back to the office.
+Mary went back to the hallway.
+Daniel journeyed to the bedroom.
+Mary went back to the bathroom.
+Sandra went back to the hallway.
+Sandra got the milk there.
+Mary moved to the office.
+Mary went to the hallway.
+Daniel went to the bathroom.
+Sandra went to the office.
+",Where is the milk? ,office, office," at t=5, Sandra got the milk there. We know that at t=9, Sandra went to the office. Therefore, the milk is in the office."," at t=5, Sandra got the milk there. We know that at t=9, Sandra went to the office."," Therefore, the milk is in the office.
+",office,True,True,True,True
+36,"John went back to the office.
+Mary went back to the hallway.
+Daniel journeyed to the bedroom.
+Mary went back to the bathroom.
+Sandra went back to the hallway.
+Sandra got the milk there.
+Mary moved to the office.
+Mary went to the hallway.
+Daniel went to the bathroom.
+Sandra went to the office.
+John journeyed to the garden.
+Sandra journeyed to the hallway.
+Daniel moved to the office.
+Mary went back to the office.
+John moved to the kitchen.
+Sandra journeyed to the bedroom.
+Sandra went back to the office.
+Daniel moved to the kitchen.
+John took the football there.
+John left the football.
+",Where is the football? ,kitchen, office, The football is in the kitchen.," at t=18, John took the football there. We know that at t=19, John left the football."," Therefore, the football is in the room.
+",,False,True,False,False
+37,"John went back to the office.
+Mary went back to the hallway.
+Daniel journeyed to the bedroom.
+Mary went back to the bathroom.
+Sandra went back to the hallway.
+Sandra got the milk there.
+Mary moved to the office.
+Mary went to the hallway.
+Daniel went to the bathroom.
+Sandra went to the office.
+John journeyed to the garden.
+Sandra journeyed to the hallway.
+Daniel moved to the office.
+Mary went back to the office.
+John moved to the kitchen.
+Sandra journeyed to the bedroom.
+Sandra went back to the office.
+Daniel moved to the kitchen.
+John took the football there.
+John left the football.
+Sandra went back to the bedroom.
+Sandra went back to the hallway.
+",Where is the football? ,kitchen, kitchen, The football is in the kitchen.," at t=18, John took the football there. We know that at t=19, John left the football."," Therefore, the football is in the room.
+",,True,True,False,False
+38,"John went back to the office.
+Mary went back to the hallway.
+Daniel journeyed to the bedroom.
+Mary went back to the bathroom.
+Sandra went back to the hallway.
+Sandra got the milk there.
+Mary moved to the office.
+Mary went to the hallway.
+Daniel went to the bathroom.
+Sandra went to the office.
+John journeyed to the garden.
+Sandra journeyed to the hallway.
+Daniel moved to the office.
+Mary went back to the office.
+John moved to the kitchen.
+Sandra journeyed to the bedroom.
+Sandra went back to the office.
+Daniel moved to the kitchen.
+John took the football there.
+John left the football.
+Sandra went back to the bedroom.
+Sandra went back to the hallway.
+John grabbed the football there.
+Daniel went to the bathroom.
+John left the football.
+Sandra went back to the bedroom.
+",Where is the football? ,kitchen, bedroom, The football is in the bedroom.," at t=18, John took the football there. We know that at t=22, John grabbed the football there."," Therefore, the football is in the room.
+",,False,False,False,False
+39,"John went back to the office.
+Mary went back to the hallway.
+Daniel journeyed to the bedroom.
+Mary went back to the bathroom.
+Sandra went back to the hallway.
+Sandra got the milk there.
+Mary moved to the office.
+Mary went to the hallway.
+Daniel went to the bathroom.
+Sandra went to the office.
+John journeyed to the garden.
+Sandra journeyed to the hallway.
+Daniel moved to the office.
+Mary went back to the office.
+John moved to the kitchen.
+Sandra journeyed to the bedroom.
+Sandra went back to the office.
+Daniel moved to the kitchen.
+John took the football there.
+John left the football.
+Sandra went back to the bedroom.
+Sandra went back to the hallway.
+John grabbed the football there.
+Daniel went to the bathroom.
+John left the football.
+Sandra went back to the bedroom.
+Mary went to the kitchen.
+John grabbed the football there.
+Sandra put down the milk there.
+John moved to the garden.
+",Where is the milk? ,bedroom, kitchen, The milk is in the garden.," at t=28, Sandra put down the milk there. We know that at t=29, John moved to the garden."," Therefore, the milk is in the garden.
+",office,False,False,False,False
+40,"Daniel moved to the hallway.
+Mary went back to the kitchen.
+John got the milk there.
+John put down the milk.
+John got the milk there.
+Mary went back to the garden.
+John went back to the bedroom.
+Mary picked up the football there.
+",Where is the milk? ,bedroom, kitchen," at t=2, John got the milk there. We know that at t=3, John put down the milk. Therefore, the milk is in the kitchen."," at t=2, John got the milk there. We know that at t=4, John got the milk there."," Therefore, the milk is in the kitchen.
+
+",bedroom,False,False,False,True
+41,"Daniel moved to the hallway.
+Mary went back to the kitchen.
+John got the milk there.
+John put down the milk.
+John got the milk there.
+Mary went back to the garden.
+John went back to the bedroom.
+Mary picked up the football there.
+John went to the office.
+John left the milk.
+",Where is the milk? ,office, office, The milk is in the office.," at t=2, John got the milk there. We know that at t=9, John left the milk."," Therefore, the milk is in the kitchen.
+
+",office,True,True,False,True
+42,"Daniel moved to the hallway.
+Mary went back to the kitchen.
+John got the milk there.
+John put down the milk.
+John got the milk there.
+Mary went back to the garden.
+John went back to the bedroom.
+Mary picked up the football there.
+John went to the office.
+John left the milk.
+Mary went to the bedroom.
+John went to the bedroom.
+",Where is the milk? ,office, office, The milk is in the bedroom.," at t=2, John got the milk there. We know that at t=9, John left the milk."," Therefore, the milk is in the kitchen.
+
+",office,True,False,False,True
+43,"Daniel moved to the hallway.
+Mary went back to the kitchen.
+John got the milk there.
+John put down the milk.
+John got the milk there.
+Mary went back to the garden.
+John went back to the bedroom.
+Mary picked up the football there.
+John went to the office.
+John left the milk.
+Mary went to the bedroom.
+John went to the bedroom.
+John went to the bathroom.
+Mary moved to the bathroom.
+",Where is the milk? ,office, bathroom, The milk is in the bathroom.," at t=2, John got the milk there. We know that at t=9, John left the milk."," Therefore, the milk is in the kitchen.
+
+",office,False,False,False,True
+44,"Daniel moved to the hallway.
+Mary went back to the kitchen.
+John got the milk there.
+John put down the milk.
+John got the milk there.
+Mary went back to the garden.
+John went back to the bedroom.
+Mary picked up the football there.
+John went to the office.
+John left the milk.
+Mary went to the bedroom.
+John went to the bedroom.
+John went to the bathroom.
+Mary moved to the bathroom.
+Mary went to the kitchen.
+Mary travelled to the office.
+Sandra moved to the kitchen.
+Daniel picked up the apple there.
+Sandra travelled to the garden.
+Mary travelled to the bedroom.
+Daniel went to the kitchen.
+Mary put down the football.
+",Where is the apple? ,kitchen, kitchen," at t=17, Daniel picked up the apple there."," at t=17, Daniel picked up the apple there. We know that at t=20, Daniel went to the kitchen."," Therefore, the apple is in the kitchen.
+",kitchen,True,False,True,True
+45,"John travelled to the bathroom.
+John travelled to the hallway.
+Mary picked up the milk there.
+Mary went back to the bedroom.
+",Where is the milk? ,bedroom, bedroom," at t=2, Mary picked up the milk there. We know that at t=3, Mary went back to the bedroom. Therefore, the milk is in the bedroom."," at t=2, Mary picked up the milk there. We know that at t=3, Mary went back to the bedroom."," Therefore, the milk is in the bedroom.
+
+",bedroom,True,True,True,True
+46,"John travelled to the bathroom.
+John travelled to the hallway.
+Mary picked up the milk there.
+Mary went back to the bedroom.
+Sandra took the football there.
+Sandra moved to the office.
+",Where is the football? ,office, office, The football is in the office.," at t=4, Sandra took the football there. We know that at t=5, Sandra moved to the office."," Therefore, the football is in the office.
+",office,True,True,True,True
+47,"John travelled to the bathroom.
+John travelled to the hallway.
+Mary picked up the milk there.
+Mary went back to the bedroom.
+Sandra took the football there.
+Sandra moved to the office.
+Sandra went back to the bathroom.
+John journeyed to the bedroom.
+",Where is the football? ,bathroom, office, The football is in the office.," at t=4, Sandra took the football there. We know that at t=5, Sandra moved to the office."," Therefore, the football is in the office.
+",bathroom,False,False,False,True
+48,"John travelled to the bathroom.
+John travelled to the hallway.
+Mary picked up the milk there.
+Mary went back to the bedroom.
+Sandra took the football there.
+Sandra moved to the office.
+Sandra went back to the bathroom.
+John journeyed to the bedroom.
+John went back to the bathroom.
+Sandra put down the football.
+",Where is the football? ,bathroom, office, The football is in the bathroom.," at t=4, Sandra took the football there. We know that at t=9, Sandra put down the football."," Therefore, the football is in the room.
+",bathroom,False,True,False,True
+49,"John travelled to the bathroom.
+John travelled to the hallway.
+Mary picked up the milk there.
+Mary went back to the bedroom.
+Sandra took the football there.
+Sandra moved to the office.
+Sandra went back to the bathroom.
+John journeyed to the bedroom.
+John went back to the bathroom.
+Sandra put down the football.
+Mary discarded the milk.
+Sandra moved to the kitchen.
+",Where is the milk? ,bedroom, The milk is in the kitchen.," At t=2, Mary picked up the milk there. We know that at t=10, Mary discarded the milk. Therefore, the milk is in the kitchen.", The milk is in the kitchen.,"
+ 
+At t=0, Mary got the milk there. We know that at t=3, Mary travelled to the hallway. Therefore, the milk is in the hallway.",bedroom,False,False,False,True
+50,"Daniel took the milk there.
+John journeyed to the garden.
+Daniel went back to the hallway.
+Daniel journeyed to the bathroom.
+",Where is the milk? ,bathroom, bathroom," at t=0, Daniel took the milk there. We know that at t=3, Daniel journeyed to the bathroom. Therefore, the milk is in the bathroom."," at t=0, Daniel took the milk there. We know that at t=3, Daniel journeyed to the bathroom."," Therefore, the milk is in the bathroom.
+
+",bathroom,True,True,True,True
+51,"Daniel took the milk there.
+John journeyed to the garden.
+Daniel went back to the hallway.
+Daniel journeyed to the bathroom.
+Daniel dropped the milk.
+Daniel took the milk there.
+John grabbed the apple there.
+Sandra journeyed to the kitchen.
+John went to the hallway.
+Sandra went back to the garden.
+",Where is the apple? ,hallway, hallway," at t=6, John grabbed the apple there. We know that at t=8, John went to the hallway. Therefore, the apple is in the hallway."," at t=6, John grabbed the apple there. We know that at t=8, John went to the hallway."," Therefore, the apple is in the hallway.
+",hallway,True,True,True,True
+52,"Daniel took the milk there.
+John journeyed to the garden.
+Daniel went back to the hallway.
+Daniel journeyed to the bathroom.
+Daniel dropped the milk.
+Daniel took the milk there.
+John grabbed the apple there.
+Sandra journeyed to the kitchen.
+John went to the hallway.
+Sandra went back to the garden.
+Daniel journeyed to the kitchen.
+Sandra journeyed to the bedroom.
+Daniel went back to the hallway.
+Sandra went back to the kitchen.
+Sandra went back to the bathroom.
+John went to the kitchen.
+Sandra got the football there.
+Sandra went to the kitchen.
+",Where is the football? ,kitchen, kitchen," at t=16, Sandra got the football there."," at t=16, Sandra got the football there. We know that at t=17, Sandra went to the kitchen."," Therefore, the football is in the kitchen.
+",kitchen,True,False,True,True
+53,"Daniel took the milk there.
+John journeyed to the garden.
+Daniel went back to the hallway.
+Daniel journeyed to the bathroom.
+Daniel dropped the milk.
+Daniel took the milk there.
+John grabbed the apple there.
+Sandra journeyed to the kitchen.
+John went to the hallway.
+Sandra went back to the garden.
+Daniel journeyed to the kitchen.
+Sandra journeyed to the bedroom.
+Daniel went back to the hallway.
+Sandra went back to the kitchen.
+Sandra went back to the bathroom.
+John went to the kitchen.
+Sandra got the football there.
+Sandra went to the kitchen.
+Daniel left the milk.
+Sandra put down the football.
+",Where is the football? ,kitchen, kitchen, The football is in the kitchen.," at t=16, Sandra got the football there. We know that at t=19, Sandra put down the football."," Therefore, the football is in the room.
+",kitchen,True,True,False,True
+54,"Daniel took the milk there.
+John journeyed to the garden.
+Daniel went back to the hallway.
+Daniel journeyed to the bathroom.
+Daniel dropped the milk.
+Daniel took the milk there.
+John grabbed the apple there.
+Sandra journeyed to the kitchen.
+John went to the hallway.
+Sandra went back to the garden.
+Daniel journeyed to the kitchen.
+Sandra journeyed to the bedroom.
+Daniel went back to the hallway.
+Sandra went back to the kitchen.
+Sandra went back to the bathroom.
+John went to the kitchen.
+Sandra got the football there.
+Sandra went to the kitchen.
+Daniel left the milk.
+Sandra put down the football.
+Sandra picked up the football there.
+Sandra put down the football.
+",Where is the football? ,kitchen, kitchen, The football is in the kitchen.," at t=20, Sandra picked up the football there. We know that at t=21, Sandra put down the football."," Therefore, the football is in the room.
+",kitchen,True,True,False,True
+55,"John went to the bathroom.
+Daniel travelled to the kitchen.
+John journeyed to the kitchen.
+Daniel journeyed to the hallway.
+Sandra travelled to the kitchen.
+Mary moved to the office.
+Daniel went back to the office.
+Sandra went back to the bathroom.
+John grabbed the milk there.
+John grabbed the apple there.
+Sandra journeyed to the office.
+Mary went to the hallway.
+John went to the bathroom.
+John discarded the apple.
+",Where is the apple? ,bathroom, bathroom, The apple is in the office.," at t=9, John grabbed the apple there. We know that at t=13, John discarded the apple."," Therefore, the apple is in the trash.
+
+",bathroom,True,False,False,True
+56,"John went to the bathroom.
+Daniel travelled to the kitchen.
+John journeyed to the kitchen.
+Daniel journeyed to the hallway.
+Sandra travelled to the kitchen.
+Mary moved to the office.
+Daniel went back to the office.
+Sandra went back to the bathroom.
+John grabbed the milk there.
+John grabbed the apple there.
+Sandra journeyed to the office.
+Mary went to the hallway.
+John went to the bathroom.
+John discarded the apple.
+John put down the milk.
+John picked up the apple there.
+",Where is the milk? ,bathroom, bathroom, The milk is in the bathroom., The milk is in the office. John went to the office at t=5 and put down the milk at t=14.,"
+",bathroom,True,True,False,True
+57,"John went to the bathroom.
+Daniel travelled to the kitchen.
+John journeyed to the kitchen.
+Daniel journeyed to the hallway.
+Sandra travelled to the kitchen.
+Mary moved to the office.
+Daniel went back to the office.
+Sandra went back to the bathroom.
+John grabbed the milk there.
+John grabbed the apple there.
+Sandra journeyed to the office.
+Mary went to the hallway.
+John went to the bathroom.
+John discarded the apple.
+John put down the milk.
+John picked up the apple there.
+Daniel went back to the bathroom.
+John took the milk there.
+Daniel travelled to the garden.
+Sandra journeyed to the bathroom.
+John travelled to the kitchen.
+Mary went back to the office.
+",Where is the milk? ,kitchen, kitchen, The milk is in the kitchen.," at t=8, John grabbed the milk there. We know that at t=17, John took the milk there."," Therefore, the milk is in the kitchen.
+",kitchen,True,True,True,True
+58,"John went to the bathroom.
+Daniel travelled to the kitchen.
+John journeyed to the kitchen.
+Daniel journeyed to the hallway.
+Sandra travelled to the kitchen.
+Mary moved to the office.
+Daniel went back to the office.
+Sandra went back to the bathroom.
+John grabbed the milk there.
+John grabbed the apple there.
+Sandra journeyed to the office.
+Mary went to the hallway.
+John went to the bathroom.
+John discarded the apple.
+John put down the milk.
+John picked up the apple there.
+Daniel went back to the bathroom.
+John took the milk there.
+Daniel travelled to the garden.
+Sandra journeyed to the bathroom.
+John travelled to the kitchen.
+Mary went back to the office.
+Mary moved to the hallway.
+John left the milk.
+",Where is the milk? ,kitchen, hallway, The milk is in the kitchen., The milk is in the kitchen.,"
+ 
+At t=0, Mary got the milk there. We know that at t=3, Mary travelled to the hallway. Therefore, the milk is in the hallway.",kitchen,False,True,False,True
+59,"John went to the bathroom.
+Daniel travelled to the kitchen.
+John journeyed to the kitchen.
+Daniel journeyed to the hallway.
+Sandra travelled to the kitchen.
+Mary moved to the office.
+Daniel went back to the office.
+Sandra went back to the bathroom.
+John grabbed the milk there.
+John grabbed the apple there.
+Sandra journeyed to the office.
+Mary went to the hallway.
+John went to the bathroom.
+John discarded the apple.
+John put down the milk.
+John picked up the apple there.
+Daniel went back to the bathroom.
+John took the milk there.
+Daniel travelled to the garden.
+Sandra journeyed to the bathroom.
+John travelled to the kitchen.
+Mary went back to the office.
+Mary moved to the hallway.
+John left the milk.
+John went back to the bedroom.
+John left the apple there.
+",Where is the apple? ,bedroom, hallway, The apple is in the hallway.," at t=9, John grabbed the apple there. We know that at t=25, John left the apple there."," Therefore, the apple is in the kitchen.
+",bathroom,False,False,False,False
+60,"Daniel moved to the office.
+Daniel travelled to the bedroom.
+John took the milk there.
+John travelled to the garden.
+",Where is the milk? ,garden, garden," at t=2, John took the milk there. We know that at t=3, John travelled to the garden. Therefore, the milk is in the garden."," at t=2, John took the milk there. We know that at t=3, John travelled to the garden."," Therefore, the milk is in the garden.
+
+","garden
+garden",True,True,True,True
+61,"Daniel moved to the office.
+Daniel travelled to the bedroom.
+John took the milk there.
+John travelled to the garden.
+Sandra moved to the office.
+Daniel went back to the office.
+",Where is the milk? ,garden, garden," at t=2, John took the milk there. We know that at t=3, John travelled to the garden. Therefore, the milk is in the garden."," at t=2, John took the milk there. We know that at t=5, Daniel went back to the office."," Therefore, the milk is in the office.
+",garden,True,True,False,True
+62,"Daniel moved to the office.
+Daniel travelled to the bedroom.
+John took the milk there.
+John travelled to the garden.
+Sandra moved to the office.
+Daniel went back to the office.
+John went to the kitchen.
+Mary travelled to the garden.
+John picked up the football there.
+John dropped the football.
+",Where is the football? ,kitchen, garden, The football is in the garden.," at t=8, John picked up the football there. We know that at t=9, John dropped the football."," Therefore, the football is in the room.
+","hallway
+garden",False,False,False,False
+63,"Daniel moved to the office.
+Daniel travelled to the bedroom.
+John took the milk there.
+John travelled to the garden.
+Sandra moved to the office.
+Daniel went back to the office.
+John went to the kitchen.
+Mary travelled to the garden.
+John picked up the football there.
+John dropped the football.
+John put down the milk.
+Daniel moved to the kitchen.
+",Where is the football? ,kitchen, garden, The football is in the garden.," at t=8, John picked up the football there. We know that at t=9, John dropped the football."," Therefore, the football is in the room.
+","hallway
+garden",False,False,False,False
+64,"Daniel moved to the office.
+Daniel travelled to the bedroom.
+John took the milk there.
+John travelled to the garden.
+Sandra moved to the office.
+Daniel went back to the office.
+John went to the kitchen.
+Mary travelled to the garden.
+John picked up the football there.
+John dropped the football.
+John put down the milk.
+Daniel moved to the kitchen.
+Mary travelled to the bathroom.
+Daniel went to the office.
+",Where is the football? ,kitchen, garden, The football is in the garden.," at t=8, John picked up the football there. We know that at t=9, John dropped the football."," Therefore, the football is in the room.
+","hallway
+garden",False,False,False,False
+65,"Daniel journeyed to the hallway.
+Daniel journeyed to the garden.
+Mary went back to the kitchen.
+Daniel went back to the office.
+Mary journeyed to the bathroom.
+John moved to the hallway.
+Daniel grabbed the football there.
+Daniel went to the kitchen.
+",Where is the football? ,kitchen, kitchen," at t=6, Daniel grabbed the football there. We know that at t=7, Daniel went to the kitchen. Therefore, the football is in the kitchen."," at t=6, Daniel grabbed the football there. We know that at t=7, Daniel went to the kitchen."," Therefore, the football is in the kitchen.
+",kitchen,True,True,True,True
+66,"Daniel journeyed to the hallway.
+Daniel journeyed to the garden.
+Mary went back to the kitchen.
+Daniel went back to the office.
+Mary journeyed to the bathroom.
+John moved to the hallway.
+Daniel grabbed the football there.
+Daniel went to the kitchen.
+Daniel discarded the football.
+John went to the bathroom.
+",Where is the football? ,kitchen, kitchen, The football is in the kitchen.," at t=6, Daniel grabbed the football there. We know that at t=8, Daniel discarded the football."," Therefore, the football is in the discard pile.
+",kitchen,True,True,False,True
+67,"Daniel journeyed to the hallway.
+Daniel journeyed to the garden.
+Mary went back to the kitchen.
+Daniel went back to the office.
+Mary journeyed to the bathroom.
+John moved to the hallway.
+Daniel grabbed the football there.
+Daniel went to the kitchen.
+Daniel discarded the football.
+John went to the bathroom.
+Daniel took the football there.
+John travelled to the kitchen.
+Mary travelled to the office.
+John travelled to the hallway.
+John went back to the office.
+Daniel journeyed to the bedroom.
+Daniel got the milk there.
+Daniel discarded the milk.
+",Where is the milk? ,bedroom, bedroom, The milk is in the bedroom.," at t=16, Daniel got the milk there. We know that at t=17, Daniel discarded the milk."," Therefore, the milk is in the trash.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",bedroom,True,True,False,True
+68,"Daniel journeyed to the hallway.
+Daniel journeyed to the garden.
+Mary went back to the kitchen.
+Daniel went back to the office.
+Mary journeyed to the bathroom.
+John moved to the hallway.
+Daniel grabbed the football there.
+Daniel went to the kitchen.
+Daniel discarded the football.
+John went to the bathroom.
+Daniel took the football there.
+John travelled to the kitchen.
+Mary travelled to the office.
+John travelled to the hallway.
+John went back to the office.
+Daniel journeyed to the bedroom.
+Daniel got the milk there.
+Daniel discarded the milk.
+Sandra went to the bathroom.
+Mary went back to the bedroom.
+",Where is the milk? ,bedroom, bedroom," At t=16, Daniel got the milk there. We know that at t=17, Daniel discarded the milk. Therefore, the milk is in the discard pile."," at t=16, Daniel got the milk there. We know that at t=17, Daniel discarded the milk."," Therefore, the milk is in the trash.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",bedroom,True,False,False,True
+69,"Daniel journeyed to the hallway.
+Daniel journeyed to the garden.
+Mary went back to the kitchen.
+Daniel went back to the office.
+Mary journeyed to the bathroom.
+John moved to the hallway.
+Daniel grabbed the football there.
+Daniel went to the kitchen.
+Daniel discarded the football.
+John went to the bathroom.
+Daniel took the football there.
+John travelled to the kitchen.
+Mary travelled to the office.
+John travelled to the hallway.
+John went back to the office.
+Daniel journeyed to the bedroom.
+Daniel got the milk there.
+Daniel discarded the milk.
+Sandra went to the bathroom.
+Mary went back to the bedroom.
+Daniel took the apple there.
+Daniel dropped the football.
+",Where is the football? ,bedroom, bedroom, The football is in the bedroom.," at t=10, Daniel took the football there. We know that at t=21, Daniel dropped the football."," Therefore, the football is in the room.
+
+",,True,True,False,False
+70,"Sandra moved to the garden.
+Daniel took the apple there.
+Daniel dropped the apple.
+Sandra travelled to the office.
+John moved to the kitchen.
+Sandra moved to the garden.
+Daniel went back to the bathroom.
+Mary travelled to the hallway.
+Sandra went to the bathroom.
+John went back to the bedroom.
+Mary moved to the garden.
+John picked up the apple there.
+John went back to the kitchen.
+John went back to the garden.
+",Where is the apple? ,garden, kitchen, The apple is in the garden.," at t=11, John picked up the apple there. We know that at t=12, John went back to the kitchen."," Therefore, the apple is in the kitchen.
+",,False,True,False,False
+71,"Sandra moved to the garden.
+Daniel took the apple there.
+Daniel dropped the apple.
+Sandra travelled to the office.
+John moved to the kitchen.
+Sandra moved to the garden.
+Daniel went back to the bathroom.
+Mary travelled to the hallway.
+Sandra went to the bathroom.
+John went back to the bedroom.
+Mary moved to the garden.
+John picked up the apple there.
+John went back to the kitchen.
+John went back to the garden.
+Mary went to the office.
+Daniel went to the bedroom.
+",Where is the apple? ,garden, kitchen, The apple is in the garden.," at t=11, John picked up the apple there. We know that at t=13, John went back to the garden."," Therefore, the apple is in the garden.
+",garden,False,True,True,True
+72,"Sandra moved to the garden.
+Daniel took the apple there.
+Daniel dropped the apple.
+Sandra travelled to the office.
+John moved to the kitchen.
+Sandra moved to the garden.
+Daniel went back to the bathroom.
+Mary travelled to the hallway.
+Sandra went to the bathroom.
+John went back to the bedroom.
+Mary moved to the garden.
+John picked up the apple there.
+John went back to the kitchen.
+John went back to the garden.
+Mary went to the office.
+Daniel went to the bedroom.
+John went to the bathroom.
+John dropped the apple.
+",Where is the apple? ,bathroom, bathroom, The apple is in the garden.," at t=11, John picked up the apple there. We know that at t=17, John dropped the apple."," Therefore, the apple is in the room.
+",bathroom,True,False,False,True
