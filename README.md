@@ -8,6 +8,7 @@ Yijiang River Dong, Lara J. Martin, and Chris Callison-Burch. Findings of ACL 20
 First install the dependencies by running the following command.
 ```
 conda create -n corrpus python=3.8
+conda activate corrpus
 pip install -r requirements.txt
 ```
 
