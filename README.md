@@ -1,8 +1,18 @@
 # CoRRPUS
 This repo is the implementation for our [paper](https://arxiv.org/pdf/2212.10754.pdf):
 
-"CORRPUS: Codex-Leveraged Structured Representations for Neurosymbolic Story Understanding"
-Yijiang River Dong, Lara J. Martin, and Chris Callison-Burch. Findings of ACL 2023.
+```
+ @inproceedings{Dong2023, 
+ address={Toronto, Canada}, 
+ title={{CoRRPUS: Codex-Leveraged Structured Representations for Neurosymbolic Story Understanding}}, 
+ url={http://arxiv.org/abs/2212.10754}, 
+ booktitle={Findings of the Association for Computational Linguistics: ACL 2023}, 
+ author={Dong, Yijiang River and Martin, Lara J. and Callison-Burch, Chris}, 
+ year={2023}, 
+ month={Jul}, 
+ publisher={Association for Computational Linguistics}
+ }
+```
 
 ### Preparation
 First install the dependencies by running the following command.
