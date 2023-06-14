@@ -1,10 +1,10 @@
 # CoRRPUS
-This repo is the implementation for our [paper](https://arxiv.org/pdf/2212.10754.pdf):
+This repo is the implementation for our [paper](https://arxiv.org/abs/2212.10754):
 
 ```
- @inproceedings{Dong2023, 
+ @inproceedings{Dong2023CoRRPUS, 
  address={Toronto, Canada}, 
- title={{CoRRPUS: Codex-Leveraged Structured Representations for Neurosymbolic Story Understanding}}, 
+ title={{CoRRPUS: Code-based Structured Prompting for Neurosymbolic Story Understanding}}, 
  url={http://arxiv.org/abs/2212.10754}, 
  booktitle={Findings of the Association for Computational Linguistics: ACL 2023}, 
  author={Dong, Yijiang River and Martin, Lara J. and Callison-Burch, Chris}, 
